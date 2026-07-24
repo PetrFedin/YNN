@@ -1,0 +1,11 @@
+section,metric,value,unit,note
+MD_SERVICES,income_2025_eur,2325846.0,EUR,SALES DDS Salon+Shop / MD_INDIVIDUAL
+MD_SERVICES,income_2025_rub_fx100,232584600.0,RUB,EUR×100 policy
+MD_SERVICES,share_2025_pct_vs_brief,83.9 vs 83,pp,H29 channel mix
+MD_RECON,recon_since_2024_CLOSE_SOFT,29/30,months,DDS_LAG=1; OPEN=0 (after H31 adjustment)
+GOODS,B2B_revenue_rub,13897226.09,RUB,margin 68.3%
+GOODS,IM_revenue_rub,56736037.01,RUB,margin 81.8%
+GOODS,TSUM_REPORTED_margin_pct,37.9,%,Excel COGS incl. commission
+GOODS,TSUM_PRODUCT_margin_pct,87.9,%,H28 W3 product view
+GOVERNANCE,raci_status,18 ACCEPT (H27 brief),,live/BUSINESS_STRUCTURE.md
+GOVERNANCE,freeze,BRIEF_INTEGRATED_H31,,MD+goods+TSUM dual+owners

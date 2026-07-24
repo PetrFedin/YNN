@@ -1,0 +1,10 @@
+check_id,status,detail
+INV-RACI-EMPTY,PASS,decision filled=0 (expected 0 until owner)
+INV-H21-FLAGS,PASS,flagged exception lines=10
+INV-3243-NO-COGS,PASS,"0-3243 open lines=1, all cogs blank=True"
+INV-GATE-COUNTS,PASS,RELEASED=18 BLOCKED=12 n=30
+INV-PAYROLL_MULTI,PASS,close_soft_pct=100.0
+INV-OPEX_MULTI,PASS,close_soft_pct=100.0
+INV-CLEAN-GE-REPORTED,PASS,reported=52.9 clean=53.0
+INV-CATALOG-107,PASS,catalog_rows=107
+INV-BANK-PAYMENTS,PASS,bank_payments=4933

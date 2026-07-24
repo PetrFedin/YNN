@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-07-24 13:17",
+  "wave": "W2",
+  "employees": 151,
+  "employees_from_staff": 84,
+  "payroll_lines": 991,
+  "payroll_card_rows": 481,
+  "months_with_zp_files": [
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05"
+  ],
+  "recon_status_counts_zp_vs_dds": {
+    "WIDE_GAP": 3,
+    "GAP": 6,
+    "CLOSE": 2
+  },
+  "close_soft_months": [
+    "2026-02",
+    "2026-04"
+  ],
+  "pilot_month": "2026-04",
+  "pilot_card_bank_matches": 0,
+  "pilot_row": {
+    "period_month": "2026-04",
+    "n_payroll_lines": 99,
+    "zp_ctrl_rub": 9144149.0,
+    "zp_ctrl_source": "distribution",
+    "zp_cash_sum": 5970449.51,
+    "zp_card_people_sum": 3132449.0,
+    "zp_card_sheet_sum": 3132448.96,
+    "zp_total_cash_plus_card": 9102898.51,
+    "zp_gross_sum": 14341123.27,
+    "dist_cash_total": 6011700.0,
+    "dist_card_total": 3132449.0,
+    "dds_payroll_all_rub": 9019143.17,
+    "dds_payroll_bn_rub": 3107643.17,
+    "delta_zp_vs_dds": 125005.83,
+    "status_zp_vs_dds": "CLOSE",
+    "bank_zp_like_out": 3117016.2,
+    "delta_card_vs_bank_zp": 15432.76,
+    "status_card_vs_bank": "CLOSE"
+  },
+  "finding": "W2: 151 EMP, 991 payroll lines, 481 card rows. Pilot 2026-04 DUAL CLOSE: ZP(dist)↔DDS Δ=125005.83₽; cards↔bank_zp_like Δ=15432.76₽. ZP↔DDS statuses: {'WIDE_GAP': 3, 'GAP': 6, 'CLOSE': 2}. Per-person bank match N/A (payouts via реестр).",
+  "next": "W3 SKU/COST or harden payroll_batch_id payment_month lag vs bank dates",
+  "dual_close_months": [
+    "2026-02",
+    "2026-04"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "wave": "H20",
+  "generated_at": "2026-07-24 17:46",
+  "path_choice": "Option 2 — finance exception recommendations without RACI/new files",
+  "finding": "H20: proposed OK_COMMERCIAL_LOSS for 0-2493A/2496/2497 (combined margin impact -45,095 ₽); KEEP_QUARANTINE for 0-3243. COGS unchanged.",
+  "recommendations_n": 5,
+  "proposed_ok_commercial_loss": [
+    "0-2497",
+    "0-2496",
+    "0-2493A"
+  ],
+  "proposed_keep_quarantine": [
+    "0-3243"
+  ],
+  "cogs_changed": false,
+  "raci_changed": false,
+  "not_sot": true
+}

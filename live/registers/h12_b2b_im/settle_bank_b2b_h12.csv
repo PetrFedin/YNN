@@ -1,0 +1,2 @@
+settlement_id,document,buyer,revenue_rub,period_month,bank_payment_ids,n_payments,linked_amount_rub,link_coverage,match_kind,name_overlap_max,month_lag_min,doc_hit,counterparty_sample
+ST-79c2a2578b581ef1,Расходная накладная 226 от 23.12.2024,ИП Курбанова Лина Анатольевна,1863295.0,2024-12,88afc3a943fa119f,1,1821748.0,0.978,FULL_EXACT,1.0,7,N,ИП Курбанова Лина Анатольевна

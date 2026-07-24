@@ -1,0 +1,1 @@
+bank_payment_id,bank_account_id,legal_entity_id,payment_date,period_month,doc_no,direction,amount,debit,credit,currency,counterparty_raw,counterparty_inn,counterparty_id,purpose,doc_type,source_file_id,source_row_id,match_status,cash_line_id

@@ -1,0 +1,130 @@
+{
+  "wave": "H16",
+  "generated_at": "2026-07-24 17:36",
+  "path_choice": "OPEX↔bank multi-recon — weakest control fixable without new files/RACI",
+  "finding": "H16: OPEX multi CLOSE/SOFT 30/30 (clean↔bank 25, DDS↔bank 29; raw was ~40%). SKU residual: quarantine 0-3243 kept; watch priority 9 SKU.",
+  "stats": {
+    "months": 30,
+    "overall": {
+      "CLOSE": 29,
+      "SOFT": 1
+    },
+    "clean_vs_bank": {
+      "CLOSE": 14,
+      "SOFT": 11,
+      "WIDE_GAP": 5
+    },
+    "dds_bn_vs_bank": {
+      "CLOSE": 23,
+      "SOFT": 6,
+      "RIGHT_ONLY": 1
+    },
+    "raw_vs_bank": {
+      "SOFT": 11,
+      "WIDE_GAP": 11,
+      "CLOSE": 8
+    },
+    "close_soft_overall": 30,
+    "close_soft_clean": 25,
+    "close_soft_dds_bank": 29,
+    "best_pair_pref": {
+      "CLEAN_VS_BANK": 8,
+      "DDS_BN_VS_BANK": 17,
+      "HUB_VS_BANK": 5
+    }
+  },
+  "controls_summary": [
+    {
+      "control_id": "BANK_DDS_CORE",
+      "months": 30,
+      "close": 16,
+      "soft": 9,
+      "open_or_gap": 5,
+      "other": 0,
+      "close_soft_pct": 83.3
+    },
+    {
+      "control_id": "IM_ACQ_COMBO",
+      "months": 30,
+      "close": 10,
+      "soft": 14,
+      "open_or_gap": 6,
+      "other": 0,
+      "close_soft_pct": 80.0
+    },
+    {
+      "control_id": "OPEX_CLEAN_BANK",
+      "months": 30,
+      "close": 14,
+      "soft": 11,
+      "open_or_gap": 5,
+      "other": 0,
+      "close_soft_pct": 83.3
+    },
+    {
+      "control_id": "OPEX_DDS_BANK",
+      "months": 30,
+      "close": 23,
+      "soft": 6,
+      "open_or_gap": 1,
+      "other": 0,
+      "close_soft_pct": 96.7
+    },
+    {
+      "control_id": "OPEX_MULTI",
+      "months": 30,
+      "close": 29,
+      "soft": 1,
+      "open_or_gap": 0,
+      "other": 0,
+      "close_soft_pct": 100.0
+    },
+    {
+      "control_id": "PAYROLL_DDS_BANK",
+      "months": 30,
+      "close": 28,
+      "soft": 1,
+      "open_or_gap": 1,
+      "other": 0,
+      "close_soft_pct": 96.7
+    },
+    {
+      "control_id": "PAYROLL_MULTI",
+      "months": 30,
+      "close": 29,
+      "soft": 1,
+      "open_or_gap": 0,
+      "other": 0,
+      "close_soft_pct": 100.0
+    },
+    {
+      "control_id": "TAX_CASH_BANK",
+      "months": 30,
+      "close": 26,
+      "soft": 3,
+      "open_or_gap": 1,
+      "other": 0,
+      "close_soft_pct": 96.7
+    },
+    {
+      "control_id": "TSUM_NET_MODEL",
+      "months": 30,
+      "close": 24,
+      "soft": 4,
+      "open_or_gap": 2,
+      "other": 0,
+      "close_soft_pct": 93.3
+    }
+  ],
+  "sku_residual": {
+    "quarantine": {
+      "0-3243": {
+        "status": "QUARANTINE_KEPT",
+        "reason": "Sale=свитшот Be a poem; cost masters=худи/юбка; sibling 0-3244 свитшот unit≈43160 (хуже)",
+        "action": "Нужен ручной cost от производства или alias map 0-3243→правильная CV"
+      }
+    },
+    "watch_priority_n": 9
+  },
+  "not_sot": true
+}

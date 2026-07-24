@@ -1,0 +1,9 @@
+settlement_id,bank_payment_id,confidence,match_method,revenue_rub,bank_amount
+ST-3963bc0ce5ba8f78,aca01c3bb4a5b475,HIGH,amount_name_same_month,40656.0,40656.0
+ST-ad7659027b78d2e8,6eae21c9c754f459,MED,amount_name_same_month,68400.0,68400.0
+ST-ec10c221d0cba3de,b81efafcb7f07e25,HIGH,amount_name_same_month,20000.0,20000.0
+ST-8fa788aa5b83c3ff,5827d77f7c74196f,HIGH,amount_name_same_month,19128.0,19128.0
+ST-7a1b38d1fbda1bc1,963f20c3bf7eb157,HIGH,amount_name_same_month,169482.0,169482.0
+ST-d9b7f025c7167a51,e58b0f85fa4a6aad,MED,amount_name_same_month,55480.0,55480.0
+ST-11b62cb00e07cd91,7b2abade26537558,HIGH,amount_name_same_month,13870.0,13870.0
+ST-7de77d33463d2a1e,64f5d3af622a3ae8,HIGH,amount_name_same_month,1460493.0,1460493.0

@@ -1,0 +1,99 @@
+{
+  "generated_at": "2026-07-24 16:00",
+  "wave": "W5",
+  "suppliers": 63,
+  "suppliers_with_inn": 44,
+  "suppliers_without_inn": 19,
+  "expense_lines_all_classes": 2043,
+  "expense_line_classes": {
+    "EXPENSE": 1568,
+    "TOTAL": 32,
+    "INCOME": 276,
+    "TRANSFER": 134,
+    "OWNER_DRAW": 33
+  },
+  "expense_opex_lines": 1568,
+  "expense_opex_total_rub": 245970468.73,
+  "expense_months": 30,
+  "material_skus": 1339,
+  "material_warehouse_qty": 14814.48,
+  "material_warehouse_amount_rub": 22560393.72,
+  "material_amount_leaves_rub": 59675312.98,
+  "material_snapshot_date": "2026-05-31",
+  "recon_opex_vs_bank": {
+    "SOFT_GAP": 7,
+    "WIDE_GAP": 9,
+    "GAP": 9,
+    "CLOSE": 5
+  },
+  "recon_hub_vs_bank": {
+    "WIDE_GAP": 11,
+    "SOFT_GAP": 7,
+    "GAP": 4,
+    "CLOSE": 8
+  },
+  "recon_total_row_vs_dds": {
+    "GAP": 29,
+    "WIDE_GAP": 1
+  },
+  "recon_total_row_vs_dds_bn": {
+    "SOFT_GAP": 4,
+    "GAP": 1,
+    "CLOSE": 24,
+    "LEFT_ONLY": 1
+  },
+  "close_soft_total_vs_dds": [],
+  "close_soft_hub_vs_bank": [
+    "2024-02",
+    "2024-04",
+    "2024-07",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-05",
+    "2025-09",
+    "2025-10",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "top_opex_articles": [
+    [
+      "оплата труда",
+      53446417.31000001
+    ],
+    [
+      "налоги с зарплаты",
+      15630375.939999998
+    ],
+    [
+      "Счет в тинькофф",
+      14498240.0
+    ],
+    [
+      "налоги (УСН, транспортный, НДС)",
+      14119962.23
+    ],
+    [
+      "аренда помещения",
+      12123107.689999998
+    ],
+    [
+      "Зарплата, больничный",
+      10552785.649999999
+    ],
+    [
+      "Единый налоговый платеж, НСипЗ",
+      9379920.42
+    ],
+    [
+      "ткани, фурнитура МД",
+      7166969.8500000015
+    ]
+  ],
+  "finding": "W5: 63 SUP (44 INN); 1568 opex lines; fabric 1339 SKU / warehouse 22560393.72 RUB @2026-05-31. ИТОГО↔DDS Б/Нал: {'SOFT_GAP': 4, 'GAP': 1, 'CLOSE': 24, 'LEFT_ONLY': 1}; opex hub(VTB+Alfa)↔bank: {'WIDE_GAP': 11, 'SOFT_GAP': 7, 'GAP': 4, 'CLOSE': 8} CLOSE/SOFT=['2024-02', '2024-04', '2024-07', '2024-12', '2025-01', '2025-02', '2025-05', '2025-09', '2025-10', '2026-01', '2026-02', '2026-03', '2026-04', '2026-05', '2026-06'].",
+  "next": "W6 TAX/BUD or map SUP.inn → bank.counterparty_inn"
+}

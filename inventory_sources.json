@@ -1,0 +1,731 @@
+[
+  {
+    "file": "6-НДФЛ (с 2021 года) за 2024 г. (ДЕКОР ООО).pdf",
+    "ext": ".pdf",
+    "size_kb": 2206.0,
+    "category": "tax_6ndfl",
+    "entities": [
+      "ООО_ДЕКОР"
+    ],
+    "years": [
+      "2024"
+    ]
+  },
+  {
+    "file": "6-НДФЛ (с 2021 года) за 2024 г. (Янина Ю. Ф. ИП).pdf",
+    "ext": ".pdf",
+    "size_kb": 2224.6,
+    "category": "tax_6ndfl",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2024"
+    ]
+  },
+  {
+    "file": "6-НДФЛ (с 2021 года) за 2025 г. (ДЕКОР ООО).pdf",
+    "ext": ".pdf",
+    "size_kb": 1548.9,
+    "category": "tax_6ndfl",
+    "entities": [
+      "ООО_ДЕКОР"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП)(1).pdf",
+    "ext": ".pdf",
+    "size_kb": 2123.1,
+    "category": "tax_6ndfl",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП).pdf",
+    "ext": ".pdf",
+    "size_kb": 2123.1,
+    "category": "tax_6ndfl",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "NDA_ИП_Янина + паспорт.docx",
+    "ext": ".docx",
+    "size_kb": 2776.9,
+    "category": "contracts",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": []
+  },
+  {
+    "file": "SALES 2024-2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 75.5,
+    "category": "sales_general",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2024",
+      "2026"
+    ]
+  },
+  {
+    "file": "VTB_BankStatement_40702810804000008482_01.01.2024-22.06.2026_376277.pdf",
+    "ext": ".pdf",
+    "size_kb": 338.4,
+    "category": "bank",
+    "entities": [
+      "банковские_счета"
+    ],
+    "years": [
+      "2024",
+      "2026"
+    ]
+  },
+  {
+    "file": "VTB_BankStatement_40802810404000000049_01.01.2024-22.06.2026_417016.pdf",
+    "ext": ".pdf",
+    "size_kb": 223.2,
+    "category": "bank",
+    "entities": [
+      "банковские_счета"
+    ],
+    "years": [
+      "2024",
+      "2026"
+    ]
+  },
+  {
+    "file": "VTB_BankStatement_40802810500000006196_01.01.2024-22.06.2026_417014.pdf",
+    "ext": ".pdf",
+    "size_kb": 880.3,
+    "category": "bank",
+    "entities": [
+      "банковские_счета"
+    ],
+    "years": [
+      "2024",
+      "2026"
+    ]
+  },
+  {
+    "file": "Бюджет 2-е полугодие 2025(1).xlsx",
+    "ext": ".xlsx",
+    "size_kb": 15.1,
+    "category": "budget",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "Бюджет 2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 27.8,
+    "category": "budget",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "Выписка_40802810202620002686_01.01.2024–31.12.2024.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 87.5,
+    "category": "bank",
+    "entities": [
+      "банковские_счета"
+    ],
+    "years": [
+      "2024",
+      "2026"
+    ]
+  },
+  {
+    "file": "Выписка_40802810202620002686_01.01.2025–31.12.2025.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 99.3,
+    "category": "bank",
+    "entities": [
+      "банковские_счета"
+    ],
+    "years": [
+      "2025",
+      "2026"
+    ]
+  },
+  {
+    "file": "Выписка_40802810202620002686_01.01.2026–23.06.2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 37.1,
+    "category": "bank",
+    "entities": [
+      "банковские_счета"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "Вышивка себестоимость 2024-2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 2272.9,
+    "category": "cost_embroidery",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2024",
+      "2026"
+    ]
+  },
+  {
+    "file": "ДДС 2024.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 315.9,
+    "category": "cashflow_dds",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2024"
+    ]
+  },
+  {
+    "file": "ДДС 2025.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 374.8,
+    "category": "cashflow_dds",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "ДДС 2026.xlxs.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 193.4,
+    "category": "cashflow_dds",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "Декларация по НДС за 1 квартал 2025 г. (Янина Ю. Ф. ИП).pdf",
+    "ext": ".pdf",
+    "size_kb": 1998.1,
+    "category": "tax_nds",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "Декларация по НДС за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf",
+    "ext": ".pdf",
+    "size_kb": 1900.6,
+    "category": "tax_nds",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "Декларация по НДС за 2 квартал 2025 г. (Янина Ю. Ф. ИП).pdf",
+    "ext": ".pdf",
+    "size_kb": 1955.7,
+    "category": "tax_nds",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "Декларация по НДС за 3 квартал 2025 г. (Янина Ю. Ф. ИП).pdf",
+    "ext": ".pdf",
+    "size_kb": 1667.9,
+    "category": "tax_nds",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "Декларация по НДС за 4 квартал 2025 г. (Янина Ю. Ф. ИП).pdf",
+    "ext": ".pdf",
+    "size_kb": 1952.4,
+    "category": "tax_nds",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "Декларация по УСН за 2024 г. (ДЕКОР ООО).pdf",
+    "ext": ".pdf",
+    "size_kb": 241.6,
+    "category": "tax_usn",
+    "entities": [
+      "ООО_ДЕКОР"
+    ],
+    "years": [
+      "2024"
+    ]
+  },
+  {
+    "file": "Декларация по УСН за 2024 г. (Янина Ю. Ф. ИП).pdf",
+    "ext": ".pdf",
+    "size_kb": 219.4,
+    "category": "tax_usn",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2024"
+    ]
+  },
+  {
+    "file": "Декларация по УСН за 2025 г. (ДЕКОР ООО)(1).pdf",
+    "ext": ".pdf",
+    "size_kb": 241.6,
+    "category": "tax_usn",
+    "entities": [
+      "ООО_ДЕКОР"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "Декларация по УСН за 2025 г. (Янина Ю. Ф. ИП)(1).pdf",
+    "ext": ".pdf",
+    "size_kb": 211.1,
+    "category": "tax_usn",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "Договор_комплексной_диагностики_ИП_Янина_+_паспорт.docx",
+    "ext": ".docx",
+    "size_kb": 43.5,
+    "category": "contracts",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": []
+  },
+  {
+    "file": "ЗП за апрель 2025.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 420.9,
+    "category": "payroll_monthly",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "ЗП за апрель 2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 80.4,
+    "category": "payroll_monthly",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "ЗП за июнь 2025.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 71.3,
+    "category": "payroll_monthly",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "ЗП за май 2025.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 67.0,
+    "category": "payroll_monthly",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "ЗП за май 2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 80.9,
+    "category": "payroll_monthly",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "ЗП за март 2025.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 603.1,
+    "category": "payroll_monthly",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "ЗП за март 2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 72.3,
+    "category": "payroll_monthly",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "ЗП за февраль 2025.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 127.7,
+    "category": "payroll_monthly",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "ЗП за февраль 2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 74.6,
+    "category": "payroll_monthly",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "ЗП за январь 2025.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 337.1,
+    "category": "payroll_monthly",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "ЗП за январь 2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 78.5,
+    "category": "payroll_monthly",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "ЗП_ЦЕХ 01.26.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 91.7,
+    "category": "payroll_shop",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": []
+  },
+  {
+    "file": "ЗП_ЦЕХ 02.26.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 88.5,
+    "category": "payroll_shop",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": []
+  },
+  {
+    "file": "ЗП_ЦЕХ 03.26.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 98.8,
+    "category": "payroll_shop",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": []
+  },
+  {
+    "file": "ЗП_ЦЕХ 04.26.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 96.1,
+    "category": "payroll_shop",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": []
+  },
+  {
+    "file": "ЗП_ЦЕХ 05.26.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 93.2,
+    "category": "payroll_shop",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": []
+  },
+  {
+    "file": "МД — копия.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 2229.3,
+    "category": "md",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": []
+  },
+  {
+    "file": "Орг. структура на 28.05.2026.pdf",
+    "ext": ".pdf",
+    "size_kb": 397.8,
+    "category": "org_structure",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "Остатки ткани из 1С на 31.05.2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 49.7,
+    "category": "inventory",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "Положение об оплате труда и премировании в ИП Янина.doc",
+    "ext": ".doc",
+    "size_kb": 122.5,
+    "category": "hr_policy",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": []
+  },
+  {
+    "file": "Приложение 1 к положению.docx",
+    "ext": ".docx",
+    "size_kb": 756.5,
+    "category": "hr_policy",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": []
+  },
+  {
+    "file": "Продажи ЦУМ 2024.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 92.3,
+    "category": "sales_tsum",
+    "entities": [
+      "канал_ЦУМ"
+    ],
+    "years": [
+      "2024"
+    ]
+  },
+  {
+    "file": "Продажи ЦУМ 2025.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 93.9,
+    "category": "sales_tsum",
+    "entities": [
+      "канал_ЦУМ"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "Продажи ЦУМ 2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 74.3,
+    "category": "sales_tsum",
+    "entities": [
+      "канал_ЦУМ"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "Расходы 2024.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 144.8,
+    "category": "expenses",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2024"
+    ]
+  },
+  {
+    "file": "Расходы 2025.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 104.9,
+    "category": "expenses",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "Расходы 2026.xlsx",
+    "ext": ".xlsx",
+    "size_kb": 59.6,
+    "category": "expenses",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "Расчет по страховым взносам за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf",
+    "ext": ".pdf",
+    "size_kb": 2705.7,
+    "category": "tax_insurance",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2026"
+    ]
+  },
+  {
+    "file": "Расчет по страховым взносам за 2024 г. (ДЕКОР ООО).pdf",
+    "ext": ".pdf",
+    "size_kb": 1482.0,
+    "category": "tax_insurance",
+    "entities": [
+      "ООО_ДЕКОР"
+    ],
+    "years": [
+      "2024"
+    ]
+  },
+  {
+    "file": "Расчет по страховым взносам за 2024 г. (Янина Ю. Ф. ИП).pdf",
+    "ext": ".pdf",
+    "size_kb": 1006.9,
+    "category": "tax_insurance",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2024"
+    ]
+  },
+  {
+    "file": "Расчет по страховым взносам за 2025 г. (ДЕКОР ООО).pdf",
+    "ext": ".pdf",
+    "size_kb": 1374.1,
+    "category": "tax_insurance",
+    "entities": [
+      "ООО_ДЕКОР"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "Расчет по страховым взносам за 2025 г. (Янина Ю. Ф. ИП).pdf",
+    "ext": ".pdf",
+    "size_kb": 1943.5,
+    "category": "tax_insurance",
+    "entities": [
+      "ИП_Янина"
+    ],
+    "years": [
+      "2025"
+    ]
+  },
+  {
+    "file": "Сведения о наличии отрицательного сальдо ЕНС.pdf",
+    "ext": ".pdf",
+    "size_kb": 139.6,
+    "category": "tax_ens",
+    "entities": [
+      "не_указано_в_имени"
+    ],
+    "years": []
+  }
+]

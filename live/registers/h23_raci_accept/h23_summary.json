@@ -1,0 +1,55 @@
+{
+  "wave": "H23",
+  "generated_at": "2026-07-24 19:21",
+  "command": "ACCEPT",
+  "finding": "H23: RACI ACCEPT on 8 named rows; 10 still OPEN_NEEDS_OWNER; H21 flags upgraded (10 lines); recommendations ACCEPT=5. Domain-owned staging — not full SoT.",
+  "raci_accepted_n": 8,
+  "raci_skipped_n": 10,
+  "raci_skipped": [
+    {
+      "item_id": "SRC-CTRL-01",
+      "role": "Approver"
+    },
+    {
+      "item_id": "SRC-CTRL-02",
+      "role": "Owner"
+    },
+    {
+      "item_id": "SRC-CTRL-02",
+      "role": "Approver"
+    },
+    {
+      "item_id": "SRC-CTRL-03",
+      "role": "Owner"
+    },
+    {
+      "item_id": "SRC-CTRL-03",
+      "role": "Approver"
+    },
+    {
+      "item_id": "DOM-PRODUCT",
+      "role": "Owner"
+    },
+    {
+      "item_id": "DOM-COST",
+      "role": "Owner"
+    },
+    {
+      "item_id": "DOM-PROD",
+      "role": "Owner"
+    },
+    {
+      "item_id": "DOM-B2B",
+      "role": "Owner"
+    },
+    {
+      "item_id": "DOM-DATA",
+      "role": "Owner"
+    }
+  ],
+  "recommendations_accepted": 5,
+  "h21_flags_upgraded": 10,
+  "full_sot": false,
+  "domain_owned": true,
+  "policy": "live/SOT_POLICY.md"
+}

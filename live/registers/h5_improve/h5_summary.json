@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-07-24 16:24",
+  "wave": "H5",
+  "stock_cost": {
+    "stock_cost_lines": 2957,
+    "with_unit_cost": 2598,
+    "derived_canonical": 1000,
+    "warehouses": [
+      "Aldo Coppola (Основное подразделение)",
+      "ДЕМИ (Основное подразделение)",
+      "Остатки ЦУМ (Основное подразделение)",
+      "Склад производства (Жукова) (Основное подразделение)"
+    ]
+  },
+  "derived_costs_added_to_w3": 720,
+  "stock_by_warehouse": {
+    "stock_wh_rows": 564,
+    "skus": 440,
+    "warehouses": [
+      "Подарки (Основное подразделение)",
+      "Салон (Лена М.) (Основное подразделение)",
+      "Склад ИМ (Основное подразделение)",
+      "Склад оптовых продаж (Основное подразделение)"
+    ],
+    "qty_end_sum": 961.0
+  },
+  "w4_relink": {
+    "sales_lines": 2826,
+    "with_cost_before": 1408,
+    "with_cost_after": 2696,
+    "newly_linked": 1288,
+    "delta": 1288,
+    "with_cogs": 2684
+  },
+  "sku_coverage": {
+    "master": 1863,
+    "in_cost": 1315,
+    "in_sales": 901,
+    "intersection": 901
+  },
+  "sber_salon_tax": {
+    "sber_payments_total": 510,
+    "sber_tax_like": 10,
+    "sber_tax_out_rub": 520475.27,
+    "months": 10
+  },
+  "finding": "H5: stock_cost 2957 lines / +720 derived costs; W4 cost links 1408→2696 (+1288); SKU∩ 901; Sber Salon tax 10 pays ~520475.27 RUB.",
+  "next": "RACI ACCEPT; optional deep BOM from fabric issues",
+  "not_sot": true
+}

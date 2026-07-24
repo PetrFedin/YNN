@@ -1,0 +1,10 @@
+{
+  "wave": "H24",
+  "generated_at": "2026-07-24 19:22",
+  "finding": "H24: sku_alias_master created — 16 controlled candidates (pending Product Owner), 4 accepted exception/quarantine rows from H23.",
+  "controlled_candidates": 16,
+  "accepted_rows": 4,
+  "applied_to_sales_joins": false,
+  "not_sot": true,
+  "path": "live/marts/sku_alias_master.csv"
+}

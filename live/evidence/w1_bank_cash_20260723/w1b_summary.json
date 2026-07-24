@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-07-23 18:40",
+  "wave": "W1b",
+  "vtb_payments_by_account": {
+    "40702810804000008482": 478,
+    "40802810404000000049": 240,
+    "40802810500000006196": 1573
+  },
+  "vtb_payments_total": 2291,
+  "alfa_payments": 1715,
+  "bank_payments_merged": 4006,
+  "recon_status_counts": {
+    "GAP": 29,
+    "BANK_ONLY": 1
+  },
+  "close_or_soft_months": [],
+  "finding": "VTB PDF + Alfa: 4006 payments. Recon statuses {'GAP': 29, 'BANK_ONLY': 1}. Full DDS Б/Нал vs all bank accounts still may GAP (нал/корп.карта/прочие банки)."
+}

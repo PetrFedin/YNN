@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-07-24 16:08",
+  "wave": "H1",
+  "purpose": "spine connectivity hardening after W1-W6",
+  "sup_bank": {
+    "suppliers_total": 63,
+    "suppliers_with_inn": 44,
+    "matched_inn": 28,
+    "unmatched_inn": 16,
+    "payment_edges": 304,
+    "matched_out_rub": 54740292.94
+  },
+  "settle_bank": {
+    "settlements": 755,
+    "with_doc_num": 755,
+    "bank_in_with_doc_like": 15,
+    "matches_total": 14,
+    "by_confidence": {
+      "LOW": 6,
+      "HIGH": 6,
+      "MED": 2
+    },
+    "by_method": {
+      "doc_num_in_purpose": 6,
+      "amount_name_same_month": 8
+    },
+    "prev_exact_amount_matches": 31
+  },
+  "finding": "H1: SUP.inn↔bank 28/44 INN, 304 out edges (~54740293 RUB); SETTLE↔bank: 14 ({'doc_num_in_purpose': 6, 'amount_name_same_month': 8}, conf {'LOW': 6, 'HIGH': 6, 'MED': 2}).",
+  "next": "Owner Packet RACI (ST24-G01) — required for SoT; then domain data requests",
+  "not_sot": true
+}

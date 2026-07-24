@@ -1,0 +1,2 @@
+﻿source_file_id,version_id,file_name,sheet,state,risk,required_action,status
+FILE-007,VER-022-001,SALES 2024-2026.xlsx,реальные деньги без учета расхо,hidden,Hidden logic/data not reviewed by normal users,Owner documents purpose; include/exclude from controlled source; retest totals,Open

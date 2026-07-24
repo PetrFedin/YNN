@@ -1,0 +1,51 @@
+{
+  "wave": "H13",
+  "generated_at": "2026-07-24 16:48",
+  "finding": "H13: IM combo CLOSE/SOFT 24/30 (IP-only was 19); quarantine 1 COGS lines (0-3243); neg SKUs now 3; margin 53.1%.",
+  "im_combo": {
+    "months": 30,
+    "status_combo": {
+      "SOFT": 14,
+      "CLOSE": 10,
+      "OPEN": 6
+    },
+    "status_ip": {
+      "SOFT": 11,
+      "CLOSE": 8,
+      "OPEN": 11
+    },
+    "status_all": {
+      "OPEN": 14,
+      "CLOSE": 4,
+      "SOFT": 12
+    },
+    "close_soft_combo": 24,
+    "close_soft_ip": 19,
+    "combo_pref": {
+      "IP": 21,
+      "ALL": 9
+    },
+    "open_months": [
+      "2024-08",
+      "2025-01",
+      "2025-08",
+      "2025-10",
+      "2026-03",
+      "2026-04"
+    ]
+  },
+  "quarantine": {
+    "quarantined_lines": 1,
+    "skus": [
+      "0-3243"
+    ]
+  },
+  "margin": {
+    "negative_skus": 3,
+    "overall_revenue_costed": 192888654.92,
+    "overall_margin": 102415234.27,
+    "overall_margin_pct": 53.1
+  },
+  "finance_rows": 4,
+  "not_sot": true
+}

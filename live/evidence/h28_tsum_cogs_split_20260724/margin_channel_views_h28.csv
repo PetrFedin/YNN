@@ -1,0 +1,5 @@
+channel,lines,costed_lines,revenue_rub,cogs_rub,margin_rub,margin_pct,view
+B2B,230,230,13897226.09,4411462.37,9485763.72,68.3,unchanged
+IM,1169,1026,56736037.01,9759424.56,46382728.71,81.8,unchanged
+TSUM_REPORTED,744,744,122849275.56,76302533.72,46546741.84,37.9,Excel COGS (может включать комиссию ЦУМ)
+TSUM_PRODUCT,740,740,121695175.0,14667838.6,107027336.4,87.9,Product COGS≈W3; commission_proxy=60954242.56 (FILE−W3)

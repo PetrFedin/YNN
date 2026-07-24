@@ -1,0 +1,9 @@
+request_id,priority,linked_action,request,required_fields,owner_role,named_owner_hint,blocks,status,file_received,notes
+DR-NOW-01,P0,A-RACI-01,Проставить decision_ACCEPT_REJECT в листе RACI,"decision_ACCEPT_REJECT, approval_date_YYYYMMDD, approver_FIO",Юлия / Owners,Мамушкина / Сливяк,SoT,OPEN,,Без этого всё остальное staging
+DR-NOW-02,P1,A-FIN-0-2497|A-FIN-0-2496|A-FIN-0-2493A,Подтвердить B2B wholesale below cost (3 SKU),"sku, decision(OK_LOSS|FIX_COST|FIX_PRICE), evidence",Финансы / коммерция,,Margin SoT B2B,OPEN,,evidence: live/marts/finance_b2b_loss_evidence.csv
+DR-NOW-03,P1,A-FIN-0-3243,Разрешить identity 0-3243 (свитшот Be a poem),"canonical_sku, correct_cost_version_id OR alias_map",Производство / 1С,,IM COGS quarantine,OPEN,,соседний 0-3244 ещё хуже по unit cost
+DR-NOW-04,P2,A-DATA-IM-01,"Эквайринг-реестры на IM OPEN: 2024-08, 2025-01/08/10, 2026-03/04","period_month, acquirer, amount, legal_entity, settlement_date",Сливяк / банк,Сливяк Галина,IM gate + release months,OPEN,,цель IM CLOSE/SOFT 80%→90%+
+DR-NOW-05,P2,A-DATA-B2B-01,Платежи/взаимозачёты на B2B open 15 (~2.51M ₽),"settlement_id, buyer, amount, bank_payment_ref OR offset_act",Сливяк / B2B,,B2B settle coverage,OPEN,,live/marts/data_request_b2b_open.csv
+DR-NOW-06,P2,A-DATA-ZP-01,Ведомости ЗП на месяцы без payroll_lines (2024 + 2025-07..12 + 2026-06),"period_month, employee, accrual, card/cash split",Сливяк / кадры,Сливяк Галина,Payroll person-level,OPEN,,DDS↔bank уже CLOSE; нужны lines
+DR-NOW-07,P2,A-TSUM-RATE-01,Агентский % ЦУМ из договора (+ ДДС строки за 2026-06),"rate_pct, period_from, period_to; DDS June rows if available",Юридический / финансы,,TSUM model SoT; BANK_DDS 2026-06 BANK_ONLY,OPEN,,"в текущем ДДС 2026 нет июня — это дыра источника, не парсера"
+DR-NOW-08,P3,A-FIN-WATCH-01,Ревью ~10 SKU unit≫BOM (без автофикса),"sku, keep_FILE_cost|switch_BOM|incomplete_BOM",Производство / финансы,,качество маржи TSUM/IM,OPEN,,live/marts/cost_identity_review_priority.csv

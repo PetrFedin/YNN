@@ -1,0 +1,15 @@
+{
+  "wave": "H21",
+  "generated_at": "2026-07-24 18:12",
+  "path_choice": "Apply H20 recommendations as PROVISIONAL staging flags (no RACI autofill)",
+  "finding": "H21: provisional flags on 9 sales lines / 4 SKUs; reported GM 52.9% → clean(ex wholesale loss) 53.0%. Quarantine 0-3243 kept. RACI untouched.",
+  "exception_lines": 9,
+  "exception_skus": 4,
+  "reported_margin_pct": 52.9,
+  "clean_margin_pct": 53.0,
+  "reported_margin_rub": 102415234.27,
+  "clean_margin_rub": 102460329.74,
+  "raci_changed": false,
+  "not_sot": true,
+  "owner_accept": "PENDING"
+}

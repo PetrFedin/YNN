@@ -1,0 +1,107 @@
+﻿file_name,local_match,master_file_id,domain,category,in_documents,used_in_ART_FIN,used_in_ART_COST,in_graph_S18,edge_degree,econ_chains,sha256_prefix,system_status
+6-НДФЛ (с 2021 года) за 2024 г. (ДЕКОР ООО).pdf,,FILE-001,Налоги и обязательная отчётность,tax_6ndfl,Y,N,N,Y,2,EC-01;EC-02;EC-03;EC-05,f5301bbae5d8fc62,ACTIVE
+6-НДФЛ (с 2021 года) за 2024 г. (Янина Ю. Ф. ИП).pdf,,FILE-002,Налоги и обязательная отчётность,tax_6ndfl,Y,N,N,Y,2,EC-01;EC-02;EC-03;EC-05,4f39b4966345ad10,ACTIVE
+6-НДФЛ (с 2021 года) за 2025 г. (ДЕКОР ООО).pdf,,FILE-003,Налоги и обязательная отчётность,tax_6ndfl,Y,N,N,Y,8,EC-01;EC-02;EC-03;EC-05,99a04fde09f387e0,ACTIVE
+6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП)(1).pdf,,FILE-004,Налоги и обязательная отчётность,tax_6ndfl,Y,N,N,N,0,EC-03;EC-05,a8fcdd6b6090a688,ACTIVE
+6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП).pdf,,FILE-005,Налоги и обязательная отчётность,tax_6ndfl,Y,N,N,Y,8,EC-01;EC-02;EC-03;EC-05,a8fcdd6b6090a688,ACTIVE
+6-НДФЛ за 1 квартал 2026 — отсутствует,,,,,N,N,N,Y,1,EC-03;EC-05,,GRAPH_NODE_ONLY
+BANK_STATEMENTS,,,,,N,N,N,Y,29,EC-01;EC-04;EC-06,,GRAPH_NODE_ONLY
+COLLECTION_FILES,,,,,N,N,N,Y,4,EC-01;EC-02;EC-04;EC-06,,GRAPH_NODE_ONLY
+COST_FILES,,,,,N,N,N,Y,5,EC-01;EC-02;EC-04;EC-06,,GRAPH_NODE_ONLY
+MASTER_SKU,,,,,N,N,N,Y,22,EC-01;EC-04;EC-06,,GRAPH_NODE_ONLY
+NDA_ИП_Янина + паспорт.docx,,FILE-006,Договоры и проектные документы,contracts,Y,N,N,N,0,,c83df869483d0814,ACTIVE
+SALES 2024-2026.xlsx,,FILE-007,Финансы и денежные потоки,sales_general,Y,Y,N,Y,30,EC-01;EC-02;EC-04;EC-06,fc6c0194884c06ff,ACTIVE
+VTB_BankStatement_40702810804000008482_01.01.2024-22.06.2026_376277.pdf,,FILE-008,Финансы и денежные потоки,bank,Y,N,N,Y,19,EC-01;EC-02;EC-03;EC-04;EC-05;EC-06,231bec51ed7e4840,ACTIVE
+VTB_BankStatement_40802810404000000049_01.01.2024-22.06.2026_417016.pdf,,FILE-009,Финансы и денежные потоки,bank,Y,N,N,Y,1,EC-01;EC-02;EC-03;EC-04;EC-05;EC-06,cf1a608847cbabf7,ACTIVE
+VTB_BankStatement_40802810500000006196_01.01.2024-22.06.2026_417014.pdf,,FILE-010,Финансы и денежные потоки,bank,Y,N,N,Y,22,EC-01;EC-02;EC-03;EC-04;EC-05;EC-06,4e7a03bae00824c1,ACTIVE
+Банковские выписки / Расходы,,,,,N,N,N,Y,5,EC-01;EC-02;EC-04;EC-06,,GRAPH_NODE_ONLY
+Бюджет 2-е полугодие 2025(1).xlsx,,FILE-011,Финансы и денежные потоки,budget,Y,N,N,Y,1,EC-01;EC-02;EC-06,47b23059c04824e8,ACTIVE
+Бюджет 2026.xlsx,,FILE-012,Финансы и денежные потоки,budget,Y,N,Y,Y,1,EC-01;EC-02;EC-04;EC-06,7b59f03fc58cdbed,ACTIVE
+Выписка_40802810202620002686_01.01.2024–31.12.2024.xlsx,,FILE-013,Финансы и денежные потоки,bank,Y,N,N,N,0,EC-01;EC-02,3bb52ee0aff1f384,ACTIVE
+Выписка_40802810202620002686_01.01.2024–31.12.2024.xlsx / 2025 / 2026,,,,,N,N,N,Y,1,EC-01;EC-02;EC-04;EC-06,,GRAPH_NODE_ONLY
+Выписка_40802810202620002686_01.01.2025–31.12.2025.xlsx,,FILE-014,Финансы и денежные потоки,bank,Y,N,N,N,0,EC-01;EC-02,e56d76d98c0100d2,ACTIVE
+Выписка_40802810202620002686_01.01.2026–23.06.2026.xlsx,,FILE-015,Финансы и денежные потоки,bank,Y,N,N,N,0,EC-01;EC-02,f7e9f79d4112a6de,ACTIVE
+Вышивка себестоимость 2024-2026.xlsx,,FILE-016,Себестоимость и производство,cost_embroidery,Y,N,Y,Y,3,EC-04,627daa533ffd16aa,ACTIVE
+ДДС 2024.xlsx,,FILE-017,Финансы и денежные потоки,cashflow_dds,Y,Y,N,Y,3,EC-01;EC-02;EC-03;EC-05;EC-06,cc92902423d37a43,ACTIVE
+ДДС 2025.xlsx,,FILE-018,Финансы и денежные потоки,cashflow_dds,Y,Y,N,Y,15,EC-01;EC-02;EC-03;EC-05;EC-06,a4ff290aba3fc9e7,ACTIVE
+ДДС 2026.xlsx,,,,,N,N,N,Y,5,EC-01;EC-02;EC-03;EC-06,,GRAPH_NODE_ONLY
+ДДС 2026.xlxs.xlsx,,FILE-019,Финансы и денежные потоки,cashflow_dds,Y,Y,Y,Y,8,EC-01;EC-02;EC-03;EC-05;EC-06,ebe873a7ce956dc8,ACTIVE
+Декларация по НДС за 1 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,,FILE-020,Налоги и обязательная отчётность,tax_nds,Y,N,N,N,0,EC-01;EC-05,f74a077718eabd5a,ACTIVE
+Декларация по НДС за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf,,FILE-021,Налоги и обязательная отчётность,tax_nds,Y,N,N,N,0,EC-01;EC-05,58e7c0a3c0a6a7a0,ACTIVE
+Декларация по НДС за 2 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,,FILE-022,Налоги и обязательная отчётность,tax_nds,Y,N,N,N,0,EC-01;EC-05,751e72cc84b854cc,ACTIVE
+Декларация по НДС за 3 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,,FILE-023,Налоги и обязательная отчётность,tax_nds,Y,N,N,N,0,EC-01;EC-05,4189b452903722c4,ACTIVE
+Декларация по НДС за 4 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,,FILE-024,Налоги и обязательная отчётность,tax_nds,Y,N,N,N,0,EC-01;EC-05,fd5d253e7ee2ba66,ACTIVE
+Декларация по УСН за 2024 г. (ДЕКОР ООО).pdf,,FILE-025,Налоги и обязательная отчётность,tax_usn,Y,N,N,N,0,EC-01;EC-05,3c28c9e1de553f42,ACTIVE
+Декларация по УСН за 2024 г. (Янина Ю. Ф. ИП).pdf,,FILE-026,Налоги и обязательная отчётность,tax_usn,Y,N,N,N,0,EC-01;EC-05,384293b40f8c821f,ACTIVE
+Декларация по УСН за 2025 г. (ДЕКОР ООО)(1).pdf,,FILE-027,Налоги и обязательная отчётность,tax_usn,Y,N,N,N,0,EC-01;EC-05,12d1111a4489bb07,ACTIVE
+Декларация по УСН за 2025 г. (Янина Ю. Ф. ИП)(1).pdf,,FILE-028,Налоги и обязательная отчётность,tax_usn,Y,N,N,N,0,EC-01;EC-05,6f9b905decfd1456,ACTIVE
+Договор_комплексной_диагностики_ИП_Янина_+_паспорт.docx,,FILE-029,Договоры и проектные документы,contracts,Y,N,N,N,0,,0e9a2e8aa89b4fa9,ACTIVE
+ЗП за апрель 2025.xlsx,,FILE-030,Персонал и оплата труда,payroll_monthly,Y,N,N,Y,10,EC-01;EC-02;EC-03;EC-05;EC-06,bd6b213893f2c7b3,ACTIVE
+ЗП за апрель 2026.xlsx,,FILE-031,Персонал и оплата труда,payroll_monthly,Y,N,N,Y,8,EC-01;EC-02;EC-03;EC-04;EC-05;EC-06,a3d0ba92fb36c1a6,ACTIVE
+ЗП за июнь 2025.xlsx,,FILE-032,Персонал и оплата труда,payroll_monthly,Y,N,N,Y,10,EC-01;EC-02;EC-03;EC-05;EC-06,fb5cfe41ed03d074,ACTIVE
+ЗП за май 2025.xlsx,,FILE-033,Персонал и оплата труда,payroll_monthly,Y,N,N,Y,10,EC-01;EC-02;EC-03;EC-05;EC-06,5cdda43eb16378f1,ACTIVE
+ЗП за май 2026.xlsx,,FILE-034,Персонал и оплата труда,payroll_monthly,Y,N,N,Y,8,EC-01;EC-02;EC-03;EC-04;EC-05;EC-06,3de974947bcad385,ACTIVE
+ЗП за март 2025.xlsx,,FILE-035,Персонал и оплата труда,payroll_monthly,Y,N,N,Y,10,EC-01;EC-02;EC-03;EC-05;EC-06,bbdde3bd1fdf91f3,ACTIVE
+ЗП за март 2026.xlsx,,FILE-036,Персонал и оплата труда,payroll_monthly,Y,N,N,Y,8,EC-01;EC-02;EC-03;EC-04;EC-05;EC-06,0bb9ee7644094735,ACTIVE
+ЗП за февраль 2025.xlsx,,FILE-037,Персонал и оплата труда,payroll_monthly,Y,N,N,Y,10,EC-01;EC-02;EC-03;EC-05;EC-06,2fd7298151e1a5d9,ACTIVE
+ЗП за февраль 2026.xlsx,,FILE-038,Персонал и оплата труда,payroll_monthly,Y,N,N,Y,8,EC-01;EC-02;EC-03;EC-04;EC-05;EC-06,cb8e8dd591819aef,ACTIVE
+ЗП за январь 2025.xlsx,,FILE-039,Персонал и оплата труда,payroll_monthly,Y,N,N,Y,10,EC-01;EC-02;EC-03;EC-05;EC-06,9b9fb12c59e9ef47,ACTIVE
+ЗП за январь 2026.xlsx,,FILE-040,Персонал и оплата труда,payroll_monthly,Y,N,N,Y,8,EC-01;EC-02;EC-03;EC-04;EC-05;EC-06,b4ed2a1be4900c1f,ACTIVE
+ЗП_ЦЕХ 01.26.xlsx,,FILE-046,Персонал и оплата труда,payroll_shop,Y,N,N,Y,1,EC-03;EC-04;EC-05,baf7bff99489bf3b,ACTIVE
+ЗП_ЦЕХ 02.26.xlsx,,FILE-047,Персонал и оплата труда,payroll_shop,Y,N,N,Y,1,EC-03;EC-04;EC-05,bd500a7bc88ce62a,ACTIVE
+ЗП_ЦЕХ 03.26.xlsx,,FILE-048,Персонал и оплата труда,payroll_shop,Y,N,N,Y,1,EC-03;EC-04;EC-05,dc5e6177775f710e,ACTIVE
+ЗП_ЦЕХ 04.26.xlsx,,FILE-049,Персонал и оплата труда,payroll_shop,Y,N,N,Y,1,EC-03;EC-04;EC-05,400d80f1258c2081,ACTIVE
+ЗП_ЦЕХ 05.26.xlsx,,FILE-050,Персонал и оплата труда,payroll_shop,Y,N,N,Y,1,EC-03;EC-04;EC-05,83e3de58784856c6,ACTIVE
+МД — копия.xlsx,,FILE-051,Себестоимость и производство,md,Y,N,N,Y,1,EC-04,47d5b18b8e3a5494,ACTIVE
+Орг. структура на 28.05.2026.pdf,,FILE-052,Персонал и оплата труда,org,Y,N,N,N,0,EC-03,6ff053438e3246ca,ACTIVE
+Остатки ткани из 1С на 31.05.2026.xlsx,,FILE-053,Закупки и запасы,inventory,Y,Y,N,Y,4,EC-02;EC-04,7348edc937a61c52,ACTIVE
+Положение об оплате труда и премировании в ИП Янина.doc,,FILE-055,Персонал и оплата труда,hr_policy,Y,N,N,N,0,EC-03,270aeff96e0f38e6,ACTIVE
+Приложение 1 к положению.docx,,FILE-056,Персонал и оплата труда,hr_policy,Y,N,N,N,0,EC-03,a594e1f3e73e5513,ACTIVE
+Продажи ЦУМ 2024.xlsx,,FILE-057,Продажи и каналы,sales_tsum,Y,N,Y,Y,4,EC-01;EC-02;EC-04;EC-06,cc75592daf4117c0,ACTIVE
+Продажи ЦУМ 2025.xlsx,,FILE-058,Продажи и каналы,sales_tsum,Y,N,Y,Y,4,EC-01;EC-02;EC-04;EC-06,a2b1d2b1ed4e71db,ACTIVE
+Продажи ЦУМ 2026.xlsx,,FILE-059,Продажи и каналы,sales_tsum,Y,N,Y,Y,4,EC-01;EC-02;EC-04;EC-06,463526e0fbb41a8e,ACTIVE
+Расходы 2024.xlsx,,FILE-060,Финансы и денежные потоки,expenses,Y,Y,N,Y,1,EC-01;EC-02;EC-03;EC-06,2caa0acfd98b050a,ACTIVE
+Расходы 2024–2026.xlsx,,,,,N,N,N,Y,4,EC-01;EC-02;EC-03;EC-04;EC-05;EC-06,,GRAPH_NODE_ONLY
+Расходы 2024–2026.xlsx / банк,,,,,N,N,N,Y,1,EC-01;EC-02;EC-04;EC-06,,GRAPH_NODE_ONLY
+Расходы 2025.xlsx,,FILE-061,Финансы и денежные потоки,expenses,Y,Y,N,Y,2,EC-01;EC-02;EC-03;EC-06,9838a6cf583edc16,ACTIVE
+Расходы 2026.xlsx,,FILE-062,Финансы и денежные потоки,expenses,Y,Y,N,Y,1,EC-01;EC-02;EC-03;EC-06,ed89ca0f5abf1e2d,ACTIVE
+Расходы 2026.xlsx / SALES,,,,,N,Y,N,Y,1,EC-01;EC-02;EC-04;EC-06,,GRAPH_NODE_ONLY
+Расчет по страховым взносам за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf,,FILE-063,Налоги и обязательная отчётность,tax_insurance,Y,N,N,Y,11,EC-03;EC-05,65decad2cb32bd23,ACTIVE
+Расчет по страховым взносам за 2024 г. (ДЕКОР ООО).pdf,,FILE-064,Налоги и обязательная отчётность,tax_insurance,Y,N,N,Y,2,EC-01;EC-02;EC-03;EC-05,8b2e6e29f3b1354b,ACTIVE
+Расчет по страховым взносам за 2024 г. (Янина Ю. Ф. ИП).pdf,,FILE-065,Налоги и обязательная отчётность,tax_insurance,Y,N,N,Y,2,EC-01;EC-02;EC-03;EC-05,db643e47a4e75326,ACTIVE
+Расчет по страховым взносам за 2025 г. (ДЕКОР ООО).pdf,,FILE-066,Налоги и обязательная отчётность,tax_insurance,Y,N,N,Y,14,EC-01;EC-02;EC-03;EC-05,011873cc74e26353,ACTIVE
+Расчет по страховым взносам за 2025 г. (Янина Ю. Ф. ИП).pdf,,FILE-067,Налоги и обязательная отчётность,tax_insurance,Y,N,N,Y,14,EC-01;EC-02;EC-03;EC-05,8dbbd4be38b074b5,ACTIVE
+Сведения о наличии отрицательного сальдо ЕНС.pdf,,FILE-080,Налоги и обязательная отчётность,tax_ens,Y,N,N,Y,1,EC-01;EC-02;EC-03;EC-05,74b267159f9036a8,ACTIVE
+Себестоимость Жукова.xlsx,,FILE-081,Себестоимость и производство,cost_person,Y,N,Y,Y,1,EC-04,ccfa8b9574eb8479,ACTIVE
+Себестоимость Меркушина.xlsx,,FILE-082,Себестоимость и производство,cost_person,Y,N,Y,Y,1,EC-04,823ce027153ee9e6,ACTIVE
+Себестоимость/коллекционные файлы,,,,,N,N,N,Y,1,EC-02;EC-04,,GRAPH_NODE_ONLY
+Список контрагентов по закупке.xlsx,,FILE-085,Закупки и запасы,procurement,Y,N,Y,Y,1,EC-02;EC-04,11f7b2d33f442889,ACTIVE
+Список представленной отчетности за 2024.pdf,,FILE-086,Налоги и обязательная отчётность,tax_list,Y,N,N,N,0,EC-05,0a59904dd2d1c14c,ACTIVE
+Список представленной отчетности за 2025.pdf,,FILE-087,Налоги и обязательная отчётность,tax_list,Y,N,N,N,0,EC-05,446e4dda8aa45a3e,ACTIVE
+Список представленной отчетности за 2026.pdf,,FILE-088,Налоги и обязательная отчётность,tax_list,Y,N,N,N,0,EC-05,48b008b303e01026,ACTIVE
+Справка о расчетах по взносам на несч.сл на 25.06.2026.pdf,,FILE-089,Налоги и обязательная отчётность,tax_insurance,Y,N,N,Y,1,EC-01;EC-02;EC-03;EC-05,52671eb999e4ce9e,ACTIVE
+Справка об исполнении обязанности по налогам.pdf,,FILE-090,Налоги и обязательная отчётность,tax_ens,Y,N,N,Y,1,EC-01;EC-02;EC-03;EC-05,90040ae0af419cf1,ACTIVE
+Факт анализ продаж B2B 2025.xlsx,,FILE-091,Продажи и каналы,sales_b2b,Y,Y,N,Y,1,EC-01;EC-02;EC-06,758f1723b3d6a9b1,ACTIVE
+Факт анализ продаж B2B 2026.xlsx,,FILE-092,Продажи и каналы,sales_b2b,Y,Y,N,Y,1,EC-01;EC-02;EC-06,8cd1b3a3570f40b5,ACTIVE
+Штатка ИП.xlsx,,FILE-093,Персонал и оплата труда,org,Y,N,Y,N,0,EC-03,500393dd127fa501,ACTIVE
+Этап_7_Глубокая_инвентаризация_данных_ключей_и_источников_истины.xlsx,,,,,N,N,Y,N,0,,,GRAPH_NODE_ONLY
+зп_конструкторы_01.26.xlsx,,FILE-041,Персонал и оплата труда,payroll_designers,Y,N,N,Y,1,EC-03;EC-04;EC-05,d0aa6a1a63832e01,ACTIVE
+зп_конструкторы_02.26.xlsx,,FILE-042,Персонал и оплата труда,payroll_designers,Y,N,N,Y,1,EC-03;EC-04;EC-05,1d6289fef8a44651,ACTIVE
+зп_конструкторы_03.26.xlsx,,FILE-043,Персонал и оплата труда,payroll_designers,Y,N,N,Y,1,EC-03;EC-04;EC-05,17cbbbf54cf2909d,ACTIVE
+зп_конструкторы_04.26.xlsx,,FILE-044,Персонал и оплата труда,payroll_designers,Y,N,N,Y,1,EC-03;EC-04;EC-05,098d5b89e567506f,ACTIVE
+зп_конструкторы_05.26.xlsx,,FILE-045,Персонал и оплата труда,payroll_designers,Y,N,N,Y,1,EC-03;EC-04;EC-05,d2207ee54fbefd9f,ACTIVE
+план работы.docx,,FILE-054,Договоры и проектные документы,contracts,Y,N,N,N,0,,f5394740b494cb40,ACTIVE
+результат НГ 2024.xlsx,,FILE-078,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,a7421e474c22789b,ACTIVE
+результат НГ 24.11.25.xlsx,,FILE-079,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,ff307568db942231,ACTIVE
+результат капсула 2024.xlsx,,FILE-068,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,0db64a857c29ffe1,ACTIVE
+результат капсула 2025.xlsx,,FILE-069,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,2e85f06f7fa424c6,ACTIVE
+результат кол-я 43 (янв 2024).xlsx,,FILE-070,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,e677b0690075db9b,ACTIVE
+результат кол-я 44 (июнь 2024).xlsx,,FILE-071,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,7e1258ee5d2dc926,ACTIVE
+результат кол-я 45 (янв 2025).xlsx,,FILE-072,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,a05546f621ab5af9,ACTIVE
+результат кол-я 46 (июль 2025).xlsx,,FILE-073,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,975a4d4c055dfdf6,ACTIVE
+результат кол-я 47 (янв 2026).xlsx,,FILE-074,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,d215da62070cbc79,ACTIVE
+результат круиз 09.04.25.xlsx,,FILE-075,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,25bcd1e70d4cffc8,ACTIVE
+результат круиз 14.04.26.xlsx,,FILE-076,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,964463aee6013779,ACTIVE
+результат круиз 22.04.24.xlsx,,FILE-077,Коллекции и продукт,collection_result,Y,N,N,Y,1,EC-04,655d54fe75333d81,ACTIVE
+себестоимость Мокеева 2025.xlsx,,FILE-083,Себестоимость и производство,cost_person,Y,N,Y,Y,1,EC-04,5ae5aea8b2021895,ACTIVE
+себестоимость Мокеева 2026.xlsx,,FILE-084,Себестоимость и производство,cost_person,Y,N,Y,Y,1,EC-04,064cdedd5bf73212,ACTIVE

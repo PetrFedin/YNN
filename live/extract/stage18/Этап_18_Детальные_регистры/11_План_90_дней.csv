@@ -1,0 +1,13 @@
+﻿step,period,workstream,deliverable,owner,gaps_closed,status,progress_pct
+1,0–10 дней,Зафиксировать периметр и владельцев,"Подписанный список юрлиц, счетов, систем, складов, каналов; RACI",Руководство + финансы,IG-11; IG-22,Не начато,0
+2,0–15 дней,Утвердить canonical IDs и data contracts,"canonical_sku, model_id, material_id, production_order_id, source_file_id",Data steward + owners,IG-01; IG-23; IG-24,Не начато,0
+3,0–30 дней,Закрыть критическую очередь решений,"124 SKU mappings, 234 cost decisions, supplier/material conflicts",Продукт/финансы/закупки,IG-01; IG-04,Не начато,0
+4,0–30 дней,Ввести version registry и quarantine,"Версии, статусы Draft/Approved/Posted/Closed, exception IDs",Data steward,IG-23,Не начато,0
+5,15–45 дней,Создать bank/cash/adjustment registers,"Полный account perimeter, cash movements, signed openings",Финансы,IG-11; IG-12; IG-13,Не начато,0
+6,15–60 дней,Создать payroll/tax obligations ledger,employee/accrual/registry/obligation/ENS allocation links,HR + налоги,IG-16; IG-17; IG-18; IG-19,Не начато,0
+7,30–60 дней,Создать material lot + procurement registers,request→PO→GRN→lot→issue→payment,Закупки + склад,IG-05; IG-08,Не начато,0
+8,30–75 дней,Создать production/WIP/operation registers,"PO, operations, hours, defects, output, WIP stage",Производство,IG-03; IG-10,Не начато,0
+9,45–75 дней,Создать FG movement + sales line + settlement,"Inventory issue/return, sales lines, commissions, payment allocations",Склад + коммерция + финансы,IG-02; IG-07; IG-09,Не начато,0
+10,60–90 дней,Провести пилот полного close,P&L/Balance/CF за один месяц с stop-gates,Финансы + аналитика,IG-14; IG-15,Не начато,0
+11,60–90 дней,Трассировать 10–15 операций end-to-end,Order→SKU→material→production→stock→sale→payment,Аналитика + owners,Все критические,Не начато,0
+12,90+ дней,Автоматизировать DWH/BI и блокировку периода,"Automated controls, dashboards, audit trail",IT/Data + owners,После закрытия Waves 1–3,Не начато,0

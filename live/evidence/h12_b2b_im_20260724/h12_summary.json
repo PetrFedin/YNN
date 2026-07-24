@@ -1,0 +1,33 @@
+{
+  "wave": "H12",
+  "generated_at": "2026-07-24 16:46",
+  "finding": "H12: B2B 39 linked / 15 open (open rev 2,514,023 ₽); special +2; IM best-lag CLOSE/SOFT 19/30 (lag0 14).",
+  "settle_b2b": {
+    "linked_b2b": 39,
+    "open_b2b": 15,
+    "open_rev_b2b": 2514023.0,
+    "h12c_newly": 2
+  },
+  "im_best_lag": {
+    "months": 30,
+    "status_best": {
+      "SOFT": 11,
+      "CLOSE": 8,
+      "OPEN": 11
+    },
+    "status_lag0": {
+      "SOFT": 10,
+      "CLOSE": 4,
+      "OPEN": 16
+    },
+    "close_soft_best": 19,
+    "close_soft_lag0": 14,
+    "lag_pref": {
+      "lag0": 18,
+      "lag-1": 6,
+      "lag+1": 6
+    },
+    "coverage_best": 0.875
+  },
+  "not_sot": true
+}

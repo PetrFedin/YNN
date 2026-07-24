@@ -1,0 +1,27 @@
+{
+  "wave": "H28",
+  "generated_at": "2026-07-24 19:32",
+  "finding": "H28: TSUM dual view — reported margin 37.9% vs product(W3) 87.9%; commission proxy 60,954,243 ₽ (~50.1% rev) vs agency@net-rate 65,503,234 ₽. No double-count policy set.",
+  "tsum_lines": 744,
+  "split_lines": 740,
+  "counts": {
+    "file_w3_split": 675,
+    "w3_as_product": 65,
+    "no_split": 4
+  },
+  "net_rate": 0.4668,
+  "agency_take": 0.5332,
+  "rev": 122849275.56,
+  "cogs_reported": 76302533.72,
+  "margin_reported": 46546741.84,
+  "margin_reported_pct": 37.9,
+  "rev_split": 121695175.0,
+  "product_cogs": 14667838.6,
+  "commission_proxy": 60954242.56,
+  "commission_proxy_share_pct": 50.1,
+  "margin_product": 107027336.4,
+  "margin_product_pct": 87.9,
+  "agency_comm_model": 65503233.73,
+  "not_sot": true,
+  "sales_lines_cogs_unchanged": true
+}

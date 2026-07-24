@@ -1,0 +1,3 @@
+link_id,counterparty_id,supplier_name,inn,bank_name_norm,name_score,confidence,bank_out_count,bank_out_rub,sample_bank_payment_id,match_method
+SF-b12d2c3c89c49315,CP-b85058decc893a33,ВЕЛЛТЕКС ООО,7719452055,веллтекс москва,0.9,HIGH,12,65709.52,18b0e8991f786e6c,fuzzy_name_strict
+SF-da193d0da5742aff,CP-f07ab1216dd9f6e8,ИП Мархиева Лариса Михайловна,,мархиева лариса михайловна,1.0,HIGH,1,8220.0,c8d91f2cbf4efde9,fuzzy_name_strict

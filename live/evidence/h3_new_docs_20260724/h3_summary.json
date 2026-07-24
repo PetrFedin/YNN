@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-07-24 16:18",
+  "wave": "H3",
+  "new_files": 14,
+  "catalog_total": 107,
+  "legal_entities": [
+    "LE-IP-YANINA",
+    "LE-OOO-DEKOR",
+    "LE-OOO-SALON-YANINA"
+  ],
+  "sber_payments": 510,
+  "sber_out_rub": 5516593.99,
+  "sber_in_rub": 4923673.51,
+  "card_payments": 417,
+  "card_holders": [
+    "Мамушкина Е.А."
+  ],
+  "card_out_rub": 7675485.15,
+  "bank_payments_added": 927,
+  "bank_payments_total": 4933,
+  "sku_master_rows": 1863,
+  "sku_with_article": 1854,
+  "sales_lines": 2826,
+  "sales_by_channel": {
+    "B2B": 230,
+    "IM": 1852,
+    "TSUM": 744
+  },
+  "sales_revenue_by_channel": {
+    "B2B": 13897226.09,
+    "IM": 56736038.01,
+    "TSUM": 122849275.56
+  },
+  "sales_months": [
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "...",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "fabric": {
+    "fabric_file": "Движение тканей.xlsx",
+    "warehouse_totals": {
+      "warehouse": "Основной склад",
+      "in_rub": 46641701.36,
+      "out_rub": 23139136.27,
+      "end_rub": 23502565.09
+    },
+    "approx_rows": 19937
+  },
+  "stock_cost": {
+    "stock_cost_file": "Движение товаров с себестоимостью.xlsx",
+    "approx_rows": 5935,
+    "sample_in_cost_sum_first_pass": 79810431.99
+  },
+  "raci_docx": [
+    {
+      "fio": "Мамушкина Елена",
+      "role_hint": "Исполнительный директор / Owner CASH (наличные)",
+      "domains": [
+        "Cash",
+        "SRC-CTRL-04 bank/cash",
+        "Payroll cash side"
+      ]
+    },
+    {
+      "fio": "Сливяк Галина",
+      "role_hint": "Главный бухгалтер / Owner BANK (безналичные)",
+      "domains": [
+        "Bank",
+        "Tax",
+        "SRC-CTRL-04",
+        "BUD/TAX"
+      ]
+    }
+  ],
+  "finding": "H3: +14 files → catalog 107; NEW LE Салон Янина; Sber 510 pays; card 417 (holder Мамушкина); SKU master 1863; sales ext 2826; RACI draft Мамушкина/Сливяк.",
+  "next": "Owner ACCEPT in RACI; optional rebuild W4 from sales_extended; deep fabric/stock parsers",
+  "not_sot": true
+}

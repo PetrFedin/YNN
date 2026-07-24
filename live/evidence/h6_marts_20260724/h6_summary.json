@@ -1,0 +1,120 @@
+{
+  "generated_at": "2026-07-24 16:27",
+  "wave": "H6",
+  "margin": {
+    "channel_month_rows": 78,
+    "channel_totals": [
+      {
+        "channel": "B2B",
+        "lines": 230,
+        "cogs_coverage": 1.0,
+        "revenue_rub": 13897226.09,
+        "revenue_costed_rub": 13897226.09,
+        "cogs_rub": 4411462.37,
+        "margin_rub": 9485763.72,
+        "margin_pct": 68.3
+      },
+      {
+        "channel": "IM",
+        "lines": 1852,
+        "cogs_coverage": 0.923,
+        "revenue_rub": 56736038.01,
+        "revenue_costed_rub": 56172404.27,
+        "cogs_rub": 16729796.42,
+        "margin_rub": 39442607.85,
+        "margin_pct": 70.2
+      },
+      {
+        "channel": "TSUM",
+        "lines": 744,
+        "cogs_coverage": 1.0,
+        "revenue_rub": 122849275.56,
+        "revenue_costed_rub": 122849275.56,
+        "cogs_rub": 79312919.84,
+        "margin_rub": 43536355.72,
+        "margin_pct": 35.4
+      }
+    ],
+    "sku_with_margin": 536,
+    "overall_revenue": 193482539.66,
+    "overall_revenue_costed": 192918905.92,
+    "overall_margin": 92464727.29,
+    "overall_margin_pct": 47.9
+  },
+  "stock_warehouses": {
+    "stock_rows": 2385,
+    "warehouses": 9,
+    "qty_end_total": 967.0,
+    "unique_skus": 980
+  },
+  "stock_warehouse_summary": [
+    {
+      "warehouse": "Склад ИМ (Основное подразделение)",
+      "rows": 920,
+      "skus_with_activity": 862,
+      "qty_end_sum": 549.0
+    },
+    {
+      "warehouse": "Салон (Лена М.) (Основное подразделение)",
+      "rows": 204,
+      "skus_with_activity": 196,
+      "qty_end_sum": 256.0
+    },
+    {
+      "warehouse": "Склад оптовых продаж (Основное подразделение)",
+      "rows": 699,
+      "skus_with_activity": 633,
+      "qty_end_sum": 80.0
+    },
+    {
+      "warehouse": "Подарки (Основное подразделение)",
+      "rows": 291,
+      "skus_with_activity": 286,
+      "qty_end_sum": 75.0
+    },
+    {
+      "warehouse": "Склад производства (Жукова) (Основное подразделение)",
+      "rows": 92,
+      "skus_with_activity": 91,
+      "qty_end_sum": 7.0
+    },
+    {
+      "warehouse": "Остатки ЦУМ (Основное подразделение)",
+      "rows": 95,
+      "skus_with_activity": 93,
+      "qty_end_sum": 0.0
+    },
+    {
+      "warehouse": "ДЕМИ (Основное подразделение)",
+      "rows": 5,
+      "skus_with_activity": 5,
+      "qty_end_sum": 0.0
+    },
+    {
+      "warehouse": "Aldo Coppola (Основное подразделение)",
+      "rows": 49,
+      "skus_with_activity": 40,
+      "qty_end_sum": 0.0
+    },
+    {
+      "warehouse": "Склад производства (Захарова) (Основное подразделение)",
+      "rows": 30,
+      "skus_with_activity": 24,
+      "qty_end_sum": 0.0
+    }
+  ],
+  "settle_bank": {
+    "settlements": 806,
+    "linked_total": 38,
+    "newly_linked_h6": 0,
+    "new_by_confidence": {},
+    "linked_status": {
+      "LINKED_H4_EXACT": 33,
+      "LINKED_H6_LOW": 3,
+      "LINKED_H6_MED": 2
+    }
+  },
+  "finding": "H6: margin overall 47.9% on 193482540 RUB; warehouses 9 qty_end=967.0; settle linked 38 (+0 H6).",
+  "next": "RACI ACCEPT; optional BOM / fabric issue→FG",
+  "not_sot": true
+}

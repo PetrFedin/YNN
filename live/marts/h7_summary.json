@@ -1,0 +1,160 @@
+{
+  "generated_at": "2026-07-24 16:30",
+  "wave": "H7",
+  "card_spend": {
+    "card_out_payments": 370,
+    "card_out_rub": 7675485.15,
+    "by_category": [
+      {
+        "category": "TRAVEL",
+        "payments": 19,
+        "amount_rub": 2259561.0,
+        "share_pct": 29.4
+      },
+      {
+        "category": "OTHER",
+        "payments": 43,
+        "amount_rub": 2157066.68,
+        "share_pct": 28.1
+      },
+      {
+        "category": "MARKETPLACE",
+        "payments": 172,
+        "amount_rub": 1421377.94,
+        "share_pct": 18.5
+      },
+      {
+        "category": "OFFICE_SUPPLY",
+        "payments": 54,
+        "amount_rub": 711606.15,
+        "share_pct": 9.3
+      },
+      {
+        "category": "LOGISTICS_CUSTOMS",
+        "payments": 9,
+        "amount_rub": 687964.0,
+        "share_pct": 9.0
+      },
+      {
+        "category": "FOOD",
+        "payments": 26,
+        "amount_rub": 279979.94,
+        "share_pct": 3.6
+      },
+      {
+        "category": "TAXI_DELIVERY",
+        "payments": 47,
+        "amount_rub": 157929.44,
+        "share_pct": 2.1
+      }
+    ],
+    "holders": {
+      "Мамушкина Е.А.": 370
+    }
+  },
+  "entity_bank": {
+    "entities": 3,
+    "sources": 4,
+    "total_out": 203835974.01,
+    "total_in": 294494280.54
+  },
+  "entity_rows": [
+    {
+      "legal_entity_id": "LE-IP-YANINA",
+      "payments_out": 2710,
+      "payments_in": 811,
+      "out_rub": 162676418.86,
+      "in_rub": 253950029.63,
+      "net_rub": 91273610.77
+    },
+    {
+      "legal_entity_id": "LE-OOO-DEKOR",
+      "payments_out": 375,
+      "payments_in": 97,
+      "out_rub": 35642961.16,
+      "in_rub": 35620577.4,
+      "net_rub": -22383.76
+    },
+    {
+      "legal_entity_id": "LE-OOO-SALON-YANINA",
+      "payments_out": 471,
+      "payments_in": 39,
+      "out_rub": 5516593.99,
+      "in_rub": 4923673.51,
+      "net_rub": -592920.48
+    }
+  ],
+  "source_rows": [
+    {
+      "source_bank": "VTB",
+      "payments": 1931,
+      "out_rub": 135029080.9,
+      "in_rub": 156831215.59
+    },
+    {
+      "source_bank": "ALFA",
+      "payments": 1645,
+      "out_rub": 55614813.97,
+      "in_rub": 128990849.87
+    },
+    {
+      "source_bank": "VTB_CARD",
+      "payments": 417,
+      "out_rub": 7675485.15,
+      "in_rub": 3748541.57
+    },
+    {
+      "source_bank": "SBER",
+      "payments": 510,
+      "out_rub": 5516593.99,
+      "in_rub": 4923673.51
+    }
+  ],
+  "recon_extended": {
+    "months": 30,
+    "status": {
+      "WIDE_GAP": 4,
+      "SOFT_GAP": 9,
+      "CLOSE": 16,
+      "BANK_ONLY": 1
+    },
+    "close_soft": [
+      "2024-02",
+      "2024-03",
+      "2024-04",
+      "2024-05",
+      "2024-07",
+      "2024-08",
+      "2024-09",
+      "2024-10",
+      "2024-11",
+      "2025-01",
+      "2025-02",
+      "2025-03",
+      "2025-04",
+      "2025-05",
+      "2025-06",
+      "2025-07",
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-03",
+      "2026-04",
+      "2026-05"
+    ],
+    "salon_out_total": 5516593.99,
+    "card_out_total": 7675485.15
+  },
+  "margin_controls": {
+    "anomaly_rows": 16,
+    "negative_sku": 14,
+    "channel_month_flags": 2,
+    "high_priority": 15
+  },
+  "finding": "H7: card out 7675485 RUB (TRAVEL:29.4%, OTHER:28.1%, MARKETPLACE:18.5%, OFFICE_SUPPLY:9.3%); core↔DDS CLOSE/SOFT 25; Salon out 5516594; margin anomalies 16 (neg SKU 14).",
+  "next": "RACI ACCEPT; review negative-margin SKUs with finance",
+  "not_sot": true
+}

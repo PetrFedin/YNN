@@ -1,0 +1,71 @@
+{
+  "wave": "H10",
+  "generated_at": "2026-07-24 16:41",
+  "finding": "H10: B2B +7 HIGH links (B2B 20 linked / 34 open); IM↔ACQ(IP) cov 0.889 CLOSE/SOFT 14/30; TSUM↔agent cov 0.469 CLOSE/SOFT 7/30; SKU registry 20.",
+  "bank_in": {
+    "payments": 947,
+    "by_class_count": {
+      "ACQ_IM": 338,
+      "OTHER_IN": 496,
+      "TSUM_AGENT": 34,
+      "B2B_NAMED": 1,
+      "TAX_REFUND_OR_OTHER": 13,
+      "INTERNAL": 65
+    },
+    "by_class_amount": {
+      "ACQ_IM": 75116987.55,
+      "B2B_NAMED": 30000.0,
+      "INTERNAL": 8375000.0,
+      "OTHER_IN": 152620422.29,
+      "TAX_REFUND_OR_OTHER": 758404.54,
+      "TSUM_AGENT": 57593466.16
+    }
+  },
+  "channel_recon": {
+    "im": {
+      "SOFT": 10,
+      "CLOSE": 4,
+      "OPEN": 16
+    },
+    "tsum": {
+      "SOFT": 5,
+      "OPEN": 23,
+      "CLOSE": 2
+    },
+    "im_sales_total": 56736037.01,
+    "im_bank_total": 75116987.55,
+    "tsum_sales_total": 122849275.56,
+    "tsum_bank_total": 57593466.16,
+    "coverage_im": 1.324,
+    "coverage_tsum": 0.469,
+    "tsum_best": {
+      "SOFT": 5,
+      "OPEN": 23,
+      "CLOSE": 2
+    },
+    "tsum_lag1_preferred": 0,
+    "coverage_im_ip_only": 0.889,
+    "im_close_soft": 14,
+    "tsum_close_soft": 7
+  },
+  "settle_b2b": {
+    "newly_linked": 7,
+    "linked_total": 45,
+    "linked_b2b": 20,
+    "open_b2b": 34,
+    "by_confidence": {
+      "HIGH": 7
+    },
+    "linked_rev_b2b": 1670637.0,
+    "open_rev_b2b": 12226589.09
+  },
+  "sku_identity": {
+    "collision_line_rows": 67,
+    "sku_registry_rows": 20
+  },
+  "not_sot": true,
+  "acq_by_entity_total": {
+    "LE-IP-YANINA": 50447437.75,
+    "LE-OOO-DEKOR": 24669549.8
+  }
+}

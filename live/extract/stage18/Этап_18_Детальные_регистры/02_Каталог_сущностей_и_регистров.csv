@@ -1,0 +1,31 @@
+﻿entity_id,entity,current_status,where_found,target_system,target_key,owner,missing_or_limitation
+ENT-01,Юридическое лицо,Есть частично,"Налоговые формы, выписки, договоры",ERP/MDM,legal_entity_id,Финансы/юристы,Единый реестр юрлиц и связи счетов/сотрудников/договоров
+ENT-02,Банковский счёт,Есть частично,4 подтверждённых счёта; не весь периметр,Bank hub/ERP,bank_account_id,Финансы,"Салон, Райффайзен, валютный блок не подтверждены"
+ENT-03,Банковский платёж,Есть,Банковские выписки,Bank hub/ERP,bank_payment_id,Финансы,Не всегда связан с обязательством/settlement
+ENT-04,Касса/карта/подотчёт,Есть частично,Ручные компоненты остатков,ERP/Cash ledger,cash_account_id,Финансы,Нет независимого журнала движений и подписанных остатков
+ENT-05,Бюджет/сценарий,Есть частично,Бюджеты 2025/2026,EPM/ERP,plan_version_id + scenario_id,Финансы,Нет единой версии и сквозной связи со SKU/производством
+ENT-06,Сотрудник,Есть частично,"Штатка, payroll-файлы",HRIS/ЗУП,employee_id,HR,Нет устойчивого ID во всех payroll/tax источниках
+ENT-07,Начисление ФОТ,Есть частично,Месячные ведомости 2025/2026,Payroll ledger,payroll_accrual_id,HR/финансы,Нет полного 2024 и полного annual ledger
+ENT-08,Реестр выплаты ФОТ,Есть частично,Ведомости и банковские пакеты,Payroll ledger,payroll_registry_id,HR/финансы,Часть реестров без employee-level basis
+ENT-09,Налоговая декларация,Есть,"6-НДФЛ, РСВ",Tax ledger/DMS,declaration_id,Налоги,Годовая форма не заменяет помесячный регистр
+ENT-10,Налоговое обязательство,Нет,Не выделено как регистр,Tax ledger,tax_obligation_id,Налоги,"Нет due date, уведомлений и остатка обязательства"
+ENT-11,Распределение ЕНС,Нет,"Банк показывает ЕНП, но не распределение",ENS register,ens_allocation_id,Налоги,Нельзя доказать погашение конкретного налога
+ENT-12,Поставщик,Есть частично,63 строки поставщиков,ERP/MDM,supplier_id,Закупки,Контакты/реквизиты неполны; есть дубли/служебные записи
+ENT-13,Материал,Есть частично,1 338 строк остатка; 867 кандидатов master,ERP/MDM/WMS,material_id,Закупки/склад,Нет утверждённого master и атрибутов
+ENT-14,Партия материала,Нет,Отсутствует,WMS,material_lot_id,Склад,"Нет поступления, цены партии, движения и aging"
+ENT-15,Заявка на закупку,Нет,Отсутствует,ERP,purchase_request_id,Закупки,"Нет потребности, согласования и связи с планом"
+ENT-16,Заказ поставщику,Нет,Отсутствует,ERP,purchase_order_id,Закупки,Нет PO/GRN/invoice цепочки
+ENT-17,Коллекция,Есть частично,12 коллекционных файлов,PLM,collection_id,Продукт,Нет единого справочника и версий
+ENT-18,Модель,Есть частично,Коды в коллекциях/планах/калькуляциях,PLM/MDM,model_id + version_id,Продукт,Разные форматы кодов; нет alias history
+ENT-19,SKU,Есть частично,234 preliminary SKU; 599 aliases,MDM/ERP,canonical_sku,Продукт/коммерция,124 mapping-кандидата требуют решения
+ENT-20,BOM,Нет,Разрозненные строки калькуляций,PLM,bom_id + bom_line_id,Технолог,"Нет версий, норм и дат действия"
+ENT-21,Производственный заказ,Есть частично,163 draft rows,ERP/MES,production_order_id,Производство,0 точных связей с SKU master; нет qty/status/WIP
+ENT-22,Производственная операция,Есть частично,475 текстовых задач,MES,operation_id,Производство,70 single-order candidates; фактические часы отсутствуют
+ENT-23,Версия себестоимости,Есть частично,82 однозначных; 21 множественных; 131 отсутствуют,ERP/Cost ledger,cost_version_id,Финансы/производство,Нет approval/effective date/production order
+ENT-24,Движение запасов,Нет,Нет единого регистра материалов и FG,WMS/ERP,inventory_movement_id,Склад,"Нельзя доказать остатки, COGS, aging и неликвид"
+ENT-25,Строка продажи,Есть частично,ЦУМ/B2B агрегаты; SALES cash channels,CRM/POS/ERP,sales_line_id,Коммерция,Нет детальных Salon/Shop/online и dates/returns/discounts
+ENT-26,Settlement/взаиморасчёт,Нет,Агрегатные выплаты и реализации,ERP/AR,settlement_id,Финансы/коммерция,Нет gross/returns/commission/net_due и связи с payment
+ENT-27,Дебиторская/кредиторская задолженность,Нет,Отсутствует,ERP/GL,ar_ap_item_id,Финансы,"Нельзя построить Balance, CCC и overdue"
+ENT-28,Управленческий P&L/Balance,Нет/не подтверждено,"Есть cash model, но не accrual close",ERP/GL/EPM,close_period_id,Финансы,Cash result нельзя называть прибылью
+ENT-29,Договор/approval,Есть частично,"NDA, положения, отдельные документы",DMS/GRC,contract_id + approval_id,Юристы/руководство,Нет полного договорного реестра и лимитов полномочий
+ENT-30,Lineage/версия источника,Есть частично,Stage 1/7/17 technical register,Data catalog,source_file_id + source_row_id + version_id,Data steward,Не встроено в операционный процесс

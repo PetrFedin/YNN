@@ -1,0 +1,7 @@
+control_id,months,close,soft,open_or_gap,other,close_soft_pct
+BANK_DDS_CORE,30,16,9,5,0,83.3
+IM_ACQ_COMBO,30,10,14,6,0,80.0
+OPEX_VS_BANK,30,5,7,18,0,40.0
+PAYROLL_VS_DDS,30,2,0,28,0,6.7
+TAX_CASH_BANK,30,26,3,1,0,96.7
+TSUM_NET_MODEL,30,24,4,2,0,93.3

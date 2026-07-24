@@ -1,0 +1,51 @@
+{
+  "policy_id": "PROVISIONAL_H18",
+  "generated_at": "2026-07-24 17:42",
+  "so_t": false,
+  "description": "Провизорные ворота месяца для управленческого обзора. Не Source of Truth. После RACI ACCEPT пороги могут ужесточиться.",
+  "gate_controls": [
+    "IM_ACQ_COMBO",
+    "TSUM_NET_MODEL",
+    "BANK_DDS_CORE",
+    "TAX_CASH_BANK",
+    "PAYROLL_MULTI",
+    "OPEX_MULTI"
+  ],
+  "pass_statuses": [
+    "CLOSE",
+    "SOFT",
+    "SOFT_GAP"
+  ],
+  "fail_example_statuses": [
+    "OPEN",
+    "WIDE_GAP",
+    "GAP",
+    "BANK_ONLY",
+    "RIGHT_ONLY",
+    "PARTIAL",
+    "MISSING"
+  ],
+  "release_rule": "RELEASED iff every gate_control status in pass_statuses",
+  "control_to_owner_actions": {
+    "IM_ACQ_COMBO": [
+      "A-DATA-IM-01"
+    ],
+    "TSUM_NET_MODEL": [
+      "A-TSUM-RATE-01"
+    ],
+    "BANK_DDS_CORE": [],
+    "TAX_CASH_BANK": [],
+    "PAYROLL_MULTI": [
+      "A-DATA-ZP-01"
+    ],
+    "OPEX_MULTI": [],
+    "B2B_SETTLE_BANK": [
+      "A-DATA-B2B-01"
+    ]
+  },
+  "out_of_scope": [
+    "RACI ACCEPT",
+    "SKU identity / margin SoT",
+    "Auto-fill Owner Packet decisions"
+  ]
+}

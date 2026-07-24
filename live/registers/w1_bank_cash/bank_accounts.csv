@@ -1,0 +1,6 @@
+bank_account_id,legal_entity_id,bank_name,currency,status,notes
+40802810202620002686,LE-IP-YANINA,АО Альфа-Банк,RUB,ACTIVE_PARSED,"parsed from 3 yearly xlsx | {""cov_FILE-013"": ""2024-01-01..2024-12-31"", ""cov_FILE-014"": ""2025-01-01..2025-12-31"", ""cov_FILE-015"": ""2026-01-01..2026-06-23""}"
+40702810804000008482,LE-OOO-DEKOR,Банк ВТБ (PDF),RUB,ACTIVE_PARSED_VTB_PDF,VTB PDF parsed: 478 payments
+40802810404000000049,LE-IP-YANINA,Банк ВТБ (PDF),RUB,ACTIVE_PARSED_VTB_PDF_PLUS_CARD,VTB PDF parsed: 240 payments | +StatementFull card H3 (Мамушкина Е.А.)
+40802810500000006196,LE-IP-YANINA,Банк ВТБ (PDF),RUB,ACTIVE_PARSED_VTB_PDF,VTB PDF parsed: 1573 payments
+40702810638040103938,LE-OOO-SALON-YANINA,ПАО Сбербанк,RUB,ACTIVE_PARSED_SBER_H3,FILE-103..105 | ООО Салон Юлия Янина ИНН 7715219770

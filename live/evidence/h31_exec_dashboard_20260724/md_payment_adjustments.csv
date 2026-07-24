@@ -1,0 +1,2 @@
+payment_id,period_month,payment_date,client,amount_eur,flag,note
+MDP-aac35791caebbca5,2024-01,2024-01-16,Казьмина А.,-70000.0,LARGE_NEG_ADJUSTMENT,Excluded from operating recon; kept in gross

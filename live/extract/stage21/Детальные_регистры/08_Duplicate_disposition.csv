@@ -1,0 +1,3 @@
+﻿duplicate_group_id,sha256,source_file_id,version_id,file_name,disposition,master_source_file_id,risk,status
+DUP-A8FCDD6B60,a8fcdd6b6090a6883a7a2722815a3cf386228cf010d6b485bf1630f528928fe1,FILE-004,VER-002-002,6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП)(1).pdf,Retain as master,FILE-004,Double counting / conflicting version selection,Prepared — owner confirmation required
+DUP-A8FCDD6B60,a8fcdd6b6090a6883a7a2722815a3cf386228cf010d6b485bf1630f528928fe1,FILE-005,VER-002-003,6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП).pdf,Archive exact duplicate,FILE-004,Double counting / conflicting version selection,Prepared — owner confirmation required

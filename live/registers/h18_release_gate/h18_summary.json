@@ -1,0 +1,27 @@
+{
+  "wave": "H18",
+  "generated_at": "2026-07-24 17:42",
+  "path_choice": "Controls release gate — operationalize residuals without new files/RACI",
+  "finding": "H18: provisional release gate — RELEASED 18/30, BLOCKED 12/30. Top fails: IM_ACQ_COMBO:6, BANK_DDS_CORE:5, TSUM_NET_MODEL:2, TAX_CASH_BANK:1. B2B settle (info): PARTIAL 39/54 (open=15).",
+  "months_n": 30,
+  "released_n": 18,
+  "blocked_n": 12,
+  "blocked_pct": 40.0,
+  "top_fail_controls": "IM_ACQ_COMBO:6, BANK_DDS_CORE:5, TSUM_NET_MODEL:2, TAX_CASH_BANK:1",
+  "b2b_settle_info": "PARTIAL 39/54 (open=15)",
+  "gate_controls": [
+    "IM_ACQ_COMBO",
+    "TSUM_NET_MODEL",
+    "BANK_DDS_CORE",
+    "TAX_CASH_BANK",
+    "PAYROLL_MULTI",
+    "OPEX_MULTI"
+  ],
+  "pass_statuses": [
+    "CLOSE",
+    "SOFT",
+    "SOFT_GAP"
+  ],
+  "policy_id": "PROVISIONAL_H18",
+  "not_sot": true
+}

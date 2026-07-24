@@ -1,0 +1,17 @@
+{
+  "wave": "H9b",
+  "generated_at": "2026-07-24 16:36",
+  "finding": "H9b: +62 category-mismatch COGS fixes; neg SKUs now 4; margin 53.1%; total collision fixes 67.",
+  "category_switched": 62,
+  "total_collision_rows": 67,
+  "margin_after": {
+    "negative_skus": 4,
+    "overall_revenue_costed": 192918904.92,
+    "overall_margin": 102411928.4,
+    "overall_margin_pct": 53.1,
+    "returns_lines": 23,
+    "returns_revenue_sum": -1947470.41
+  },
+  "finance_packet_rows": 4,
+  "not_sot": true
+}

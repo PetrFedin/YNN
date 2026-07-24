@@ -1,0 +1,3 @@
+settlement_id,buyer,revenue_rub,linked_amount_rub,match_kind,period_month,counterparty_sample
+ST-65d4e4ac4a047cc1,НБ-Ритейл ООО,83290.0,83290.0,FULL_EXACT_EMBEDDED,2025-05,"ООО ""НБ-РИТЕЙЛ"" 0.00 83 290.00 ОПЛАТА ПО ДОГОВОР № 15/2025 ОТ 12.05.20"
+ST-92d47958a52e3efa,ИП Ушкарева Нина Николаевна,52776.0,55000.0,FULL_EXACT_YO,2025-05,Ушкарёва Нина Николаевна (ИП)

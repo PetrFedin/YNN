@@ -1,0 +1,15 @@
+period_month,control_id,status,metric,detail,owner_domain,owner_fio,owner_status,priority,is_stub_owner,action,linked_request,updated_at
+2024-01,BANK_DDS_CORE,WIDE_GAP,836571.18,,BANK,Сливяк Галина,ACCEPTED,P1,N,Разобрать WIDE_GAP bank↔DDS за 2024-01 (Salon out / карты / статьи),,2026-07-24 19:29
+2024-01,TAX_CASH_BANK,GAP,36000.0,,TAX,Сливяк Галина,ACCEPTED,P1,N,Сверить налоговый платёж/начисление за 2024-01 (status=GAP),,2026-07-24 19:29
+2024-06,BANK_DDS_CORE,WIDE_GAP,957596.36,,BANK,Сливяк Галина,ACCEPTED,P1,N,Разобрать WIDE_GAP bank↔DDS за 2024-06 (Salon out / карты / статьи),,2026-07-24 19:29
+2024-08,IM_ACQ_COMBO,OPEN,74.1,IP_lag-1,BANK,Сливяк Галина,ACCEPTED,P1,N,Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2024-08,A-DATA-IM-01,2026-07-24 19:29
+2024-12,BANK_DDS_CORE,WIDE_GAP,1852187.69,,BANK,Сливяк Галина,ACCEPTED,P1,N,Разобрать WIDE_GAP bank↔DDS за 2024-12 (Salon out / карты / статьи),,2026-07-24 19:29
+2025-01,IM_ACQ_COMBO,OPEN,54.2,IP_lag+0,BANK,Сливяк Галина,ACCEPTED,P1,N,Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2025-01,A-DATA-IM-01,2026-07-24 19:29
+2025-08,IM_ACQ_COMBO,OPEN,-26.0,ALL_lag+1,BANK,Сливяк Галина,ACCEPTED,P1,N,Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2025-08,A-DATA-IM-01,2026-07-24 19:29
+2025-10,IM_ACQ_COMBO,OPEN,36.2,IP_lag+0,BANK,Сливяк Галина,ACCEPTED,P1,N,Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2025-10,A-DATA-IM-01,2026-07-24 19:29
+2026-02,BANK_DDS_CORE,WIDE_GAP,-1499972.03,,BANK,Сливяк Галина,ACCEPTED,P1,N,Разобрать WIDE_GAP bank↔DDS за 2026-02 (Salon out / карты / статьи),,2026-07-24 19:29
+2026-03,IM_ACQ_COMBO,OPEN,64.7,IP_lag+0,BANK,Сливяк Галина,ACCEPTED,P1,N,Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2026-03,A-DATA-IM-01,2026-07-24 19:29
+2026-04,IM_ACQ_COMBO,OPEN,-40.0,IP_lag+0,BANK,Сливяк Галина,ACCEPTED,P1,N,Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2026-04,A-DATA-IM-01,2026-07-24 19:29
+2026-05,TSUM_NET_MODEL,OPEN,-100.0,rate=0.4668,B2B,Коптева Марина,ACCEPTED,P1,N,Дать агентский % ЦУМ из договора; сверить модель за 2026-05,A-TSUM-RATE-01,2026-07-24 19:29
+2026-06,BANK_DDS_CORE,BANK_ONLY,5549424.35,,BANK,Сливяк Галина,ACCEPTED,P1,N,Дослать строки ДДС 2026 за июнь (в файле сейчас пусто) или подтвердить отсутствие,,2026-07-24 19:29
+2026-06,TSUM_NET_MODEL,OPEN,-100.0,rate=0.4668,B2B,Коптева Марина,ACCEPTED,P1,N,Дать агентский % ЦУМ из договора; сверить модель за 2026-06,A-TSUM-RATE-01,2026-07-24 19:29

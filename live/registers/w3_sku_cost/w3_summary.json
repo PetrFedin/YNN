@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-07-24 15:07",
+  "wave": "W3",
+  "tsum_sales_lines": 800,
+  "tsum_unique_skus": 220,
+  "cost_versions": 2043,
+  "cost_full_skus": 711,
+  "sku_master": 1070,
+  "intersection_skus": 100,
+  "matched_sales_lines": 391,
+  "coverage_by_year": {
+    "2024": {
+      "tsum_lines": 329,
+      "tsum_skus": 108,
+      "skus_with_cost": 9,
+      "sku_coverage_pct": 8.3,
+      "amount_all": 24217581.32,
+      "amount_with_cost": 3037935.08,
+      "amount_coverage_pct": 12.5
+    },
+    "2025": {
+      "tsum_lines": 328,
+      "tsum_skus": 128,
+      "skus_with_cost": 68,
+      "sku_coverage_pct": 53.1,
+      "amount_all": 22858332.06,
+      "amount_with_cost": 14568033.17,
+      "amount_coverage_pct": 63.7
+    },
+    "2026": {
+      "tsum_lines": 143,
+      "tsum_skus": 84,
+      "skus_with_cost": 65,
+      "sku_coverage_pct": 77.4,
+      "amount_all": 10172126.56,
+      "amount_with_cost": 8296481.8,
+      "amount_coverage_pct": 81.6
+    }
+  },
+  "margin_on_matched": {
+    "sales_rub": 25902450.06,
+    "cogs_rub": 6760961.37,
+    "margin_rub": 19141488.69,
+    "margin_pct": 73.9,
+    "n_lines": 384
+  },
+  "cost_owners": {
+    "ZHUKOVA": 1064,
+    "MERKUSHINA": 371,
+    "MOKEEVA": 608
+  },
+  "finding": "W3: TSUM 800 lines / 220 SKU; cost full SKUs 711; intersection 100; matched lines 391. Matched margin 73.9% on 25.9M RUB sales with cost.",
+  "next": "W4 SALES/SETTLE or harden cost_version approval + article alias dictionary",
+  "caveat": "Sales Cost RUR в ЦУМ = transfer/wholesale-like сумма, не розница; cost_version выбирается best-effort (owner/year), без size/color grain → margin indicative.",
+  "highlight": {
+    "intersection_skus": 100,
+    "2026_sku_coverage_pct": 77.4,
+    "2026_amount_coverage_pct": 81.6,
+    "matched_margin_pct": 73.9
+  }
+}

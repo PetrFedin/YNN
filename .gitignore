@@ -1,0 +1,28 @@
+# Secrets / local
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.Python
+
+# OS / IDE
+.DS_Store
+**/.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Raw source trees (symlinks to Downloads — не в репозиторий)
+documents
+sources
+processed
+
+# Noise
+live/logs/*.tmp
+*.xlsx.bak

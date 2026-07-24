@@ -1,0 +1,415 @@
+{
+  "generated_at": "2026-07-23 17:39",
+  "metrics": {
+    "files": 93,
+    "edges": 199,
+    "confirmed": 50,
+    "partial": 142,
+    "missing": 7,
+    "fields": 3093,
+    "field_lineage": 644,
+    "key_candidates": 491,
+    "entities": 30,
+    "analyses": 30,
+    "critical_gaps": 14
+  },
+  "chains": [
+    {
+      "chain_id": "EC-01",
+      "name": "Order-to-Cash (выручка → деньги)",
+      "purpose": "Проследить, как продажи превращаются в поступления на счета",
+      "files_touched": 76,
+      "edges": 177,
+      "confirmed": 50,
+      "partial": 126,
+      "missing": 1,
+      "stages": "Продажи/канал → Счёт/отгрузка → Оплата/банк → ДДС → Налоги с оборота",
+      "canonical_keys": "legal_entity_id, counterparty_id, sales_line_id, invoice_id, bank_payment_id, period",
+      "analyses": "Выручка по каналам; ДДС притоки; Дебиторка; План-факт продаж"
+    },
+    {
+      "chain_id": "EC-02",
+      "name": "Procure-to-Pay (закупка → расход → оплата)",
+      "purpose": "Связать закупки материалов/услуг с расходами и списаниями с банка",
+      "files_touched": 53,
+      "edges": 80,
+      "confirmed": 14,
+      "partial": 66,
+      "missing": 0,
+      "stages": "Контрагент → Закупка/счёт → Расход → Оплата банк → ДДС отток",
+      "canonical_keys": "supplier_id, po_id, invoice_id, bank_payment_id, material_id, period",
+      "analyses": "Структура расходов; Cash outflows; Оплата поставщикам"
+    },
+    {
+      "chain_id": "EC-03",
+      "name": "Hire-to-Pay (персонал → ФОТ → налоги)",
+      "purpose": "Полная стоимость труда и сверка начислений/выплат/НДФЛ/РСВ",
+      "files_touched": 50,
+      "edges": 128,
+      "confirmed": 17,
+      "partial": 110,
+      "missing": 1,
+      "stages": "Штат/оргструктура → Начисление ЗП → Выплата → ДДС ФОТ → Банк → 6-НДФЛ/РСВ/ЕНС",
+      "canonical_keys": "employee_id, employer_id, payroll_batch_id, accrual_period, bank_payment_id, tax_code",
+      "analyses": "ФОТ по месяцам; Сверка ФОТ↔банк; НДФЛ↔РСВ; Полная стоимость труда"
+    },
+    {
+      "chain_id": "EC-04",
+      "name": "Make-to-Cost (производство → себестоимость → маржа)",
+      "purpose": "От материалов и работ цеха к себестоимости артикула и марже продаж",
+      "files_touched": 53,
+      "edges": 81,
+      "confirmed": 36,
+      "partial": 39,
+      "missing": 6,
+      "stages": "Материалы/остатки → BOM/работы → Себестоимость → Артикул/SKU → Продажи → Маржа",
+      "canonical_keys": "canonical_sku, cost_version_id, production_order_id, bom_id, material_id, batch_qty",
+      "analyses": "Маржа SKU/коллекции; Себестоимость vs цена; Coverage калькуляций"
+    },
+    {
+      "chain_id": "EC-05",
+      "name": "Tax & Compliance (обязательства → уплата → ЕНС)",
+      "purpose": "Связать налоговые формы, платежи и сальдо ЕНС",
+      "files_touched": 54,
+      "edges": 114,
+      "confirmed": 16,
+      "partial": 97,
+      "missing": 1,
+      "stages": "Налоговая база → Декларация/расчёт → Уведомление → Платёж банк → ЕНС allocation",
+      "canonical_keys": "obligation_id, notification_id, ens_allocation_id, tax_type, period, legal_entity_id",
+      "analyses": "Налоговый календарь; Сверка форм; Долг/переплата ЕНС"
+    },
+    {
+      "chain_id": "EC-06",
+      "name": "Plan-to-Actual (бюджет → факт → отклонение)",
+      "purpose": "Управленческий контур план/факт денег и экономики",
+      "files_touched": 41,
+      "edges": 83,
+      "confirmed": 40,
+      "partial": 43,
+      "missing": 0,
+      "stages": "Бюджет → Факт ДДС → Факт продажи → Факт расходы → Отклонение",
+      "canonical_keys": "budget_version_id, article_id, period, legal_entity_id, channel_id",
+      "analyses": "План-факт ДДС; План-факт продаж; Исполнение бюджета"
+    }
+  ],
+  "analyses": [
+    {
+      "id": "AN-01",
+      "name": "Техническая инвентаризация источников",
+      "status": "Готово",
+      "status_class": "Готово",
+      "chains": "EC-XX",
+      "cannot_claim": "Нельзя утверждать полноту всей IT-среды"
+    },
+    {
+      "id": "AN-02",
+      "name": "Банковские остатки",
+      "status": "Готово с оговоркой",
+      "status_class": "Готово",
+      "chains": "EC-04",
+      "cannot_claim": "Не весь банковский периметр"
+    },
+    {
+      "id": "AN-03",
+      "name": "Cash roll-forward",
+      "status": "Частично",
+      "status_class": "Частично",
+      "chains": "EC-XX",
+      "cannot_claim": "Opening и non-bank components не доказаны"
+    },
+    {
+      "id": "AN-04",
+      "name": "ДДС ↔ расходы",
+      "status": "Частично",
+      "status_class": "Частично",
+      "chains": "EC-02",
+      "cannot_claim": "2024 неоднороден; нет transaction IDs"
+    },
+    {
+      "id": "AN-05",
+      "name": "Бюджет план-факт",
+      "status": "Готово с оговоркой",
+      "status_class": "Готово",
+      "chains": "EC-06",
+      "cannot_claim": "Нет единого plan version/driver model"
+    },
+    {
+      "id": "AN-06",
+      "name": "Ликвидность",
+      "status": "Частично",
+      "status_class": "Частично",
+      "chains": "EC-XX",
+      "cannot_claim": "Нет AR/AP, полного bank perimeter и обязательств"
+    },
+    {
+      "id": "AN-07",
+      "name": "Управленческая прибыль/P&L",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-XX",
+      "cannot_claim": "Нет accrual, inventory, WIP, AR/AP, Balance"
+    },
+    {
+      "id": "AN-08",
+      "name": "Balance sheet",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-XX",
+      "cannot_claim": "Нет FG, WIP, AR/AP, liabilities/equity"
+    },
+    {
+      "id": "AN-09",
+      "name": "ФОТ ↔ банк ↔ ДДС",
+      "status": "Готово с оговоркой",
+      "status_class": "Готово",
+      "chains": "EC-03",
+      "cannot_claim": "Employee-level ledger неполон"
+    },
+    {
+      "id": "AN-10",
+      "name": "Полная стоимость труда",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-03",
+      "cannot_claim": "Нет полного accrual ledger"
+    },
+    {
+      "id": "AN-11",
+      "name": "6-НДФЛ ↔ РСВ годовая",
+      "status": "Готово с оговоркой",
+      "status_class": "Готово",
+      "chains": "EC-03",
+      "cannot_claim": "Не employee/month level"
+    },
+    {
+      "id": "AN-12",
+      "name": "Налоговое обязательство ↔ платёж",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-05",
+      "cannot_claim": "Нет ENS allocation/obligation register"
+    },
+    {
+      "id": "AN-13",
+      "name": "Помесячный налоговый календарь",
+      "status": "Частично",
+      "status_class": "Частично",
+      "chains": "EC-05",
+      "cannot_claim": "Нет уведомлений и full monthly tax ledger"
+    },
+    {
+      "id": "AN-14",
+      "name": "Current tax exposure",
+      "status": "Частично",
+      "status_class": "Частично",
+      "chains": "EC-XX",
+      "cannot_claim": "Нет аналогичных актуальных справок по ДЕКОР"
+    },
+    {
+      "id": "AN-15",
+      "name": "SKU master",
+      "status": "Частично",
+      "status_class": "Частично",
+      "chains": "EC-04",
+      "cannot_claim": "Нет approved canonical master"
+    },
+    {
+      "id": "AN-16",
+      "name": "Маржа SKU",
+      "status": "Частично",
+      "status_class": "Частично",
+      "chains": "EC-04",
+      "cannot_claim": "131 missing cost; 21 multiple; no FG/COGS close"
+    },
+    {
+      "id": "AN-17",
+      "name": "Маржа коллекций",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-04",
+      "cannot_claim": "Нет model/SKU mapping and full cost/sales"
+    },
+    {
+      "id": "AN-18",
+      "name": "Маржа каналов",
+      "status": "Частично",
+      "status_class": "Частично",
+      "chains": "EC-01;EC-04",
+      "cannot_claim": "Нет detailed Salon/Shop/online and settlement costs"
+    },
+    {
+      "id": "AN-19",
+      "name": "Стоимость и возраст готовой продукции",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-XX",
+      "cannot_claim": "Нет movements, cost and dates"
+    },
+    {
+      "id": "AN-20",
+      "name": "Стоимость материалов на дату",
+      "status": "Готово с оговоркой",
+      "status_class": "Готово",
+      "chains": "EC-04",
+      "cannot_claim": "Не история движения/не proof of liquidity"
+    },
+    {
+      "id": "AN-21",
+      "name": "Material aging/неликвид",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-XX",
+      "cannot_claim": "Нет lots/movements/reservations/issues"
+    },
+    {
+      "id": "AN-22",
+      "name": "WIP",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-XX",
+      "cannot_claim": "Нет status, qty, issue/output and valuation"
+    },
+    {
+      "id": "AN-23",
+      "name": "Production lead time",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-XX",
+      "cannot_claim": "Нет reliable start/end/order IDs"
+    },
+    {
+      "id": "AN-24",
+      "name": "Производительность и загрузка",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-04",
+      "cannot_claim": "Нет actual hours/output/rework"
+    },
+    {
+      "id": "AN-25",
+      "name": "Supplier performance",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-XX",
+      "cannot_claim": "Нет PO/GRN/quality/lead time/payment link"
+    },
+    {
+      "id": "AN-26",
+      "name": "Procure-to-pay",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-XX",
+      "cannot_claim": "Нет request/PO/GRN/invoice chain"
+    },
+    {
+      "id": "AN-27",
+      "name": "Order-to-cash",
+      "status": "Частично",
+      "status_class": "Частично",
+      "chains": "EC-01",
+      "cannot_claim": "Нет sales line/settlement/payment allocation"
+    },
+    {
+      "id": "AN-28",
+      "name": "Cash conversion cycle",
+      "status": "Невозможно завершить",
+      "status_class": "Заблокировано",
+      "chains": "EC-XX",
+      "cannot_claim": "Нет inventory, AR/AP, procurement timing"
+    },
+    {
+      "id": "AN-29",
+      "name": "Качество данных и формул",
+      "status": "Готово",
+      "status_class": "Готово",
+      "chains": "EC-XX",
+      "cannot_claim": "Ошибки ещё не исправлены в source systems"
+    },
+    {
+      "id": "AN-30",
+      "name": "Зрелость процессов/управления",
+      "status": "Готово с оговоркой",
+      "status_class": "Готово",
+      "chains": "EC-XX",
+      "cannot_claim": "Нужны interviews and system walkthroughs"
+    }
+  ],
+  "top_hub_files": [
+    [
+      "SALES 2024-2026.xlsx",
+      30
+    ],
+    [
+      "BANK_STATEMENTS",
+      29
+    ],
+    [
+      "VTB_BankStatement_40802810500000006196_01.01.2024-22.06.2026_417014.pdf",
+      22
+    ],
+    [
+      "MASTER_SKU",
+      22
+    ],
+    [
+      "VTB_BankStatement_40702810804000008482_01.01.2024-22.06.2026_376277.pdf",
+      19
+    ],
+    [
+      "ДДС 2025.xlsx",
+      15
+    ],
+    [
+      "Расчет по страховым взносам за 2025 г. (Янина Ю. Ф. ИП).pdf",
+      14
+    ],
+    [
+      "Расчет по страховым взносам за 2025 г. (ДЕКОР ООО).pdf",
+      14
+    ],
+    [
+      "Расчет по страховым взносам за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf",
+      11
+    ],
+    [
+      "ЗП за апрель 2025.xlsx",
+      10
+    ],
+    [
+      "ЗП за июнь 2025.xlsx",
+      10
+    ],
+    [
+      "ЗП за май 2025.xlsx",
+      10
+    ],
+    [
+      "ЗП за март 2025.xlsx",
+      10
+    ],
+    [
+      "ЗП за февраль 2025.xlsx",
+      10
+    ],
+    [
+      "ЗП за январь 2025.xlsx",
+      10
+    ]
+  ],
+  "domain_edge_counts": [
+    [
+      "Налоги/ФОТ",
+      111
+    ],
+    [
+      "Продукт/операции",
+      60
+    ],
+    [
+      "Финансы/закрытие",
+      28
+    ]
+  ],
+  "workbook": "/Users/petr/Projects/yanina-docs/live/maps/YANINA_DETAILED_ECONOMIC_DATA_MAP_20260723.xlsx"
+}

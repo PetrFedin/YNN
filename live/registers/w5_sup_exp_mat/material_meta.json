@@ -1,0 +1,56 @@
+{
+  "n_skus": 1339,
+  "qty_sum": 38897.92,
+  "amount_sum_leaves": 59675312.98,
+  "warehouse_totals": {
+    "Основной склад": {
+      "qty": 14814.48,
+      "amount": 22560393.72
+    },
+    "Склад Жукова": {
+      "qty": 1634.09,
+      "amount": 2877332.1
+    },
+    "Склад Меркушина": {
+      "qty": 1015.65,
+      "amount": 1202689.24
+    },
+    "Склад Мокеева": {
+      "qty": 1984.74,
+      "amount": 3197241.43
+    }
+  },
+  "h4_fabric_movements": {
+    "fabric_skus": 1728,
+    "with_article_hint": 1073,
+    "warehouse_totals_rub": [
+      {
+        "warehouse": "Основной склад",
+        "in_rub": 46641701.36,
+        "out_rub": 23139136.27,
+        "end_rub": 23502565.09
+      },
+      {
+        "warehouse": "Склад Жукова",
+        "in_rub": 6731501.42,
+        "out_rub": 3740650.99,
+        "end_rub": 2990850.43
+      },
+      {
+        "warehouse": "Склад Меркушина",
+        "in_rub": 5586450.12,
+        "out_rub": 4917463.7,
+        "end_rub": 668986.42
+      },
+      {
+        "warehouse": "Склад Мокеева",
+        "in_rub": 12520673.4,
+        "out_rub": 11129885.29,
+        "end_rub": 1390788.11
+      }
+    ],
+    "warehouse_end_rub_sum": 28553190.05,
+    "note": "Leaf qty columns ambiguous (m vs RUB); trust warehouse_totals_rub for money"
+  },
+  "h4_generated_at": "2026-07-24 16:22"
+}

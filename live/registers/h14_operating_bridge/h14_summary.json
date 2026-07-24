@@ -1,0 +1,72 @@
+{
+  "wave": "H14",
+  "generated_at": "2026-07-24 16:50",
+  "finding": "H14: operating bridge 30m; gross margin 53.1% → operating -58.0% (-111,889,748 ₽); opex buckets classified; controls dashboard 6 series.",
+  "opex_buckets": {
+    "PAYROLL": 79629578.9,
+    "TAX": 29808584.28,
+    "OPEX_OTHER": 28034427.73,
+    "RENT": 23911370.33,
+    "INTERNAL_TRANSFER_MEMO": 21721820.39,
+    "MATERIALS_MEMO": 15626404.63,
+    "OUTSOURCE": 12250636.45,
+    "COUNTERPARTY_MEMO": 8463680.6,
+    "CARD_EXPENSE": 7470129.86,
+    "MARKETING": 6892073.5,
+    "LOGISTICS": 6154174.42,
+    "ACQUIRING_FEE": 2901715.9,
+    "COMMISSION": 1621914.91,
+    "FX_MEMO": 1483956.83
+  },
+  "bridge": {
+    "months": 30,
+    "revenue_costed_total": 192888654.92,
+    "gross_margin_total": 102415234.27,
+    "gross_margin_pct": 53.1,
+    "opex_core_total": 168866022.0,
+    "tax_used_total": 45438960.22,
+    "operating_result_total": -111889747.95,
+    "operating_margin_pct": -58.0,
+    "months_operating_positive": 1,
+    "months_operating_negative": 29
+  },
+  "controls": {
+    "IM_ACQ_COMBO": {
+      "SOFT": 14,
+      "CLOSE": 10,
+      "OPEN_OR_GAP": 6
+    },
+    "TSUM_NET_MODEL": {
+      "CLOSE": 24,
+      "SOFT": 4,
+      "OPEN_OR_GAP": 2
+    },
+    "BANK_DDS_CORE": {
+      "OPEN_OR_GAP": 5,
+      "SOFT": 9,
+      "CLOSE": 16
+    },
+    "TAX_CASH_BANK": {
+      "OPEN_OR_GAP": 1,
+      "CLOSE": 26,
+      "SOFT": 3
+    },
+    "OPEX_VS_BANK": {
+      "SOFT": 7,
+      "OPEN_OR_GAP": 18,
+      "CLOSE": 5
+    },
+    "PAYROLL_VS_DDS": {
+      "OPEN_OR_GAP": 28,
+      "CLOSE": 2
+    },
+    "b2b_linked_open": "39/15"
+  },
+  "not_sot": true,
+  "caveats": [
+    "materials/internal/counterparty/fx excluded from operating (memo only)",
+    "card_expense in opex_core; h7 card mart is separate memo (possible overlap)",
+    "tax_used prefers W6 tax_cash over expense TAX articles",
+    "OPEX from 1C expense register — not audited P&L"
+  ]
+}

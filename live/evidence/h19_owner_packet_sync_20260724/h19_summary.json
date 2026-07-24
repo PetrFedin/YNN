@@ -1,0 +1,14 @@
+{
+  "wave": "H19",
+  "generated_at": "2026-07-24 17:44",
+  "path_choice": "Sync Owner Packet to H17/H18 — maximize chance of real RACI ACCEPT",
+  "finding": "H19: Owner Packet synced — sheets H17_ACTIONS(10), H18_BLOCKED(12), DATA_REQUESTS_NOW(8), DECISION_LOG. RACI decision cells still empty (0 filled).",
+  "actions_n": 10,
+  "blocked_n": 12,
+  "data_requests_now_n": 8,
+  "raci_decisions_filled": 0,
+  "packet": "live/YANINA_OWNER_PACKET_RACI_AND_REQUESTS.xlsx",
+  "backup": "live/evidence/h19_owner_packet_sync_20260724/YANINA_OWNER_PACKET_RACI_AND_REQUESTS.pre_h19.xlsx",
+  "not_sot": true,
+  "did_not_autofill_accept": true
+}

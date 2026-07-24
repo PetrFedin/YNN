@@ -1,0 +1,3 @@
+source_file_id,source_file_name,tax_type,signer_fio_candidate,role_hint,status
+FILE-066,Расчет по страховым взносам за 2025 г. (ДЕКОР ООО).pdf,tax_insurance,ЯНИН ЕВГЕНИЙ НИКОЛАЕВИЧ,Tax/Finance (подпись декларации),CANDIDATE_NEEDS_CONFIRM
+FILE-024,Декларация по НДС за 4 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,tax_nds,ЯНИНА ЮЛИЯ ФЕДОРОВНА,Tax/Finance (подпись декларации),CANDIDATE_NEEDS_CONFIRM

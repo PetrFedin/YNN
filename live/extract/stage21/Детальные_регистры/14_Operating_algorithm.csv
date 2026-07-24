@@ -1,0 +1,15 @@
+﻿step,stage,action,output,control,stop_gate
+1,Register source,"Assign source_file_id, version_id, family_id, checksum, period, entity scope and owner",Controlled source registry,Checksum uniqueness and duplicate scan,Unknown source/version
+2,Inventory fields,"Detect sheets, headers, fields, types, completeness, uniqueness, formulas, errors and sensitivity",Field dictionary,Header confidence and sample validation,Unclassified critical field
+3,Map to entity,"Assign business entity, target register, target field and owner",Draft mapping,Entity definition and target key present,No business definition
+4,Classify key,Run null/duplicate/stability tests and propose canonical key,Key candidate register,Uniqueness/cardinality,Non-unique key used as PK
+5,Profile technical defects,"List formula errors, external dependencies, hidden sheets, duplicates and impacted links",Source remediation register,Error cell-level lineage,Critical defect in published source
+6,Configure file link,"Record current join, target join, field candidates, grain, owner, test and stop-gate",Link configuration,Cardinality/orphan/duplicate tests,Fuzzy join treated as primary ID
+7,Expand field lineage,For every target key token locate candidate fields on both sides and transformation rule,Field lineage edges,Score + owner confirmation,Missing field on either side
+8,Analyze missing data,Distinguish isolated fields from controlled register and map each gap to blocked analyses,Gap/impact matrix,No proxy substitution,Result claimed beyond evidence
+9,Prepare remediation,Create cell-level patch specification; never alter original source,Patch pack / new-version request,Before/after formula and totals,Ambiguous #REF auto-patched
+10,Execute new version,Owner applies approved correction in copy/new source version and signs evidence,New version_id,Checksum and change log,Original/Closed source overwritten
+11,Retest links,Repeat source totals and all affected link tests; compare status and grain,Retest evidence,Regression and reconciliation,Technical cleanup used to infer missing business key
+12,Approve/close,"Approver confirms field mapping, key, link and analysis limitations",Approved/Closed snapshot,"Named owner, evidence, exception closure",Open critical exception
+13,Operate monthly,"Load new version, validate, reconcile, publish exceptions and close period",Repeatable monthly close,D-5 to D+10 checklist,Unreconciled critical difference
+14,Change management,Any schema/key/formula change creates version and impact assessment,Change record,Downstream link inventory,Silent schema drift

@@ -1,0 +1,12 @@
+{
+  "wave": "H31",
+  "generated_at": "2026-07-24 19:38",
+  "finding": "H31: 2024-01 → CLOSE after excluding Казьмина −70k adj; 2026-06 → DDS_LAG; MD recon ≥2024 CLOSE+SOFT 29/30 (+1 lag). Executive dashboard published.",
+  "recon_close_soft": 29,
+  "recon_dds_lag": 1,
+  "recon_open": 0,
+  "recon_months": 30,
+  "adjustments_n": 1,
+  "dashboard_rows": 10,
+  "not_sot": true
+}

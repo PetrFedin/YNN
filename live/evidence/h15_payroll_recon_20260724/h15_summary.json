@@ -1,0 +1,93 @@
+{
+  "wave": "H15",
+  "generated_at": "2026-07-24 17:24",
+  "finding": "H15: payroll multi-recon CLOSE/SOFT overall 30/30; expense↔DDS 17/30; DDS↔bank 29/30 (was ~2/30 on lines-only).",
+  "stats": {
+    "months": 30,
+    "overall": {
+      "CLOSE": 29,
+      "SOFT": 1
+    },
+    "expense_vs_dds": {
+      "CLOSE": 12,
+      "SOFT": 5,
+      "WIDE_GAP": 12,
+      "LEFT_ONLY": 1
+    },
+    "dds_vs_bank": {
+      "CLOSE": 28,
+      "SOFT": 1,
+      "RIGHT_ONLY": 1
+    },
+    "close_soft_overall": 30,
+    "close_soft_expense_dds": 17,
+    "close_soft_dds_bank": 29,
+    "months_with_lines": 11
+  },
+  "controls_summary": [
+    {
+      "control_id": "BANK_DDS_CORE",
+      "months": 30,
+      "close": 16,
+      "soft": 9,
+      "open_or_gap": 5,
+      "other": 0,
+      "close_soft_pct": 83.3
+    },
+    {
+      "control_id": "IM_ACQ_COMBO",
+      "months": 30,
+      "close": 10,
+      "soft": 14,
+      "open_or_gap": 6,
+      "other": 0,
+      "close_soft_pct": 80.0
+    },
+    {
+      "control_id": "OPEX_VS_BANK",
+      "months": 30,
+      "close": 5,
+      "soft": 7,
+      "open_or_gap": 18,
+      "other": 0,
+      "close_soft_pct": 40.0
+    },
+    {
+      "control_id": "PAYROLL_DDS_BANK",
+      "months": 30,
+      "close": 28,
+      "soft": 1,
+      "open_or_gap": 1,
+      "other": 0,
+      "close_soft_pct": 96.7
+    },
+    {
+      "control_id": "PAYROLL_MULTI",
+      "months": 30,
+      "close": 29,
+      "soft": 1,
+      "open_or_gap": 0,
+      "other": 0,
+      "close_soft_pct": 100.0
+    },
+    {
+      "control_id": "TAX_CASH_BANK",
+      "months": 30,
+      "close": 26,
+      "soft": 3,
+      "open_or_gap": 1,
+      "other": 0,
+      "close_soft_pct": 96.7
+    },
+    {
+      "control_id": "TSUM_NET_MODEL",
+      "months": 30,
+      "close": 24,
+      "soft": 4,
+      "open_or_gap": 2,
+      "other": 0,
+      "close_soft_pct": 93.3
+    }
+  ],
+  "not_sot": true
+}

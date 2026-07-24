@@ -1,0 +1,3 @@
+period_month,control_id,status,metric,detail,owner_domain,owner_fio,owner_status,priority,is_stub_owner,action,linked_request,updated_at
+2026-05,TSUM_NET_MODEL,OPEN,-100.0,rate=0.4668,B2B,Коптева Марина,ACCEPTED,P1,N,Дать агентский % ЦУМ из договора; сверить модель за 2026-05,A-TSUM-RATE-01,2026-07-24 19:29
+2026-06,TSUM_NET_MODEL,OPEN,-100.0,rate=0.4668,B2B,Коптева Марина,ACCEPTED,P1,N,Дать агентский % ЦУМ из договора; сверить модель за 2026-06,A-TSUM-RATE-01,2026-07-24 19:29

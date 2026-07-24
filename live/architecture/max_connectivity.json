@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-23 18:24",
+  "asis": {
+    "edges": 199,
+    "resolved_edges": 122,
+    "unmatched_edges": 77,
+    "components": 50,
+    "component_sizes_top10": [
+      43,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "files_in_largest_component": 43
+  },
+  "tobe_via_spine": {
+    "registers": 15,
+    "spine_edges_undirected": 21,
+    "file_pairs_by_reg_hops": {
+      "0": 1884,
+      "1": 1774,
+      "2": 547,
+      "3": 73
+    },
+    "components_hops_le_3": 1,
+    "component_sizes_top10": [
+      93
+    ],
+    "files_unified_if_spine": 93,
+    "family_schemes": 276,
+    "family_schemes_connected": 276
+  },
+  "max_insight": "As-is: 122 прямых рёбер, 50 компонент (крупнейший 43). To-be через spine (≤3 hops): единый контур 93/93 файлов, пар по hops={0: 1884, 2: 547, 1: 1774, 3: 73}."
+}

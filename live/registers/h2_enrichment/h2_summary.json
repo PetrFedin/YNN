@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-07-24 16:12",
+  "wave": "H2",
+  "settle_backfill": {
+    "applied": 8,
+    "by_conf": {
+      "HIGH": 6,
+      "MED": 2
+    }
+  },
+  "sup_fuzzy": {
+    "candidates": 2,
+    "by_conf": {
+      "HIGH": 2
+    },
+    "out_rub": 73929.52
+  },
+  "tax_extract": {
+    "usn_files": 4,
+    "usn_with_income_year": 4,
+    "signer_candidates": 2,
+    "signers": [
+      "ЯНИН ЕВГЕНИЙ НИКОЛАЕВИЧ",
+      "ЯНИНА ЮЛИЯ ФЕДОРОВНА"
+    ]
+  },
+  "usn_obligations_patched": 4,
+  "finding": "H2: settle backfill {'applied': 8, 'by_conf': {'HIGH': 6, 'MED': 2}}; SUP fuzzy {'candidates': 2, 'by_conf': {'HIGH': 2}, 'out_rub': 73929.52}; USN amounts 4/4; signer candidates ['ЯНИН ЕВГЕНИЙ НИКОЛАЕВИЧ', 'ЯНИНА ЮЛИЯ ФЕДОРОВНА'].",
+  "next": "Confirm signer candidate(s) in Owner Packet → fill RACI → SoT gate",
+  "not_sot": true
+}

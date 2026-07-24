@@ -1,0 +1,19 @@
+{
+  "wave": "H26",
+  "generated_at": "2026-07-24 19:26",
+  "finding": "H26: 10 RACI stubs (ACCEPT_STUB); alias candidates under Product stub; domain board rebuilt — 14/14 gaps have owner fio (2 on stubs). Replace stubs with real FIO.",
+  "raci_stubs_n": 10,
+  "alias_candidates_under_stub": 16,
+  "gap_rows": 14,
+  "gaps_with_owner": 14,
+  "gaps_on_stubs": 2,
+  "stub_domains": {
+    "PRODUCT": "ВРЕМЯНКА Product Owner (stub)",
+    "COST": "ВРЕМЯНКА Cost Owner (stub)",
+    "PRODUCTION": "ВРЕМЯНКА Production Owner (stub)",
+    "B2B": "ВРЕМЯНКА B2B Owner (stub)",
+    "DATA_STEWARD": "ВРЕМЯНКА Data Steward (stub)"
+  },
+  "not_sot": true,
+  "replace_stubs": true
+}

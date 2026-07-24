@@ -1,0 +1,14 @@
+{
+  "wave": "H30",
+  "generated_at": "2026-07-24 19:37",
+  "finding": "H30: MD workbook parsed — payments 6663, salon 4194, shop 11173; 2025 payments 2,319,617 EUR vs DDS Salon+Shop 2,325,846 (gap -6,229); recon CLOSE+SOFT 28/30 since 2024.",
+  "payments_n": 6663,
+  "salon_n": 4194,
+  "shop_n": 11173,
+  "pay_2025_eur": 2319617.0,
+  "dds_2025_eur": 2325846.0,
+  "gap_2025_eur": -6229.0,
+  "recon_close_soft_since_2024": 28,
+  "recon_months_since_2024": 30,
+  "not_sot": true
+}

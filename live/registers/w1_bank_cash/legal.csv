@@ -1,0 +1,4 @@
+legal_entity_id,inn,name,entity_type,valid_from,valid_to,source_evidence,notes
+LE-IP-YANINA,770701688220,ИП Янина Юлия Федоровна,IP,2024-01-01,,Выписка Alfa 40802810202620002686 header,подтверждено в bank xlsx
+LE-OOO-DEKOR,7735518240,ООО ДЕКОР,OOO,2024-01-01,,6-НДФЛ PDF header (FILE-001+),подтверждено W6 pdf_header_bits
+LE-OOO-SALON-YANINA,7715219770,"ООО ""Салон Юлия Янина""",OOO,2024-01-01,,Sber statement header FILE-103..105,Третье юрлицо; счёт 40702810638040103938 Сбер

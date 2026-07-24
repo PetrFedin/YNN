@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-07-24 15:48",
+  "wave": "W4",
+  "sales_lines_1c": 2082,
+  "sales_lines_tsum": 800,
+  "sales_lines_total": 2882,
+  "settlements": 755,
+  "b2b_fact_months": 17,
+  "dds_income_rows": 177,
+  "soft_settle_bank_matches": 31,
+  "1c_lines_with_w3_cost": 1159,
+  "1c_revenue_by_channel_rub": {
+    "B2B": 13897226.09,
+    "IM": 56736038.01
+  },
+  "tsum_revenue_rub": 57248039.94,
+  "settlements_with_date": 755,
+  "finding": "W4: 2082 1C sales lines + 800 TSUM; 755 settlements; 31 settle↔bank exact-amount matches (LOW); 1159 1C lines linked to W3 cost.",
+  "next": "W5 SUP/EXP/MAT or harden settlement→bank via payment purpose/invoice no"
+}

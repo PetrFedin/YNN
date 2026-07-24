@@ -1,0 +1,42 @@
+{
+  "wave": "H11",
+  "generated_at": "2026-07-24 16:43",
+  "finding": "H11: TSUM net-rate 0.4668 → CLOSE/SOFT vs model 28/30; B2B multi-pay +14 (full 3, partial 11) → linked 34/open 20.",
+  "tsum_alloc": {
+    "agent_sales_total": 57235479.16,
+    "damage_total": 357987.0,
+    "parsed_period_rows": 29,
+    "alloc_months": 29
+  },
+  "tsum_model": {
+    "net_rate_median": 0.4668,
+    "calibration_months": 28,
+    "vs_model": {
+      "CLOSE": 24,
+      "SOFT": 4,
+      "OPEN": 2
+    },
+    "vs_gross": {
+      "OPEN": 30
+    },
+    "sales_total": 122849275.56,
+    "alloc_total": 57235479.16,
+    "close_soft_model": 28,
+    "months_with_sales": 30
+  },
+  "settle_b2b": {
+    "newly_full": 3,
+    "newly_partial": 11,
+    "newly_total": 14,
+    "linked_b2b": 34,
+    "open_b2b": 20,
+    "by_kind": {
+      "FULL_PARTS": 3,
+      "PARTIAL": 11
+    },
+    "linked_rev_b2b": 8402576.09,
+    "open_rev_b2b": 5494650.0,
+    "new_linked_rev": 6731939.09
+  },
+  "not_sot": true
+}

@@ -1,0 +1,31 @@
+﻿analysis_id,analysis,status,status_class,evidence,coverage,cannot_claim,blocking_gap_ids
+AN-01,Техническая инвентаризация источников,Готово,Готово,"93 файла, 284 листа, quality flags",Подтверждённый переданный периметр,Нельзя утверждать полноту всей IT-среды,IG-22; IG-23
+AN-02,Банковские остатки,Готово с оговоркой,Готово,113/116 остатков,4 предоставленных счёта,Не весь банковский периметр,IG-11
+AN-03,Cash roll-forward,Частично,Частично,17/29 переходов; 12 разрывов,Денежная модель,Opening и non-bank components не доказаны,IG-12; IG-13
+AN-04,ДДС ↔ расходы,Частично,Частично,2025 и часть 2026 сходятся,Cash classification,2024 неоднороден; нет transaction IDs,IG-12; IG-23
+AN-05,Бюджет план-факт,Готово с оговоркой,Готово,H2 2025 и Jan-May 2026,Cash budget perimeter,Нет единого plan version/driver model,IG-23; IG-24
+AN-06,Ликвидность,Частично,Частично,Cash balances и flows,Предоставленные счета,"Нет AR/AP, полного bank perimeter и обязательств",IG-11; IG-14
+AN-07,Управленческая прибыль/P&L,Невозможно завершить,Заблокировано,Только cash result,Cash model,"Нет accrual, inventory, WIP, AR/AP, Balance",IG-02; IG-03; IG-14; IG-15
+AN-08,Balance sheet,Невозможно завершить,Заблокировано,Отдельные остатки и активы,Fabric snapshot / cash,"Нет FG, WIP, AR/AP, liabilities/equity",IG-02; IG-03; IG-14; IG-15
+AN-09,ФОТ ↔ банк ↔ ДДС,Готово с оговоркой,Готово,Агрегатные расхождения 3 месяцев объяснены,11 месяцев,Employee-level ledger неполон,IG-16
+AN-10,Полная стоимость труда,Невозможно завершить,Заблокировано,Формы и часть ведомостей,2024–2026 частично,Нет полного accrual ledger,IG-16; IG-19
+AN-11,6-НДФЛ ↔ РСВ годовая,Готово с оговоркой,Готово,4/4 годовые пары сходятся,"2024–2025, 2 юрлица",Не employee/month level,IG-19
+AN-12,Налоговое обязательство ↔ платёж,Невозможно завершить,Заблокировано,182 bank tax ops,Cash side only,Нет ENS allocation/obligation register,IG-17; IG-18
+AN-13,Помесячный налоговый календарь,Частично,Частично,60 entity-month records,Bank + forms hints,Нет уведомлений и full monthly tax ledger,IG-17; IG-18; IG-19
+AN-14,Current tax exposure,Частично,Частично,Справки по ИП на 25.06.2026,ИП Янина,Нет аналогичных актуальных справок по ДЕКОР,IG-20
+AN-15,SKU master,Частично,Частично,234 SKU; 599 aliases; 124 decisions,ЦУМ + collection/cost candidates,Нет approved canonical master,IG-01
+AN-16,Маржа SKU,Частично,Частично,82 SKU с однозначной cost,Covered subset only,131 missing cost; 21 multiple; no FG/COGS close,IG-01; IG-02; IG-04
+AN-17,Маржа коллекций,Невозможно завершить,Заблокировано,Collection files and candidate links,Низкое точное покрытие,Нет model/SKU mapping and full cost/sales,IG-01; IG-04; IG-07
+AN-18,Маржа каналов,Частично,Частично,Cash mix и отдельные channel aggregates,ЦУМ/B2B лучше покрыты,Нет detailed Salon/Shop/online and settlement costs,IG-07; IG-09
+AN-19,Стоимость и возраст готовой продукции,Невозможно завершить,Заблокировано,Нет current FG register,—,"Нет movements, cost and dates",IG-02; IG-04
+AN-20,Стоимость материалов на дату,Готово с оговоркой,Готово,"29 837 656,49 руб. на 31.05.2026",1C snapshot,Не история движения/не proof of liquidity,IG-05
+AN-21,Material aging/неликвид,Невозможно завершить,Заблокировано,Snapshot only,1 338 rows,Нет lots/movements/reservations/issues,IG-05; IG-06
+AN-22,WIP,Невозможно завершить,Заблокировано,Production plan drafts,163 orders,"Нет status, qty, issue/output and valuation",IG-03; IG-05; IG-10
+AN-23,Production lead time,Невозможно завершить,Заблокировано,Dates in free text,163 orders / 475 tasks,Нет reliable start/end/order IDs,IG-03; IG-10
+AN-24,Производительность и загрузка,Невозможно завершить,Заблокировано,Text tasks only,24 executor rows / 475 tasks,Нет actual hours/output/rework,IG-10
+AN-25,Supplier performance,Невозможно завершить,Заблокировано,63 suppliers,Directory only,Нет PO/GRN/quality/lead time/payment link,IG-08; IG-21
+AN-26,Procure-to-pay,Невозможно завершить,Заблокировано,Bank payments and supplier list,Cash side only,Нет request/PO/GRN/invoice chain,IG-08; IG-09
+AN-27,Order-to-cash,Частично,Частично,ЦУМ 27/29; B2B 17/17 aggregate,Monthly aggregate,Нет sales line/settlement/payment allocation,IG-07; IG-09
+AN-28,Cash conversion cycle,Невозможно завершить,Заблокировано,Cash and partial sales,—,"Нет inventory, AR/AP, procurement timing",IG-02; IG-05; IG-08; IG-14
+AN-29,Качество данных и формул,Готово,Готово,"557 errors, duplicate, external links",Переданные files,Ошибки ещё не исправлены в source systems,IG-23; IG-24
+AN-30,Зрелость процессов/управления,Готово с оговоркой,Готово,35 evidence observations; maturity 1.7/5,Документированный периметр,Нужны interviews and system walkthroughs,IG-22; IG-23

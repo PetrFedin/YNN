@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-07-24 16:33",
+  "wave": "W4+H4",
+  "sales_lines_total": 2826,
+  "sales_by_channel": {
+    "B2B": 230,
+    "IM": 1852,
+    "TSUM": 744
+  },
+  "sales_revenue_rub": 193482539.66,
+  "settlements": 806,
+  "settlements_linked_bank": 33,
+  "soft_exact_matches": 33,
+  "h1_links_reapplied": 0,
+  "lines_with_w3_cost": 1408,
+  "lines_with_cogs": 2431,
+  "source": "H3 sales_extended FILE-100/101/102",
+  "finding": "W4+H5: 2826 sales; cost-linked 2696; cogs 2684.",
+  "h5_relink": {
+    "sales_lines": 2826,
+    "with_cost_before": 1408,
+    "with_cost_after": 2696,
+    "newly_linked": 1288,
+    "delta": 1288,
+    "with_cogs": 2684
+  },
+  "h6_settle": {
+    "settlements": 806,
+    "linked_total": 38,
+    "newly_linked_h6": 0,
+    "new_by_confidence": {},
+    "linked_status": {
+      "LINKED_H4_EXACT": 33,
+      "LINKED_H6_LOW": 3,
+      "LINKED_H6_MED": 2
+    }
+  },
+  "h8_dq": {
+    "sales_lines": 2826,
+    "junk_revenue_lines": 683,
+    "cleared_inflated_w3": 0,
+    "restored_file_cogs": 0,
+    "fixed_total_ops": 0,
+    "flagged_lines": 706,
+    "excluded_from_margin": 683,
+    "with_cogs_after": 2684,
+    "with_cost_link_after": 2696
+  }
+}

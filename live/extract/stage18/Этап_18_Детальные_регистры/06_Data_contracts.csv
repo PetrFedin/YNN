@@ -1,0 +1,38 @@
+﻿contract_id,domain,field,object,exists_now,required,definition,validation,owner,source_system,target_system
+DC-001,Продукт/операции,canonical_sku,SKU,Частично,Да,Постоянный идентификатор SKU,Уникален; alias не перекрываются,Продуктовый блок,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-002,Продукт/операции,model_id,Модель,Нет,Да,Постоянный ID модели без размера/цвета,Одна модель — одна карточка и версии,Продуктовый блок,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-003,Продукт/операции,version_id,Модель/BOM/cost,Нет,Да,Версия объекта с датой действия,Неизменяемость утверждённой версии,Продуктовый блок/финансы,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-004,Продукт/операции,material_id,Материал,Частично,Да,ID номенклатуры материала,"UOM, состав, цвет, поставщик",Закупки/склад,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-005,Продукт/операции,material_lot_id,Партия материала,Нет,Да,Партия с датой и стоимостью поступления,Один lot на документ приёмки,Склад,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-006,Продукт/операции,bom_id / bom_line_id,BOM,Нет,Да,Версионный состав модели,Сумма норм и единицы; effective dates,Технолог,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-007,Продукт/операции,purchase_order_id,Закупка,Нет,Да,Утверждённый заказ поставщику,Связь request→PO→GRN→invoice,Закупки,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-008,Продукт/операции,production_order_id,Производство,Частично,Да,Заказ на выпуск конкретного SKU/qty,"SKU, qty, dates, status обязательны",Производство,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-009,Продукт/операции,operation_id,Операция,Нет,Да,Отдельная операция производства,start/end/hours/output/rework,Производство,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-010,Продукт/операции,cost_version_id,Себестоимость,Нет,Да,Утверждённая версия фактической/плановой cost,Одна active version per context/date,Финансы,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-011,Продукт/операции,inventory_movement_id,Склад,Нет,Да,Строка движения материалов/готовой продукции,"Документ, дата, склад, qty, value",Склад,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-012,Продукт/операции,sales_line_id,Продажа,Нет,Да,Строка продажи/возврата,"Дата, channel, SKU, qty, price, discount",Коммерция,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-013,Продукт/операции,settlement_id,Расчёты ЦУМ/B2B,Нет,Да,Отчёт/период расчёта с каналом,gross-return-commission=net_due,Финансы,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-014,Продукт/операции,bank_payment_id,Платёж,Частично,Да,Уникальная банковская операция,Счёт+дата+номер+сумма уникальны,Финансы,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-015,Продукт/операции,source_file_id/source_row_id,Lineage,Нет,Да,Ссылка на первичный файл и строку,Каждая canonical запись трассируется назад,Data steward,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-016,Налоги/ФОТ,source_file_id,Lineage,Частично,Да,Стабильный ID файла-источника,Unique per file version,Data steward,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-017,Налоги/ФОТ,source_row_id,Lineage,Нет,Да,Лист/строка или PDF reference,Not null for imported record,Data steward,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-018,Налоги/ФОТ,version_id,Lineage,Нет,Да,Версия/корректировка документа,Correction chain,Бухгалтерия,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-019,Налоги/ФОТ,employer_id,Master,Частично,Да,ИП/ООО плательщик,FK employer master,Бухгалтерия,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-020,Налоги/ФОТ,employee_id,Master,Нет,Да,Обезличенный стабильный ID сотрудника,"Unique, valid dates",HR,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-021,Налоги/ФОТ,accrual_period,Payroll,Частично,Да,Месяц начисления,YYYY-MM,HR,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-022,Налоги/ФОТ,payroll_batch_id,Payroll,Нет,Да,Пакет выплаты,Unique per bank registry,HR/Финансы,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-023,Налоги/ФОТ,declaration_id,Tax form,Частично,Да,Форма + плательщик + период + корректировка,Unique active version,Бухгалтерия,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-024,Налоги/ФОТ,tax_type,Tax obligation,Частично,Да,НДФЛ/РСВ/НСиПЗ/прочее,Controlled dictionary,Бухгалтерия,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-025,Налоги/ФОТ,obligation_id,Tax obligation,Нет,Да,Налоговое обязательство по сроку,Unique; amount/due_date required,Бухгалтерия,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-026,Налоги/ФОТ,due_date,Tax obligation,Нет в ledger,Да,Срок исполнения обязательства,Valid date,Бухгалтерия,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-027,Налоги/ФОТ,bank_payment_id,Bank,Можно сформировать,Да,account_id+doc_no+date,Unique,Финансы,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-028,Налоги/ФОТ,ens_allocation_id,ENS,Нет,Да,Распределение ЕНП на обязательство,FK obligation/payment,Бухгалтерия,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-029,Налоги/ФОТ,allocation_amount_rub,ENS,Нет,Да,Сумма allocation,"Non-negative, controlled total",Бухгалтерия,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-030,Налоги/ФОТ,close_status,Close,Нет,Да,Open/Exception/Closed,Closed only if open amount=0 or signed exception,CFO,Текущие файлы / предварительный registry,MDM/ERP/DWH/Data catalog
+DC-031,Финансы/управление,bank_account_id,Банковский счёт,Частично,Да,Уникальный счёт в юридическом и валютном контуре,Счёт+юрлицо+валюта уникальны,Финансы,Разрозненные файлы,ERP/DMS/Data catalog
+DC-032,Финансы/управление,cash_transaction_id,ДДС/касса,Нет,Да,Строка фактического движения денег,Уникальна; сумма и account balance reconcile,Финансы,Разрозненные файлы,ERP/DMS/Data catalog
+DC-033,Финансы/управление,plan_version_id,Бюджет/план,Нет,Да,Утверждённая версия сценария,Одна active version per period/scenario,Финансы,Разрозненные файлы,ERP/DMS/Data catalog
+DC-034,Финансы/управление,ar_ap_item_id,AR/AP,Нет,Да,Открытая позиция расчётов,Invoice + counterparty + due date + open balance,Финансы,Разрозненные файлы,ERP/DMS/Data catalog
+DC-035,Финансы/управление,close_period_id,Закрытие,Нет,Да,Контролируемый период закрытия,Не закрывается при open critical exceptions,Финансы,Разрозненные файлы,ERP/DMS/Data catalog
+DC-036,Финансы/управление,contract_id,Договор,Частично,Да,Уникальный договор и версия,"Counterparty, dates, status, limits обязательны",Юристы,Разрозненные файлы,ERP/DMS/Data catalog
+DC-037,Финансы/управление,approval_id,Согласование,Нет,Да,Запись решения и лимита,"Approver, date, scope, decision immutable",Руководство,Разрозненные файлы,ERP/DMS/Data catalog

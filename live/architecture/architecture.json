@@ -1,0 +1,313 @@
+{
+  "generated_at": "2026-07-23 18:24",
+  "stats": {
+    "files": 93,
+    "registers": 15,
+    "spine": 21,
+    "family_schemes": 28,
+    "edges": 199,
+    "families": 23
+  },
+  "family_counts": {
+    "FAM-COLL": 12,
+    "FAM-ZP": 11,
+    "FAM-TAX-RSV": 6,
+    "FAM-TAX-6NDFL": 5,
+    "FAM-COST": 5,
+    "FAM-TAX-NDS": 5,
+    "FAM-ZP-SHOP": 5,
+    "FAM-TAX-ENS": 5,
+    "FAM-ZP-DES": 5,
+    "FAM-TAX-USN": 4,
+    "FAM-HR": 4,
+    "FAM-LEGAL": 3,
+    "FAM-BANK-VTB": 3,
+    "FAM-BANK-XLS": 3,
+    "FAM-DDS": 3,
+    "FAM-TSUM": 3,
+    "FAM-EXP": 3,
+    "FAM-BUD": 2,
+    "FAM-B2B": 2,
+    "FAM-SALES": 1,
+    "FAM-MD": 1,
+    "FAM-MAT": 1,
+    "FAM-SUP": 1
+  },
+  "registers": [
+    {
+      "id": "REG-LEGAL",
+      "name": "Legal Entity Master",
+      "grain": "legal_entity_id"
+    },
+    {
+      "id": "REG-BANK",
+      "name": "Bank Account & Payment Hub",
+      "grain": "bank_payment_id"
+    },
+    {
+      "id": "REG-CASH",
+      "name": "Cash Movement Ledger (ДДС canonical)",
+      "grain": "cash_line_id"
+    },
+    {
+      "id": "REG-SALES",
+      "name": "Sales Line Register",
+      "grain": "sales_line_id"
+    },
+    {
+      "id": "REG-SETTLE",
+      "name": "Settlement / Invoice Register",
+      "grain": "settlement_id"
+    },
+    {
+      "id": "REG-PAYROLL",
+      "name": "Payroll Accrual & Batch",
+      "grain": "payroll_line_id"
+    },
+    {
+      "id": "REG-EMP",
+      "name": "Employee Master",
+      "grain": "employee_id"
+    },
+    {
+      "id": "REG-TAX",
+      "name": "Tax Obligation & ENS Allocation",
+      "grain": "obligation_id"
+    },
+    {
+      "id": "REG-SKU",
+      "name": "Product / SKU Master",
+      "grain": "canonical_sku"
+    },
+    {
+      "id": "REG-COST",
+      "name": "Cost Version Register",
+      "grain": "cost_version_id"
+    },
+    {
+      "id": "REG-PROD",
+      "name": "Production Order & BOM",
+      "grain": "production_order_id"
+    },
+    {
+      "id": "REG-MAT",
+      "name": "Material / Inventory Movement",
+      "grain": "material_movement_id"
+    },
+    {
+      "id": "REG-SUP",
+      "name": "Supplier / Counterparty Master",
+      "grain": "counterparty_id"
+    },
+    {
+      "id": "REG-EXP",
+      "name": "Expense / P2P Ledger",
+      "grain": "expense_line_id"
+    },
+    {
+      "id": "REG-BUD",
+      "name": "Budget Version",
+      "grain": "budget_line_id"
+    }
+  ],
+  "spine": [
+    {
+      "from": "REG-LEGAL",
+      "to": "REG-BANK",
+      "join": "legal_entity_id",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-BANK",
+      "to": "REG-CASH",
+      "join": "bank_payment_id + date/amount fallback",
+      "strength": "HARD→SOFT"
+    },
+    {
+      "from": "REG-SALES",
+      "to": "REG-CASH",
+      "join": "period + channel/article class",
+      "strength": "SOFT"
+    },
+    {
+      "from": "REG-SALES",
+      "to": "REG-SETTLE",
+      "join": "sales_line_id",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-SETTLE",
+      "to": "REG-BANK",
+      "join": "bank_payment_id",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-SALES",
+      "to": "REG-SKU",
+      "join": "canonical_sku",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-COST",
+      "to": "REG-SKU",
+      "join": "canonical_sku + cost_version_id",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-COST",
+      "to": "REG-SALES",
+      "join": "canonical_sku + period",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-PAYROLL",
+      "to": "REG-EMP",
+      "join": "employee_id",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-PAYROLL",
+      "to": "REG-CASH",
+      "join": "payroll_batch_id + payment_month",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-PAYROLL",
+      "to": "REG-BANK",
+      "join": "bank_payment_id",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-PAYROLL",
+      "to": "REG-TAX",
+      "join": "employer_id + period (+ employee_id)",
+      "strength": "HARD/SOFT"
+    },
+    {
+      "from": "REG-TAX",
+      "to": "REG-BANK",
+      "join": "obligation_id→payment",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-EXP",
+      "to": "REG-SUP",
+      "join": "counterparty_id",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-EXP",
+      "to": "REG-CASH",
+      "join": "period + article",
+      "strength": "SOFT"
+    },
+    {
+      "from": "REG-EXP",
+      "to": "REG-BANK",
+      "join": "bank_payment_id",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-MAT",
+      "to": "REG-COST",
+      "join": "material_id",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-PROD",
+      "to": "REG-COST",
+      "join": "production_order_id",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-PROD",
+      "to": "REG-SKU",
+      "join": "canonical_sku",
+      "strength": "HARD"
+    },
+    {
+      "from": "REG-BUD",
+      "to": "REG-CASH",
+      "join": "article_id + period",
+      "strength": "SOFT"
+    },
+    {
+      "from": "REG-COST",
+      "to": "REG-PAYROLL",
+      "join": "employee_id / work_id",
+      "strength": "SOFT"
+    }
+  ],
+  "paths": [
+    "P01 Sale→Bank",
+    "P02 TSUM→Margin",
+    "P03 B2B→Cash",
+    "P04 Payroll→Tax",
+    "P05 Payroll→Bank",
+    "P06 Labor→Cost",
+    "P07 Material→COGS",
+    "P08 Supplier Pay",
+    "P09 Tax Pay",
+    "P10 Budget",
+    "P11 Collection P&L",
+    "P12 Entity Perimeter"
+  ],
+  "max_connectivity": {
+    "generated_at": "2026-07-23 18:24",
+    "asis": {
+      "edges": 199,
+      "resolved_edges": 122,
+      "unmatched_edges": 77,
+      "components": 50,
+      "component_sizes_top10": [
+        43,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "files_in_largest_component": 43
+    },
+    "tobe_via_spine": {
+      "registers": 15,
+      "spine_edges_undirected": 21,
+      "file_pairs_by_reg_hops": {
+        "0": 1884,
+        "1": 1774,
+        "2": 547,
+        "3": 73
+      },
+      "components_hops_le_3": 1,
+      "component_sizes_top10": [
+        93
+      ],
+      "files_unified_if_spine": 93,
+      "family_schemes": 276,
+      "family_schemes_connected": 276
+    },
+    "max_insight": "As-is: 122 прямых рёбер, 50 компонент (крупнейший 43). To-be через spine (≤3 hops): единый контур 93/93 файлов, пар по hops={0: 1884, 2: 547, 1: 1774, 3: 73}."
+  },
+  "ddl_registers": [
+    "REG-LEGAL",
+    "REG-BANK",
+    "REG-CASH",
+    "REG-SALES",
+    "REG-SETTLE",
+    "REG-PAYROLL",
+    "REG-EMP",
+    "REG-TAX",
+    "REG-SKU",
+    "REG-COST",
+    "REG-PROD",
+    "REG-MAT",
+    "REG-SUP",
+    "REG-EXP",
+    "REG-BUD"
+  ],
+  "w1_stubs": "live/registers/w1_bank_cash/"
+}

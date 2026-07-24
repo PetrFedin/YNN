@@ -1,0 +1,24 @@
+{
+  "wave": "H9",
+  "generated_at": "2026-07-24 16:35",
+  "finding": "H9: fixed 5 cost-identity collisions; neg SKUs 5→4; margin 51.5%→51.6%; returns 23 lines / -1947470.41 ₽.",
+  "stats": {
+    "switched_lines": 5,
+    "review_flagged": 0,
+    "collision_rows": 5
+  },
+  "margin_before": {
+    "negative_skus": 5,
+    "margin_pct": 51.5
+  },
+  "margin_after": {
+    "negative_skus": 4,
+    "overall_revenue_costed": 192918904.92,
+    "overall_margin": 99598338.46,
+    "overall_margin_pct": 51.6,
+    "returns_lines": 23,
+    "returns_revenue_sum": -1947470.41
+  },
+  "finance_packet_rows": 4,
+  "not_sot": true
+}

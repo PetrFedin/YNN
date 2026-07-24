@@ -1,0 +1,156 @@
+{
+  "wave": "H27",
+  "generated_at": "2026-07-24 19:29",
+  "finding": "H27: business structure ingested; 10 RACI stubs→real FIO; 7 model flags (P0: TSUM commission in COGS; channel mix 83/8/9; Decor wind-down). See live/BUSINESS_STRUCTURE.md",
+  "raci_replaced_n": 10,
+  "raci_replaced": [
+    {
+      "item_id": "SRC-CTRL-01",
+      "role": "Approver",
+      "old": "ВРЕМЯНКА Payroll Approver (stub)",
+      "new": "Мамушкина Елена"
+    },
+    {
+      "item_id": "SRC-CTRL-02",
+      "role": "Owner",
+      "old": "ВРЕМЯНКА Costing Owner (stub)",
+      "new": "Мокеева Анна"
+    },
+    {
+      "item_id": "SRC-CTRL-02",
+      "role": "Approver",
+      "old": "ВРЕМЯНКА Costing Approver (stub)",
+      "new": "Коптева Марина"
+    },
+    {
+      "item_id": "SRC-CTRL-03",
+      "role": "Owner",
+      "old": "ВРЕМЯНКА B2B Owner (stub)",
+      "new": "Коптева Марина"
+    },
+    {
+      "item_id": "SRC-CTRL-03",
+      "role": "Approver",
+      "old": "ВРЕМЯНКА B2B Approver (stub)",
+      "new": "Мамушкина Елена"
+    },
+    {
+      "item_id": "DOM-PRODUCT",
+      "role": "Owner",
+      "old": "ВРЕМЯНКА Product Owner (stub)",
+      "new": "Коновалова Анна"
+    },
+    {
+      "item_id": "DOM-COST",
+      "role": "Owner",
+      "old": "ВРЕМЯНКА Cost Owner (stub)",
+      "new": "Мокеева Анна"
+    },
+    {
+      "item_id": "DOM-PROD",
+      "role": "Owner",
+      "old": "ВРЕМЯНКА Production Owner (stub)",
+      "new": "Мокеева Анна"
+    },
+    {
+      "item_id": "DOM-B2B",
+      "role": "Owner",
+      "old": "ВРЕМЯНКА B2B Owner (stub)",
+      "new": "Коптева Марина"
+    },
+    {
+      "item_id": "DOM-DATA",
+      "role": "Owner",
+      "old": "ВРЕМЯНКА Data Steward (stub)",
+      "new": "Сливяк Галина"
+    }
+  ],
+  "owners": [
+    {
+      "domain": "CASH",
+      "owner": "Мамушкина Елена",
+      "status": "ACCEPTED",
+      "source": "H27_BUSINESS_BRIEF",
+      "stub": "N",
+      "replace_with_real_fio": "N"
+    },
+    {
+      "domain": "BANK",
+      "owner": "Сливяк Галина",
+      "status": "ACCEPTED",
+      "source": "H27_BUSINESS_BRIEF",
+      "stub": "N",
+      "replace_with_real_fio": "N"
+    },
+    {
+      "domain": "TAX",
+      "owner": "Сливяк Галина",
+      "status": "ACCEPTED",
+      "source": "H27_BUSINESS_BRIEF",
+      "stub": "N",
+      "replace_with_real_fio": "N"
+    },
+    {
+      "domain": "TAX_APPROVER",
+      "owner": "ЯНИНА ЮЛИЯ ФЕДОРОВНА",
+      "status": "ACCEPTED",
+      "source": "H27_BUSINESS_BRIEF",
+      "stub": "N",
+      "replace_with_real_fio": "N"
+    },
+    {
+      "domain": "PAYROLL",
+      "owner": "Сливяк Галина",
+      "status": "ACCEPTED",
+      "source": "H27_BUSINESS_BRIEF",
+      "stub": "N",
+      "replace_with_real_fio": "N"
+    },
+    {
+      "domain": "PRODUCT",
+      "owner": "Коновалова Анна",
+      "status": "ACCEPTED",
+      "source": "H27_BUSINESS_BRIEF",
+      "stub": "N",
+      "replace_with_real_fio": "N"
+    },
+    {
+      "domain": "COST",
+      "owner": "Мокеева Анна",
+      "status": "ACCEPTED",
+      "source": "H27_BUSINESS_BRIEF",
+      "stub": "N",
+      "replace_with_real_fio": "N"
+    },
+    {
+      "domain": "PRODUCTION",
+      "owner": "Мокеева Анна",
+      "status": "ACCEPTED",
+      "source": "H27_BUSINESS_BRIEF",
+      "stub": "N",
+      "replace_with_real_fio": "N"
+    },
+    {
+      "domain": "B2B",
+      "owner": "Коптева Марина",
+      "status": "ACCEPTED",
+      "source": "H27_BUSINESS_BRIEF",
+      "stub": "N",
+      "replace_with_real_fio": "N"
+    },
+    {
+      "domain": "DATA_STEWARD",
+      "owner": "Сливяк Галина",
+      "status": "ACCEPTED",
+      "source": "H27_BUSINESS_BRIEF",
+      "stub": "N",
+      "replace_with_real_fio": "N"
+    }
+  ],
+  "model_flags_n": 7,
+  "p0_flags": [
+    "MF-TSUM-COGS-COMMISSION",
+    "MF-CHANNEL-MIX-2025"
+  ],
+  "not_sot": true
+}

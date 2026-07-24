@@ -1,0 +1,19 @@
+{
+  "wave": "H17",
+  "generated_at": "2026-07-24 17:39",
+  "path_choice": "Owner action pack + SKU alias candidates — next value without new bank files/RACI autofill",
+  "finding": "H17: 10 owner actions; B2B open request 15; finance evidence lines 8; SKU alias candidates 16.",
+  "actions_n": 10,
+  "by_priority": {
+    "P0": 1,
+    "P1": 4,
+    "P2": 3,
+    "P3": 2
+  },
+  "b2b_open_n": 15,
+  "b2b_open_rev": 2514023.0,
+  "finance_evidence_n": 8,
+  "sku_alias_candidates_n": 16,
+  "xlsx": "live/registers/h17_owner_pack/YANINA_OWNER_ACTION_PACK_H17.xlsx",
+  "not_sot": true
+}

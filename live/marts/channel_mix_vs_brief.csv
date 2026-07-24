@@ -1,0 +1,7 @@
+scope,channel,brief_share_pct,our_share_pct,our_amount_eur,delta_pp,note
+brief_vs_sales_dds_2025,MD_INDIVIDUAL,83.0,83.9,2325846.0,0.9,Income EUR basis (SALES DDS); closes H27 MF-CHANNEL-MIX for income view
+brief_vs_sales_dds_2025,TSUM_B2B,9.0,8.0,221937.65,-1.0,Income EUR basis (SALES DDS); closes H27 MF-CHANNEL-MIX for income view
+brief_vs_sales_dds_2025,IM,8.0,7.7,214212.24,-0.3,Income EUR basis (SALES DDS); closes H27 MF-CHANNEL-MIX for income view
+brief_vs_sales_dds_2025,OTHER_REGIONAL,,0.8,21172.02,,Income EUR basis (SALES DDS); closes H27 MF-CHANNEL-MIX for income view
+brief_vs_sales_dds_2025,OTHER_RETURNS,,-0.4,-11480.56,,Income EUR basis (SALES DDS); closes H27 MF-CHANNEL-MIX for income view
+goods_costed_marts,B2B+IM+TSUM,,,,,Goods marts intentionally exclude MD services — see margin_channel_total

@@ -1,0 +1,437 @@
+{
+  "generated_at": "2026-07-23 18:02",
+  "zp_dds": {
+    "months": 11,
+    "match_close": 2,
+    "gaps": 9,
+    "rows": [
+      {
+        "month": "2025-01",
+        "zp": 6157128.0,
+        "dds": 2162299.67,
+        "diff": 3994828.33,
+        "pct": 184.7490607072053,
+        "status": "GAP",
+        "shop": null,
+        "designers": null,
+        "components_sum": 0,
+        "comp_vs_dds": null,
+        "zp_file": "ЗП за январь 2025.xlsx",
+        "zp_where": "окладники:r61",
+        "zp_score": 6
+      },
+      {
+        "month": "2025-02",
+        "zp": 5760967.0,
+        "dds": 9772279.0,
+        "diff": -4011312.0,
+        "pct": -41.04786611188649,
+        "status": "GAP",
+        "shop": null,
+        "designers": null,
+        "components_sum": 0,
+        "comp_vs_dds": null,
+        "zp_file": "ЗП за февраль 2025.xlsx",
+        "zp_where": "Отчет Салахова:r17",
+        "zp_score": 6
+      },
+      {
+        "month": "2025-03",
+        "zp": 6074650.0,
+        "dds": 7219118.21,
+        "diff": -1144468.21,
+        "pct": -15.853296437432904,
+        "status": "GAP",
+        "shop": null,
+        "designers": null,
+        "components_sum": 0,
+        "comp_vs_dds": null,
+        "zp_file": "ЗП за март 2025.xlsx",
+        "zp_where": "окладники:r64",
+        "zp_score": 6
+      },
+      {
+        "month": "2025-04",
+        "zp": 6223500.0,
+        "dds": 8990136.3,
+        "diff": -2766636.3000000007,
+        "pct": -30.774130754836282,
+        "status": "GAP",
+        "shop": null,
+        "designers": null,
+        "components_sum": 0,
+        "comp_vs_dds": null,
+        "zp_file": "ЗП за апрель 2025.xlsx",
+        "zp_where": "окладники:r67",
+        "zp_score": 6
+      },
+      {
+        "month": "2025-05",
+        "zp": 6618350.0,
+        "dds": 7139623.0,
+        "diff": -521273.0,
+        "pct": -7.301127804647388,
+        "status": "CLOSE",
+        "shop": null,
+        "designers": null,
+        "components_sum": 0,
+        "comp_vs_dds": null,
+        "zp_file": "ЗП за май 2025.xlsx",
+        "zp_where": "окладники:r55",
+        "zp_score": 6
+      },
+      {
+        "month": "2025-06",
+        "zp": 7453400.0,
+        "dds": 8886528.0,
+        "diff": -1433128.0,
+        "pct": -16.126973324114886,
+        "status": "GAP",
+        "shop": null,
+        "designers": null,
+        "components_sum": 0,
+        "comp_vs_dds": null,
+        "zp_file": "ЗП за июнь 2025.xlsx",
+        "zp_where": "окладники:r70",
+        "zp_score": 6
+      },
+      {
+        "month": "2026-01",
+        "zp": 6726650.0,
+        "dds": 1765862.0,
+        "diff": 4960788.0,
+        "pct": 280.92727517778854,
+        "status": "GAP",
+        "shop": 86918.0,
+        "designers": 75600.0,
+        "components_sum": 162518.0,
+        "comp_vs_dds": -1603344.0,
+        "zp_file": "ЗП за январь 2026.xlsx",
+        "zp_where": "окладники:r65",
+        "zp_score": 6
+      },
+      {
+        "month": "2026-02",
+        "zp": 5760967.0,
+        "dds": 9587903.01,
+        "diff": -3826936.01,
+        "pct": -39.91421279510836,
+        "status": "GAP",
+        "shop": 84373.4,
+        "designers": 75600.0,
+        "components_sum": 159973.4,
+        "comp_vs_dds": -9427929.61,
+        "zp_file": "ЗП за февраль 2026.xlsx",
+        "zp_where": "Отчет В2В:r17",
+        "zp_score": 6
+      },
+      {
+        "month": "2026-03",
+        "zp": 9518278.0,
+        "dds": 8197803.890000001,
+        "diff": 1320474.1099999994,
+        "pct": 16.107656730002592,
+        "status": "GAP",
+        "shop": 108887.5,
+        "designers": 75600.0,
+        "components_sum": 184487.5,
+        "comp_vs_dds": -8013316.390000001,
+        "zp_file": "ЗП за март 2026.xlsx",
+        "zp_where": "Распределение:r24",
+        "zp_score": 6
+      },
+      {
+        "month": "2026-04",
+        "zp": 9144149.0,
+        "dds": 9019143.169999998,
+        "diff": 125005.83000000194,
+        "pct": 1.3860056065614266,
+        "status": "MATCH",
+        "shop": 102160.0,
+        "designers": 75600.0,
+        "components_sum": 177760.0,
+        "comp_vs_dds": -8841383.169999998,
+        "zp_file": "ЗП за апрель 2026.xlsx",
+        "zp_where": "Распределение:r26",
+        "zp_score": 6
+      },
+      {
+        "month": "2026-05",
+        "zp": 9648298.94,
+        "dds": 8459897.75,
+        "diff": 1188401.1899999995,
+        "pct": 14.047465171786497,
+        "status": "GAP",
+        "shop": 95957.0,
+        "designers": 75600.0,
+        "components_sum": 171557.0,
+        "comp_vs_dds": -8288340.75,
+        "zp_file": "ЗП за май 2026.xlsx",
+        "zp_where": "Распределение:r26",
+        "zp_score": 6
+      }
+    ]
+  },
+  "dds_meta": {
+    "2024": {
+      "file": "ДДС 2024.xlsx",
+      "sheet": "data B",
+      "rows": 1591
+    },
+    "2025": {
+      "file": "ДДС 2025.xlsx",
+      "sheet": "data B",
+      "rows": 2344
+    },
+    "2026": {
+      "file": "ДДС 2026.xlxs.xlsx",
+      "sheet": "data B",
+      "rows": 962
+    }
+  },
+  "facts_count": 23,
+  "cps": [
+    {
+      "cp": "CP-H2P-01",
+      "chain": "EC-03",
+      "title": "ЗП ↔ ДДС ФОТ",
+      "status": "LIVE_TESTED",
+      "result": "2/11 months match/close; gaps need sheet-level control total review",
+      "next": "Утвердить канонический контрольный итог ЗП (к выплате / начислено) на каждом месяце"
+    },
+    {
+      "cp": "CP-H2P-04",
+      "chain": "EC-03",
+      "title": "6-НДФЛ ↔ РСВ",
+      "status": "CONFIRMED_PRIOR",
+      "result": "diff≈0 за 2024-2025 оба юрлица (stage14/model)",
+      "next": "employee-level только после payroll ledger"
+    },
+    {
+      "cp": "CP-H2P-05",
+      "chain": "EC-03",
+      "title": "ЦЕХ+конструкторы ↔ ФОТ",
+      "status": "COMPONENT",
+      "result": "компоненты извлечены отдельно; не равны полному ФОТ",
+      "next": "матрица роли→статья ДДС"
+    },
+    {
+      "cp": "CP-O2C-01",
+      "chain": "EC-01",
+      "title": "SALES ↔ денежный оборот",
+      "status": "CHECKED_DERIVED",
+      "result": "2024 sales 2.75M vs cash 2.60M EUR; 2025 почти сходятся",
+      "next": "channel settlement ids"
+    },
+    {
+      "cp": "CP-O2C-02",
+      "chain": "EC-01",
+      "title": "ЦУМ ⊆ SALES",
+      "status": "CHECKED_DERIVED",
+      "result": "ЦУМ 2024 = 271551 EUR (9.89% sales)",
+      "next": "SKU join через COST analytics 103/234"
+    },
+    {
+      "cp": "CP-O2C-03",
+      "chain": "EC-01",
+      "title": "B2B economics",
+      "status": "CHECKED_DERIVED",
+      "result": "2025 rev 46.5M RUB / GP 14.1M; 2026 YTD убытки фев-мар",
+      "next": "settlement register"
+    },
+    {
+      "cp": "CP-M2C-01",
+      "chain": "EC-04",
+      "title": "Cost ↔ SKU",
+      "status": "PARTIAL_MEASURED",
+      "result": "862 cost SKU; intersect ЦУМ 103",
+      "next": "canonical_sku approval"
+    },
+    {
+      "cp": "CP-M2C-02",
+      "chain": "EC-04",
+      "title": "Cost ↔ ЦУМ margin",
+      "status": "PARTIAL_MEASURED",
+      "result": "связь есть на 103 артикулах; не полная маржа",
+      "next": "cost_version_id"
+    },
+    {
+      "cp": "CP-M2C-03",
+      "chain": "EC-04",
+      "title": "Ткани остатки",
+      "status": "CHECKED_DERIVED",
+      "result": "29.8M RUB / 1338 позиций на 31.05.2026",
+      "next": "movements/lots"
+    },
+    {
+      "cp": "CP-PA-01",
+      "chain": "EC-06",
+      "title": "Бюджет ↔ ДДС",
+      "status": "CONFIRMED_PRIOR",
+      "result": "агрегатный plan-fact в prior analytics",
+      "next": "budget_version_id"
+    },
+    {
+      "cp": "CP-P2P-01",
+      "chain": "EC-02",
+      "title": "Контрагенты ↔ оплаты",
+      "status": "BLOCKED_KEYS",
+      "result": "63 контрагента, 19 без ИНН",
+      "next": "supplier_id/INN"
+    },
+    {
+      "cp": "CP-TAX-01",
+      "chain": "EC-05",
+      "title": "Налоги ↔ банк",
+      "status": "PARTIAL",
+      "result": "статьи налогов в ДДС выделены; ENS allocation нет",
+      "next": "obligation/ENS registers"
+    }
+  ],
+  "lag": [
+    {
+      "month": "2025-01",
+      "zp": 6157128.0,
+      "same_dds": 2162299.67,
+      "same_pct": 184.7490607072053,
+      "prev_dds": 9588833.1,
+      "prev_pct": -35.78855804675545,
+      "next_dds": 9772279.0,
+      "next_pct": -36.9939396941082,
+      "best_align": "dds_prev_month",
+      "best_pct": -35.78855804675545,
+      "best_status": "GAP"
+    },
+    {
+      "month": "2025-02",
+      "zp": 5760967.0,
+      "same_dds": 9772279.0,
+      "same_pct": -41.04786611188649,
+      "prev_dds": 2162299.67,
+      "prev_pct": 166.42777964258767,
+      "next_dds": 7219118.21,
+      "next_pct": -20.1984670091723,
+      "best_align": "dds_next_month",
+      "best_pct": -20.1984670091723,
+      "best_status": "GAP"
+    },
+    {
+      "month": "2025-03",
+      "zp": 6074650.0,
+      "same_dds": 7219118.21,
+      "same_pct": -15.853296437432904,
+      "prev_dds": 9772279.0,
+      "prev_pct": -37.83793933840817,
+      "next_dds": 8990136.3,
+      "next_pct": -32.4298342395543,
+      "best_align": "same",
+      "best_pct": -15.853296437432904,
+      "best_status": "GAP"
+    },
+    {
+      "month": "2025-04",
+      "zp": 6223500.0,
+      "same_dds": 8990136.3,
+      "same_pct": -30.774130754836282,
+      "prev_dds": 7219118.21,
+      "prev_pct": -13.791410266988827,
+      "next_dds": 7139623.0,
+      "next_pct": -12.831531860996021,
+      "best_align": "dds_next_month",
+      "best_pct": -12.831531860996021,
+      "best_status": "GAP"
+    },
+    {
+      "month": "2025-05",
+      "zp": 6618350.0,
+      "same_dds": 7139623.0,
+      "same_pct": -7.301127804647388,
+      "prev_dds": 8990136.3,
+      "prev_pct": -26.382095007836536,
+      "next_dds": 8886528.0,
+      "next_pct": -25.52378161639732,
+      "best_align": "same",
+      "best_pct": -7.301127804647388,
+      "best_status": "CLOSE"
+    },
+    {
+      "month": "2025-06",
+      "zp": 7453400.0,
+      "same_dds": 8886528.0,
+      "same_pct": -16.126973324114886,
+      "prev_dds": 7139623.0,
+      "prev_pct": 4.394867908291516,
+      "next_dds": 11200096.39,
+      "next_pct": -33.452358439925895,
+      "best_align": "dds_prev_month",
+      "best_pct": 4.394867908291516,
+      "best_status": "CLOSE"
+    },
+    {
+      "month": "2026-01",
+      "zp": 6726650.0,
+      "same_dds": 1765862.0,
+      "same_pct": 280.92727517778854,
+      "prev_dds": 18420901.93,
+      "prev_pct": -63.48360126142857,
+      "next_dds": 9587903.01,
+      "next_pct": -29.842323258962544,
+      "best_align": "dds_next_month",
+      "best_pct": -29.842323258962544,
+      "best_status": "GAP"
+    },
+    {
+      "month": "2026-02",
+      "zp": 5760967.0,
+      "same_dds": 9587903.01,
+      "same_pct": -39.91421279510836,
+      "prev_dds": 1765862.0,
+      "prev_pct": 226.24106527010605,
+      "next_dds": 8197803.890000001,
+      "next_pct": -29.725484077175217,
+      "best_align": "dds_next_month",
+      "best_pct": -29.725484077175217,
+      "best_status": "GAP"
+    },
+    {
+      "month": "2026-03",
+      "zp": 9518278.0,
+      "same_dds": 8197803.890000001,
+      "same_pct": 16.107656730002592,
+      "prev_dds": 9587903.01,
+      "prev_pct": -0.7261755769471407,
+      "next_dds": 9019143.169999998,
+      "next_pct": 5.534171268732638,
+      "best_align": "dds_prev_month",
+      "best_pct": -0.7261755769471407,
+      "best_status": "MATCH"
+    },
+    {
+      "month": "2026-04",
+      "zp": 9144149.0,
+      "same_dds": 9019143.169999998,
+      "same_pct": 1.3860056065614266,
+      "prev_dds": 8197803.890000001,
+      "prev_pct": 11.543885688146162,
+      "next_dds": 8459897.75,
+      "next_pct": 8.08817399713844,
+      "best_align": "same",
+      "best_pct": 1.3860056065614266,
+      "best_status": "MATCH"
+    },
+    {
+      "month": "2026-05",
+      "zp": 9648298.94,
+      "same_dds": 8459897.75,
+      "same_pct": 14.047465171786497,
+      "prev_dds": 9019143.169999998,
+      "prev_pct": 6.975782046489029,
+      "next_dds": 815500.0,
+      "next_pct": 1083.1145236051502,
+      "best_align": "dds_prev_month",
+      "best_pct": 6.975782046489029,
+      "best_status": "CLOSE"
+    }
+  ],
+  "lag_match_close": 5
+}

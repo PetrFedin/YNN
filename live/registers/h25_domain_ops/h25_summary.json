@@ -1,0 +1,14 @@
+{
+  "wave": "H25",
+  "generated_at": "2026-07-24 19:29",
+  "path_choice": "Domain ops board — assign BLOCKED gaps to accepted owners",
+  "finding": "H25: 14 gap rows → 14 assigned (real=14, stub=0), open=0. Open domain asks: 0.",
+  "gap_rows": 14,
+  "assigned_n": 14,
+  "assigned_real_n": 14,
+  "assigned_stub_n": 0,
+  "need_owner_n": 0,
+  "open_domain_asks": 0,
+  "xlsx": "live/YANINA_DOMAIN_OPS_H25.xlsx",
+  "not_sot": true
+}

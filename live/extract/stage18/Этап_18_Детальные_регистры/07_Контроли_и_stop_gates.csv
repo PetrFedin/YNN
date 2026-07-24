@@ -1,0 +1,33 @@
+﻿control_id,domain,step,control,input,output,stop_gate,owner,frequency,evidence_required
+CTRL-001,Продукт/операции,1,Регистрация файла и версии,Исходный файл,source_file_id + version_id,Дубликат/неясный период → карантин,Data steward,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-002,Продукт/операции,2,Нормализация master data,"Модели, SKU, материалы, поставщики",canonical IDs + alias history,Неоднозначный alias → ручное решение,Владельцы справочников,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-003,Продукт/операции,3,Коллекция и BOM,Collection result + tech/cost files,collection_id/model_id/bom_id,Нет версии/норм → модель не запускается,Продукт + технолог,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-004,Продукт/операции,4,План спроса и производства,Продажи/бюджет/заказы,plan_version_id + production orders,Нет canonical_sku → план в карантин,Коммерция + производство,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-005,Продукт/операции,5,Закупка и приёмка,Material requirement,PO + GRN + lot,Нет PO/приёмки → оплата блокируется,Закупки + склад,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-006,Продукт/операции,6,Выдача материала,BOM + production order,material issue movement,Выдача без заказа/BOM → exception,Склад,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-007,Продукт/операции,7,Выполнение операций,Production order,operation fact + rework/defect,Свободный текст/несколько заказов → не принимается,Производство,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-008,Продукт/операции,8,Выпуск и приход FG,Completed production order,FG receipt movement,Qty mismatch → exception,Производство + склад,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-009,Продукт/операции,9,Фактическая cost,Material issues + labor + overhead,approved cost_version,Несколько cost без контекста → не утверждать,Финансы,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-010,Продукт/операции,10,Продажа и возврат,POS/TSUM/B2B sales line,sales_line + inventory issue/return,SKU/qty mismatch → exception,Коммерция + склад,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-011,Продукт/операции,11,Settlement и payment,Channel settlement,settlement→bank link,Net due не закрыт/комиссия не раскрыта,Финансы,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-012,Продукт/операции,12,Profitability close,Sale + cost + stock + settlement,SKU/order/collection profitability,Нет любой ключевой связи → статус Partial,Финансы + аналитика,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-013,Налоги/ФОТ,1,Зарегистрировать все source files и версии,"Формы, банк, ведомости, справки",source_file_id/version_id,Нет незарегистрированных источников,Data steward,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-014,Налоги/ФОТ,2,Импортировать payroll accrual ledger,Ведомости/1С ЗУП,employee accrual facts,employee_id/employer_id/accrual_period заполнены,HR,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-015,Налоги/ФОТ,3,Импортировать tax forms,6-НДФЛ/РСВ/НСиПЗ,declaration facts,Действующая версия формы определена,Бухгалтерия,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-016,Налоги/ФОТ,4,Создать obligation register,Раздел 1 форм + уведомления,obligation_id/due_date/amount,Каждый срок зарегистрирован,Бухгалтерия,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-017,Налоги/ФОТ,5,Импортировать bank payments,Все счета,bank_payment_id,Нет дублей и пропусков,Финансы,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-018,Налоги/ФОТ,6,Импортировать ENS allocations,Операции ЕНС,ens_allocation_id,Каждая allocation связана с obligation,Бухгалтерия,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-019,Налоги/ФОТ,7,Выполнить payroll ↔ forms reconciliation,Accrual + 6-НДФЛ + РСВ,control results,Разницы закрыты/подписаны,HR/Бухгалтерия,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-020,Налоги/ФОТ,8,Выполнить obligation ↔ allocation ↔ payment,Obligation + ENS + bank,open balance,Open amount = 0 или signed exception,Бухгалтерия/Финансы,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-021,Налоги/ФОТ,9,Сверить bank ↔ ДДС,Bank + cash flow,classified cash tax fact,100% bank_payment_id отражены один раз,Финансы,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-022,Налоги/ФОТ,10,Проверить current status и последующие события,ЕНС/СФР certificates,status as of date,ИП и ООО покрыты,Бухгалтерия,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-023,Налоги/ФОТ,11,Подписать exception register,Все отклонения,approved exceptions,Owner + amount + reason + evidence,CFO,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-024,Налоги/ФОТ,12,Закрыть и заблокировать период,Passed gates,close_status=Closed,Lineage complete; edits only via adjustment,CFO,По операции/месяцу,Primary ID + reconciliation result + approval
+CTRL-025,Финансы/закрытие,1,Подтвердить периметр счетов,Реестр банков/касс/карт,Signed account perimeter,Неизвестный счёт/валюта → close blocked,Финансы,Ежемесячно,Signed reconciliation / exception ID
+CTRL-026,Финансы/закрытие,2,Импортировать bank/cash transactions,Statements + cash ledger,cash_transaction register,Gap/duplicate → quarantine,Финансы,Ежемесячно,Signed reconciliation / exception ID
+CTRL-027,Финансы/закрытие,3,Сверить opening + flows = closing,Account balances,Account roll-forward,Residual ≠ 0 → exception,Финансы,Ежемесячно,Signed reconciliation / exception ID
+CTRL-028,Финансы/закрытие,4,Сверить sales/settlement/cash,Sales + settlement + bank,Collection reconciliation,Unallocated payment → exception,Финансы/коммерция,Ежемесячно,Signed reconciliation / exception ID
+CTRL-029,Финансы/закрытие,5,Сверить payroll registry/bank/DDS,Payroll + bank,Payroll cash close,Registry or employee lines mismatch,HR/финансы,Ежемесячно,Signed reconciliation / exception ID
+CTRL-030,Финансы/закрытие,6,Сформировать AR/AP,Invoices + settlements,Open items,No due date/counterparty → blocked,Финансы,Ежемесячно,Signed reconciliation / exception ID
+CTRL-031,Финансы/закрытие,7,Закрыть inventory/WIP/COGS,Movements + cost versions,Inventory and COGS,Missing movement/cost → P&L partial,Склад/производство/финансы,Ежемесячно,Signed reconciliation / exception ID
+CTRL-032,Финансы/закрытие,8,Сформировать P&L/Balance/CF,All ledgers,Signed management statements,Critical exception open → not Closed,Финансы,Ежемесячно,Signed reconciliation / exception ID

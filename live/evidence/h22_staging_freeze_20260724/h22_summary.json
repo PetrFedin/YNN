@@ -1,0 +1,18 @@
+{
+  "wave": "H22",
+  "generated_at": "2026-07-24 19:06",
+  "freeze_id": "STAGING_FREEZE_2026-07-24_1906",
+  "status": "FROZEN_AWAITING_OWNER",
+  "so_t": false,
+  "raci_accept": false,
+  "invariants_pass": 9,
+  "invariants_fail": 0,
+  "stop_policy": "No further autonomous hardenings (H23+) without Owner Packet decision or new source files. Repeating 'делай дальше' without input will be refused.",
+  "owner_next": [
+    "RACI decision_ACCEPT_REJECT",
+    "Confirm/reject RECOMMENDATIONS_H20 / H21 provisional flags",
+    "Optional: DATA_REQUESTS_NOW files"
+  ],
+  "finding": "H22 staging freeze: invariants 9/9 PASS. Status=FROZEN_AWAITING_OWNER. Autonomous path closed.",
+  "manifest_n": 17
+}

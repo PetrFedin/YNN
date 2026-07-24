@@ -1,0 +1,20 @@
+{
+  "wave": "H31",
+  "generated_at": "2026-07-24 19:38",
+  "status": "BRIEF_INTEGRATED_H31",
+  "covers": [
+    "H27 business brief",
+    "H28 TSUM dual",
+    "H29 MD channel",
+    "H30 MD workbook",
+    "H31 exec"
+  ],
+  "so_t": false,
+  "raci_accept": true,
+  "md_recon_since_2024": {
+    "CLOSE_SOFT": 29,
+    "DDS_LAG": 1,
+    "OPEN": 0,
+    "months": 30
+  }
+}

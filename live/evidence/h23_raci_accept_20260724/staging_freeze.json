@@ -1,0 +1,22 @@
+{
+  "wave": "H23",
+  "generated_at": "2026-07-24 19:21",
+  "status": "RACI_ACCEPTED_STAGING",
+  "previous": "FROZEN_AWAITING_OWNER",
+  "so_t": false,
+  "domain_owned": true,
+  "raci_accept": true,
+  "finding": "H23: RACI ACCEPT on 8 named rows; 10 still OPEN_NEEDS_OWNER; H21 flags upgraded (10 lines); recommendations ACCEPT=5. Domain-owned staging — not full SoT.",
+  "open_domains": [
+    "SRC-CTRL-01",
+    "SRC-CTRL-02",
+    "SRC-CTRL-02",
+    "SRC-CTRL-03",
+    "SRC-CTRL-03",
+    "DOM-PRODUCT",
+    "DOM-COST",
+    "DOM-PROD",
+    "DOM-B2B",
+    "DOM-DATA"
+  ]
+}

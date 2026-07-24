@@ -1,0 +1,11 @@
+domain,owner,status,source,stub,replace_with_real_fio
+CASH,Мамушкина Елена,ACCEPTED,DOM-CASH,N,N
+BANK,Сливяк Галина,ACCEPTED,SRC-CTRL-04/DOM,N,N
+TAX,Сливяк Галина,ACCEPTED,DOM-TAX,N,N
+TAX_APPROVER,ЯНИНА ЮЛИЯ ФЕДОРОВНА,ACCEPTED,SRC-CTRL-05,N,N
+PAYROLL,Сливяк Галина,ACCEPTED,DOM-PAYROLL,N,N
+PRODUCT,ВРЕМЯНКА Product Owner (stub),ACCEPTED_STUB,DOM-PRODUCT|H26_STUB,Y,Y
+COST,ВРЕМЯНКА Cost Owner (stub),ACCEPTED_STUB,DOM-COST|H26_STUB,Y,Y
+PRODUCTION,ВРЕМЯНКА Production Owner (stub),ACCEPTED_STUB,DOM-PROD|H26_STUB,Y,Y
+B2B,ВРЕМЯНКА B2B Owner (stub),ACCEPTED_STUB,DOM-B2B|H26_STUB,Y,Y
+DATA_STEWARD,ВРЕМЯНКА Data Steward (stub),ACCEPTED_STUB,DOM-DATA|H26_STUB,Y,Y

@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-07-24 16:04",
+  "wave": "W6",
+  "tax_obligations": 25,
+  "tax_by_type": {
+    "6NDFL": 5,
+    "NDS": 5,
+    "USN": 4,
+    "RSV": 6,
+    "ENS": 2,
+    "REPORT_LIST": 3
+  },
+  "tax_pdf_ok": 25,
+  "dekor_inn_candidates": [
+    "7735518240"
+  ],
+  "tax_cash_lines": 105,
+  "bank_tax_like_payments": 210,
+  "recon_tax_status": {
+    "GAP": 1,
+    "CLOSE": 26,
+    "SOFT_GAP": 3
+  },
+  "tax_close_soft": [
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "budget_lines": 475,
+  "budget_versions": [
+    "BUD-2025H2",
+    "BUD-2026"
+  ],
+  "recon_budget_exp_vs_dds": {
+    "DDS_ONLY": 25,
+    "CLOSE": 2,
+    "SOFT_GAP": 1,
+    "GAP": 2
+  },
+  "recon_budget_payroll": {
+    "GAP": 2,
+    "SOFT_GAP": 2,
+    "CLOSE": 1
+  },
+  "budget_exp_close_soft": [
+    "2026-01",
+    "2026-02",
+    "2026-03"
+  ],
+  "finding": "W6: 25 tax obligations ({'6NDFL': 5, 'NDS': 5, 'USN': 4, 'RSV': 6, 'ENS': 2, 'REPORT_LIST': 3}); tax_cash↔bank: {'GAP': 1, 'CLOSE': 26, 'SOFT_GAP': 3}; budget 475 lines; bud_exp↔DDS: {'DDS_ONLY': 25, 'CLOSE': 2, 'SOFT_GAP': 1, 'GAP': 2}; bud_payroll↔W2: {'GAP': 2, 'SOFT_GAP': 2, 'CLOSE': 1}.",
+  "architecture_complete_waves": [
+    "W1",
+    "W2",
+    "W3",
+    "W4",
+    "W5",
+    "W6"
+  ],
+  "next": "RACI/SoT gate; optional deep PDF amount extract; SUP.inn→bank match"
+}

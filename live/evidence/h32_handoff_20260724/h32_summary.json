@@ -1,0 +1,9 @@
+{
+  "wave": "H32",
+  "generated_at": "2026-07-24 19:38",
+  "finding": "H32: project handoff published (HANDOFF.md). Autonomous data work paused until commit or new files.",
+  "handoff": "HANDOFF.md",
+  "freeze": "BRIEF_INTEGRATED_H31",
+  "stop": true,
+  "not_sot": true
+}

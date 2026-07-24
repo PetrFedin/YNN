@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-07-23 18:39",
+  "wave": "W1",
+  "legal_entities": 2,
+  "bank_accounts": 4,
+  "bank_payments_parsed": 4006,
+  "cash_lines_parsed": 5981,
+  "cash_B": 5138,
+  "cash_D": 843,
+  "recon_months": 30,
+  "recon_status_counts": {
+    "SOFT_GAP": 18,
+    "WIDE_GAP": 2,
+    "CLOSE": 8,
+    "GAP": 1,
+    "BANK_ONLY": 1
+  },
+  "pilot_month": "2025-08",
+  "pilot_soft_matches": 2,
+  "gaps": 3,
+  "principle": "provisional IDs; not SoT until RACI + retests",
+  "next": "parse VTB PDF OR soft-match payroll articles; W2 PAYROLL",
+  "soft_matches_all_soft_months": 23,
+  "soft_months": [
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-07",
+    "2024-08",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-03",
+    "2026-04",
+    "2026-05"
+  ],
+  "cash_article_month_bn_rows": 485,
+  "finding": "W1b: 4006 payments (Alfa+VTB). Internal transfers flagged: 430. Operating bank out vs DDS Б/Нал: {'SOFT_GAP': 18, 'WIDE_GAP': 2, 'CLOSE': 8, 'GAP': 1, 'BANK_ONLY': 1}. CLOSE/SOFT: ['2024-01', '2024-02', '2024-03', '2024-04', '2024-05', '2024-07', '2024-08', '2024-10', '2024-11', '2024-12', '2025-01', '2025-02', '2025-03', '2025-04', '2025-05', '2025-06', '2025-07', '2025-08', '2025-09', '2025-10', '2025-11', '2025-12', '2026-01', '2026-03', '2026-04', '2026-05'].",
+  "w1b": {
+    "generated_at": "2026-07-23 18:40",
+    "wave": "W1b",
+    "vtb_payments_by_account": {
+      "40702810804000008482": 478,
+      "40802810404000000049": 240,
+      "40802810500000006196": 1573
+    },
+    "vtb_payments_total": 2291,
+    "alfa_payments": 1715,
+    "bank_payments_merged": 4006,
+    "recon_status_counts": {
+      "GAP": 29,
+      "BANK_ONLY": 1
+    },
+    "close_or_soft_months": [],
+    "finding": "VTB PDF + Alfa: 4006 payments. Recon statuses {'GAP': 29, 'BANK_ONLY': 1}. Full DDS Б/Нал vs all bank accounts still may GAP (нал/корп.карта/прочие банки)."
+  },
+  "internal_transfers_flagged": 430,
+  "wide_months": [
+    "2024-06",
+    "2024-09"
+  ]
+}

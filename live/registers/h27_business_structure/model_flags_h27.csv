@@ -1,0 +1,8 @@
+flag_id,severity,domain,title,impact,action,status,owner
+MF-TSUM-COGS-COMMISSION,P0,B2B/TSUM/COST,Комиссия ЦУМ включена в себестоимость (УНФ),Маржа TSUM занижена как «товарная»; net-rate сверка может double-count комиссию,Разделить в модели: product_cogs vs tsum_commission; не вычитать комиссию дважды,OPEN_MODEL,Коптева Марина / Мокеева Анна / Сливяк
+MF-CHANNEL-MIX-2025,P0,SALES,Каналы 2025: 83% инд.пошив / 8% ИМ / 9% B2B(ЦУМ),Наш split B2B vs TSUM vs IM может не совпадать с налоговой/управленческой таксономией,Сверить margin_channel_total с брифом; выделить MD/инд.пошив отдельно от wholesale B2B,OPEN_MODEL,Сливяк / Коптева / Мамушкина
+MF-DECOR-WINDDOWN-2026,P1,LEGAL,ООО Декор с 2026 без деятельности → ликвидация,Платежи Декор после 2025 — не operating; сотрудники в ИП,Пометить LE-DEKOR 2026+ как wind-down в bank/tax marts,OPEN_MODEL,Сливяк Галина
+MF-NO-FURNITURE-1C,P1,MATERIALS,Фурнитура не в 1С — только ДДС,Materials mart неполон; COGS фурнитуры эвристический,Не ждать stock фурнитуры; оставить DDS + cost-table inclusion,ACCEPTED_CONSTRAINT,Дендерина / Мокеева
+MF-NO-MD-STOCK,P1,PRODUCT,Нет движения/остатков МД и инд. заказов,Нельзя построить stock SoT по кутюру,Sales-on-fact only; не блокировать SoT отсутствием остатков МД,ACCEPTED_CONSTRAINT,Мокеева / Мамушкина
+MF-FX-RATE-100,P2,FINANCE,Отчёты в EUR по курсу 100; FX diff только с 2026,Сверки RUB↔EUR чувствительны к курсу,Явно хранить fx_policy=100 в DDS marts; не смешивать с рыночным курсом без флага,OPEN_MODEL,Сливяк Галина
+MF-VAT5-IP-2025,P1,TAX,ИП с 2025 плательщик НДС 5%,Выручка/налоги в сверках должны учитывать НДС 5%,Проверить tax cash vs декларации с учётом НДС 5%,OPEN_MODEL,Сливяк Галина

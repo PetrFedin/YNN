@@ -1,0 +1,38 @@
+{
+  "Этап_30_W0_Governance_владельцы_источники_и_связи_YANINA.xlsx": {
+    "size": 58713,
+    "sha256": "50ee0b16812b9ecc56684440026b0df3420628c9322c5b93e53c28bacd65c86c"
+  },
+  "Этап_30_Протокол_W0_Governance_и_назначения_владельцев_YANINA.docx": {
+    "size": 42167,
+    "sha256": "af81d44d5babf543afa05de19da3ee3d0930ac3d25ae72a1283b8c4d3f58c8ae"
+  },
+  "Этап_30_Сводка_preview.png": {
+    "size": 269166,
+    "sha256": "65a15709a05c8db21780e07bdf4c5d7e1e9132147e8beb9eb5e4531f2ccde471"
+  },
+  "README_Этап_30.txt": {
+    "size": 1240,
+    "sha256": "8c685db64b3543b0f7b7d46558ae41b0f04219e6c7b8a37931e8ee1846c34f24"
+  },
+  "validate_stage30.log": {
+    "size": 617,
+    "sha256": "74cb1ec1d5fd81e69d714189accf847dc70f0e4a5263ca3ae53a18ca0b958fa0"
+  },
+  "04_actions_57.csv": {
+    "size": 21522,
+    "sha256": "4ee55121268ec9b1339fb7494223f24ee84b01a15317e4e78e0ccc7bf50e8eaa"
+  },
+  "05_links_199_release_readiness.csv": {
+    "size": 197748,
+    "sha256": "aff5ef6df673db42cef5dc5e902f6c2b83f0ffe455a5af69b25406297bfe3a38"
+  },
+  "06_retests_19.csv": {
+    "size": 16233,
+    "sha256": "ab66171c6a0313033d23c68b0462bb3971cb56a6d315acc43cffce6c02906129"
+  },
+  "07_gaps_14.csv": {
+    "size": 9069,
+    "sha256": "e552f6bc7eb2ae199c53ddbc9533f88482eacb7cfd3b33a26944c27273f65cac"
+  }
+}
