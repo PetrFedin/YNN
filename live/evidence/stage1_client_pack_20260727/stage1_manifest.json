@@ -1,0 +1,27 @@
+{
+  "deliverable": "STAGE1_COMPREHENSIVE_DIAGNOSTIC",
+  "generated_at": "2026-07-27 12:51",
+  "path": "live/client_pack/",
+  "files": [
+    "00_README.md",
+    "01_DIAGNOSTIC_REPORT.md",
+    "02_CONSTRAINTS_MAP.md",
+    "03_RESERVES_MAP.md",
+    "04_PRIORITY_MATRIX.md",
+    "05_RECOMMENDATIONS_NEXT.md"
+  ],
+  "annex": [
+    "OPTIMIZATION_SCENARIOS.md",
+    "OPTIMIZATION_FROM_AVAILABLE_DATA.md",
+    "CFO_EXEC_MEMO.md"
+  ],
+  "scope": "diagnostic_only_no_implementation",
+  "blocks_covered": [
+    "finance",
+    "inventory_wc",
+    "assortment",
+    "processes",
+    "management",
+    "tax_org"
+  ]
+}

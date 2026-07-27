@@ -10,6 +10,13 @@ Updated: 2026-07-24 19:40
 | # | Файл | Зачем |
 |---|------|--------|
 | 1 | `STATUS.md` | Что сейчас важно |
+| 1a | `live/CONSULTING_DIAGNOSTIC.md` | Честный консалтинговый вердикт + 14-дневный sprint |
+| 1b | `live/OWNER_BRIEFING_PACK.md` + `YANINA_OWNER_BRIEFING_PACK.xlsx` | Готовые asks + черновики писем owners |
+| 1c | `live/CFO_EXEC_MEMO.md` + `MEETING_15MIN_SCRIPT.md` | Memo собственнику + сценарий 15 мин |
+| 1d | `live/PHASE_C_UNIFIED_INCOME_DESIGN.md` | Как склеивать A+B позже (design only) |
+| 1e | `live/ILLUSTRATIVE_SCENARIO_2025.md` + `MERKUSHINA_QUESTIONNAIRE.md` | Антипример 2025 + опросник ЦУМ |
+| 1f | `live/DAY7_CHECKPOINT_SCORECARD.md` | Контроль через неделю |
+| 1g | `live/OPTIMIZATION_SCENARIOS.md` | Сценарии S1–S4 (мягкий→жёсткий) с эффектами |
 | 2 | `live/EXEC_DASHBOARD.md` + `live/marts/executive_dashboard.csv` | Срез MD + goods + TSUM |
 | 3 | `live/BUSINESS_STRUCTURE.md` | Юрлица, каналы 83/8/9, RACI |
 | 4 | `live/SOT_POLICY.md` | Owners после ACCEPT |

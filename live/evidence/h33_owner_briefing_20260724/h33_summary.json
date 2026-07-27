@@ -1,0 +1,15 @@
+{
+  "wave": "H33",
+  "kind": "OWNER_BRIEFING_PACK",
+  "generated_at": "2026-07-24 19:56",
+  "finding": "H33: consulting→action. Owner Briefing Pack with exact IM/B2B/TSUM/DDS asks, email drafts, xlsx. No register rebuild. Stale H17 items closed where already accepted.",
+  "im_open_months": 6,
+  "b2b_open_n": 15,
+  "b2b_open_rub": 2514023.0,
+  "docs": [
+    "live/OWNER_BRIEFING_PACK.md",
+    "live/YANINA_OWNER_BRIEFING_PACK.xlsx"
+  ],
+  "not_sot": true,
+  "no_register_rebuild": true
+}

@@ -5,7 +5,7 @@ Updated: 2026-07-24
 
 ---
 
-> **H32 HANDOFF:** автономный контур закрыт. Вход: `HANDOFF.md`. Дальше — `закоммить` или новые данные.
+> **H36:** Forensic Salon Sber 510/510 = bank. Ingest не нужен. STOP до ответов owners.
 
 
 ## 1. Что уже есть (результаты сведения файлов и данных)
@@ -60,6 +60,10 @@ Updated: 2026-07-24
 | **H30** | MD workbook parse | 6.6k payments; recon vs DDS 28/30; 2025 gap −6.2k EUR |
 | **H31** | Exec dashboard + MD OPEN fix | 29/30 CLOSE+SOFT; 2024-01 adj; freeze BRIEF_INTEGRATED |
 | **H32** | Project handoff | `HANDOFF.md`; stop autonomous waves |
+| **H33** | Owner Briefing Pack | Exact IM/B2B/TSUM/DDS asks + email drafts + xlsx |
+| **H34** | CFO memo + Phase C design | Forwardable memo; unified income methodology; 15-min script |
+| **H35** | Scenario + questionnaire + Day7 | Anti-example 2025; Merkushina Q; checkpoint scorecard |
+| **H36** | Forensic Salon Sber | 510/510 match bank; ingest NOT needed; consulting STOP |
 
 ### 1.4. Маржа продаж (indicative)
 | Канал | Выручка | Маржа % | COGS coverage |

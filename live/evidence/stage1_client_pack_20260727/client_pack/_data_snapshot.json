@@ -1,0 +1,422 @@
+{
+  "bank_n": 4933,
+  "bank_by_le_dir": {
+    "LE-IP-YANINA": {
+      "out": 338579535.5999996,
+      "in": 336744029.6300001
+    },
+    "LE-OOO-DEKOR": {
+      "out": 36292961.16,
+      "in": 36270577.4
+    },
+    "LE-OOO-SALON-YANINA": {
+      "out": 5516593.990000015,
+      "in": 4923673.51
+    }
+  },
+  "md_by_year": {
+    "2024": {
+      "pay": 1986334.0,
+      "dds": 1972292.0,
+      "n": 12,
+      "status": {
+        "CLOSE": 11,
+        "SOFT": 1
+      }
+    },
+    "2025": {
+      "pay": 2319617.0,
+      "dds": 2325846.0,
+      "n": 12,
+      "status": {
+        "CLOSE": 9,
+        "SOFT": 3
+      }
+    },
+    "2026": {
+      "pay": 989280.0,
+      "dds": 866180.0,
+      "n": 6,
+      "status": {
+        "CLOSE": 4,
+        "SOFT": 1,
+        "DDS_LAG": 1
+      }
+    }
+  },
+  "goods_by_channel_year": {
+    "B2B": {
+      "2024": {
+        "rev": 10931141.0,
+        "cogs": 3216830.43,
+        "gm": 7714310.57,
+        "lines": 148
+      },
+      "2025": {
+        "rev": 2915429.09,
+        "cogs": 1149778.6,
+        "gm": 1765650.49,
+        "lines": 78
+      },
+      "2026": {
+        "rev": 50656.0,
+        "cogs": 44853.34,
+        "gm": 5802.66,
+        "lines": 4
+      }
+    },
+    "IM": {
+      "2024": {
+        "rev": 24873991.96,
+        "cogs": 3805635.71,
+        "gm": 21068356.25,
+        "lines": 539
+      },
+      "2025": {
+        "rev": 21267946.26,
+        "cogs": 3791178.29,
+        "gm": 17476767.97,
+        "lines": 465
+      },
+      "2026": {
+        "rev": 10000215.05,
+        "cogs": 2162610.56,
+        "gm": 7837604.49,
+        "lines": 165
+      }
+    },
+    "TSUM": {
+      "2024": {
+        "rev": 51619685.33,
+        "cogs": 33078636.28,
+        "gm": 18541049.05,
+        "lines": 294
+      },
+      "2025": {
+        "rev": 48680092.08,
+        "cogs": 29475518.16,
+        "gm": 19204573.92,
+        "lines": 294
+      },
+      "2026": {
+        "rev": 22549498.15,
+        "cogs": 13748379.28,
+        "gm": 8801118.87,
+        "lines": 156
+      }
+    }
+  },
+  "opex_by_year": {
+    "2024": {
+      "revenue_rub": 87736928.29,
+      "revenue_costed_rub": 87424818.29,
+      "cogs_rub": 40101102.42,
+      "gross_margin_rub": 47323715.87,
+      "payroll_rub": 19565628.06,
+      "rent_rub": 10100480.62,
+      "marketing_rub": 2122524.5,
+      "logistics_rub": 1424040.78,
+      "outsource_rub": 2011697.32,
+      "acquiring_fee_rub": 1032390.8,
+      "commission_rub": 487888.51,
+      "card_expense_rub": 5294833.07,
+      "opex_other_rub": 16908688.91,
+      "opex_core_rub": 58948172.57,
+      "tax_cash_rub": 15477433.05,
+      "tax_expense_rub": 15477433.05,
+      "tax_used_rub": 15477433.05,
+      "operating_result_rub": -27101889.75,
+      "memo_materials_rub": 7231252.5,
+      "memo_internal_transfers_rub": 12377340.12,
+      "memo_counterparty_rub": 6511725.6,
+      "memo_fx_rub": 1205116.61,
+      "memo_card_spend_rub": 5387971.56
+    },
+    "2025": {
+      "revenue_rub": 73083041.17,
+      "revenue_costed_rub": 72863467.43,
+      "cogs_rub": 34416475.05,
+      "gross_margin_rub": 38446992.38,
+      "payroll_rub": 37765983.67,
+      "rent_rub": 8438023.89,
+      "marketing_rub": 2854192.0,
+      "logistics_rub": 4169937.22,
+      "outsource_rub": 7498306.18,
+      "acquiring_fee_rub": 1258339.57,
+      "commission_rub": 1044026.4,
+      "card_expense_rub": 1808922.15,
+      "opex_other_rub": 9102625.93,
+      "opex_core_rub": 73940357.01,
+      "tax_cash_rub": 18554297.39,
+      "tax_expense_rub": 8426729.95,
+      "tax_used_rub": 18554297.39,
+      "operating_result_rub": -54047662.02,
+      "memo_materials_rub": 6309324.71,
+      "memo_internal_transfers_rub": 8780735.49,
+      "memo_counterparty_rub": 1911299.0,
+      "memo_fx_rub": 278840.22,
+      "memo_card_spend_rub": 1832299.23
+    },
+    "2026": {
+      "revenue_rub": 32662569.2,
+      "revenue_costed_rub": 32600369.2,
+      "cogs_rub": 15955843.18,
+      "gross_margin_rub": 16644526.02,
+      "payroll_rub": 22297967.17,
+      "rent_rub": 5372865.82,
+      "marketing_rub": 1915357.0,
+      "logistics_rub": 560196.42,
+      "outsource_rub": 2740632.95,
+      "acquiring_fee_rub": 610985.53,
+      "commission_rub": 90000.0,
+      "card_expense_rub": 366374.64,
+      "opex_other_rub": 2023112.89,
+      "opex_core_rub": 35977492.42,
+      "tax_cash_rub": 11407229.78,
+      "tax_expense_rub": 5904421.28,
+      "tax_used_rub": 11407229.78,
+      "operating_result_rub": -30740196.18,
+      "memo_materials_rub": 2085827.42,
+      "memo_internal_transfers_rub": 563744.78,
+      "memo_counterparty_rub": 40656.0,
+      "memo_fx_rub": 0.0,
+      "memo_card_spend_rub": 455214.36
+    }
+  },
+  "gate": {
+    "released": 18,
+    "blocked": 12,
+    "fail_freq": {
+      "BANK_DDS_CORE": 5,
+      "TAX_CASH_BANK": 1,
+      "IM_ACQ_COMBO": 6,
+      "TSUM_NET_MODEL": 2
+    }
+  },
+  "im_open": [
+    {
+      "period_month": "2024-08",
+      "sales_revenue_rub": "977346.0",
+      "bank_combo_rub": "1702041.42",
+      "gap_rub": "724695.42",
+      "gap_pct": "74.1"
+    },
+    {
+      "period_month": "2025-01",
+      "sales_revenue_rub": "776530.0",
+      "bank_combo_rub": "1197045.18",
+      "gap_rub": "420515.18",
+      "gap_pct": "54.2"
+    },
+    {
+      "period_month": "2025-08",
+      "sales_revenue_rub": "3594028.0",
+      "bank_combo_rub": "2658193.31",
+      "gap_rub": "-935834.69",
+      "gap_pct": "-26.0"
+    },
+    {
+      "period_month": "2025-10",
+      "sales_revenue_rub": "676092.0",
+      "bank_combo_rub": "920964.43",
+      "gap_rub": "244872.43",
+      "gap_pct": "36.2"
+    },
+    {
+      "period_month": "2026-03",
+      "sales_revenue_rub": "408090.0",
+      "bank_combo_rub": "672194.72",
+      "gap_rub": "264104.72",
+      "gap_pct": "64.7"
+    },
+    {
+      "period_month": "2026-04",
+      "sales_revenue_rub": "3399021.0",
+      "bank_combo_rub": "2039914.67",
+      "gap_rub": "-1359106.33",
+      "gap_pct": "-40.0"
+    }
+  ],
+  "b2b_open_total": 2514023.0,
+  "b2b_by_buyer": {
+    "ИП Бекеева Асият Багаутдиновна": 832173.0,
+    "ИП Нурова Сабигат Зайирбеговна": 736566.0,
+    "ИП Чухонцева Николь Олеговна": 497645.0,
+    "ИП Смирнова Яна Владимировна": 121698.0,
+    "ИП Сердюкова Ольга Леонидовна": 108471.0,
+    "БЕЛЬ ВИЗО ООО": 86826.0,
+    "ИП Кондрашкина Жанна Геннадьевна": 45044.0,
+    "ИП Джелялова Екатерина Сергеевна": 37800.0,
+    "ИП Стратонова Елена Викторовна": 37800.0,
+    "ИП Раева Елена Валентиновна": 10000.0
+  },
+  "fabric": {
+    "Основной склад": {
+      "qty": 14814.48,
+      "amount": 22560393.72
+    },
+    "Склад Жукова": {
+      "qty": 1634.09,
+      "amount": 2877332.1
+    },
+    "Склад Меркушина": {
+      "qty": 1015.65,
+      "amount": 1202689.24
+    },
+    "Склад Мокеева": {
+      "qty": 1984.74,
+      "amount": 3197241.43
+    }
+  },
+  "w5_summary_snip": {
+    "material_skus": 1339,
+    "material_warehouse_amount_rub": 22560393.72,
+    "material_snapshot_date": "2026-05-31",
+    "expense_opex_total_rub": 245970468.73,
+    "top_opex_articles": [
+      [
+        "оплата труда",
+        53446417.31000001
+      ],
+      [
+        "налоги с зарплаты",
+        15630375.939999998
+      ],
+      [
+        "Счет в тинькофф",
+        14498240.0
+      ],
+      [
+        "налоги (УСН, транспортный, НДС)",
+        14119962.23
+      ],
+      [
+        "аренда помещения",
+        12123107.689999998
+      ],
+      [
+        "Зарплата, больничный",
+        10552785.649999999
+      ],
+      [
+        "Единый налоговый платеж, НСипЗ",
+        9379920.42
+      ],
+      [
+        "ткани, фурнитура МД",
+        7166969.8500000015
+      ]
+    ],
+    "suppliers": 63
+  },
+  "tsum": {
+    "TSUM_REPORTED": {
+      "channel": "TSUM_REPORTED",
+      "lines": "744",
+      "costed_lines": "744",
+      "revenue_rub": "122849275.56",
+      "cogs_rub": "76302533.72",
+      "margin_rub": "46546741.84",
+      "margin_pct": "37.9",
+      "view": "Excel COGS (может включать комиссию ЦУМ)"
+    },
+    "TSUM_PRODUCT": {
+      "channel": "TSUM_PRODUCT",
+      "lines": "740",
+      "costed_lines": "740",
+      "revenue_rub": "121695175.0",
+      "cogs_rub": "14667838.6",
+      "margin_rub": "107027336.4",
+      "margin_pct": "87.9",
+      "view": "Product COGS≈W3; commission_proxy=60954242.56 (FILE−W3)"
+    }
+  },
+  "controls": [
+    {
+      "control_id": "BANK_DDS_CORE",
+      "months": "30",
+      "close": "16",
+      "soft": "9",
+      "open_or_gap": "5",
+      "other": "0",
+      "close_soft_pct": "83.3"
+    },
+    {
+      "control_id": "IM_ACQ_COMBO",
+      "months": "30",
+      "close": "10",
+      "soft": "14",
+      "open_or_gap": "6",
+      "other": "0",
+      "close_soft_pct": "80.0"
+    },
+    {
+      "control_id": "OPEX_CLEAN_BANK",
+      "months": "30",
+      "close": "14",
+      "soft": "11",
+      "open_or_gap": "5",
+      "other": "0",
+      "close_soft_pct": "83.3"
+    },
+    {
+      "control_id": "OPEX_DDS_BANK",
+      "months": "30",
+      "close": "23",
+      "soft": "6",
+      "open_or_gap": "1",
+      "other": "0",
+      "close_soft_pct": "96.7"
+    },
+    {
+      "control_id": "OPEX_MULTI",
+      "months": "30",
+      "close": "29",
+      "soft": "1",
+      "open_or_gap": "0",
+      "other": "0",
+      "close_soft_pct": "100.0"
+    },
+    {
+      "control_id": "PAYROLL_DDS_BANK",
+      "months": "30",
+      "close": "28",
+      "soft": "1",
+      "open_or_gap": "1",
+      "other": "0",
+      "close_soft_pct": "96.7"
+    },
+    {
+      "control_id": "PAYROLL_MULTI",
+      "months": "30",
+      "close": "29",
+      "soft": "1",
+      "open_or_gap": "0",
+      "other": "0",
+      "close_soft_pct": "100.0"
+    },
+    {
+      "control_id": "TAX_CASH_BANK",
+      "months": "30",
+      "close": "26",
+      "soft": "3",
+      "open_or_gap": "1",
+      "other": "0",
+      "close_soft_pct": "96.7"
+    },
+    {
+      "control_id": "TSUM_NET_MODEL",
+      "months": "30",
+      "close": "24",
+      "soft": "4",
+      "open_or_gap": "2",
+      "other": "0",
+      "close_soft_pct": "93.3"
+    }
+  ],
+  "tax_cash_by_year": {
+    "2024": 15477433.05,
+    "2025": 18554297.39,
+    "2026": 11407229.779999997
+  }
+}

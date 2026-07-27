@@ -26,3 +26,9 @@ processed
 # Noise
 live/logs/*.tmp
 *.xlsx.bak
+
+# Local scratch / OS
+*.log
+.Python
+
+# Do not publish raw personal downloads (already covered by documents/sources/processed)

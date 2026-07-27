@@ -1,22 +1,11 @@
 # Статус YANINA
 
-## STOP — handoff (H32)
-Автономная работа по текущим данным **завершена**. Точка входа: **`HANDOFF.md`**.
+## Пакет Этапа 1 — детализирован на документах
+`live/client_pack/` — отчёт + ограничения + резервы + KPI/политики + **`11_FULL_ANALYTICAL_DETAIL.md`**.
 
-| | |
-|--|--|
-| Freeze | `BRIEF_INTEGRATED_H31` |
-| MD recon | 29/30 CLOSE+SOFT + 1 DDS_LAG |
-| TSUM | 37.9% reported / 87.9% product |
-| RACI | 18 ACCEPT |
-| Handoff | `HANDOFF.md` |
+Ключевые факты из документов:
+- МД 2025 DDS **232.6M ₽** @100 · goods **72.9M** · bridge −74% = не KPI компании
+- Ткани на складах **~29.8M** · B2B open **2.51M** · gate **18/30**
+- TSUM dual **37.9% / 87.9%** · proxy комиссии **~61M / 30м**
 
-## Git
-Отдельный репо `yanina-docs` (ветка `main`), без `documents/` / `sources/` / `processed` / `.venv`.
-
-## Дальше только с новыми данными
-- SALES DDS **2026-06** (DDS_LAG)
-- % комиссии ЦУМ (Меркушина)
-- выписки / OPEN B2B
-
-Updated: 2026-07-24 19:42
+Updated: 2026-07-27

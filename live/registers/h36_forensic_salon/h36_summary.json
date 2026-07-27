@@ -1,0 +1,13 @@
+{
+  "wave": "H36",
+  "kind": "FORENSIC_SALON_SBER_COVERAGE",
+  "generated_at": "2026-07-24 20:50",
+  "finding": "H36 forensic: fresh Salon Sber (24.07) 510 rows = exact coverage of bank LE-OOO-SALON (510). date|amount match 510/510. Ingest NOT needed. BANK_DDS BLOCKED not due to missing Salon extract. Consulting STOP until owner input.",
+  "salon_fresh_n": 510,
+  "salon_bank_n": 510,
+  "match": "510/510",
+  "coverage_verdict": "FRESH_ALREADY_COVERED",
+  "doc": "live/FORENSIC_SALON_SBER.md",
+  "stop_consulting_prose": true,
+  "not_sot": true
+}

@@ -1,0 +1,16 @@
+{
+  "wave": "H35",
+  "kind": "SCENARIO_QUESTIONNAIRE_DAY7",
+  "generated_at": "2026-07-24 20:36",
+  "finding": "H35: Illustrative 2025 anti-example (MD 232.6M + goods 72.9M; goods-only -74% is artifact); Merkushina questionnaire; Day-7 scorecard all MISSING; optional Salon Sber note without ingest.",
+  "illustrative_2025": {
+    "md_dds_eur": 2325846,
+    "md_dds_rub_fx100": 232584600,
+    "goods_revenue_rub": 72863467,
+    "goods_op_margin_pct": -74.2,
+    "not_company_pnl": true
+  },
+  "day7_status": "ALL_MISSING",
+  "ingest_salon_sber": "NOT_DONE_BY_DESIGN",
+  "not_sot": true
+}

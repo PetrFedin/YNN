@@ -1,0 +1,40 @@
+{
+  "deliverable": "STAGE1_DETAILED_ON_DOCUMENTS",
+  "generated_at": "2026-07-27 13:34",
+  "path": "live/client_pack/",
+  "core": [
+    "00_README",
+    "01_DIAGNOSTIC_REPORT",
+    "02_CONSTRAINTS_MAP",
+    "03_RESERVES_MAP",
+    "04_PRIORITY_MATRIX",
+    "05_RECOMMENDATIONS_NEXT"
+  ],
+  "addons": [
+    "06_FIN_MODEL_SKELETON",
+    "07_KPI_CATALOG",
+    "08_POLICY_DRAFTS",
+    "09_DATA_LINEAGE",
+    "10_RISK_REGISTER",
+    "11_FULL_ANALYTICAL_DETAIL",
+    "STAGE1_PLUS_WHAT_WE_CAN_ADD"
+  ],
+  "snapshot": "_data_snapshot.json",
+  "honesty": {
+    "can_claim": [
+      "MD cash quality",
+      "goods channel GM",
+      "TSUM dual",
+      "gate gaps",
+      "fabric stock level",
+      "scenario ranges"
+    ],
+    "cannot_claim": [
+      "company P&L",
+      "MD contribution %",
+      "fabric slow-mover %",
+      "TSUM contract rate",
+      "full tax provision"
+    ]
+  }
+}

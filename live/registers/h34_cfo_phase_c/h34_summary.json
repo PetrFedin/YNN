@@ -1,0 +1,15 @@
+{
+  "wave": "H34",
+  "kind": "CFO_MEMO_PHASE_C_DESIGN",
+  "generated_at": "2026-07-24 20:00",
+  "finding": "H34: CFO executive memo + 15-min meeting script + Phase C unified income DESIGN ONLY (no P&L build). Consulting complete until owner decisions/files.",
+  "docs": [
+    "live/CFO_EXEC_MEMO.md",
+    "live/MEETING_15MIN_SCRIPT.md",
+    "live/PHASE_C_UNIFIED_INCOME_DESIGN.md"
+  ],
+  "phase_c_implemented": false,
+  "recommended_tsum_mode": "C1_after_merkushina",
+  "opex_alloc_v1": "O0_no_allocation",
+  "not_sot": true
+}

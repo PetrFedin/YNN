@@ -1,0 +1,4 @@
+owner,priority,request_id,ask,context
+Меркушина / Мокеева / Коптева,P0,BR-TSUM-RATE,Формула % комиссии ЦУМ в cost cards УНФ или подтверждение «только cash»,reported GM 37.9% vs product 87.9%; net-rate cash 0.4668 — no double count
+Коптева / Сливяк,P0,BR-TSUM-0506,Агентские ЦУМ 2026-05 и 2026-06 (сейчас agent_allocated=0),gate BLOCKED TSUM_NET_MODEL
+Сливяк / Мамушкина,P1,BR-MD-DDS-06,Заполнить SALES DDS Salon+Shop за 2026-06 (~125337 EUR уже в МД workbook),единственный DDS_LAG на periметре ≥2024
