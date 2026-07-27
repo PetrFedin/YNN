@@ -1,0 +1,13 @@
+process_id,source_docs_hint,registers,marts_outputs,owner,quality_note
+P01_Order_MD,"МД workbook,SALES DDS","REG-SALES,REG-CASH","md recon,MD_INDIVIDUAL",Мамушкина/Сливяк,HIGH_cash / LOW_unit_econ
+P02_Sell_IM,"Продажи ИМ,bank acquiring","REG-SALES,REG-BANK","margin IM,recon_im",Сливяк,HIGH_gm / MED_cash_gap
+P03_Sell_TSUM,"Продажи ЦУМ,cost cards","REG-SALES,REG-COST,REG-BANK","margin dual,recon_tsum",Коптева/Мокеева,HIGH_volume / HIGH_method_risk
+P04_Sell_B2B,"Продажи B2B,settlements,bank","REG-SALES,REG-SETTLE,REG-BANK","settle links,b2b open",Коптева,LOW_volume / OPEN_2.5M
+P05_Procure_fabric,"Движение тканей,suppliers","REG-MAT,REG-SUP",material_stock,Дендерина/Мокеева,WC~30M / no_ABC
+P06_Procure_furn,DDS only,"REG-EXP,REG-CASH",opex articles,Дендерина,INVISIBLE
+P07_Produce,"cost excel,W3","REG-COST,REG-PROD","cost versions,aliases",Мокеева,no_1C_costing
+P08_Payroll,"ЗП files,DDS,bank","REG-PAYROLL,REG-BANK,REG-CASH",payroll multi,Сливяк,CONTROL_OK / lines_partial
+P09_Opex_rent,"Расходы,DDS,bank","REG-EXP,REG-CASH,REG-BANK",opex multi,Сливяк,CONTROL_OK
+P10_Tax,"PDF tax,bank УФК","REG-TAX,REG-BANK",tax cash recon,Сливяк/Янина,CONTROL_OK / PDF_partial
+P11_Treasury,"bank,DDS,card","REG-BANK,REG-CASH","bank_dds,gate",Мамушкина/Сливяк,83%_core
+P12_Manage_report,"Excel CF/P&L,marts",all regs→marts,"gate,exec dash,client_pack",Янина/Сливяк,METHOD_GAP_A_B

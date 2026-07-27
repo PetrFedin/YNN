@@ -27,6 +27,10 @@
 | A2 | `../OPTIMIZATION_FROM_AVAILABLE_DATA.md` | Приложение: выводы H/M/L |
 | A3 | `../CFO_EXEC_MEMO.md` | Приложение: memo собственнику |
 | A4 | `../MATURITY_ASSESSMENT.md` | Приложение: зрелость данных |
+| M0 | `../maps/00_MAPS_INDEX.md` | **Карты системы:** процессы, документы, данные, сущности, контроли, value stream |
+| M1 | `../maps/07_CROSSWALK_MATRIX.md` | Сопоставление процесс↔док↔регистр↔mart |
+| M2 | `../maps/08_UNIFIED_ALGORITHM.md` | Единый алгоритм чтения / close / оптимизации |
+| M3 | `../maps/09_PROBLEMS_PLUS_MINUS.md` | Углублённый ± и приоритеты P0–P2 |
 
 ---
 

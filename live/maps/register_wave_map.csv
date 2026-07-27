@@ -1,0 +1,7 @@
+wave,name,registers,key_tables,business_domain
+W1,BANK/CASH,"REG-BANK,REG-CASH,REG-LEGAL","bank_payments,cash,legal",finance_cash
+W2,PAYROLL/EMP,"REG-PAYROLL,REG-EMP","payroll_lines,emp",hr_payroll
+W3,SKU/COST,"REG-SKU,REG-COST,REG-PROD","sku,cost_versions",product_cost
+W4,SALES/SETTLE,"REG-SALES,REG-SETTLE","sales_lines,settlements",sales_channels
+W5,SUP/EXP/MAT,"REG-SUP,REG-EXP,REG-MAT","suppliers,expense,materials",opex_stock
+W6,TAX/BUD,"REG-TAX,REG-BUD","tax_*,budget_*",tax_budget
