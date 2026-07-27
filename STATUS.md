@@ -7,14 +7,18 @@
 
 Сырые `documents/` / Downloads **не** в git.
 
-## Пакет Этапа 1
-`live/client_pack/` + сценарии + детальное приложение `11_FULL_ANALYTICAL_DETAIL.md`
+## Аналитика
+Слои 1–5 + Stage 1 client_pack — **готовы**.  
+Текстовое углубление — **исчерпано** (`live/maps/execution_pack/EXHAUSTION.json`).
 
-## Карты и углубление (слои 1–5)
-`live/maps/` — процессы, данные, синтез, Layers 2–5.
+## Что делать вместо «углубляй анализ»
+Открыть `live/maps/execution_pack/` и выбрать решение:
+1. `D-ACQ-POS-01` — класс POS 62.3M  
+2. `D-B2B-01` — collect 2.51M  
+3. `D-IM-REG-01` — реестры IM  
+4. `D-MD-INV-01` — сверка invoice↔МД  
+5. ведомости ЗП / cost МД / %% ЦУМ  
 
-**Narrative исчерпан.** Следующий артефакт:  
-`live/maps/execution_pack/` + `live/client_pack/17_EXECUTION_PACK.md`  
-(7 решений owners, CSV для POS/B2B/IM/МД — не новый обзор).
+Без ACCEPT или новых файлов новый обзорный слой на GitHub **не создаём**.
 
 Updated: 2026-07-27
