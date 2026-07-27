@@ -1,11 +1,13 @@
-# Статус YANINA
+# Статус YANINA / YNN
 
-## Пакет Этапа 1 — детализирован на документах
-`live/client_pack/` — отчёт + ограничения + резервы + KPI/политики + **`11_FULL_ANALYTICAL_DETAIL.md`**.
+## GitHub
+Репозиторий: **https://github.com/PetrFedin/YNN** (private)  
+Ветка: `main`  
+Локально: `/Users/petr/Projects/yanina-docs`
 
-Ключевые факты из документов:
-- МД 2025 DDS **232.6M ₽** @100 · goods **72.9M** · bridge −74% = не KPI компании
-- Ткани на складах **~29.8M** · B2B open **2.51M** · gate **18/30**
-- TSUM dual **37.9% / 87.9%** · proxy комиссии **~61M / 30м**
+Сырые `documents/` / Downloads **не** в git.
+
+## Пакет Этапа 1
+`live/client_pack/` + сценарии + детальное приложение `11_FULL_ANALYTICAL_DETAIL.md`
 
 Updated: 2026-07-27
