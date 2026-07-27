@@ -24,8 +24,10 @@
   ],
   "github_path": "live/maps/execution_pack/",
   "so_t": "N",
-  "repeated_deepen_requests_noted": 2,
-  "last_repeat_at": "2026-07-27T18:42:30+03:00",
+  "repeated_deepen_requests_noted": 3,
+  "last_repeat_at": "2026-07-27T18:43:00+03:00",
   "response_policy": "Do not create Layer N narrative; point to execution_pack; ask which OWNER decision to execute or which files arrived",
-  "open_decisions_path": "live/maps/execution_pack/OWNER_DECISIONS_PENDING.csv"
+  "open_decisions_path": "live/maps/execution_pack/OWNER_DECISIONS_PENDING.csv",
+  "hard_stop": true,
+  "hard_stop_message": "No further narrative layers or counter-only commits without OWNER decision id or new source files"
 }
