@@ -1,0 +1,383 @@
+{
+  "md_salon_orders_2024plus": {
+    "2024": {
+      "lines": 277,
+      "unique_clients": 63,
+      "price_sum_rub_field": 1512565.0,
+      "aov_rub_field": 5541.0,
+      "cost_gt0_lines": 0,
+      "cost_fill_pct": 0.0,
+      "note": "price_amount from workbook — NOT reconciled to DDS/bank; cost unusable"
+    },
+    "2025": {
+      "lines": 283,
+      "unique_clients": 67,
+      "price_sum_rub_field": 1625360.0,
+      "aov_rub_field": 5889.0,
+      "cost_gt0_lines": 0,
+      "cost_fill_pct": 0.0,
+      "note": "price_amount from workbook — NOT reconciled to DDS/bank; cost unusable"
+    },
+    "2026": {
+      "lines": 119,
+      "unique_clients": 40,
+      "price_sum_rub_field": 915840.0,
+      "aov_rub_field": 7761.0,
+      "cost_gt0_lines": 93,
+      "cost_fill_pct": 78.2,
+      "note": "price_amount from workbook — NOT reconciled to DDS/bank; cost unusable"
+    }
+  },
+  "md_shop_sales_2024plus": {
+    "2024": {
+      "lines": 792,
+      "gross_field_rub": 1109239.0,
+      "aov_field": 1429.0,
+      "cost_fill_pct": 1.0
+    },
+    "2025": {
+      "lines": 813,
+      "gross_field_rub": 1198792.0,
+      "aov_field": 1489.0,
+      "cost_fill_pct": 6.6
+    },
+    "2026": {
+      "lines": 283,
+      "gross_field_rub": 358467.0,
+      "aov_field": 1271.0,
+      "cost_fill_pct": 90.5
+    }
+  },
+  "md_salon_cost_fill_by_year": {
+    "2013": {
+      "lines": 98,
+      "cost_gt0": 0,
+      "fill_pct": 0.0
+    },
+    "2014": {
+      "lines": 377,
+      "cost_gt0": 152,
+      "fill_pct": 40.3
+    },
+    "2015": {
+      "lines": 391,
+      "cost_gt0": 286,
+      "fill_pct": 73.1
+    },
+    "2016": {
+      "lines": 369,
+      "cost_gt0": 0,
+      "fill_pct": 0.0
+    },
+    "2017": {
+      "lines": 347,
+      "cost_gt0": 0,
+      "fill_pct": 0.0
+    },
+    "2018": {
+      "lines": 336,
+      "cost_gt0": 0,
+      "fill_pct": 0.0
+    },
+    "2019": {
+      "lines": 330,
+      "cost_gt0": 10,
+      "fill_pct": 3.0
+    },
+    "2020": {
+      "lines": 420,
+      "cost_gt0": 0,
+      "fill_pct": 0.0
+    },
+    "2021": {
+      "lines": 271,
+      "cost_gt0": 16,
+      "fill_pct": 5.9
+    },
+    "2022": {
+      "lines": 309,
+      "cost_gt0": 0,
+      "fill_pct": 0.0
+    },
+    "2023": {
+      "lines": 267,
+      "cost_gt0": 0,
+      "fill_pct": 0.0
+    },
+    "2024": {
+      "lines": 277,
+      "cost_gt0": 0,
+      "fill_pct": 0.0
+    },
+    "2025": {
+      "lines": 283,
+      "cost_gt0": 0,
+      "fill_pct": 0.0
+    },
+    "2026": {
+      "lines": 119,
+      "cost_gt0": 93,
+      "fill_pct": 78.2
+    }
+  },
+  "md_payments_eur_2024plus": {
+    "2024": 1916334.0,
+    "2025": 2319617.0,
+    "2026": 989280.0
+  },
+  "opex_buckets_mrub": {
+    "2024": {
+      "PAYROLL": 19.57,
+      "OPEX_OTHER": 16.91,
+      "TAX": 15.48,
+      "INTERNAL_TRANSFER_MEMO": 12.38,
+      "RENT": 10.1,
+      "MATERIALS_MEMO": 7.23,
+      "COUNTERPARTY_MEMO": 6.51,
+      "CARD_EXPENSE": 5.29,
+      "MARKETING": 2.12,
+      "OUTSOURCE": 2.01,
+      "LOGISTICS": 1.42,
+      "FX_MEMO": 1.21,
+      "ACQUIRING_FEE": 1.03,
+      "COMMISSION": 0.49
+    },
+    "2025": {
+      "PAYROLL": 37.77,
+      "OPEX_OTHER": 9.1,
+      "INTERNAL_TRANSFER_MEMO": 8.78,
+      "RENT": 8.44,
+      "TAX": 8.43,
+      "OUTSOURCE": 7.5,
+      "MATERIALS_MEMO": 6.31,
+      "LOGISTICS": 4.17,
+      "MARKETING": 2.85,
+      "COUNTERPARTY_MEMO": 1.91,
+      "CARD_EXPENSE": 1.81,
+      "ACQUIRING_FEE": 1.26,
+      "COMMISSION": 1.04,
+      "FX_MEMO": 0.28
+    },
+    "2026": {
+      "PAYROLL": 22.3,
+      "TAX": 5.9,
+      "RENT": 5.37,
+      "OUTSOURCE": 2.74,
+      "MATERIALS_MEMO": 2.09,
+      "OPEX_OTHER": 2.02,
+      "MARKETING": 1.92,
+      "ACQUIRING_FEE": 0.61,
+      "INTERNAL_TRANSFER_MEMO": 0.56,
+      "LOGISTICS": 0.56,
+      "CARD_EXPENSE": 0.37,
+      "COMMISSION": 0.09,
+      "COUNTERPARTY_MEMO": 0.04
+    }
+  },
+  "opex_payroll_yoy": {
+    "2024": 19.57,
+    "2025": 37.77,
+    "delta_mrub": 18.2,
+    "delta_pct": 93.0
+  },
+  "opex_other_top_articles_2025": [
+    {
+      "article": "аутсорс (одежда) Площадки",
+      "mrub": 4.44
+    },
+    {
+      "article": "ткани, фурнитура МД",
+      "mrub": 4.1
+    },
+    {
+      "article": "Дмитровка",
+      "mrub": 2.03
+    },
+    {
+      "article": "аутсорс МД",
+      "mrub": 1.76
+    },
+    {
+      "article": "ткани, фурнитура Площадки",
+      "mrub": 1.23
+    },
+    {
+      "article": "аутсорс (одежда) ИМ",
+      "mrub": 1.18
+    },
+    {
+      "article": "мероприятие МД",
+      "mrub": 0.85
+    },
+    {
+      "article": "расходники для изделий МД",
+      "mrub": 0.65
+    },
+    {
+      "article": "подарки партнерам МД",
+      "mrub": 0.53
+    },
+    {
+      "article": "Маяковка",
+      "mrub": 0.5
+    },
+    {
+      "article": "Тверская",
+      "mrub": 0.48
+    },
+    {
+      "article": "подарки партнерам",
+      "mrub": 0.39
+    }
+  ],
+  "goods_sku_concentration": {
+    "total_rev": 193322539.0,
+    "total_gm": 102460330.0,
+    "curve": [
+      {
+        "top_n": 5,
+        "rev_share_pct": 7.1,
+        "gm_share_pct": 6.5
+      },
+      {
+        "top_n": 10,
+        "rev_share_pct": 11.9,
+        "gm_share_pct": 11.7
+      },
+      {
+        "top_n": 20,
+        "rev_share_pct": 21.4,
+        "gm_share_pct": 20.3
+      },
+      {
+        "top_n": 40,
+        "rev_share_pct": 34.7,
+        "gm_share_pct": 33.4
+      }
+    ],
+    "top5": [
+      {
+        "sku": "T-3001",
+        "name": "Куртка женская, черная, из шелкового бархата, с вышитым деко",
+        "margin_mrub": 1.7,
+        "margin_pct": 51.1,
+        "channels": "IM,TSUM"
+      },
+      {
+        "sku": "T-2540",
+        "name": "Блуза женская, голубая с принтом \"большие синие капли\", из ш",
+        "margin_mrub": 1.33,
+        "margin_pct": 43.8,
+        "channels": "B2B,IM,TSUM"
+      },
+      {
+        "sku": "T-2495B",
+        "name": "Платье женское, черное с принтом \"белые балерины\", из шелка,",
+        "margin_mrub": 1.24,
+        "margin_pct": 44.8,
+        "channels": "IM,TSUM"
+      },
+      {
+        "sku": "T-2420A",
+        "name": "Блуза женская, белая с принтом \"оранжевые \"Y\", из шелка,  с ",
+        "margin_mrub": 1.23,
+        "margin_pct": 43.7,
+        "channels": "B2B,IM,TSUM"
+      },
+      {
+        "sku": "0-3073",
+        "name": "Свитшот женский, голубой, с декором принт \"MY YANINA COUTURE",
+        "margin_mrub": 1.17,
+        "margin_pct": 91.3,
+        "channels": "B2B,IM,TSUM"
+      }
+    ],
+    "bottom5_by_margin": [
+      {
+        "sku": "0-2497",
+        "margin_rub": -25055.34,
+        "margin_pct": -35.8,
+        "channels": "B2B"
+      },
+      {
+        "sku": "0-2496",
+        "margin_rub": -14155.57,
+        "margin_pct": -23.6,
+        "channels": "B2B"
+      },
+      {
+        "sku": "0-2493A",
+        "margin_rub": -5884.56,
+        "margin_pct": -19.6,
+        "channels": "B2B"
+      },
+      {
+        "sku": "0-1670",
+        "margin_rub": 1.0,
+        "margin_pct": 100.0,
+        "channels": "IM"
+      },
+      {
+        "sku": "0-2125I",
+        "margin_rub": 148.72,
+        "margin_pct": 0.1,
+        "channels": "IM"
+      }
+    ]
+  },
+  "returns_revenue_rub": {
+    "IM": -614861.0,
+    "TSUM": -1332609.0
+  },
+  "returns_by_year": {
+    "2024": {
+      "IM": -262281.0,
+      "TSUM": -856808.0
+    },
+    "2025": {
+      "IM": -352580.0,
+      "TSUM": -324601.0
+    },
+    "2026": {
+      "TSUM": -151200.0
+    }
+  },
+  "sku_alias_candidates_n": 16,
+  "sku_dual_identity_n": 20,
+  "sku_dual_by_issue": {
+    "null": 20
+  },
+  "im_combo_status": {
+    "SOFT": 14,
+    "CLOSE": 10,
+    "OPEN": 6
+  },
+  "im_open_months": [
+    "2024-08",
+    "2025-01",
+    "2025-08",
+    "2025-10",
+    "2026-03",
+    "2026-04"
+  ],
+  "b2b_multipay_n": 14,
+  "b2b_high_conf_links_n": 7,
+  "analysis_exhaustion": {
+    "can_still_deepen_without_new_files": [
+      "SKU ABC within goods (done here)",
+      "Opex bucket structure (done here)",
+      "MD workbook cost-field forensic (done here)",
+      "Returns magnitude (done here)",
+      "Rewrite/reformat existing packs"
+    ],
+    "cannot_deepen_without_new_data": [
+      "MD unit economics 2024-2026 (cost_fill≈0%)",
+      "Furniture WC visibility",
+      "Contractual TSUM commission %",
+      "Full PDF tax amounts",
+      "Closing 12 BLOCKED months",
+      "B2B collectability of 2.51M",
+      "Audited company P&L"
+    ]
+  }
+}

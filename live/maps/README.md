@@ -23,7 +23,9 @@ Updated: 2026-07-27
 | `09_PROBLEMS_PLUS_MINUS.md` | Проблемы и зрелость |
 | `10_DEEP_SYNTHESIS.md` | Углублённый синтез всех контуров |
 | `11_MONTHLY_QUALITY_MAP.md` | Gate/gaps по месяцам |
-| `deep_synthesis_snapshot.json` | Агрегаты для воспроизводимости |
+| `12_LAYER2_MD_OPEX_SKU.md` | Forensic МД + opex + SKU ABC |
+| `deep_synthesis_snapshot.json` | Агрегаты слоя 1 |
+| `depth_layer2_snapshot.json` | Агрегаты слоя 2 |
 
 ## Машиночитаемое
 
