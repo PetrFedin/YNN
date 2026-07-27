@@ -1,0 +1,120 @@
+{
+  "candidates_n": 496,
+  "by_proposed_class_n": {
+    "OTHER_IN_KEEP": 278,
+    "REFUND_CANDIDATE": 33,
+    "CLIENT_ORDER_CANDIDATE": 3,
+    "CLIENT_INVOICE_CANDIDATE": 59,
+    "ACQ_IM_CANDIDATE": 123
+  },
+  "by_proposed_class_rub": {
+    "OTHER_IN_KEEP": 50459317.68,
+    "REFUND_CANDIDATE": 886302.8,
+    "CLIENT_ORDER_CANDIDATE": 443000.0,
+    "CLIENT_INVOICE_CANDIDATE": 38574673.0,
+    "ACQ_IM_CANDIDATE": 62257128.81
+  },
+  "acq_im_candidate_rub": 62257128.81,
+  "acq_im_candidate_n": 123,
+  "im_open_months": [
+    "2024-08",
+    "2025-01",
+    "2025-08",
+    "2025-10",
+    "2026-03",
+    "2026-04"
+  ],
+  "im_open_months_with_candidate_add": {
+    "2024-08": 462756.05,
+    "2025-01": 0,
+    "2025-08": 366800.0,
+    "2025-10": 3966620.0,
+    "2026-03": 4549174.89,
+    "2026-04": 4116399.15
+  },
+  "im_open_hyp_improved_crude_n": 1,
+  "im_open_detail": [
+    {
+      "period_month": "2024-08",
+      "status_as_is": "OPEN",
+      "sales_revenue_rub": 977346.0,
+      "bank_acq_im_as_is": 1999329.53,
+      "bank_in_best_as_is": 0.0,
+      "acq_candidate_add_rub": 462756.05,
+      "bank_hyp_best_plus_cand": 462756.05,
+      "gap_hyp_pct": -52.7,
+      "status_hyp_crude": "OPEN",
+      "is_gate_open_month": "Y",
+      "note": "hyp crude ±10/30; NOT gate policy; candidates not applied"
+    },
+    {
+      "period_month": "2025-01",
+      "status_as_is": "OPEN",
+      "sales_revenue_rub": 776530.0,
+      "bank_acq_im_as_is": 2074733.18,
+      "bank_in_best_as_is": 0.0,
+      "acq_candidate_add_rub": 0.0,
+      "bank_hyp_best_plus_cand": 0.0,
+      "gap_hyp_pct": -100.0,
+      "status_hyp_crude": "OPEN",
+      "is_gate_open_month": "Y",
+      "note": "hyp crude ±10/30; NOT gate policy; candidates not applied"
+    },
+    {
+      "period_month": "2025-08",
+      "status_as_is": "OPEN",
+      "sales_revenue_rub": 3594028.0,
+      "bank_acq_im_as_is": 773638.19,
+      "bank_in_best_as_is": 0.0,
+      "acq_candidate_add_rub": 366800.0,
+      "bank_hyp_best_plus_cand": 366800.0,
+      "gap_hyp_pct": -89.8,
+      "status_hyp_crude": "OPEN",
+      "is_gate_open_month": "Y",
+      "note": "hyp crude ±10/30; NOT gate policy; candidates not applied"
+    },
+    {
+      "period_month": "2025-10",
+      "status_as_is": "OPEN",
+      "sales_revenue_rub": 676092.0,
+      "bank_acq_im_as_is": 1772878.43,
+      "bank_in_best_as_is": 0.0,
+      "acq_candidate_add_rub": 3966620.0,
+      "bank_hyp_best_plus_cand": 3966620.0,
+      "gap_hyp_pct": 486.7,
+      "status_hyp_crude": "OPEN",
+      "is_gate_open_month": "Y",
+      "note": "hyp crude ±10/30; NOT gate policy; candidates not applied"
+    },
+    {
+      "period_month": "2026-03",
+      "status_as_is": "OPEN",
+      "sales_revenue_rub": 408090.0,
+      "bank_acq_im_as_is": 672194.72,
+      "bank_in_best_as_is": 0.0,
+      "acq_candidate_add_rub": 4549174.89,
+      "bank_hyp_best_plus_cand": 4549174.89,
+      "gap_hyp_pct": 1014.7,
+      "status_hyp_crude": "OPEN",
+      "is_gate_open_month": "Y",
+      "note": "hyp crude ±10/30; NOT gate policy; candidates not applied"
+    },
+    {
+      "period_month": "2026-04",
+      "status_as_is": "OPEN",
+      "sales_revenue_rub": 3399021.0,
+      "bank_acq_im_as_is": 2039914.67,
+      "bank_in_best_as_is": 0.0,
+      "acq_candidate_add_rub": 4116399.15,
+      "bank_hyp_best_plus_cand": 4116399.15,
+      "gap_hyp_pct": 21.1,
+      "status_hyp_crude": "SOFT",
+      "is_gate_open_month": "Y",
+      "note": "hyp crude ±10/30; NOT gate policy; candidates not applied"
+    }
+  ],
+  "rule_gap_vs_h10": "h10 misses ВОЗМЕЩЕНИЕ СР-В ПО ДОГОВОРУ … ПОС-ФРКК (only exact ЭКВАЙРИНГА phrase)",
+  "proposed_h10_rule_patch": "if 'ВОЗМЕЩЕНИЕ' in pur and ('ПОС' in pur or 'ФРКК' in pur): return 'ACQ_IM'",
+  "so_t": "N",
+  "status": "CANDIDATE_IMPACT_ONLY"
+}

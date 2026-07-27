@@ -19,9 +19,11 @@ Updated: 2026-07-27
 | 11 | Помесячное качество | `11_MONTHLY_QUALITY_MAP.md` | 18/12 gate, fails, gap board |
 | 12 | Layer 2: МД/opex/SKU | `12_LAYER2_MD_OPEX_SKU.md` | Forensic cost МД + ФОТ +93% + SKU ABC |
 | 13 | Layer 3: касса/классы | `13_LAYER3_CASH_CLASSIFICATION.md` | OTHER_IN 62M POS-like, payroll lines, TSUM≠IM |
+| 14 | Layer 4: impact reclass | `14_LAYER4_RECLASS_IMPACT.md` | Кандидаты + эффект на IM OPEN (1/6) |
 | JSON | Снимок синтеза | `deep_synthesis_snapshot.json` | Агрегаты слоя 1 |
 | JSON | Снимок слоя 2 | `depth_layer2_snapshot.json` | МД/opex/SKU агрегаты |
 | JSON | Снимок слоя 3 | `depth_layer3_snapshot.json` | OTHER_IN / bank / payroll |
+| JSON | Impact слоя 4 | `depth_layer4_reclass_impact.json` | Кандидаты + hyp IM |
 | CSV | Машиночитаемые срезы | `*.csv` в этой папке | Каталог, crosswalk, волны |
 
 ## Как пользоваться (30 секунд)
@@ -32,7 +34,7 @@ Updated: 2026-07-27
 4. «Где теряем деньги?» → `06` + `09`  
 5. «Как всё связать?» → `07` + **`08`**  
 6. «Углубить всё честно» → **`10`–`13`** + `client_pack/12–14_*`  
-7. «Ещё углубляй без файлов?» → exhaustion в `12`/`13`: дальше классификация OTHER_IN или S1, не новые обзоры  
+7. «Ещё углубляй без файлов?» → **Layer 4 уже измерил**: влоб 62M≠fix IM; дальше ACCEPT/патч POS-класса или реестры, не Layer 5 обзор  
 
 Канон ID процессов: только P01–P12 из `01_PROCESS_MAP.md`.
 

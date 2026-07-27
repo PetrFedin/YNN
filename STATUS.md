@@ -13,7 +13,8 @@
 ## Карты системы (углубление)
 `live/maps/` — процессы P01–P12, документы/данные, L0–L5, сущности/каналы, контроли, value stream, crosswalk, единый алгоритм, ± проблемы (`00`…`09`), синтез `10`, помесячный gate `11`, JSON-снимок.
 
-Точка входа: `live/maps/00_MAPS_INDEX.md` · слои углубления: `10`–`13` · client: `12`–`14`  
-Исчерпание narrative: без переклассификации OTHER_IN / новых файлов — следующий шаг execution, не Layer 4 обзор.
+Точка входа: `live/maps/00_MAPS_INDEX.md` · слои: `10`–`14` · client: `12`–`15`  
+Layer 4: кандидаты OTHER_IN + impact (`build_layer4_reclass_impact.py`) — **не SoT**.  
+Дальше без ACCEPT/реестров: narrative исчерпан.
 
 Updated: 2026-07-27

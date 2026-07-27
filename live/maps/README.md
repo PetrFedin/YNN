@@ -25,9 +25,14 @@ Updated: 2026-07-27
 | `11_MONTHLY_QUALITY_MAP.md` | Gate/gaps по месяцам |
 | `12_LAYER2_MD_OPEX_SKU.md` | Forensic МД + opex + SKU ABC |
 | `13_LAYER3_CASH_CLASSIFICATION.md` | OTHER_IN / bank DDS / payroll lines |
+| `14_LAYER4_RECLASS_IMPACT.md` | Impact переклассификации на IM |
+| `build_layer4_reclass_impact.py` | Воспроизводимый расчёт кандидатов |
+| `bank_in_reclass_candidates.csv` | Кандидаты классов (so_t=N) |
+| `im_acq_reclass_impact.csv` | Hyp impact по месяцам IM |
 | `deep_synthesis_snapshot.json` | Агрегаты слоя 1 |
 | `depth_layer2_snapshot.json` | Агрегаты слоя 2 |
 | `depth_layer3_snapshot.json` | Агрегаты слоя 3 |
+| `depth_layer4_reclass_impact.json` | Сводка impact |
 
 ## Машиночитаемое
 
