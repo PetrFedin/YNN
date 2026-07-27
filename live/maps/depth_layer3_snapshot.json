@@ -1,0 +1,341 @@
+{
+  "bank_dds_by_status": {
+    "WIDE_GAP": 4,
+    "SOFT_GAP": 9,
+    "CLOSE": 16,
+    "BANK_ONLY": 1
+  },
+  "bank_dds_problem_months": [
+    {
+      "period_month": "2026-06",
+      "status": "BANK_ONLY",
+      "delta_core_vs_dds": 5549424.35,
+      "bank_core_out": 5549424.35,
+      "bank_card_out": 102928.72,
+      "bank_salon_out": 158459.86,
+      "dds_b_bn": 0.0
+    },
+    {
+      "period_month": "2024-12",
+      "status": "WIDE_GAP",
+      "delta_core_vs_dds": 1852187.69,
+      "bank_core_out": 10724705.19,
+      "bank_card_out": 886165.5,
+      "bank_salon_out": 115764.3,
+      "dds_b_bn": 8872517.5
+    },
+    {
+      "period_month": "2026-02",
+      "status": "WIDE_GAP",
+      "delta_core_vs_dds": -1499972.03,
+      "bank_core_out": 5029262.42,
+      "bank_card_out": 39497.66,
+      "bank_salon_out": 109876.51,
+      "dds_b_bn": 6529234.45
+    },
+    {
+      "period_month": "2024-06",
+      "status": "WIDE_GAP",
+      "delta_core_vs_dds": 957596.36,
+      "bank_core_out": 4317077.66,
+      "bank_card_out": 493671.44,
+      "bank_salon_out": 95105.17,
+      "dds_b_bn": 3359481.3
+    },
+    {
+      "period_month": "2024-01",
+      "status": "WIDE_GAP",
+      "delta_core_vs_dds": 836571.18,
+      "bank_core_out": 4107644.54,
+      "bank_card_out": 667396.08,
+      "bank_salon_out": 127784.05,
+      "dds_b_bn": 3271073.36
+    }
+  ],
+  "bank_dds_problem_abs_delta_sum": 10695752.0,
+  "other_in": {
+    "payments_n": 496,
+    "total_rub": 152620422.0,
+    "top15": [
+      {
+        "counterparty": "ФИЛИАЛ № 7701 БАНКА ВТБ (ПАО)",
+        "rub": 73784274.0,
+        "share_pct": 48.3
+      },
+      {
+        "counterparty": "АО \"АЛЬФА-БАНК\"",
+        "rub": 7941404.0,
+        "share_pct": 5.2
+      },
+      {
+        "counterparty": "КУЛИШОВА МАРИНА ВАЛЕРЬЕВНА",
+        "rub": 6323493.0,
+        "share_pct": 4.1
+      },
+      {
+        "counterparty": "ВЕЛИГОДСКАЯ ВЛАДА ОЛЕГОВНА //191023, САНКТ- ПЕТЕРБУРГ Г, РЕКИ ФОНТАНКИ НАБ, Д. 5",
+        "rub": 6228350.0,
+        "share_pct": 4.1
+      },
+      {
+        "counterparty": "ИП КУРБАНОВА ЛИНА АНАТОЛЬЕВНА",
+        "rub": 4362615.0,
+        "share_pct": 2.9
+      },
+      {
+        "counterparty": "БАРАШКОВ ВАСИЛИЙ ВАСИЛЬЕВИЧ",
+        "rub": 3140000.0,
+        "share_pct": 2.1
+      },
+      {
+        "counterparty": "ФИЛИАЛ \"ЦЕНТРАЛЬНЫЙ\" БАНКА ВТБ (ПАО)",
+        "rub": 2861323.0,
+        "share_pct": 1.9
+      },
+      {
+        "counterparty": "ИП ДЬЯКОНОВ НИКИТА ВИТАЛЬЕВИЧ",
+        "rub": 2647730.0,
+        "share_pct": 1.7
+      },
+      {
+        "counterparty": "СЕДЫХ АНАТОЛИЙ МИХАЙЛОВИЧ",
+        "rub": 2113900.0,
+        "share_pct": 1.4
+      },
+      {
+        "counterparty": "НОВАЧУК ОЛЕГ//КАЗАХСТАН, АЛМА-АТА, БУЗУРБАЕВА, ДОМ 33, КОРП. А, КВАРТИРА 48,//",
+        "rub": 2098800.0,
+        "share_pct": 1.4
+      },
+      {
+        "counterparty": "АХМЕДОВА АННА АНАТОЛЬЕВНА",
+        "rub": 1950000.0,
+        "share_pct": 1.3
+      },
+      {
+        "counterparty": "ЧЕРЕПАНОВ ВЛАДИМИР СТЕПАНОВИЧ//65000 0, РОССИЯ, ОБЛ КЕМЕРОВСКАЯ ОБЛАСТЬ - КУЗБАС",
+        "rub": 1912350.0,
+        "share_pct": 1.3
+      },
+      {
+        "counterparty": "ПАО СБЕРБАНК//УЛАНО ВА ИРИНА АЛЕКСАНДРОВНА// 2264586052837//1 25047, РОССИЯ, МОС",
+        "rub": 1786500.0,
+        "share_pct": 1.2
+      },
+      {
+        "counterparty": "ИП БЕКЕЕВА АСИЯТ БАГАУТДИНОВНА Р/С 40802810360320007310 В ПАО СБЕРБАНК Г МОСКВА",
+        "rub": 1586811.0,
+        "share_pct": 1.0
+      },
+      {
+        "counterparty": "СЕЙДАК ОЛЕГ ИГОРЕВИЧ//117570, РОССИЯ, Г МОСКВА, УЛ КРАСНОГО МАЯКА, Д. 22, КОРП.",
+        "rub": 1458000.0,
+        "share_pct": 1.0
+      }
+    ]
+  },
+  "other_in_heuristic_buckets": {
+    "OTHER": 137219801.0,
+    "BANK_TRANSFER_LIKE": 15400621.0
+  },
+  "payroll_lines": {
+    "no_lines_months": [
+      "2024-01",
+      "2024-02",
+      "2024-03",
+      "2024-04",
+      "2024-05",
+      "2024-06",
+      "2024-07",
+      "2024-08",
+      "2024-09",
+      "2024-10",
+      "2024-11",
+      "2024-12",
+      "2025-07",
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-06"
+    ],
+    "no_lines_n": 19,
+    "status_lines": {
+      "NO_LINES": 19,
+      "WIDE_GAP": 11
+    },
+    "status_overall": {
+      "CLOSE": 29,
+      "SOFT": 1
+    }
+  },
+  "channel_cash_status": {
+    "IM": {
+      "SOFT": 14,
+      "CLOSE": 10,
+      "OPEN": 6
+    },
+    "TSUM": {
+      "SOFT": 5,
+      "OPEN": 23,
+      "CLOSE": 2
+    }
+  },
+  "channel_cash_open_abs_gap_rub": {
+    "IM": 3949129.0,
+    "TSUM": 64481503.0
+  },
+  "tsum_cash_open_months": [
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "im_cash_open_months": [
+    "2024-08",
+    "2025-01",
+    "2025-08",
+    "2025-10",
+    "2026-03",
+    "2026-04"
+  ],
+  "md_payment_adjustments": [
+    {
+      "payment_id": "MDP-aac35791caebbca5",
+      "period_month": "2024-01",
+      "payment_date": "2024-01-16",
+      "client": "Казьмина А.",
+      "amount_eur": "-70000.0",
+      "flag": "LARGE_NEG_ADJUSTMENT",
+      "note": "Excluded from operating recon; kept in gross"
+    }
+  ],
+  "md_recon_since_2024": {
+    "OPEN": 2,
+    "CLOSE": 23,
+    "SOFT": 5
+  },
+  "md_recon_nonclose_2024plus": [
+    {
+      "period_month": "2024-01",
+      "status": "OPEN",
+      "gap": -69677.0
+    },
+    {
+      "period_month": "2024-06",
+      "status": "SOFT",
+      "gap": 11760.0
+    },
+    {
+      "period_month": "2025-05",
+      "status": "SOFT",
+      "gap": 5530.0
+    },
+    {
+      "period_month": "2025-06",
+      "status": "SOFT",
+      "gap": -11456.0
+    },
+    {
+      "period_month": "2025-08",
+      "status": "SOFT",
+      "gap": -2540.0
+    },
+    {
+      "period_month": "2026-02",
+      "status": "SOFT",
+      "gap": -4235.0
+    },
+    {
+      "period_month": "2026-06",
+      "status": "OPEN",
+      "gap": 125337.0
+    }
+  ],
+  "doc_inventory": {
+    "maps_md": 14,
+    "client_pack_md": 15,
+    "marts_csv": 75
+  },
+  "layer3_verdict": {
+    "new_truth": [
+      "OTHER_IN composition (top counterparties) — classification debt",
+      "BANK_DDS problem months with abs delta scale",
+      "Payroll multi CLOSE but NO_LINES on many months",
+      "TSUM channel-cash mostly OPEN — expected under agent model; do not conflate with IM OPEN",
+      "Single large MD neg adjustment −70k EUR excluded from operating"
+    ],
+    "still_exhausted_for_unit_md_and_pl": true,
+    "next_value": "execution S1 + reclassify OTHER_IN + payroll lines files — not more narrative packs"
+  },
+  "other_in_purpose_buckets": {
+    "POS_ACQ_LIKE": {
+      "rub": 62257129.0,
+      "n": 123,
+      "share_pct": 40.8
+    },
+    "INVOICE_LIKE": {
+      "rub": 46148170.0,
+      "n": 79,
+      "share_pct": 30.2
+    },
+    "UNPARSED": {
+      "rub": 35243966.0,
+      "n": 200,
+      "share_pct": 23.1
+    },
+    "ORDER_CONTRACT_LIKE": {
+      "rub": 7998005.0,
+      "n": 60,
+      "share_pct": 5.2
+    },
+    "REFUND_LIKE": {
+      "rub": 886303.0,
+      "n": 33,
+      "share_pct": 0.6
+    },
+    "SBP_LIKE": {
+      "rub": 86850.0,
+      "n": 1,
+      "share_pct": 0.1
+    }
+  },
+  "other_in_vtb_purpose_buckets": {
+    "POS_ACQ_LIKE": {
+      "rub": 62257129.0,
+      "n": 123
+    },
+    "UNPARSED": {
+      "rub": 14388390.0,
+      "n": 61
+    },
+    "REFUND_LIKE": {
+      "rub": 260079.0,
+      "n": 5
+    },
+    "ORDER_CONTRACT_LIKE": {
+      "rub": 171500.0,
+      "n": 1
+    }
+  }
+}

@@ -13,6 +13,7 @@
 ## Карты системы (углубление)
 `live/maps/` — процессы P01–P12, документы/данные, L0–L5, сущности/каналы, контроли, value stream, crosswalk, единый алгоритм, ± проблемы (`00`…`09`), синтез `10`, помесячный gate `11`, JSON-снимок.
 
-Точка входа: `live/maps/00_MAPS_INDEX.md` · алгоритм: `08_UNIFIED_ALGORITHM.md` · синтез: `10_DEEP_SYNTHESIS.md` · layer2: `12_LAYER2_MD_OPEX_SKU.md` · client: `live/client_pack/12_*`, `13_*`.
+Точка входа: `live/maps/00_MAPS_INDEX.md` · слои углубления: `10`–`13` · client: `12`–`14`  
+Исчерпание narrative: без переклассификации OTHER_IN / новых файлов — следующий шаг execution, не Layer 4 обзор.
 
 Updated: 2026-07-27

@@ -24,8 +24,10 @@ Updated: 2026-07-27
 | `10_DEEP_SYNTHESIS.md` | Углублённый синтез всех контуров |
 | `11_MONTHLY_QUALITY_MAP.md` | Gate/gaps по месяцам |
 | `12_LAYER2_MD_OPEX_SKU.md` | Forensic МД + opex + SKU ABC |
+| `13_LAYER3_CASH_CLASSIFICATION.md` | OTHER_IN / bank DDS / payroll lines |
 | `deep_synthesis_snapshot.json` | Агрегаты слоя 1 |
 | `depth_layer2_snapshot.json` | Агрегаты слоя 2 |
+| `depth_layer3_snapshot.json` | Агрегаты слоя 3 |
 
 ## Машиночитаемое
 

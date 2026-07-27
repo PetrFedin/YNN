@@ -18,8 +18,10 @@ Updated: 2026-07-27
 | 10 | Углублённый синтез | `10_DEEP_SYNTHESIS.md` | Причинность + цифры по всем контурам |
 | 11 | Помесячное качество | `11_MONTHLY_QUALITY_MAP.md` | 18/12 gate, fails, gap board |
 | 12 | Layer 2: МД/opex/SKU | `12_LAYER2_MD_OPEX_SKU.md` | Forensic cost МД + ФОТ +93% + SKU ABC |
+| 13 | Layer 3: касса/классы | `13_LAYER3_CASH_CLASSIFICATION.md` | OTHER_IN 62M POS-like, payroll lines, TSUM≠IM |
 | JSON | Снимок синтеза | `deep_synthesis_snapshot.json` | Агрегаты слоя 1 |
 | JSON | Снимок слоя 2 | `depth_layer2_snapshot.json` | МД/opex/SKU агрегаты |
+| JSON | Снимок слоя 3 | `depth_layer3_snapshot.json` | OTHER_IN / bank / payroll |
 | CSV | Машиночитаемые срезы | `*.csv` в этой папке | Каталог, crosswalk, волны |
 
 ## Как пользоваться (30 секунд)
@@ -29,8 +31,8 @@ Updated: 2026-07-27
 3. «Можно ли верить месяцу?» → `05`  
 4. «Где теряем деньги?» → `06` + `09`  
 5. «Как всё связать?» → `07` + **`08`**  
-6. «Углубить всё честно» → **`10`** + `11` + `12` + `client_pack/12–13_*`  
-7. «Ещё углубляй без файлов?» → смотри exhaustion в `12` — дальше только execution/данные  
+6. «Углубить всё честно» → **`10`–`13`** + `client_pack/12–14_*`  
+7. «Ещё углубляй без файлов?» → exhaustion в `12`/`13`: дальше классификация OTHER_IN или S1, не новые обзоры  
 
 Канон ID процессов: только P01–P12 из `01_PROCESS_MAP.md`.
 

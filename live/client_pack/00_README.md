@@ -23,6 +23,7 @@
 | 11 | `11_FULL_ANALYTICAL_DETAIL.md` | **Детальное приложение со всеми цифрами** |
 | 12 | `12_DEEP_DIVE_ALL_CONTOURS.md` | **Углубление:** причинность контуров + действия |
 | 13 | `13_LAYER2_FINDINGS.md` | **Layer 2:** МД cost forensic, ФОТ +93%, SKU, exhaustion |
+| 14 | `14_LAYER3_FINDINGS.md` | **Layer 3:** OTHER_IN/POS ~62M, payroll lines, TSUM≠IM cash |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |
