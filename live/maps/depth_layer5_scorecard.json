@@ -1,0 +1,235 @@
+{
+  "pos_total_rub": 62257128.81,
+  "pos_by_le": {
+    "LE-IP-YANINA": 62257128.81
+  },
+  "acq_im_as_is_note": "ACQ_IM split IP+Decor; POS candidates 100% IP — do not merge blindly",
+  "invoice_total_rub": 38574673.0,
+  "surname_links_n": 13,
+  "surname_links_bank_rub": 15600843.0,
+  "surname_links_coverage_pct_of_invoice": 40.4,
+  "top_links": [
+    {
+      "surname": "КУЛИШОВА",
+      "bank_invoice_rub": 6323493.0,
+      "bank_payments_n": 5,
+      "md_payments_eur": 389007.0,
+      "md_payments_rub_fx100": 38900700.0,
+      "md_payments_n": 41,
+      "md_client_top": "Кулишова Марина",
+      "bank_sample": "Кулишова Марина Валерьевна",
+      "link_type": "SURNAME_MD_INVOICE",
+      "confidence": "MED",
+      "so_t": "N",
+      "note": "surname match only; not payment-level reconcile"
+    },
+    {
+      "surname": "АХМЕДОВА",
+      "bank_invoice_rub": 1950000.0,
+      "bank_payments_n": 1,
+      "md_payments_eur": 39630.0,
+      "md_payments_rub_fx100": 3963000.0,
+      "md_payments_n": 4,
+      "md_client_top": "Ахмедова Анна",
+      "bank_sample": "Ахмедова Анна Анатольевна",
+      "link_type": "SURNAME_MD_INVOICE",
+      "confidence": "MED",
+      "so_t": "N",
+      "note": "surname match only; not payment-level reconcile"
+    },
+    {
+      "surname": "СЕЙДАК",
+      "bank_invoice_rub": 1458000.0,
+      "bank_payments_n": 2,
+      "md_payments_eur": 14580.0,
+      "md_payments_rub_fx100": 1458000.0,
+      "md_payments_n": 3,
+      "md_client_top": "Сейдак Кристина",
+      "bank_sample": "Сейдак Олег Игоревич//117570, Россия, г Москва, ул Красного ",
+      "link_type": "SURNAME_MD_INVOICE",
+      "confidence": "MED",
+      "so_t": "N",
+      "note": "surname match only; not payment-level reconcile"
+    },
+    {
+      "surname": "СЕДЫХ",
+      "bank_invoice_rub": 1077200.0,
+      "bank_payments_n": 1,
+      "md_payments_eur": 22095.0,
+      "md_payments_rub_fx100": 2209500.0,
+      "md_payments_n": 3,
+      "md_client_top": "Седых Ирина",
+      "bank_sample": "Седых Анатолий Михайлович",
+      "link_type": "SURNAME_MD_INVOICE",
+      "confidence": "MED",
+      "so_t": "N",
+      "note": "surname match only; not payment-level reconcile"
+    },
+    {
+      "surname": "КОГАН",
+      "bank_invoice_rub": 1000000.0,
+      "bank_payments_n": 1,
+      "md_payments_eur": 69118.0,
+      "md_payments_rub_fx100": 6911800.0,
+      "md_payments_n": 13,
+      "md_client_top": "Коган О",
+      "bank_sample": "Коган Валерий Михайлович //119019, Москва г, Никитский б-р, ",
+      "link_type": "SURNAME_MD_INVOICE",
+      "confidence": "MED",
+      "so_t": "N",
+      "note": "surname match only; not payment-level reconcile"
+    },
+    {
+      "surname": "ТАРАСЕНКОВА",
+      "bank_invoice_rub": 981300.0,
+      "bank_payments_n": 3,
+      "md_payments_eur": 9813.0,
+      "md_payments_rub_fx100": 981300.0,
+      "md_payments_n": 5,
+      "md_client_top": "Тарасенкова LA",
+      "bank_sample": "Тарасенкова Ирина Григорьевна//1293 37, г. Москва, ш Ярослав",
+      "link_type": "SURNAME_MD_INVOICE",
+      "confidence": "MED",
+      "so_t": "N",
+      "note": "surname match only; not payment-level reconcile"
+    },
+    {
+      "surname": "СИВАК",
+      "bank_invoice_rub": 669750.0,
+      "bank_payments_n": 1,
+      "md_payments_eur": 28290.0,
+      "md_payments_rub_fx100": 2829000.0,
+      "md_payments_n": 4,
+      "md_client_top": "Сивак Екатерина",
+      "bank_sample": "СИВАК ЮРИЙ БОРИСОВИЧ",
+      "link_type": "SURNAME_MD_INVOICE",
+      "confidence": "MED",
+      "so_t": "N",
+      "note": "surname match only; not payment-level reconcile"
+    },
+    {
+      "surname": "ОРЛОВА",
+      "bank_invoice_rub": 512500.0,
+      "bank_payments_n": 2,
+      "md_payments_eur": 3704.0,
+      "md_payments_rub_fx100": 370400.0,
+      "md_payments_n": 3,
+      "md_client_top": "Орлова Елена БКС",
+      "bank_sample": "Орлова Вера Сергеевна //191023, Санкт- Петербург г, Реки Фон",
+      "link_type": "SURNAME_MD_INVOICE",
+      "confidence": "MED",
+      "so_t": "N",
+      "note": "surname match only; not payment-level reconcile"
+    },
+    {
+      "surname": "ГОНТОВА",
+      "bank_invoice_rub": 410000.0,
+      "bank_payments_n": 1,
+      "md_payments_eur": 96669.0,
+      "md_payments_rub_fx100": 9666900.0,
+      "md_payments_n": 32,
+      "md_client_top": "Гонтова Наталья",
+      "bank_sample": "ГОНТОВА НАТАЛЬЯ АЛЕКСАНДРОВНА",
+      "link_type": "SURNAME_MD_INVOICE",
+      "confidence": "MED",
+      "so_t": "N",
+      "note": "surname match only; not payment-level reconcile"
+    },
+    {
+      "surname": "КОМАРОВА",
+      "bank_invoice_rub": 400000.0,
+      "bank_payments_n": 1,
+      "md_payments_eur": 26560.0,
+      "md_payments_rub_fx100": 2656000.0,
+      "md_payments_n": 9,
+      "md_client_top": "Комарова Светлана",
+      "bank_sample": "Комарова Светлана Романовна //107014, Москва г, Короленко ул",
+      "link_type": "SURNAME_MD_INVOICE",
+      "confidence": "MED",
+      "so_t": "N",
+      "note": "surname match only; not payment-level reconcile"
+    }
+  ],
+  "scorecard": [
+    {
+      "area": "MD_CASH",
+      "status": "STRONG",
+      "evidence": "payments↔DDS 29/30",
+      "blocker": "",
+      "next": "keep"
+    },
+    {
+      "area": "MD_UNIT_ECON",
+      "status": "BLOCKED",
+      "evidence": "cost fill 0% 2024-25",
+      "blocker": "no order cost data",
+      "next": "request cost format"
+    },
+    {
+      "area": "GOODS_MARGIN",
+      "status": "STRONG",
+      "evidence": "dual TSUM 37.9/87.9; IM GM~82%",
+      "blocker": "aliases/watchlist",
+      "next": "Product review"
+    },
+    {
+      "area": "B2B_OPEN",
+      "status": "ACTION",
+      "evidence": "2.51M / 15 docs",
+      "blocker": "collect",
+      "next": "S1 collect"
+    },
+    {
+      "area": "IM_GATE",
+      "status": "ACTION",
+      "evidence": "6 OPEN months",
+      "blocker": "acq registers + POS alloc",
+      "next": "registers; not blind POS→IM"
+    },
+    {
+      "area": "OTHER_IN_POS",
+      "status": "MEASURED",
+      "evidence": "62.3M POS on IP only; 1/6 OPEN improves blind",
+      "blocker": "ACCEPT class ACQ_POS",
+      "next": "new class+alloc"
+    },
+    {
+      "area": "OTHER_IN_INVOICE",
+      "status": "PARTIAL",
+      "evidence": "13 surname links; 15.6M bank of 38.6M",
+      "blocker": "payment-level match",
+      "next": "reconcile top surnames to MD"
+    },
+    {
+      "area": "PAYROLL_TOTAL",
+      "status": "STRONG",
+      "evidence": "multi 29/30 CLOSE; +18.2M YoY",
+      "blocker": "19 NO_LINES",
+      "next": "payroll files"
+    },
+    {
+      "area": "TSUM_CASH",
+      "status": "EXPECTED_OPEN",
+      "evidence": "23/30 OPEN channel-cash",
+      "blocker": "agent model",
+      "next": "net-rate/dual not IM-like CLOSE"
+    },
+    {
+      "area": "FABRIC_WC",
+      "status": "VISIBLE",
+      "evidence": "~28.6M end trusted",
+      "blocker": "no ABC",
+      "next": "ABC"
+    },
+    {
+      "area": "NARRATIVE_DEPTH",
+      "status": "EXHAUSTED",
+      "evidence": "layers 1-4",
+      "blocker": "no new files/ACCEPT",
+      "next": "execution only"
+    }
+  ],
+  "so_t": "N",
+  "layer": 5,
+  "verdict": "POS is IP-only; invoice↔MD surname covers ~partial; narrative still exhausted — next ACCEPT/registers/collect"
+}

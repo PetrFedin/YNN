@@ -25,6 +25,7 @@
 | 13 | `13_LAYER2_FINDINGS.md` | **Layer 2:** МД cost forensic, ФОТ +93%, SKU, exhaustion |
 | 14 | `14_LAYER3_FINDINGS.md` | **Layer 3:** OTHER_IN/POS ~62M, payroll lines, TSUM≠IM cash |
 | 15 | `15_LAYER4_RECLASS_IMPACT.md` | **Layer 4:** impact — 62M POS не закрывает 6 IM OPEN влоб (1/6) |
+| 16 | `16_LAYER5_SCORECARD.md` | **Layer 5:** единый статус; POS=только ИП; invoice↔МД ~40% |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |

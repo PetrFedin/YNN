@@ -26,13 +26,12 @@ Updated: 2026-07-27
 | `12_LAYER2_MD_OPEX_SKU.md` | Forensic МД + opex + SKU ABC |
 | `13_LAYER3_CASH_CLASSIFICATION.md` | OTHER_IN / bank DDS / payroll lines |
 | `14_LAYER4_RECLASS_IMPACT.md` | Impact переклассификации на IM |
-| `build_layer4_reclass_impact.py` | Воспроизводимый расчёт кандидатов |
-| `bank_in_reclass_candidates.csv` | Кандидаты классов (so_t=N) |
-| `im_acq_reclass_impact.csv` | Hyp impact по месяцам IM |
-| `deep_synthesis_snapshot.json` | Агрегаты слоя 1 |
-| `depth_layer2_snapshot.json` | Агрегаты слоя 2 |
-| `depth_layer3_snapshot.json` | Агрегаты слоя 3 |
-| `depth_layer4_reclass_impact.json` | Сводка impact |
+| `15_LAYER5_SCORECARD_LINKS.md` | Scorecard + POS LE + MD invoice links |
+| `build_layer4_reclass_impact.py` | Кандидаты OTHER_IN |
+| `build_layer5_scorecard.py` | Scorecard / links |
+| `system_scorecard.csv` | Единый статус областей |
+| `md_invoice_surname_links.csv` | Invoice↔МД (фамилия, MED) |
+| `pos_candidate_by_le_month.csv` | POS по LE/месяц |
 
 ## Машиночитаемое
 

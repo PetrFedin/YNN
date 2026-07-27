@@ -1,0 +1,12 @@
+area,status,evidence,blocker,next
+MD_CASH,STRONG,payments↔DDS 29/30,,keep
+MD_UNIT_ECON,BLOCKED,cost fill 0% 2024-25,no order cost data,request cost format
+GOODS_MARGIN,STRONG,dual TSUM 37.9/87.9; IM GM~82%,aliases/watchlist,Product review
+B2B_OPEN,ACTION,2.51M / 15 docs,collect,S1 collect
+IM_GATE,ACTION,6 OPEN months,acq registers + POS alloc,registers; not blind POS→IM
+OTHER_IN_POS,MEASURED,62.3M POS on IP only; 1/6 OPEN improves blind,ACCEPT class ACQ_POS,new class+alloc
+OTHER_IN_INVOICE,PARTIAL,13 surname links; 15.6M bank of 38.6M,payment-level match,reconcile top surnames to MD
+PAYROLL_TOTAL,STRONG,multi 29/30 CLOSE; +18.2M YoY,19 NO_LINES,payroll files
+TSUM_CASH,EXPECTED_OPEN,23/30 OPEN channel-cash,agent model,net-rate/dual not IM-like CLOSE
+FABRIC_WC,VISIBLE,~28.6M end trusted,no ABC,ABC
+NARRATIVE_DEPTH,EXHAUSTED,layers 1-4,no new files/ACCEPT,execution only
