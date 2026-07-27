@@ -21,6 +21,7 @@
 | 09 | `09_DATA_LINEAGE_ONEPAGER.md` | Карта данных one-pager |
 | 10 | `10_RISK_REGISTER.md` | Реестр рисков |
 | 11 | `11_FULL_ANALYTICAL_DETAIL.md` | **Детальное приложение со всеми цифрами** |
+| 12 | `12_DEEP_DIVE_ALL_CONTOURS.md` | **Углубление:** причинность контуров + действия |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |

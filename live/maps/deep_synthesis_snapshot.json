@@ -1,0 +1,1061 @@
+{
+  "controls": [
+    {
+      "control_id": "BANK_DDS_CORE",
+      "months": "30",
+      "close": "16",
+      "soft": "9",
+      "open_or_gap": "5",
+      "other": "0",
+      "close_soft_pct": "83.3"
+    },
+    {
+      "control_id": "IM_ACQ_COMBO",
+      "months": "30",
+      "close": "10",
+      "soft": "14",
+      "open_or_gap": "6",
+      "other": "0",
+      "close_soft_pct": "80.0"
+    },
+    {
+      "control_id": "OPEX_CLEAN_BANK",
+      "months": "30",
+      "close": "14",
+      "soft": "11",
+      "open_or_gap": "5",
+      "other": "0",
+      "close_soft_pct": "83.3"
+    },
+    {
+      "control_id": "OPEX_DDS_BANK",
+      "months": "30",
+      "close": "23",
+      "soft": "6",
+      "open_or_gap": "1",
+      "other": "0",
+      "close_soft_pct": "96.7"
+    },
+    {
+      "control_id": "OPEX_MULTI",
+      "months": "30",
+      "close": "29",
+      "soft": "1",
+      "open_or_gap": "0",
+      "other": "0",
+      "close_soft_pct": "100.0"
+    },
+    {
+      "control_id": "PAYROLL_DDS_BANK",
+      "months": "30",
+      "close": "28",
+      "soft": "1",
+      "open_or_gap": "1",
+      "other": "0",
+      "close_soft_pct": "96.7"
+    },
+    {
+      "control_id": "PAYROLL_MULTI",
+      "months": "30",
+      "close": "29",
+      "soft": "1",
+      "open_or_gap": "0",
+      "other": "0",
+      "close_soft_pct": "100.0"
+    },
+    {
+      "control_id": "TAX_CASH_BANK",
+      "months": "30",
+      "close": "26",
+      "soft": "3",
+      "open_or_gap": "1",
+      "other": "0",
+      "close_soft_pct": "96.7"
+    },
+    {
+      "control_id": "TSUM_NET_MODEL",
+      "months": "30",
+      "close": "24",
+      "soft": "4",
+      "open_or_gap": "2",
+      "other": "0",
+      "close_soft_pct": "93.3"
+    }
+  ],
+  "gate_status_counts": {
+    "BLOCKED": 12,
+    "RELEASED": 18
+  },
+  "gate_fail_by_control": {
+    "BANK_DDS_CORE": 5,
+    "TAX_CASH_BANK": 1,
+    "IM_ACQ_COMBO": 6,
+    "TSUM_NET_MODEL": 2
+  },
+  "gate_fail_months": [
+    "2024-01",
+    "2024-06",
+    "2024-08",
+    "2024-12",
+    "2025-01",
+    "2025-08",
+    "2025-10",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "b2b_open_total_rub": 2514023.0,
+  "b2b_open_n": 15,
+  "b2b_open_top_buyers": [
+    {
+      "buyer": "ИП Бекеева Асият Багаутдиновна",
+      "rub": 832173.0
+    },
+    {
+      "buyer": "ИП Нурова Сабигат Зайирбеговна",
+      "rub": 736566.0
+    },
+    {
+      "buyer": "ИП Чухонцева Николь Олеговна",
+      "rub": 497645.0
+    },
+    {
+      "buyer": "ИП Смирнова Яна Владимировна",
+      "rub": 121698.0
+    },
+    {
+      "buyer": "ИП Сердюкова Ольга Леонидовна",
+      "rub": 108471.0
+    },
+    {
+      "buyer": "БЕЛЬ ВИЗО ООО",
+      "rub": 86826.0
+    },
+    {
+      "buyer": "ИП Кондрашкина Жанна Геннадьевна",
+      "rub": 45044.0
+    },
+    {
+      "buyer": "ИП Джелялова Екатерина Сергеевна",
+      "rub": 37800.0
+    }
+  ],
+  "md_bridge_indicative_by_year": {
+    "2024": {
+      "income": 197229200.0,
+      "opex": 33599890.63,
+      "contrib": 163629309.37,
+      "n": 12
+    },
+    "2025": {
+      "income": 232584600.0,
+      "opex": 99618794.35,
+      "contrib": 132965805.65,
+      "n": 12
+    },
+    "2026": {
+      "income": 86618000.0,
+      "opex": 35863288.98,
+      "contrib": 50754711.02,
+      "n": 5
+    }
+  },
+  "card_total_rub": 7675485.15,
+  "card_by_category": [
+    {
+      "category": "TRAVEL",
+      "payments": "19",
+      "amount_rub": 2259561.0,
+      "share_pct": "29.4"
+    },
+    {
+      "category": "OTHER",
+      "payments": "43",
+      "amount_rub": 2157066.68,
+      "share_pct": "28.1"
+    },
+    {
+      "category": "MARKETPLACE",
+      "payments": "172",
+      "amount_rub": 1421377.94,
+      "share_pct": "18.5"
+    },
+    {
+      "category": "OFFICE_SUPPLY",
+      "payments": "54",
+      "amount_rub": 711606.15,
+      "share_pct": "9.3"
+    },
+    {
+      "category": "LOGISTICS_CUSTOMS",
+      "payments": "9",
+      "amount_rub": 687964.0,
+      "share_pct": "9.0"
+    },
+    {
+      "category": "FOOD",
+      "payments": "26",
+      "amount_rub": 279979.94,
+      "share_pct": "3.6"
+    },
+    {
+      "category": "TAXI_DELIVERY",
+      "payments": "47",
+      "amount_rub": 157929.44,
+      "share_pct": "2.1"
+    }
+  ],
+  "bank_in_by_class_total": {
+    "OTHER_IN": 152620422.29,
+    "ACQ_IM": 75116987.55,
+    "TSUM_AGENT": 57593466.16,
+    "INTERNAL": 8375000.0,
+    "TAX_REFUND_OR_OTHER": 758404.54,
+    "B2B_NAMED": 30000.0
+  },
+  "bank_in_by_class_year": {
+    "2024": {
+      "OTHER_IN": 50168386.7,
+      "ACQ_IM": 37549200.76,
+      "TSUM_AGENT": 25926163.36,
+      "INTERNAL": 5395000.0,
+      "TAX_REFUND_OR_OTHER": 712657.54,
+      "B2B_NAMED": 30000.0
+    },
+    "2025": {
+      "OTHER_IN": 61710611.76,
+      "ACQ_IM": 31732360.19,
+      "TSUM_AGENT": 22193765.8,
+      "INTERNAL": 2220000.0,
+      "TAX_REFUND_OR_OTHER": 45747.0
+    },
+    "2026": {
+      "OTHER_IN": 40741423.83,
+      "TSUM_AGENT": 9473537.0,
+      "ACQ_IM": 5835426.6,
+      "INTERNAL": 760000.0
+    }
+  },
+  "margin_by_channel_year": {
+    "B2B": {
+      "2024": {
+        "rev": 10931141.0,
+        "gm": 7714311.0,
+        "gm_pct": 70.6
+      },
+      "2025": {
+        "rev": 2915429.0,
+        "gm": 1765650.0,
+        "gm_pct": 60.6
+      },
+      "2026": {
+        "rev": 50656.0,
+        "gm": 5803.0,
+        "gm_pct": 11.5
+      }
+    },
+    "IM": {
+      "2024": {
+        "rev": 25186102.0,
+        "gm": 21068356.0,
+        "gm_pct": 83.7
+      },
+      "2025": {
+        "rev": 21487520.0,
+        "gm": 17476768.0,
+        "gm_pct": 81.3
+      },
+      "2026": {
+        "rev": 10062415.0,
+        "gm": 7837604.0,
+        "gm_pct": 77.9
+      }
+    },
+    "TSUM": {
+      "2024": {
+        "rev": 51619685.0,
+        "gm": 18541049.0,
+        "gm_pct": 35.9
+      },
+      "2025": {
+        "rev": 48680092.0,
+        "gm": 19204574.0,
+        "gm_pct": 39.5
+      },
+      "2026": {
+        "rev": 22549498.0,
+        "gm": 8801119.0,
+        "gm_pct": 39.0
+      }
+    }
+  },
+  "domain_gaps": [
+    {
+      "period_month": "2024-01",
+      "control_id": "BANK_DDS_CORE",
+      "status": "WIDE_GAP",
+      "metric": "836571.18",
+      "detail": "",
+      "owner_domain": "BANK",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Разобрать WIDE_GAP bank↔DDS за 2024-01 (Salon out / карты / статьи)",
+      "linked_request": "",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2024-01",
+      "control_id": "TAX_CASH_BANK",
+      "status": "GAP",
+      "metric": "36000.0",
+      "detail": "",
+      "owner_domain": "TAX",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Сверить налоговый платёж/начисление за 2024-01 (status=GAP)",
+      "linked_request": "",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2024-06",
+      "control_id": "BANK_DDS_CORE",
+      "status": "WIDE_GAP",
+      "metric": "957596.36",
+      "detail": "",
+      "owner_domain": "BANK",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Разобрать WIDE_GAP bank↔DDS за 2024-06 (Salon out / карты / статьи)",
+      "linked_request": "",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2024-08",
+      "control_id": "IM_ACQ_COMBO",
+      "status": "OPEN",
+      "metric": "74.1",
+      "detail": "IP_lag-1",
+      "owner_domain": "BANK",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2024-08",
+      "linked_request": "A-DATA-IM-01",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2024-12",
+      "control_id": "BANK_DDS_CORE",
+      "status": "WIDE_GAP",
+      "metric": "1852187.69",
+      "detail": "",
+      "owner_domain": "BANK",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Разобрать WIDE_GAP bank↔DDS за 2024-12 (Salon out / карты / статьи)",
+      "linked_request": "",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2025-01",
+      "control_id": "IM_ACQ_COMBO",
+      "status": "OPEN",
+      "metric": "54.2",
+      "detail": "IP_lag+0",
+      "owner_domain": "BANK",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2025-01",
+      "linked_request": "A-DATA-IM-01",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2025-08",
+      "control_id": "IM_ACQ_COMBO",
+      "status": "OPEN",
+      "metric": "-26.0",
+      "detail": "ALL_lag+1",
+      "owner_domain": "BANK",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2025-08",
+      "linked_request": "A-DATA-IM-01",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2025-10",
+      "control_id": "IM_ACQ_COMBO",
+      "status": "OPEN",
+      "metric": "36.2",
+      "detail": "IP_lag+0",
+      "owner_domain": "BANK",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2025-10",
+      "linked_request": "A-DATA-IM-01",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2026-02",
+      "control_id": "BANK_DDS_CORE",
+      "status": "WIDE_GAP",
+      "metric": "-1499972.03",
+      "detail": "",
+      "owner_domain": "BANK",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Разобрать WIDE_GAP bank↔DDS за 2026-02 (Salon out / карты / статьи)",
+      "linked_request": "",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2026-03",
+      "control_id": "IM_ACQ_COMBO",
+      "status": "OPEN",
+      "metric": "64.7",
+      "detail": "IP_lag+0",
+      "owner_domain": "BANK",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2026-03",
+      "linked_request": "A-DATA-IM-01",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2026-04",
+      "control_id": "IM_ACQ_COMBO",
+      "status": "OPEN",
+      "metric": "-40.0",
+      "detail": "IP_lag+0",
+      "owner_domain": "BANK",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Прислать эквайринг-реестр (Tinkoff/TBank/VTB) за 2026-04",
+      "linked_request": "A-DATA-IM-01",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2026-05",
+      "control_id": "TSUM_NET_MODEL",
+      "status": "OPEN",
+      "metric": "-100.0",
+      "detail": "rate=0.4668",
+      "owner_domain": "B2B",
+      "owner_fio": "Коптева Марина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Дать агентский % ЦУМ из договора; сверить модель за 2026-05",
+      "linked_request": "A-TSUM-RATE-01",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2026-06",
+      "control_id": "BANK_DDS_CORE",
+      "status": "BANK_ONLY",
+      "metric": "5549424.35",
+      "detail": "",
+      "owner_domain": "BANK",
+      "owner_fio": "Сливяк Галина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Дослать строки ДДС 2026 за июнь (в файле сейчас пусто) или подтвердить отсутствие",
+      "linked_request": "",
+      "updated_at": "2026-07-24 19:29"
+    },
+    {
+      "period_month": "2026-06",
+      "control_id": "TSUM_NET_MODEL",
+      "status": "OPEN",
+      "metric": "-100.0",
+      "detail": "rate=0.4668",
+      "owner_domain": "B2B",
+      "owner_fio": "Коптева Марина",
+      "owner_status": "ACCEPTED",
+      "priority": "P1",
+      "is_stub_owner": "N",
+      "action": "Дать агентский % ЦУМ из договора; сверить модель за 2026-06",
+      "linked_request": "A-TSUM-RATE-01",
+      "updated_at": "2026-07-24 19:29"
+    }
+  ],
+  "domain_gaps_summary": {
+    "BANK_DDS_CORE|WIDE_GAP": 4,
+    "TAX_CASH_BANK|GAP": 1,
+    "IM_ACQ_COMBO|OPEN": 6,
+    "TSUM_NET_MODEL|OPEN": 2,
+    "BANK_DDS_CORE|BANK_ONLY": 1
+  },
+  "bank_by_entity": [
+    {
+      "legal_entity_id": "LE-IP-YANINA",
+      "payments_out": "2710",
+      "payments_in": "811",
+      "out_rub": "162676418.86",
+      "in_rub": "253950029.63",
+      "net_rub": "91273610.77"
+    },
+    {
+      "legal_entity_id": "LE-OOO-DEKOR",
+      "payments_out": "375",
+      "payments_in": "97",
+      "out_rub": "35642961.16",
+      "in_rub": "35620577.4",
+      "net_rub": "-22383.76"
+    },
+    {
+      "legal_entity_id": "LE-OOO-SALON-YANINA",
+      "payments_out": "471",
+      "payments_in": "39",
+      "out_rub": "5516593.99",
+      "in_rub": "4923673.51",
+      "net_rub": "-592920.48"
+    }
+  ],
+  "channel_mix_vs_brief": [
+    {
+      "scope": "brief_vs_sales_dds_2025",
+      "channel": "MD_INDIVIDUAL",
+      "brief_share_pct": "83.0",
+      "our_share_pct": "83.9",
+      "our_amount_eur": "2325846.0",
+      "delta_pp": "0.9",
+      "note": "Income EUR basis (SALES DDS); closes H27 MF-CHANNEL-MIX for income view"
+    },
+    {
+      "scope": "brief_vs_sales_dds_2025",
+      "channel": "TSUM_B2B",
+      "brief_share_pct": "9.0",
+      "our_share_pct": "8.0",
+      "our_amount_eur": "221937.65",
+      "delta_pp": "-1.0",
+      "note": "Income EUR basis (SALES DDS); closes H27 MF-CHANNEL-MIX for income view"
+    },
+    {
+      "scope": "brief_vs_sales_dds_2025",
+      "channel": "IM",
+      "brief_share_pct": "8.0",
+      "our_share_pct": "7.7",
+      "our_amount_eur": "214212.24",
+      "delta_pp": "-0.3",
+      "note": "Income EUR basis (SALES DDS); closes H27 MF-CHANNEL-MIX for income view"
+    },
+    {
+      "scope": "brief_vs_sales_dds_2025",
+      "channel": "OTHER_REGIONAL",
+      "brief_share_pct": "",
+      "our_share_pct": "0.8",
+      "our_amount_eur": "21172.02",
+      "delta_pp": "",
+      "note": "Income EUR basis (SALES DDS); closes H27 MF-CHANNEL-MIX for income view"
+    },
+    {
+      "scope": "brief_vs_sales_dds_2025",
+      "channel": "OTHER_RETURNS",
+      "brief_share_pct": "",
+      "our_share_pct": "-0.4",
+      "our_amount_eur": "-11480.56",
+      "delta_pp": "",
+      "note": "Income EUR basis (SALES DDS); closes H27 MF-CHANNEL-MIX for income view"
+    },
+    {
+      "scope": "goods_costed_marts",
+      "channel": "B2B+IM+TSUM",
+      "brief_share_pct": "",
+      "our_share_pct": "",
+      "our_amount_eur": "",
+      "delta_pp": "",
+      "note": "Goods marts intentionally exclude MD services — see margin_channel_total"
+    }
+  ],
+  "cost_watchlist_n": 75,
+  "cost_review_priority_n": 9,
+  "cost_review_priority_top": [
+    {
+      "canonical_sku": "0-3347",
+      "unit_to_bom_ratio_max": "83.77",
+      "name_jaccard": "0.444",
+      "sale_name": "Жакет женский, черный, из стрейч-бархата, с вышивкой \"Y\" на карманах и поясом ",
+      "bom_name": "Жакет двубортный из стрейч-бархата  с поясом\n0-3422",
+      "priority": "HIGH_REVIEW_NO_AUTOFIX"
+    },
+    {
+      "canonical_sku": "0-3348",
+      "unit_to_bom_ratio_max": "26.21",
+      "name_jaccard": "0.5",
+      "sale_name": "Брюки-палаццо женские, черные, из стрейч-бархата, с широким поясом",
+      "bom_name": "Брюки палаццо  из стрейч-бархата",
+      "priority": "HIGH_REVIEW_NO_AUTOFIX"
+    },
+    {
+      "canonical_sku": "T-2988",
+      "unit_to_bom_ratio_max": "10.58",
+      "name_jaccard": "0.5",
+      "sale_name": "Брюки-палаццо женские, черные, из шерсти",
+      "bom_name": "Брюки палаццо из тонкой шерсти",
+      "priority": "HIGH_REVIEW_NO_AUTOFIX"
+    },
+    {
+      "canonical_sku": "T-3186",
+      "unit_to_bom_ratio_max": "10.42",
+      "name_jaccard": "0.667",
+      "sale_name": "Юбка женская, черная, из стрейч бархата, длинная",
+      "bom_name": "Юбка длинная из черного стрейч бархата",
+      "priority": "HIGH_REVIEW_NO_AUTOFIX"
+    },
+    {
+      "canonical_sku": "T-2806",
+      "unit_to_bom_ratio_max": "10.38",
+      "name_jaccard": "0.333",
+      "sale_name": "Брюки женские, черные с принтом \"белый горох\", из шелка, широкие",
+      "bom_name": "Брюки широкие принт ГОРОХ",
+      "priority": "HIGH_REVIEW_NO_AUTOFIX"
+    },
+    {
+      "canonical_sku": "T-2974A",
+      "unit_to_bom_ratio_max": "10.03",
+      "name_jaccard": "0.333",
+      "sale_name": "Рубашка женская, белая, из хлопка, с декором принт \"цветы\"",
+      "bom_name": "Рубашка цветы",
+      "priority": "HIGH_REVIEW_NO_AUTOFIX"
+    },
+    {
+      "canonical_sku": "T-2885",
+      "unit_to_bom_ratio_max": "9.77",
+      "name_jaccard": "0.25",
+      "sale_name": "Пальто-халат женское, розовое с принтом \"цветы\", из хлопка ",
+      "bom_name": "Халат накидка принт ЦВЕТЫ",
+      "priority": "HIGH_REVIEW_NO_AUTOFIX"
+    },
+    {
+      "canonical_sku": "T-2604",
+      "unit_to_bom_ratio_max": "8.97",
+      "name_jaccard": "0.286",
+      "sale_name": "Юбка-карандаш женская, черная, из стрейч бархата",
+      "bom_name": "Юбка черный стрейч-бархат",
+      "priority": "HIGH_REVIEW_NO_AUTOFIX"
+    },
+    {
+      "canonical_sku": "T-3023",
+      "unit_to_bom_ratio_max": "8.13",
+      "name_jaccard": "0.875",
+      "sale_name": "Платье женское, черное, из шелкового бархата, с кружевом и аппликацией \"Цветы\"",
+      "bom_name": "Платье черное мини из шелкового бархата с кружевом и аппликацией ЦВЕТЫ",
+      "priority": "HIGH_REVIEW_NO_AUTOFIX"
+    }
+  ],
+  "margin_exceptions_n": 4,
+  "margin_exceptions": [
+    {
+      "canonical_sku": "0-2493A",
+      "policy": "WHOLESALE_OK_LOSS",
+      "proposed_decision": "OK_COMMERCIAL_LOSS",
+      "action_id": "A-FIN-0-2493A",
+      "channels": "B2B",
+      "lines": "2",
+      "qty": "3.0",
+      "revenue_rub": "30000.0",
+      "cogs_rub": "35884.56",
+      "margin_rub": "-5884.56",
+      "application": "OWNER_ACCEPTED_H23",
+      "owner_accept": "ACCEPT",
+      "so_t": "DOMAIN_OWNED",
+      "note": "Owner ACCEPT 2026-07-24; domain-owned exception policy"
+    },
+    {
+      "canonical_sku": "0-2496",
+      "policy": "WHOLESALE_OK_LOSS",
+      "proposed_decision": "OK_COMMERCIAL_LOSS",
+      "action_id": "A-FIN-0-2496",
+      "channels": "B2B",
+      "lines": "2",
+      "qty": "6.0",
+      "revenue_rub": "60000.05",
+      "cogs_rub": "74155.62",
+      "margin_rub": "-14155.57",
+      "application": "OWNER_ACCEPTED_H23",
+      "owner_accept": "ACCEPT",
+      "so_t": "DOMAIN_OWNED",
+      "note": "Owner ACCEPT 2026-07-24; domain-owned exception policy"
+    },
+    {
+      "canonical_sku": "0-2497",
+      "policy": "WHOLESALE_OK_LOSS",
+      "proposed_decision": "OK_COMMERCIAL_LOSS",
+      "action_id": "A-FIN-0-2497",
+      "channels": "B2B",
+      "lines": "4",
+      "qty": "7.0",
+      "revenue_rub": "70000.04",
+      "cogs_rub": "95055.38",
+      "margin_rub": "-25055.34",
+      "application": "OWNER_ACCEPTED_H23",
+      "owner_accept": "ACCEPT",
+      "so_t": "DOMAIN_OWNED",
+      "note": "Owner ACCEPT 2026-07-24; domain-owned exception policy"
+    },
+    {
+      "canonical_sku": "0-3243",
+      "policy": "COST_IDENTITY_QUARANTINE",
+      "proposed_decision": "KEEP_QUARANTINE_NEED_COST_VERSION",
+      "action_id": "A-FIN-0-3243",
+      "channels": "IM",
+      "lines": "1",
+      "qty": "1.0",
+      "revenue_rub": "30250.0",
+      "cogs_rub": "",
+      "margin_rub": "",
+      "application": "OWNER_ACCEPTED_H23",
+      "owner_accept": "ACCEPT",
+      "so_t": "DOMAIN_OWNED",
+      "note": "Owner ACCEPT 2026-07-24; domain-owned exception policy"
+    }
+  ],
+  "worst_sku_sample": [
+    {
+      "canonical_sku": "0-2497",
+      "name": "Платье женское, белое с принтом \"черные Y и девочки\", из батиста, с длинными рукавами и поясом ",
+      "channels": "B2B",
+      "lines": "4",
+      "qty": "7.0",
+      "revenue_rub": "70000.04",
+      "cogs_rub": "95055.38",
+      "margin_rub": "-25055.34",
+      "margin_pct": "-35.8"
+    },
+    {
+      "canonical_sku": "0-2496",
+      "name": "Платье женское, белое с принтом \"черные Y и девочки\", из батиста, с открытыми плечами",
+      "channels": "B2B",
+      "lines": "2",
+      "qty": "6.0",
+      "revenue_rub": "60000.05",
+      "cogs_rub": "74155.62",
+      "margin_rub": "-14155.57",
+      "margin_pct": "-23.6"
+    },
+    {
+      "canonical_sku": "0-2493A",
+      "name": "Платье женское, белое с принтом \"серо-черные Y\", из батиста, с широкими бретелями-завязками",
+      "channels": "B2B",
+      "lines": "2",
+      "qty": "3.0",
+      "revenue_rub": "30000.0",
+      "cogs_rub": "35884.56",
+      "margin_rub": "-5884.56",
+      "margin_pct": "-19.6"
+    },
+    {
+      "canonical_sku": "0-1670",
+      "name": "Платье женское, черное, из эко-кожи, приталенное",
+      "channels": "IM",
+      "lines": "2",
+      "qty": "0.0",
+      "revenue_rub": "1.0",
+      "cogs_rub": "0.0",
+      "margin_rub": "1.0",
+      "margin_pct": "100.0"
+    },
+    {
+      "canonical_sku": "0-2125I",
+      "name": "Платье женское, черное с принтом \"девочки\", из шелка, с брошью \"Цветок\", с поясом",
+      "channels": "IM",
+      "lines": "2",
+      "qty": "2.0",
+      "revenue_rub": "106000.0",
+      "cogs_rub": "105851.28",
+      "margin_rub": "148.72",
+      "margin_pct": "0.1"
+    },
+    {
+      "canonical_sku": "0-2498",
+      "name": "Платье женское, розовое с принтом \"пион\", из штапеля, без рукавов",
+      "channels": "B2B,IM",
+      "lines": "3",
+      "qty": "1.0",
+      "revenue_rub": "7000.0",
+      "cogs_rub": "6797.0",
+      "margin_rub": "203.0",
+      "margin_pct": "2.9"
+    },
+    {
+      "canonical_sku": "0-1241A",
+      "name": "Юбка женская, белая, из фатина, расшита крупными пайетками",
+      "channels": "IM",
+      "lines": "1",
+      "qty": "1.0",
+      "revenue_rub": "15000.0",
+      "cogs_rub": "13650.0",
+      "margin_rub": "1350.0",
+      "margin_pct": "9.0"
+    },
+    {
+      "canonical_sku": "0-2829",
+      "name": "Платье женское, белое, из шелка, с рисунком \"ЦВЕТЫ\"",
+      "channels": "IM",
+      "lines": "1",
+      "qty": "1.0",
+      "revenue_rub": "20000.0",
+      "cogs_rub": "18650.0",
+      "margin_rub": "1350.0",
+      "margin_pct": "6.8"
+    },
+    {
+      "canonical_sku": "0-1942",
+      "name": "Шорты женские, черные, из бархата, удлиненные",
+      "channels": "IM",
+      "lines": "2",
+      "qty": "2.0",
+      "revenue_rub": "6300.0",
+      "cogs_rub": "4846.0",
+      "margin_rub": "1454.0",
+      "margin_pct": "23.1"
+    },
+    {
+      "canonical_sku": "0-2523",
+      "name": "Брюки женские, белые с принтом \"голубые цветы\", из батиста",
+      "channels": "B2B",
+      "lines": "1",
+      "qty": "1.0",
+      "revenue_rub": "6986.0",
+      "cogs_rub": "5374.0",
+      "margin_rub": "1612.0",
+      "margin_pct": "23.1"
+    }
+  ],
+  "tsum_dual_views": [
+    {
+      "channel": "B2B",
+      "lines": "230",
+      "costed_lines": "230",
+      "revenue_rub": "13897226.09",
+      "cogs_rub": "4411462.37",
+      "margin_rub": "9485763.72",
+      "margin_pct": "68.3",
+      "view": "unchanged"
+    },
+    {
+      "channel": "IM",
+      "lines": "1169",
+      "costed_lines": "1026",
+      "revenue_rub": "56736037.01",
+      "cogs_rub": "9759424.56",
+      "margin_rub": "46382728.71",
+      "margin_pct": "81.8",
+      "view": "unchanged"
+    },
+    {
+      "channel": "TSUM_REPORTED",
+      "lines": "744",
+      "costed_lines": "744",
+      "revenue_rub": "122849275.56",
+      "cogs_rub": "76302533.72",
+      "margin_rub": "46546741.84",
+      "margin_pct": "37.9",
+      "view": "Excel COGS (может включать комиссию ЦУМ)"
+    },
+    {
+      "channel": "TSUM_PRODUCT",
+      "lines": "740",
+      "costed_lines": "740",
+      "revenue_rub": "121695175.0",
+      "cogs_rub": "14667838.6",
+      "margin_rub": "107027336.4",
+      "margin_pct": "87.9",
+      "view": "Product COGS≈W3; commission_proxy=60954242.56 (FILE−W3)"
+    }
+  ],
+  "gate_blocked_months": [
+    "2024-01",
+    "2024-06",
+    "2024-08",
+    "2024-12",
+    "2025-01",
+    "2025-08",
+    "2025-10",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "gate_released_months": [
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-07",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-09",
+    "2025-11",
+    "2025-12",
+    "2026-01"
+  ],
+  "md_bridge_caveat": "INDICATIVE ONLY: opex=DDS Модный дом may overlap payroll/materials elsewhere; NOT unit-econ; so_t=N",
+  "stock_warehouse_summary": [
+    {
+      "warehouse": "Склад ИМ (Основное подразделение)",
+      "rows": "920",
+      "skus_with_activity": "862",
+      "qty_end_sum": "549.0"
+    },
+    {
+      "warehouse": "Салон (Лена М.) (Основное подразделение)",
+      "rows": "204",
+      "skus_with_activity": "196",
+      "qty_end_sum": "256.0"
+    },
+    {
+      "warehouse": "Склад оптовых продаж (Основное подразделение)",
+      "rows": "699",
+      "skus_with_activity": "633",
+      "qty_end_sum": "80.0"
+    },
+    {
+      "warehouse": "Подарки (Основное подразделение)",
+      "rows": "291",
+      "skus_with_activity": "286",
+      "qty_end_sum": "75.0"
+    },
+    {
+      "warehouse": "Склад производства (Жукова) (Основное подразделение)",
+      "rows": "92",
+      "skus_with_activity": "91",
+      "qty_end_sum": "7.0"
+    },
+    {
+      "warehouse": "Остатки ЦУМ (Основное подразделение)",
+      "rows": "95",
+      "skus_with_activity": "93",
+      "qty_end_sum": "0.0"
+    },
+    {
+      "warehouse": "ДЕМИ (Основное подразделение)",
+      "rows": "5",
+      "skus_with_activity": "5",
+      "qty_end_sum": "0.0"
+    },
+    {
+      "warehouse": "Aldo Coppola (Основное подразделение)",
+      "rows": "49",
+      "skus_with_activity": "40",
+      "qty_end_sum": "0.0"
+    },
+    {
+      "warehouse": "Склад производства (Захарова) (Основное подразделение)",
+      "rows": "30",
+      "skus_with_activity": "24",
+      "qty_end_sum": "0.0"
+    }
+  ],
+  "material_meta": {
+    "n_skus": 1339,
+    "qty_sum": 38897.92,
+    "amount_sum_leaves": 59675312.98,
+    "warehouse_totals": {
+      "Основной склад": {
+        "qty": 14814.48,
+        "amount": 22560393.72
+      },
+      "Склад Жукова": {
+        "qty": 1634.09,
+        "amount": 2877332.1
+      },
+      "Склад Меркушина": {
+        "qty": 1015.65,
+        "amount": 1202689.24
+      },
+      "Склад Мокеева": {
+        "qty": 1984.74,
+        "amount": 3197241.43
+      }
+    },
+    "h4_fabric_movements": {
+      "fabric_skus": 1728,
+      "with_article_hint": 1073,
+      "warehouse_totals_rub": [
+        {
+          "warehouse": "Основной склад",
+          "in_rub": 46641701.36,
+          "out_rub": 23139136.27,
+          "end_rub": 23502565.09
+        },
+        {
+          "warehouse": "Склад Жукова",
+          "in_rub": 6731501.42,
+          "out_rub": 3740650.99,
+          "end_rub": 2990850.43
+        },
+        {
+          "warehouse": "Склад Меркушина",
+          "in_rub": 5586450.12,
+          "out_rub": 4917463.7,
+          "end_rub": 668986.42
+        },
+        {
+          "warehouse": "Склад Мокеева",
+          "in_rub": 12520673.4,
+          "out_rub": 11129885.29,
+          "end_rub": 1390788.11
+        }
+      ],
+      "warehouse_end_rub_sum": 28553190.05,
+      "note": "Leaf qty columns ambiguous (m vs RUB); trust warehouse_totals_rub for money"
+    },
+    "h4_generated_at": "2026-07-24 16:22"
+  },
+  "stock_qty_end_sum": 967.0,
+  "fabric_stock_amount_rub": 59675312.98,
+  "fabric_n_skus": 1339,
+  "fabric_qty_sum": 38897.92,
+  "fabric_warehouse_totals": {
+    "Основной склад": {
+      "qty": 14814.48,
+      "amount": 22560393.72
+    },
+    "Склад Жукова": {
+      "qty": 1634.09,
+      "amount": 2877332.1
+    },
+    "Склад Меркушина": {
+      "qty": 1015.65,
+      "amount": 1202689.24
+    },
+    "Склад Мокеева": {
+      "qty": 1984.74,
+      "amount": 3197241.43
+    }
+  }
+}

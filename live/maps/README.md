@@ -21,6 +21,9 @@ Updated: 2026-07-27
 | `07_CROSSWALK_MATRIX.md` | Сопоставление всё↔всё |
 | `08_UNIFIED_ALGORITHM.md` | Алгоритмы A–E |
 | `09_PROBLEMS_PLUS_MINUS.md` | Проблемы и зрелость |
+| `10_DEEP_SYNTHESIS.md` | Углублённый синтез всех контуров |
+| `11_MONTHLY_QUALITY_MAP.md` | Gate/gaps по месяцам |
+| `deep_synthesis_snapshot.json` | Агрегаты для воспроизводимости |
 
 ## Машиночитаемое
 
