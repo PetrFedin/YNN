@@ -1,0 +1,8 @@
+decision_id,topic,evidence,owner,options,recommend,so_t_impact,status
+D-ACQ-POS-01,Завести класс ACQ_POS (не ACQ_IM),62.3M OTHER_IN POS на LE-IP only; blind→IM fixes 1/6 OPEN,Сливяк,ACCEPT_ACQ_POS|REJECT|ACCEPT_INTO_ACQ_IM,ACCEPT_ACQ_POS,Y if ACCEPT,PENDING
+D-IM-REG-01,Эквайринг-реестры на IM OPEN без cand,2025-01 add=0; 2024-08/2025-08 small adds,Сливяк,PROVIDE_FILES|DEFER,PROVIDE_FILES,N until ingest,PENDING
+D-B2B-01,Закрыть B2B open 15 docs / 2.51M,data_request_b2b_open.csv,Коптева/Сливяк,COLLECT|OFFSET|WRITEOFF,COLLECT,N,PENDING
+D-MD-INV-01,Сверить топ invoice↔МД (фамилия),md_invoice_surname_links.csv ~15.6M,Мамушкина/Сливяк,MATCH_OK|FALSE_POSITIVE|NEED_PAYMENT_LEVEL,MATCH_OK for top then payment-level,N,PENDING
+D-PAY-LINES-01,Ведомости ЗП на NO_LINES месяцы,19/30 NO_LINES; +18.2M payroll YoY,Сливяк,PROVIDE_FILES|DEFER,PROVIDE_FILES,N until ingest,PENDING
+D-MD-COST-01,Формат cost/WIP заказа МД,cost fill 0% 2024-25; price≠DDS,Мокеева/Мамушкина,PROVIDE_FORMAT|NO_DATA,PROVIDE_FORMAT,N,PENDING
+D-TSUM-RATE-01,Договорной %% ЦУМ,dual 37.9/87.9; Merkushina questionnaire,Меркушина/юр,PROVIDE_RATE|DEFER,PROVIDE_RATE,Y for model,PENDING

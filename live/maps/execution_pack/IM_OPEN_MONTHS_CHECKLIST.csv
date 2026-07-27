@@ -1,0 +1,7 @@
+period_month,status_as_is,sales_revenue_rub,bank_acq_im_as_is,bank_in_best_as_is,acq_candidate_add_rub,bank_hyp_best_plus_cand,gap_hyp_pct,status_hyp_crude,is_gate_open_month,note
+2024-08,OPEN,977346.0,1999329.53,0.0,462756.05,462756.05,-52.7,OPEN,Y,hyp crude ±10/30; NOT gate policy; candidates not applied
+2025-01,OPEN,776530.0,2074733.18,0.0,0.0,0.0,-100.0,OPEN,Y,hyp crude ±10/30; NOT gate policy; candidates not applied
+2025-08,OPEN,3594028.0,773638.19,0.0,366800.0,366800.0,-89.8,OPEN,Y,hyp crude ±10/30; NOT gate policy; candidates not applied
+2025-10,OPEN,676092.0,1772878.43,0.0,3966620.0,3966620.0,486.7,OPEN,Y,hyp crude ±10/30; NOT gate policy; candidates not applied
+2026-03,OPEN,408090.0,672194.72,0.0,4549174.89,4549174.89,1014.7,OPEN,Y,hyp crude ±10/30; NOT gate policy; candidates not applied
+2026-04,OPEN,3399021.0,2039914.67,0.0,4116399.15,4116399.15,21.1,SOFT,Y,hyp crude ±10/30; NOT gate policy; candidates not applied

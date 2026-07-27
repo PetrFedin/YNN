@@ -1,0 +1,27 @@
+{
+  "status": "NARRATIVE_EXHAUSTED",
+  "layers_completed": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "last_useful_deepening": "execution_pack (this)",
+  "do_not": [
+    "create Layer 6 overview twin",
+    "claim MD unit-econ from workbook",
+    "blind merge POS into ACQ_IM"
+  ],
+  "do_next": [
+    "D-ACQ-POS-01: Завести класс ACQ_POS (не ACQ_IM)",
+    "D-IM-REG-01: Эквайринг-реестры на IM OPEN без cand",
+    "D-B2B-01: Закрыть B2B open 15 docs / 2.51M",
+    "D-MD-INV-01: Сверить топ invoice↔МД (фамилия)",
+    "D-PAY-LINES-01: Ведомости ЗП на NO_LINES месяцы",
+    "D-MD-COST-01: Формат cost/WIP заказа МД",
+    "D-TSUM-RATE-01: Договорной %% ЦУМ"
+  ],
+  "github_path": "live/maps/execution_pack/",
+  "so_t": "N"
+}

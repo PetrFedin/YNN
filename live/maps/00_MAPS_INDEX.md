@@ -21,6 +21,7 @@ Updated: 2026-07-27
 | 13 | Layer 3: касса/классы | `13_LAYER3_CASH_CLASSIFICATION.md` | OTHER_IN 62M POS-like, payroll lines, TSUM≠IM |
 | 14 | Layer 4: impact reclass | `14_LAYER4_RECLASS_IMPACT.md` | Кандидаты + эффект на IM OPEN (1/6) |
 | 15 | Layer 5: scorecard + links | `15_LAYER5_SCORECARD_LINKS.md` | Статус системы; POS=IP; invoice↔МД 40% |
+| EXEC | Пакет исполнения | `execution_pack/` | Решения owners · CSV · стоп narrative |
 | JSON | Снимки слоёв | `deep_synthesis_snapshot.json`, `depth_layer2_*.json` … `depth_layer5_*.json` | Воспроизводимость |
 | CSV | Машиночитаемые срезы | `*.csv` в этой папке | Каталог, crosswalk, scorecard, links |
 
@@ -32,7 +33,7 @@ Updated: 2026-07-27
 4. «Где теряем деньги?» → `06` + `09`  
 5. «Как всё связать?» → `07` + **`08`**  
 6. «Что уже доказано / что делать?» → **`15`** + `system_scorecard.csv`  
-7. «Ещё углубляй текстом?» → **EXHAUSTED** — нужен ACCEPT / реестры / collect, не Layer 6 обзор  
+7. «Ещё углубляй текстом?» → **EXHAUSTED** → `execution_pack/` (решения), не Layer 6 обзор  
 
 Канон ID процессов: только P01–P12 из `01_PROCESS_MAP.md`.
 
