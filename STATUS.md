@@ -3,14 +3,15 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Приоритет сейчас: H46 IM POS Accept
-Документ: `live/client_pack/33_PRIORITY_IM_POS_ACCEPT_H46.md`
+## Приоритет сейчас: H47 MD unit-econ
+Документ: `live/client_pack/34_PRIORITY_MD_UNIT_ECON_H47.md`
 
 ### Ключевой find
-Accept **доли** POS→IM: **2026-04 = 509k** + **2025-08 = 37k** → gate **20/30**.  
-4 overbanked — только реестры. Path: 18→20→24→30.
+2024–25 salon cost fill **0%** → unit-econ **BLOCKED**.  
+2026: shop **90.5%** / salon **78.2%** → **пилот вперёд**, не ретро. Касса МД OK.
 
-Лист: `live/marts/im_pos_yanina_signoff.csv`  
-Backlog: `live/marts/owner_execution_backlog_h46.csv`
+### Серия H39–H47
+Gate / BANK / TSUM / B2B / RACI / Alias / ЗП / IM Accept / MD unit-econ — упакованы.  
+Дальше: **исполнение owners** (`owner_execution_backlog_h46.csv`).
 
 Updated: 2026-07-28

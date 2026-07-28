@@ -1,0 +1,6 @@
+claim,basis,use_in_model
+Касса МД 2025–H1 2026 видна,payments↔DDS CLOSE/SOFT почти все месяцы,YES — income contour
+GM заказа МД 2024–25,cost fill blocked,NO — запрещено
+Indicative GM shop 2026 (both-only),fill 90.5%,YES as PILOT label only
+Goods −74% = убыток компании,МД вне выручки periметра,NO — artifact
+S2 рост МД в ₽ маржи,нет unit cost,только процессные KPI

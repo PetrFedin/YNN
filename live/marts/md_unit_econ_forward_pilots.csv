@@ -1,0 +1,4 @@
+pilot_id,scope,cost_fill_pct,action,output,owner,sla
+PILOT-2026-SHOP,Shop sales 2026 lines with cost,90.5,Зафиксировать процесс: cost обязательно до закрытия месяца магазина,Indicative shop GM 2026 on both-only lines (не SoT),Мокеева + Коновалова,30 дней
+PILOT-2026-SALON,Salon orders 2026 — подтянуть fill к shop (≥80%),78.2,Обязать cost_amount на каждый salon order 2026+; шаблон как shop,База для unit-econ вперёд (не ретро 2024-25),Мокеева + мастера,45 дней
+PILOT-KPI-CASH,MD cash discipline без unit-econ,,KPI: payments↔DDS CLOSE/SOFT; fittings on-time; redo rate,Управление ядром без ложной маржи заказа,Мамушкина / Мокеева,ongoing

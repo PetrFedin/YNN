@@ -1,0 +1,9 @@
+{
+  "horizon": "H47",
+  "title": "MD unit-econ blocker map + 2026 forward pilot",
+  "created": "2026-07-28",
+  "key_finding": "2024-25 unit-econ blocked; 2026 shop ~90% cost fill = real pilot; cash contour works; do not invent GM",
+  "salon_2026_fill": 78.2,
+  "shop_2026_fill": 90.5,
+  "missing_salon_2026_n": 26
+}

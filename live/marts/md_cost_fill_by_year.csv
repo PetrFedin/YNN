@@ -1,0 +1,9 @@
+channel,year,n_lines,with_cost_n,cost_fill_pct,with_price_n,with_both_n,both_fill_pct,price_sum_on_priced,cost_sum_on_costed,indicative_gm_pct_on_both_only,unit_econ_status,note
+salon,2023,267,0,0.0,263,0,0.0,879445.0,0.0,,BLOCKED,нет базы для GM
+salon,2024,277,0,0.0,275,0,0.0,1225548.0,0.0,,BLOCKED,нет базы для GM
+salon,2025,283,0,0.0,282,0,0.0,1320390.0,0.0,,BLOCKED,нет базы для GM
+salon,2026,119,93,78.2,119,93,78.2,728216.0,73338.0,63.9,PILOT_OK,GM только на строках with cost+price; НЕ экстраполировать на год
+shop,2023,973,8,0.8,967,8,0.8,1092621.0,20214.0,-1.5,BLOCKED,GM только на строках with cost+price; НЕ экстраполировать на год
+shop,2024,792,8,1.0,776,8,1.0,1057729.0,29810.0,-2.3,BLOCKED,GM только на строках with cost+price; НЕ экстраполировать на год
+shop,2025,813,54,6.6,805,54,6.6,1157262.0,4275.0,1.1,BLOCKED,GM только на строках with cost+price; НЕ экстраполировать на год
+shop,2026,283,256,90.5,282,255,90.1,325739.0,49194.0,75.3,PILOT_OK,GM только на строках with cost+price; НЕ экстраполировать на год

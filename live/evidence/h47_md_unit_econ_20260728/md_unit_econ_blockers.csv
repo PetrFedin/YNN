@@ -1,0 +1,6 @@
+blocker_id,title,severity,status,evidence,what_works_instead,owner,stage
+MD-UE-01,Salon cost fill 2024–25 низкий / пустой для unit-econ,P0,BLOCKED_PERMANENT_WITHOUT_NEW_COST,"cost_fill_by_year.csv: salon 2024≈0%, 2025 частичный; нельзя строить GM заказа",MD payments ↔ DDS (касса ядра),DOM-COST Мокеева / DOM-PROD,Stage 2 process — не чинить 2024-25 задним числом без ACCEPT
+MD-UE-02,Нет остатков / WIP МД,P0,PERMANENT_CONSTRAINT,G4 / BUSINESS_STRUCTURE MF-NO-MD-STOCK,Sales/payments on fact only,Янина policy,Accept constraint
+MD-UE-03,Price workbook ≠ DDS scale (исторически),P1,KNOWN,Layer2: price fields не сходятся с DDS 232M,Касса из payments/DDS @FX100,Сливяк,Do not use price as P&L
+MD-UE-04,2026-06 DDS salon+shop = 0 при наличии MD payments,P0,SOURCE_HOLE,recon OPEN 2026-06 (как H40 DDS June),Догрузить ДДС июнь,Сливяк,File upload
+MD-UE-05,Person-cost quarantine (Жукова/Меркушина) ≠ order cost,P1,SEPARATE_TRACK,H45 secondary quarantine → DOM-COST,Не смешивать с salon cost_amount,Мокеева,H45

@@ -1,0 +1,6 @@
+rank,action_id,title,detail,accept
+1,H47-A1,Зафиксировать PERMANENT: no unit-econ МД 2024–25,В constraints / SOT_POLICY — не обещать,policy
+2,H47-A2,Пилот shop 2026: процесс cost обязателен,Уже ~90% fill — закрепить стандарт,process
+3,H47-A3,Salon 2026: довести cost fill ≥80%,Сейчас ~78.2%,ops
+4,H47-A4,Догрузить DDS June 2026 (MD recon OPEN),Связь H40,file
+5,H47-A5,Не использовать indicative GM как SoT / P&L,Только pilot label,policy

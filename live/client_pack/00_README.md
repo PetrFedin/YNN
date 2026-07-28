@@ -52,6 +52,7 @@
 | **31** | `31_PRIORITY_ALIAS_ACCEPT_H44.md` | **H44 приоритет:** Alias Accept — 16 PENDING / топ-5 ≈3.04M (Коновалова) |
 | **32** | `32_PRIORITY_PAYROLL_QUARANTINE_H45.md` | **H45 приоритет:** ЗП янв–фев quarantine — root cause #REF! в Распределение |
 | **33** | `33_PRIORITY_IM_POS_ACCEPT_H46.md` | **H46 приоритет:** IM POS Accept — slices 509k+37k → gate 20/30 |
+| **34** | `34_PRIORITY_MD_UNIT_ECON_H47.md` | **H47 приоритет:** MD unit-econ — 24–25 BLOCKED / пилот 2026 shop+salon |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |
