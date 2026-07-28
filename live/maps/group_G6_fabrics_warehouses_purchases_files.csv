@@ -1,0 +1,6 @@
+group,domain,category,file_name,years,entities,risk,lifecycle_status,source_file_id
+G6_FABRICS_WAREHOUSES_PURCHASES,Закупки и запасы,inventory,Остатки ткани из 1С на 31.05.2026.xlsx,2026,общий/не указан,Низкий,Active source candidate,SRC-7348EDC937A6
+G6_FABRICS_WAREHOUSES_PURCHASES,Закупки и запасы,procurement,Список контрагентов по закупке.xlsx,Не определён из названия,общий/не указан,Низкий,Active source candidate,SRC-11F7B2D33F44
+G6_FABRICS_WAREHOUSES_PURCHASES,Материалы / ткани,mat_movement,Движение тканей.xlsx,2024-2026,GROUP,Низкий,Active source candidate,SRC-503171CC87B0
+G6_FABRICS_WAREHOUSES_PURCHASES,Склад / товар,stock_movement,Движение товара по складам.xlsx,2024-2026,GROUP,Низкий,Active source candidate,SRC-764CA2B82D8F
+G6_FABRICS_WAREHOUSES_PURCHASES,Склад / себестоимость,stock_cost_movement,Движение товаров с себестоимостью.xlsx,2024-2026,GROUP,Низкий,Active source candidate,SRC-CF84AB121369
