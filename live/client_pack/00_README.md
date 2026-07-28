@@ -51,6 +51,7 @@
 | **30** | `30_PRIORITY_RACI_ASSIGN_H43.md` | **H43 приоритет:** RACI 10 OPEN — confirm H27 кандидатов (лист Яниной) |
 | **31** | `31_PRIORITY_ALIAS_ACCEPT_H44.md` | **H44 приоритет:** Alias Accept — 16 PENDING / топ-5 ≈3.04M (Коновалова) |
 | **32** | `32_PRIORITY_PAYROLL_QUARANTINE_H45.md` | **H45 приоритет:** ЗП янв–фев quarantine — root cause #REF! в Распределение |
+| **33** | `33_PRIORITY_IM_POS_ACCEPT_H46.md` | **H46 приоритет:** IM POS Accept — slices 509k+37k → gate 20/30 |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |
