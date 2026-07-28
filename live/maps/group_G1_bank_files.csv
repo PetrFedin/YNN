@@ -1,0 +1,13 @@
+group,domain,category,file_name,years,entities,risk,lifecycle_status,source_file_id
+G1_BANK,Финансы и денежные потоки,bank,VTB_BankStatement_40702810804000008482_01.01.2024-22.06.2026_376277.pdf,2024;2026,общий/не указан,Низкий,Active source candidate,SRC-231BEC51ED7E
+G1_BANK,Финансы и денежные потоки,bank,VTB_BankStatement_40802810404000000049_01.01.2024-22.06.2026_417016.pdf,2024;2026,общий/не указан,Низкий,Active source candidate,SRC-CF1A608847CB
+G1_BANK,Финансы и денежные потоки,bank,VTB_BankStatement_40802810500000006196_01.01.2024-22.06.2026_417014.pdf,2024;2026,общий/не указан,Низкий,Active source candidate,SRC-4E7A03BAE008
+G1_BANK,Финансы и денежные потоки,bank,Выписка_40802810202620002686_01.01.2024–31.12.2024.xlsx,2024;2026,общий/не указан,Низкий,Active source candidate,SRC-3BB52EE0AFF1
+G1_BANK,Финансы и денежные потоки,bank,Выписка_40802810202620002686_01.01.2025–31.12.2025.xlsx,2025;2026,общий/не указан,Низкий,Active source candidate,SRC-E56D76D98C01
+G1_BANK,Финансы и денежные потоки,bank,Выписка_40802810202620002686_01.01.2026–23.06.2026.xlsx,2026,общий/не указан,Низкий,Active source candidate,SRC-F7E9F79D4112
+G1_BANK,Банк / карточный счёт,bank_card,StatementFull_0400-C-869430_2024-01-01_2024-12-31_2026-07-24_09-31-20.xls,2024,ИП_ЯНИНА,Средний,Active source candidate,SRC-3A0BA373AE81
+G1_BANK,Банк / карточный счёт,bank_card,StatementFull_0400-C-869430_2025-01-01_2025-12-31_2026-07-24_09-30-49.xls,2025,ИП_ЯНИНА,Средний,Active source candidate,SRC-5F69DD138914
+G1_BANK,Банк / карточный счёт,bank_card,StatementFull_0400-C-869430_2026-01-01_2026-06-30_2026-07-24_09-31-18.xls,2026,ИП_ЯНИНА,Средний,Active source candidate,SRC-63E52A02A16E
+G1_BANK,Банк / Сбер,bank_sber,СберБизнес. Выписка за 2024.01.01-2024.12.31 счёт 40702810638040103938.xlsx,2024,ООО_САЛОН_ЯНИНА,Средний,Active source candidate,SRC-373EC9658D44
+G1_BANK,Банк / Сбер,bank_sber,СберБизнес. Выписка за 2025.01.01-2025.12.31 счёт 40702810638040103938.xlsx,2025,ООО_САЛОН_ЯНИНА,Средний,Active source candidate,SRC-454CD0923D1B
+G1_BANK,Банк / Сбер,bank_sber,СберБизнес. Выписка за 2026.01.01-2026.06.30 счёт 40702810638040103938.xlsx,2026,ООО_САЛОН_ЯНИНА,Средний,Active source candidate,SRC-777ADAFAAF01
