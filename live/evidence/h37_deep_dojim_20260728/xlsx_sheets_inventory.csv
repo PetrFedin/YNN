@@ -1,0 +1,294 @@
+source_file_id,file_name,group,sheet_name,sheet_state,max_row,max_column,category,domain
+SRC-FC6C0194884C,SALES 2024-2026.xlsx,G2,для Юлии (свод продаж),visible,186,20,sales_general,Финансы и денежные потоки
+SRC-FC6C0194884C,SALES 2024-2026.xlsx,G2,ДДС - доход,visible,57,20,sales_general,Финансы и денежные потоки
+SRC-FC6C0194884C,SALES 2024-2026.xlsx,G2,реальные деньги без учета расхо,hidden,43,19,sales_general,Финансы и денежные потоки
+SRC-FC6C0194884C,SALES 2024-2026.xlsx,G2,доходы-расходы,visible,80,19,sales_general,Финансы и денежные потоки
+SRC-47B23059C048,Бюджет 2-е полугодие 2025(1).xlsx,G2,Лист1,visible,23,18,budget,Финансы и денежные потоки
+SRC-7B59F03FC58C,Бюджет 2026.xlsx,G2,лист,visible,94,34,budget,Финансы и денежные потоки
+SRC-3BB52EE0AFF1,Выписка_40802810202620002686_01.01.2024–31.12.2024.xlsx,G1,Выписка по счёту,visible,1,1,bank,Финансы и денежные потоки
+SRC-E56D76D98C01,Выписка_40802810202620002686_01.01.2025–31.12.2025.xlsx,G1,Выписка по счёту,visible,1,1,bank,Финансы и денежные потоки
+SRC-F7E9F79D4112,Выписка_40802810202620002686_01.01.2026–23.06.2026.xlsx,G1,Выписка по счёту,visible,1,1,bank,Финансы и денежные потоки
+SRC-627DAA533FFD,Вышивка себестоимость 2024-2026.xlsx,G4,Sheet1,visible,5737,92,cost_embroidery,Себестоимость и производство
+SRC-627DAA533FFD,Вышивка себестоимость 2024-2026.xlsx,G4,48я,visible,30,7,cost_embroidery,Себестоимость и производство
+SRC-627DAA533FFD,Вышивка себестоимость 2024-2026.xlsx,G4,Ткани,visible,25,4,cost_embroidery,Себестоимость и производство
+SRC-627DAA533FFD,Вышивка себестоимость 2024-2026.xlsx,G4,Круиз 26,visible,23,7,cost_embroidery,Себестоимость и производство
+SRC-627DAA533FFD,Вышивка себестоимость 2024-2026.xlsx,G4,Отпуск,visible,22,55,cost_embroidery,Себестоимость и производство
+SRC-627DAA533FFD,Вышивка себестоимость 2024-2026.xlsx,G4,Планирование,visible,54,133,cost_embroidery,Себестоимость и производство
+SRC-627DAA533FFD,Вышивка себестоимость 2024-2026.xlsx,G4,План сдач,visible,272,21,cost_embroidery,Себестоимость и производство
+SRC-CC92902423D3,ДДС 2024.xlsx,G2,Расходы бизнеса,visible,42,8,cashflow_dds,Финансы и денежные потоки
+SRC-CC92902423D3,ДДС 2024.xlsx,G2,Лист2,visible,119,16,cashflow_dds,Финансы и денежные потоки
+SRC-CC92902423D3,ДДС 2024.xlsx,G2,сводная бизнес по статьям,visible,165,40,cashflow_dds,Финансы и денежные потоки
+SRC-CC92902423D3,ДДС 2024.xlsx,G2,сводная Биснес по мес,visible,1137,8,cashflow_dds,Финансы и денежные потоки
+SRC-CC92902423D3,ДДС 2024.xlsx,G2,сводная бизнес по напр,visible,137,75,cashflow_dds,Финансы и денежные потоки
+SRC-CC92902423D3,ДДС 2024.xlsx,G2,Расходы собст по статьям,visible,16,15,cashflow_dds,Финансы и денежные потоки
+SRC-CC92902423D3,ДДС 2024.xlsx,G2,data B,visible,1624,13,cashflow_dds,Финансы и денежные потоки
+SRC-CC92902423D3,ДДС 2024.xlsx,G2,data D,visible,349,12,cashflow_dds,Финансы и денежные потоки
+SRC-CC92902423D3,ДДС 2024.xlsx,G2,Справочники,visible,42,6,cashflow_dds,Финансы и денежные потоки
+SRC-A4FF290ABA3F,ДДС 2025.xlsx,G2,data B,visible,2476,12,cashflow_dds,Финансы и денежные потоки
+SRC-A4FF290ABA3F,ДДС 2025.xlsx,G2,data D,visible,386,12,cashflow_dds,Финансы и денежные потоки
+SRC-A4FF290ABA3F,ДДС 2025.xlsx,G2,D-по статьям,visible,16,14,cashflow_dds,Финансы и денежные потоки
+SRC-A4FF290ABA3F,ДДС 2025.xlsx,G2,D - сводная,visible,37,3,cashflow_dds,Финансы и денежные потоки
+SRC-A4FF290ABA3F,ДДС 2025.xlsx,G2,B-сводная по направлениям,visible,11,15,cashflow_dds,Финансы и денежные потоки
+SRC-A4FF290ABA3F,ДДС 2025.xlsx,G2,B-по мероприятиям,visible,18,15,cashflow_dds,Финансы и денежные потоки
+SRC-A4FF290ABA3F,ДДС 2025.xlsx,G2,B-сводная по статьям,visible,494,14,cashflow_dds,Финансы и денежные потоки
+SRC-A4FF290ABA3F,ДДС 2025.xlsx,G2,B-в разрезе,visible,106,46,cashflow_dds,Финансы и денежные потоки
+SRC-A4FF290ABA3F,ДДС 2025.xlsx,G2,Справочники,visible,42,6,cashflow_dds,Финансы и денежные потоки
+SRC-EBE873A7CE95,ДДС 2026.xlxs.xlsx,G2,data B,visible,1043,12,cashflow_dds,Финансы и денежные потоки
+SRC-EBE873A7CE95,ДДС 2026.xlxs.xlsx,G2,В сводная по статьям,visible,43,7,cashflow_dds,Финансы и денежные потоки
+SRC-EBE873A7CE95,ДДС 2026.xlxs.xlsx,G2,В- по мероприятиям,visible,12,7,cashflow_dds,Финансы и денежные потоки
+SRC-EBE873A7CE95,ДДС 2026.xlxs.xlsx,G2,В-по направлениям,visible,11,9,cashflow_dds,Финансы и денежные потоки
+SRC-EBE873A7CE95,ДДС 2026.xlxs.xlsx,G2,data D,visible,112,11,cashflow_dds,Финансы и денежные потоки
+SRC-EBE873A7CE95,ДДС 2026.xlxs.xlsx,G2,D-по статьям,visible,13,7,cashflow_dds,Финансы и денежные потоки
+SRC-EBE873A7CE95,ДДС 2026.xlxs.xlsx,G2,D - сводная,visible,37,3,cashflow_dds,Финансы и денежные потоки
+SRC-EBE873A7CE95,ДДС 2026.xlxs.xlsx,G2,Справочники,visible,43,6,cashflow_dds,Финансы и денежные потоки
+SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,G7,Распределение,visible,24,11,payroll_monthly,Персонал и оплата труда
+SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,G7,окладники,visible,69,16,payroll_monthly,Персонал и оплата труда
+SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,G7,вышивальщицы,visible,35,12,payroll_monthly,Персонал и оплата труда
+SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,G7,ведомость конструкторы,visible,14,15,payroll_monthly,Персонал и оплата труда
+SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,G7,ведомость мастера,visible,20,18,payroll_monthly,Персонал и оплата труда
+SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,G7,табель,visible,57,36,payroll_monthly,Персонал и оплата труда
+SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,G7,отчет Олейник,visible,21,3,payroll_monthly,Персонал и оплата труда
+SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,G7,отчет Новикова,visible,1,1,payroll_monthly,Персонал и оплата труда
+SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,G7,карты,visible,57,10,payroll_monthly,Персонал и оплата труда
+SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,G7,Отчет Салахова,visible,94,10,payroll_monthly,Персонал и оплата труда
+SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,G7,ЗП новеньких,visible,13,7,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,Распределение,visible,34,9,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,окладники,visible,85,17,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,вышивальщицы,visible,38,14,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,ведомость конструкторы,visible,15,16,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,ведомость мастера,visible,25,19,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,табель,visible,73,36,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,карты,visible,70,11,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,отчет Новикова,visible,33,3,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,отчет Олейник,visible,14,3,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,отчет Быкова,visible,4,5,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,Отчет В2В,visible,149,10,payroll_monthly,Персонал и оплата труда
+SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,G7,ЗП новеньких,visible,26,7,payroll_monthly,Персонал и оплата труда
+SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,G7,Распределение,visible,24,11,payroll_monthly,Персонал и оплата труда
+SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,G7,окладники,visible,73,16,payroll_monthly,Персонал и оплата труда
+SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,G7,вышивальщицы,visible,36,14,payroll_monthly,Персонал и оплата труда
+SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,G7,ведомость конструкторы,visible,17,16,payroll_monthly,Персонал и оплата труда
+SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,G7,ведомость мастера,visible,25,19,payroll_monthly,Персонал и оплата труда
+SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,G7,табель,visible,68,37,payroll_monthly,Персонал и оплата труда
+SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,G7,отчет Новикова,visible,19,3,payroll_monthly,Персонал и оплата труда
+SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,G7,отчет Олейник,visible,17,3,payroll_monthly,Персонал и оплата труда
+SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,G7,карты,visible,60,10,payroll_monthly,Персонал и оплата труда
+SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,G7,Отчет В2В,visible,113,10,payroll_monthly,Персонал и оплата труда
+SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,G7,ЗП новеньких,visible,17,7,payroll_monthly,Персонал и оплата труда
+SRC-5CDDA43EB163,ЗП за май 2025.xlsx,G7,Распределение,visible,22,11,payroll_monthly,Персонал и оплата труда
+SRC-5CDDA43EB163,ЗП за май 2025.xlsx,G7,окладники,visible,73,16,payroll_monthly,Персонал и оплата труда
+SRC-5CDDA43EB163,ЗП за май 2025.xlsx,G7,вышивальщицы,visible,34,13,payroll_monthly,Персонал и оплата труда
+SRC-5CDDA43EB163,ЗП за май 2025.xlsx,G7,ведомость конструкторы,visible,14,15,payroll_monthly,Персонал и оплата труда
+SRC-5CDDA43EB163,ЗП за май 2025.xlsx,G7,ведомость мастера,visible,21,18,payroll_monthly,Персонал и оплата труда
+SRC-5CDDA43EB163,ЗП за май 2025.xlsx,G7,табель,visible,57,37,payroll_monthly,Персонал и оплата труда
+SRC-5CDDA43EB163,ЗП за май 2025.xlsx,G7,карты,visible,58,10,payroll_monthly,Персонал и оплата труда
+SRC-5CDDA43EB163,ЗП за май 2025.xlsx,G7,Отчет Салахова,visible,106,10,payroll_monthly,Персонал и оплата труда
+SRC-5CDDA43EB163,ЗП за май 2025.xlsx,G7,отчет Новикова,visible,21,3,payroll_monthly,Персонал и оплата труда
+SRC-5CDDA43EB163,ЗП за май 2025.xlsx,G7,отчет Олейник,visible,20,3,payroll_monthly,Персонал и оплата труда
+SRC-5CDDA43EB163,ЗП за май 2025.xlsx,G7,ЗП новеньких,visible,16,7,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,Распределение,visible,34,10,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,окладники,visible,75,17,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,вышивальщицы,visible,39,14,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,ведомость конструкторы,visible,16,16,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,ведомость мастера,visible,24,20,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,карты,visible,70,11,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,табель,visible,73,37,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,отчет Новикова,visible,30,3,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,отчет Олейник,visible,18,3,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,отчет Быкова,visible,4,5,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,Отчет В2В,visible,149,10,payroll_monthly,Персонал и оплата труда
+SRC-3DE974947BCA,ЗП за май 2026.xlsx,G7,ЗП новеньких,visible,26,7,payroll_monthly,Персонал и оплата труда
+SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,G7,Распределение,visible,27,11,payroll_monthly,Персонал и оплата труда
+SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,G7,окладники,visible,67,16,payroll_monthly,Персонал и оплата труда
+SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,G7,вышивальщицы,visible,35,12,payroll_monthly,Персонал и оплата труда
+SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,G7,ведомость конструкторы,visible,14,15,payroll_monthly,Персонал и оплата труда
+SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,G7,ведомость мастера,visible,18,18,payroll_monthly,Персонал и оплата труда
+SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,G7,табель,visible,57,37,payroll_monthly,Персонал и оплата труда
+SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,G7,карты,visible,56,9,payroll_monthly,Персонал и оплата труда
+SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,G7,Отчет Новикова,visible,1,1,payroll_monthly,Персонал и оплата труда
+SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,G7,Отчет Олейник,visible,20,3,payroll_monthly,Персонал и оплата труда
+SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,G7,Отчет Салахова,visible,89,10,payroll_monthly,Персонал и оплата труда
+SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,G7,ЗП новеньких,visible,13,7,payroll_monthly,Персонал и оплата труда
+SRC-0BB9EE764409,ЗП за март 2026.xlsx,G7,Распределение,visible,33,11,payroll_monthly,Персонал и оплата труда
+SRC-0BB9EE764409,ЗП за март 2026.xlsx,G7,окладники,visible,75,17,payroll_monthly,Персонал и оплата труда
+SRC-0BB9EE764409,ЗП за март 2026.xlsx,G7,вышивальщицы,visible,36,14,payroll_monthly,Персонал и оплата труда
+SRC-0BB9EE764409,ЗП за март 2026.xlsx,G7,ведомость конструкторы,visible,15,16,payroll_monthly,Персонал и оплата труда
+SRC-0BB9EE764409,ЗП за март 2026.xlsx,G7,ведомость мастера,visible,25,19,payroll_monthly,Персонал и оплата труда
+SRC-0BB9EE764409,ЗП за март 2026.xlsx,G7,карты,visible,69,11,payroll_monthly,Персонал и оплата труда
+SRC-0BB9EE764409,ЗП за март 2026.xlsx,G7,табель,visible,62,37,payroll_monthly,Персонал и оплата труда
+SRC-0BB9EE764409,ЗП за март 2026.xlsx,G7,Отчет Быкова Е.,visible,4,5,payroll_monthly,Персонал и оплата труда
+SRC-0BB9EE764409,ЗП за март 2026.xlsx,G7,Отчет Олейник,visible,10,3,payroll_monthly,Персонал и оплата труда
+SRC-0BB9EE764409,ЗП за март 2026.xlsx,G7,Отчет В2В,visible,146,10,payroll_monthly,Персонал и оплата труда
+SRC-0BB9EE764409,ЗП за март 2026.xlsx,G7,ЗП новеньких,visible,26,7,payroll_monthly,Персонал и оплата труда
+SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,G7,Распределение,visible,23,12,payroll_monthly,Персонал и оплата труда
+SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,G7,окладники,visible,65,16,payroll_monthly,Персонал и оплата труда
+SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,G7,вышивальщицы,visible,36,12,payroll_monthly,Персонал и оплата труда
+SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,G7,ведомость конструкторы,visible,14,15,payroll_monthly,Персонал и оплата труда
+SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,G7,ведомость мастера,visible,17,18,payroll_monthly,Персонал и оплата труда
+SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,G7,табель,visible,60,34,payroll_monthly,Персонал и оплата труда
+SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,G7,отчет Новикова,visible,1,1,payroll_monthly,Персонал и оплата труда
+SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,G7,Олейник,visible,19,3,payroll_monthly,Персонал и оплата труда
+SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,G7,карты,visible,55,10,payroll_monthly,Персонал и оплата труда
+SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,G7,Отчет Салахова,visible,85,10,payroll_monthly,Персонал и оплата труда
+SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,G7,ЗП новеньких,visible,13,7,payroll_monthly,Персонал и оплата труда
+SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,G7,Распределение,visible,23,11,payroll_monthly,Персонал и оплата труда
+SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,G7,окладники,visible,70,16,payroll_monthly,Персонал и оплата труда
+SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,G7,вышивальщицы,visible,37,14,payroll_monthly,Персонал и оплата труда
+SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,G7,ведомость конструкторы,visible,15,16,payroll_monthly,Персонал и оплата труда
+SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,G7,ведомость мастера,visible,25,19,payroll_monthly,Персонал и оплата труда
+SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,G7,табель,visible,72,34,payroll_monthly,Персонал и оплата труда
+SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,G7,карты,visible,68,11,payroll_monthly,Персонал и оплата труда
+SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,G7,отчет Быкова,visible,7,5,payroll_monthly,Персонал и оплата труда
+SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,G7,отчет Олейник,visible,9,3,payroll_monthly,Персонал и оплата труда
+SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,G7,Отчет В2В,visible,143,10,payroll_monthly,Персонал и оплата труда
+SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,G7,ЗП новеньких,visible,25,7,payroll_monthly,Персонал и оплата труда
+SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,G7,Распределение,visible,15,11,payroll_monthly,Персонал и оплата труда
+SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,G7,окладники,visible,61,16,payroll_monthly,Персонал и оплата труда
+SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,G7,вышивальщицы,visible,38,12,payroll_monthly,Персонал и оплата труда
+SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,G7,ведомость конструкторы,visible,17,15,payroll_monthly,Персонал и оплата труда
+SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,G7,ведомость мастера,visible,17,18,payroll_monthly,Персонал и оплата труда
+SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,G7,табель,visible,59,37,payroll_monthly,Персонал и оплата труда
+SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,G7,Отчет Новикова,visible,1,1,payroll_monthly,Персонал и оплата труда
+SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,G7,Олейник,visible,24,3,payroll_monthly,Персонал и оплата труда
+SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,G7,карты,visible,54,9,payroll_monthly,Персонал и оплата труда
+SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,G7,Отчет Салахова,visible,78,10,payroll_monthly,Персонал и оплата труда
+SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,G7,ЗП новеньких,visible,11,7,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,Распределение,visible,22,11,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,окладники,visible,72,17,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,вышивальщицы,visible,38,14,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,ведомость конструкторы,visible,17,16,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,ведомость мастера,visible,25,19,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,карты,visible,68,11,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,табель,visible,72,37,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,Олейник,visible,10,3,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,Новикова,visible,43,3,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,13-я зп,visible,44,4,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,Отчет В2В,visible,140,10,payroll_monthly,Персонал и оплата труда
+SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,G7,ЗП новеньких,visible,24,7,payroll_monthly,Персонал и оплата труда
+SRC-BAF7BFF99489,ЗП_ЦЕХ 01.26.xlsx,G7,портн 01.26,visible,490,33,payroll_shop,Персонал и оплата труда
+SRC-BAF7BFF99489,ЗП_ЦЕХ 01.26.xlsx,G7,сметка 01.26,visible,48,16,payroll_shop,Персонал и оплата труда
+SRC-BD500A7BC88C,ЗП_ЦЕХ 02.26.xlsx,G7,портн 02.26,visible,480,33,payroll_shop,Персонал и оплата труда
+SRC-BD500A7BC88C,ЗП_ЦЕХ 02.26.xlsx,G7,сметка 02.26,visible,49,16,payroll_shop,Персонал и оплата труда
+SRC-DC5E6177775F,ЗП_ЦЕХ 03.26.xlsx,G7,портн 03.26,visible,546,33,payroll_shop,Персонал и оплата труда
+SRC-DC5E6177775F,ЗП_ЦЕХ 03.26.xlsx,G7,сметка 03.26,visible,44,16,payroll_shop,Персонал и оплата труда
+SRC-400D80F1258C,ЗП_ЦЕХ 04.26.xlsx,G7,портн 04.26,visible,528,33,payroll_shop,Персонал и оплата труда
+SRC-400D80F1258C,ЗП_ЦЕХ 04.26.xlsx,G7,сметка 04.26,visible,51,16,payroll_shop,Персонал и оплата труда
+SRC-83E3DE587848,ЗП_ЦЕХ 05.26.xlsx,G7,портн 05.26,visible,494,33,payroll_shop,Персонал и оплата труда
+SRC-83E3DE587848,ЗП_ЦЕХ 05.26.xlsx,G7,сметка 05.26,visible,58,16,payroll_shop,Персонал и оплата труда
+SRC-47D5B18B8E3A,МД — копия.xlsx,G4,салон,visible,5784,13,md,Себестоимость и производство
+SRC-47D5B18B8E3A,МД — копия.xlsx,G4,маг,visible,11209,16,md,Себестоимость и производство
+SRC-47D5B18B8E3A,МД — копия.xlsx,G4,финансы,visible,12271,15,md,Себестоимость и производство
+SRC-7348EDC937A6,Остатки ткани из 1С на 31.05.2026.xlsx,G6,Лист_1,visible,1345,4,inventory,Закупки и запасы
+SRC-CC75592DAF41,Продажи ЦУМ 2024.xlsx,G3,Лист1,visible,342,15,sales_tsum,Продажи и каналы
+SRC-A2B1D2B1ED4E,Продажи ЦУМ 2025.xlsx,G3,Лист1,visible,340,15,sales_tsum,Продажи и каналы
+SRC-463526E0FBB4,Продажи ЦУМ 2026.xlsx,G3,Лист1,visible,153,15,sales_tsum,Продажи и каналы
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,01-24,visible,101,13,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,02-24,visible,106,14,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,03-24,visible,106,12,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,04-24,visible,106,11,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,05-24,visible,115,13,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,06-24,visible,117,9,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,07-24,visible,107,9,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,08-24,visible,101,11,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,09-24,visible,108,11,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,10-24,visible,113,11,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,11-24,visible,117,11,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,12-24,visible,118,11,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,Лист1,visible,1,1,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,лист,visible,46,8,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,Лист2,visible,25,17,expenses,Финансы и денежные потоки
+SRC-2CAA0ACFD98B,Расходы 2024.xlsx,G2,Лист3,visible,18,14,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,01-25,visible,118,11,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,02-25,visible,120,11,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,03-25,visible,109,11,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,04-25,visible,111,11,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,05-25,visible,115,11,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,06-25,visible,99,11,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,07-25,visible,108,11,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,08-25,visible,100,11,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,09-25,visible,99,12,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,10-25,visible,103,12,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,11-25,visible,107,12,expenses,Финансы и денежные потоки
+SRC-9838A6CF583E,Расходы 2025.xlsx,G2,12-25,visible,108,12,expenses,Финансы и денежные потоки
+SRC-ED89CA0F5ABF,Расходы 2026.xlsx,G2,01-26,visible,105,12,expenses,Финансы и денежные потоки
+SRC-ED89CA0F5ABF,Расходы 2026.xlsx,G2,02-26,visible,109,12,expenses,Финансы и денежные потоки
+SRC-ED89CA0F5ABF,Расходы 2026.xlsx,G2,03-26,visible,107,12,expenses,Финансы и денежные потоки
+SRC-ED89CA0F5ABF,Расходы 2026.xlsx,G2,04-26,visible,108,12,expenses,Финансы и денежные потоки
+SRC-ED89CA0F5ABF,Расходы 2026.xlsx,G2,05-26,visible,104,12,expenses,Финансы и денежные потоки
+SRC-ED89CA0F5ABF,Расходы 2026.xlsx,G2,06-26,visible,105,12,expenses,Финансы и денежные потоки
+SRC-CCFA8B9574EB,Себестоимость Жукова.xlsx,G4,2026,visible,2586,24,cost_person,Себестоимость и производство
+SRC-CCFA8B9574EB,Себестоимость Жукова.xlsx,G4,2025,visible,4820,29,cost_person,Себестоимость и производство
+SRC-CCFA8B9574EB,Себестоимость Жукова.xlsx,G4,2024,visible,954,20,cost_person,Себестоимость и производство
+SRC-CCFA8B9574EB,Себестоимость Жукова.xlsx,G4,вышивка индия,visible,140,10,cost_person,Себестоимость и производство
+SRC-CCFA8B9574EB,Себестоимость Жукова.xlsx,G4,На аванс,visible,8,2,cost_person,Себестоимость и производство
+SRC-CCFA8B9574EB,Себестоимость Жукова.xlsx,G4,РАСШИФРОВКА,visible,18,2,cost_person,Себестоимость и производство
+SRC-823CE027153E,Себестоимость Меркушина.xlsx,G4,Площадки,visible,,,cost_person,Себестоимость и производство
+SRC-823CE027153E,Себестоимость Меркушина.xlsx,G4,ИМ,visible,,,cost_person,Себестоимость и производство
+SRC-823CE027153E,Себестоимость Меркушина.xlsx,G4,Капсульные коллекции ,visible,,,cost_person,Себестоимость и производство
+SRC-823CE027153E,Себестоимость Меркушина.xlsx,G4,Разработки 2025,visible,,,cost_person,Себестоимость и производство
+SRC-11F7B2D33F44,Список контрагентов по закупке.xlsx,G6,Лист_1,visible,64,3,procurement,Закупки и запасы
+SRC-758F1723B3D6,Факт анализ продаж B2B 2025.xlsx,G3,Лист1,visible,113,18,sales_b2b,Продажи и каналы
+SRC-758F1723B3D6,Факт анализ продаж B2B 2025.xlsx,G3,Итоги,visible,50,14,sales_b2b,Продажи и каналы
+SRC-758F1723B3D6,Факт анализ продаж B2B 2025.xlsx,G3,Лист2,visible,17,5,sales_b2b,Продажи и каналы
+SRC-8CD1B3A3570F,Факт анализ продаж B2B 2026.xlsx,G3,Лист1,visible,101,18,sales_b2b,Продажи и каналы
+SRC-8CD1B3A3570F,Факт анализ продаж B2B 2026.xlsx,G3,Итоги,visible,43,14,sales_b2b,Продажи и каналы
+SRC-8CD1B3A3570F,Факт анализ продаж B2B 2026.xlsx,G3,прибыль,visible,26,10,sales_b2b,Продажи и каналы
+SRC-500393DD127F,Штатка ИП.xlsx,G7,Лист1,visible,91,4,org,Персонал и оплата труда
+SRC-D0AA6A1A6383,зп_конструкторы_01.26.xlsx,G7,констр 09.24 старый,visible,14,18,payroll_designers,Персонал и оплата труда
+SRC-D0AA6A1A6383,зп_конструкторы_01.26.xlsx,G7,констр 01.25 KPI,visible,107,17,payroll_designers,Персонал и оплата труда
+SRC-D0AA6A1A6383,зп_конструкторы_01.26.xlsx,G7,сметк 01.25,visible,57,20,payroll_designers,Персонал и оплата труда
+SRC-D0AA6A1A6383,зп_конструкторы_01.26.xlsx,G7,Лист1,visible,102,11,payroll_designers,Персонал и оплата труда
+SRC-1D6289FEF8A4,зп_конструкторы_02.26.xlsx,G7,констр 09.24 старый,visible,14,18,payroll_designers,Персонал и оплата труда
+SRC-1D6289FEF8A4,зп_конструкторы_02.26.xlsx,G7,констр 01.25 KPI,visible,107,17,payroll_designers,Персонал и оплата труда
+SRC-1D6289FEF8A4,зп_конструкторы_02.26.xlsx,G7,сметк 01.25,visible,57,20,payroll_designers,Персонал и оплата труда
+SRC-1D6289FEF8A4,зп_конструкторы_02.26.xlsx,G7,Лист1,visible,102,11,payroll_designers,Персонал и оплата труда
+SRC-17CBBBF54CF2,зп_конструкторы_03.26.xlsx,G7,констр 09.24 старый,visible,14,18,payroll_designers,Персонал и оплата труда
+SRC-17CBBBF54CF2,зп_конструкторы_03.26.xlsx,G7,констр 01.25 KPI,visible,107,17,payroll_designers,Персонал и оплата труда
+SRC-17CBBBF54CF2,зп_конструкторы_03.26.xlsx,G7,сметк 01.25,visible,57,20,payroll_designers,Персонал и оплата труда
+SRC-17CBBBF54CF2,зп_конструкторы_03.26.xlsx,G7,Лист1,visible,102,11,payroll_designers,Персонал и оплата труда
+SRC-098D5B89E567,зп_конструкторы_04.26.xlsx,G7,констр 09.24 старый,visible,14,18,payroll_designers,Персонал и оплата труда
+SRC-098D5B89E567,зп_конструкторы_04.26.xlsx,G7,констр 01.25 KPI,visible,107,17,payroll_designers,Персонал и оплата труда
+SRC-098D5B89E567,зп_конструкторы_04.26.xlsx,G7,сметк 01.25,visible,57,20,payroll_designers,Персонал и оплата труда
+SRC-098D5B89E567,зп_конструкторы_04.26.xlsx,G7,Лист1,visible,102,11,payroll_designers,Персонал и оплата труда
+SRC-D2207EE54FBE,зп_конструкторы_05.26.xlsx,G7,констр 09.24 старый,visible,14,18,payroll_designers,Персонал и оплата труда
+SRC-D2207EE54FBE,зп_конструкторы_05.26.xlsx,G7,констр 01.25 KPI,visible,107,17,payroll_designers,Персонал и оплата труда
+SRC-D2207EE54FBE,зп_конструкторы_05.26.xlsx,G7,сметк 01.25,visible,57,20,payroll_designers,Персонал и оплата труда
+SRC-D2207EE54FBE,зп_конструкторы_05.26.xlsx,G7,Лист1,visible,118,11,payroll_designers,Персонал и оплата труда
+SRC-A7421E474C22,результат НГ 2024.xlsx,G5,Гости ,visible,37,5,collection_result,Коллекции и продукт
+SRC-A7421E474C22,результат НГ 2024.xlsx,G5,прайс,visible,767,12,collection_result,Коллекции и продукт
+SRC-FF307568DB94,результат НГ 24.11.25.xlsx,G5,прайс,visible,446,13,collection_result,Коллекции и продукт
+SRC-FF307568DB94,результат НГ 24.11.25.xlsx,G5,расчет прибыли,visible,1,1,collection_result,Коллекции и продукт
+SRC-0DB64A857C29,результат капсула 2024.xlsx,G5,Гости ,visible,37,5,collection_result,Коллекции и продукт
+SRC-0DB64A857C29,результат капсула 2024.xlsx,G5,прайс,visible,427,13,collection_result,Коллекции и продукт
+SRC-2E85F06F7FA4,результат капсула 2025.xlsx,G5,Гости ,visible,37,5,collection_result,Коллекции и продукт
+SRC-2E85F06F7FA4,результат капсула 2025.xlsx,G5,прайс,visible,626,12,collection_result,Коллекции и продукт
+SRC-E677B0690075,результат кол-я 43 (янв 2024).xlsx,G5,прайс,visible,458,10,collection_result,Коллекции и продукт
+SRC-E677B0690075,результат кол-я 43 (янв 2024).xlsx,G5,Лист2,visible,1,1,collection_result,Коллекции и продукт
+SRC-E677B0690075,результат кол-я 43 (янв 2024).xlsx,G5,гистограмма,visible,1,1,collection_result,Коллекции и продукт
+SRC-7E1258EE5D2D,результат кол-я 44 (июнь 2024).xlsx,G5,прайс,visible,344,10,collection_result,Коллекции и продукт
+SRC-7E1258EE5D2D,результат кол-я 44 (июнь 2024).xlsx,G5,Лист2,visible,1,1,collection_result,Коллекции и продукт
+SRC-7E1258EE5D2D,результат кол-я 44 (июнь 2024).xlsx,G5,гистограмма,visible,1,1,collection_result,Коллекции и продукт
+SRC-A05546F621AB,результат кол-я 45 (янв 2025).xlsx,G5,прайс,visible,381,10,collection_result,Коллекции и продукт
+SRC-A05546F621AB,результат кол-я 45 (янв 2025).xlsx,G5,Лист2,visible,1,1,collection_result,Коллекции и продукт
+SRC-A05546F621AB,результат кол-я 45 (янв 2025).xlsx,G5,гистограмма,visible,1,1,collection_result,Коллекции и продукт
+SRC-975A4D4C055D,результат кол-я 46 (июль 2025).xlsx,G5,прайс,visible,251,10,collection_result,Коллекции и продукт
+SRC-975A4D4C055D,результат кол-я 46 (июль 2025).xlsx,G5,Лист2,visible,1,1,collection_result,Коллекции и продукт
+SRC-975A4D4C055D,результат кол-я 46 (июль 2025).xlsx,G5,гистограмма,visible,1,1,collection_result,Коллекции и продукт
+SRC-D215DA62070C,результат кол-я 47 (янв 2026).xlsx,G5,прайс,visible,344,10,collection_result,Коллекции и продукт
+SRC-D215DA62070C,результат кол-я 47 (янв 2026).xlsx,G5,Лист2,visible,1,1,collection_result,Коллекции и продукт
+SRC-D215DA62070C,результат кол-я 47 (янв 2026).xlsx,G5,гистограмма,visible,1,1,collection_result,Коллекции и продукт
+SRC-25BCD1E70D4C,результат круиз 09.04.25.xlsx,G5,прайс,visible,1558,13,collection_result,Коллекции и продукт
+SRC-964463AEE601,результат круиз 14.04.26.xlsx,G5,прайс,visible,928,12,collection_result,Коллекции и продукт
+SRC-964463AEE601,результат круиз 14.04.26.xlsx,G5,с производства,visible,522,18,collection_result,Коллекции и продукт
+SRC-655D54FE7533,результат круиз 22.04.24.xlsx,G5,прайс,visible,1070,13,collection_result,Коллекции и продукт
+SRC-5AE5AEA8B202,себестоимость Мокеева 2025.xlsx,G4,себестоимость 2025,visible,1111,28,cost_person,Себестоимость и производство
+SRC-064CDEDD5BF7,себестоимость Мокеева 2026.xlsx,G4,2026,visible,,,cost_person,Себестоимость и производство
+SRC-503171CC87B0,Движение тканей.xlsx,G6,Лист_1,visible,19937,5,mat_movement,Материалы / ткани
+SRC-764CA2B82D8F,Движение товара по складам.xlsx,G6,Лист_1,visible,7471,42,stock_movement,Склад / товар
+SRC-CF84AB121369,Движение товаров с себестоимостью.xlsx,G6,Лист_1,visible,5935,51,stock_cost_movement,Склад / себестоимость
+SRC-72223003EB59,Продажи B2B 2024-06.2026.xlsx,G3,Лист_1,visible,644,12,sales_b2b,Продажи B2B
+SRC-211EE1D5C5C3,Продажи ИМ 2024-06.2026.xlsx,G3,Лист_1,visible,3551,12,sales_im,Продажи ИМ
+SRC-A82BC039C07C,Продажи ЦУМ 2024-06.2026.xlsx,G3,Лист_1,visible,1245,12,sales_tsum,Продажи ЦУМ
+SRC-373EC9658D44,СберБизнес. Выписка за 2024.01.01-2024.12.31 счёт 40702810638040103938.xlsx,G1,40702810638040103938,visible,1,1,bank_sber,Банк / Сбер
+SRC-454CD0923D1B,СберБизнес. Выписка за 2025.01.01-2025.12.31 счёт 40702810638040103938.xlsx,G1,40702810638040103938,visible,1,1,bank_sber,Банк / Сбер
+SRC-777ADAFAAF01,СберБизнес. Выписка за 2026.01.01-2026.06.30 счёт 40702810638040103938.xlsx,G1,40702810638040103938,visible,1,1,bank_sber,Банк / Сбер

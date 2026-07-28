@@ -79,7 +79,7 @@ Marts (семейства): margin 10 · md 10 · recon 9 · settle 5 · bank 4 
 | OTHER_IN / POS | **PARTIAL** | 62.3M измерено | ACCEPT ACQ_POS | D-ACQ-POS-01 |
 | Invoice↔МД | **PARTIAL** | 40% surname MED | Платёж↔платёж | D-MD-INV-01 |
 | Payroll totals | **PARTIAL** | multi CLOSE | 19 NO_LINES; split | D-PAY-LINES-01 |
-| Tax cash | **PARTIAL** | ~97% bank | PDF amounts | Extraction Этап 2 |
+| Tax cash | **PARTIAL→лучше** | ~97% bank + **H37 HIGH extract 14 PDF** | RSV LOW; ЕНС без сумм | Бухгалтер verify НДС 030/040 |
 | Ткани WC | **PARTIAL** | ~28.6M видно | ABC-aging | Этап 2 I11 |
 | Decor wind-down | **PARTIAL** | статус ясен | tags periметра | I06 ACCEPT |
 | Дашборд/KPI/SOP | **PARTIAL** | drafts в pack | Внедрение в бою | Этап 3 |
@@ -122,20 +122,24 @@ Marts (семейства): margin 10 · md 10 · recon 9 · settle 5 · bank 4 
 - [x] Master scheme для заказчика  
 - [x] Измерение POS/invoice в OTHER_IN  
 
+- [x] H37 deep scan 107 + tax HIGH extract + dojim owner packs (`24_…`)  
+
 ### Не сделано (нужны owners / файлы / этапы 2+)
 - [ ] ACCEPT класса `ACQ_POS`  
-- [ ] Collect B2B 2.51M  
-- [ ] Эквайринг-реестры на 6 IM OPEN  
-- [ ] Ведомости ЗП (NO_LINES)  
+- [ ] Collect B2B 2.51M  *(пакет `dojim_B2B_collect_pack.csv` готов)*  
+- [ ] Эквайринг-реестры на 6 IM OPEN  *(пакет `dojim_IM_open_pack.csv` готов)*  
+- [ ] Alias Accept 20 SKU  *(пакет `dojim_ALIAS_review_pack.csv` готов)*  
+- [ ] Закрыть 10 OPEN RACI ФИО  *(пакет `dojim_RACI_open_pack.csv` готов)*  
+- [ ] Ведомости ЗП (NO_LINES) + quarantine 01–02.2026  
 - [ ] Формат cost/WIP МД + пилот contribution  
 - [ ] Договорной % ЦУМ  
 - [ ] ABC тканей; учёт фурнитуры  
-- [ ] Полный extract tax PDF  
 - [ ] Unified income / audited P&L  
 - [ ] KPI-система и дашборды «в бою»  
 - [ ] Утверждённые SOP + обучение  
 - [ ] Stage 2–4 внедрение и сопровождение  
 
+~~- [ ] Полный extract tax PDF~~ → **частично закрыто H37** (HIGH 14; RSV LOW; списки без сумм)
 ---
 
 ## 5. Очередь разблокировки (единственный полезный next)

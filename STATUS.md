@@ -3,19 +3,18 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Серия групп G1–G9 — **ЗАВЕРШЕНА**
-| Код | Документ |
-|-----|----------|
-| G1 | `G1_BANK_GROUP_DETAIL.md` |
-| G2 | `G2_DDS_OPEX_SALES_GROUP_DETAIL.md` |
-| G3 | `G3_SALES_CHANNELS_GROUP_DETAIL.md` |
-| G4 | `G4_COST_MD_GROUP_DETAIL.md` |
-| G5 | `G5_NOMENCLATURE_COLLECTIONS_GROUP_DETAIL.md` |
-| G6 | `G6_FABRICS_WAREHOUSES_PURCHASES_GROUP_DETAIL.md` |
-| G7 | `G7_PAYROLL_GROUP_DETAIL.md` |
-| G8 | `G8_TAX_PDF_GROUP_DETAIL.md` |
-| G9 | `G9_CONTRACTS_RACI_GROUP_DETAIL.md` |
+## Серия групп G1–G9 — ЗАВЕРШЕНА
 
-Дальше по запросу: точечный дожим (B2B collect, alias Accept, tax extract, OPEN RACI) — не новые слои «ради слоёв».
+## H37 Deep Dojim — СДЕЛАН
+- Полный structural scan **107/107** файлов (1326 PDF pages · 293 xlsx sheets)
+- Tax extract HIGH: 6-НДФЛ / УСН / НДС-040 → `tax_pdf_extract_confident.csv`
+- Owner packs: B2B · IM · Alias · RACI OPEN · Quarantine
+- Документ: `live/client_pack/24_DEEP_DOJIM_FULL_107_AND_OWNER_PACKS.md`
+
+### Ждёт owners (не код)
+1. Назначить 10 OPEN RACI (B2B/Product/Cost/Data…)
+2. Collect B2B 2.51M / 15 док
+3. Реестры IM OPEN / ACQ_POS Accept
+4. Alias Accept/Reject (20 SKU)
 
 Updated: 2026-07-28

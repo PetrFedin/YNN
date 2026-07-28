@@ -1,0 +1,28 @@
+{
+  "files": 107,
+  "pdf_pages_indexed": 1326,
+  "xlsx_sheets": 293,
+  "scan": {
+    "PDF_OK": 29,
+    "DOCX_OK": 5,
+    "XLSX_OK": 68,
+    "DOC_LEGACY": 1,
+    "XLS_AS_XLSX_OK": 3,
+    "XLS_OK": 1
+  },
+  "depth": {
+    "FULL_STRUCT+AMOUNTS_HIGH": 14,
+    "FULL_STRUCT": 82,
+    "PARTIAL_LEGACY": 1,
+    "FULL_STRUCT+AMOUNTS_LOW": 5,
+    "FULL_STRUCT_NO_AMOUNTS": 5
+  },
+  "tax_high": 14,
+  "dojim": {
+    "b2b": 15,
+    "im": 6,
+    "alias": 20,
+    "raci_open": 10,
+    "quarantine": 5
+  }
+}

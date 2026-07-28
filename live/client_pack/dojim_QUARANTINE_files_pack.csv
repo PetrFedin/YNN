@@ -1,0 +1,6 @@
+file_name,risk,lifecycle_status,action,owner_role,priority,dojim_status,pack
+ЗП за февраль 2026.xlsx,Критический,Quarantine — исправить до использования,FIX_OR_REPLACE_BEFORE_USE,DOM-PAYROLL — Сливяк,P0,QUARANTINE,H37_DOJIM
+ЗП за январь 2026.xlsx,Критический,Quarantine — исправить до использования,FIX_OR_REPLACE_BEFORE_USE,DOM-PAYROLL — Сливяк,P0,QUARANTINE,H37_DOJIM
+Себестоимость Жукова.xlsx,Высокий,Quarantine — исправить до использования,FIX_OR_REPLACE_BEFORE_USE,DOM-PAYROLL — Сливяк,P0,QUARANTINE,H37_DOJIM
+Себестоимость Меркушина.xlsx,Средний,Quarantine — исправить до использования,FIX_OR_REPLACE_BEFORE_USE,DOM-PAYROLL — Сливяк,P0,QUARANTINE,H37_DOJIM
+Факт анализ продаж B2B 2026.xlsx,Средний,Quarantine — исправить до использования,FIX_OR_REPLACE_BEFORE_USE,DOM-PAYROLL — Сливяк,P0,QUARANTINE,H37_DOJIM

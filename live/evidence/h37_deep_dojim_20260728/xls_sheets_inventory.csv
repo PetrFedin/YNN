@@ -1,0 +1,5 @@
+source_file_id,file_name,sheet_name,sheet_state,max_row,max_column,engine,preview_row1
+SRC-9FC954AF42A9,Справочник номенклатуры товара.xls,Лист_1,visible,1864,8,xlrd,
+SRC-3A0BA373AE81,StatementFull_0400-C-869430_2024-01-01_2024-12-31_2026-07-24_09-31-20.xls,Report,visible,1,1,openpyxl_via_xlsx_copy,"(None,)"
+SRC-5F69DD138914,StatementFull_0400-C-869430_2025-01-01_2025-12-31_2026-07-24_09-30-49.xls,Report,visible,1,1,openpyxl_via_xlsx_copy,"(None,)"
+SRC-63E52A02A16E,StatementFull_0400-C-869430_2026-01-01_2026-06-30_2026-07-24_09-31-18.xls,Report,visible,1,1,openpyxl_via_xlsx_copy,"(None,)"

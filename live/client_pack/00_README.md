@@ -42,6 +42,7 @@
 | G7 | `G7_PAYROLL_GROUP_DETAIL.md` | **Детально персонал/ЗП** + `group_G7_*.csv` |
 | G8 | `G8_TAX_PDF_GROUP_DETAIL.md` | **Детально налоги PDF** + `group_G8_*.csv` |
 | G9 | `G9_CONTRACTS_RACI_GROUP_DETAIL.md` | **Детально договоры/RACI** + `group_G9_*.csv` |
+| **24** | `24_DEEP_DOJIM_FULL_107_AND_OWNER_PACKS.md` | **H37:** полный scan 107 + tax HIGH + owner packs |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |

@@ -1,0 +1,108 @@
+source_file_id,master_file_id,file_name,group,domain,category,lifecycle_status,risk,scan_status,pages_or_sheets,linked_marts,analysis_depth
+SRC-F5301BBAE5D8,FILE-001,6-НДФЛ (с 2021 года) за 2024 г. (ДЕКОР ООО).pdf,G8,Налоги и обязательная отчётность,tax_6ndfl,Active source candidate,Низкий,PDF_OK,78,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-4F39B4966345,FILE-002,6-НДФЛ (с 2021 года) за 2024 г. (Янина Ю. Ф. ИП).pdf,G8,Налоги и обязательная отчётность,tax_6ndfl,Active source candidate,Низкий,PDF_OK,79,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-99A04FDE09F3,FILE-003,6-НДФЛ (с 2021 года) за 2025 г. (ДЕКОР ООО).pdf,G8,Налоги и обязательная отчётность,tax_6ndfl,Active source candidate,Низкий,PDF_OK,53,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-A8FCDD6B6090,FILE-004,6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП)(1).pdf,G8,Налоги и обязательная отчётность,tax_6ndfl,Active source candidate,Средний,PDF_OK,75,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-A8FCDD6B6090,FILE-005,6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП).pdf,G8,Налоги и обязательная отчётность,tax_6ndfl,Archive — точный дубль,Средний,PDF_OK,75,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-C83DF869483D,FILE-006,NDA_ИП_Янина + паспорт.docx,G9,Договоры и проектные документы,contracts,Active source candidate,Низкий,DOCX_OK,,(governance/context),FULL_STRUCT
+SRC-FC6C0194884C,FILE-007,SALES 2024-2026.xlsx,G2,Финансы и денежные потоки,sales_general,Controlled source — проверить скрытые листы,Средний,XLSX_OK,4,md_income_month_eur|opex_classified|operating_bridge,FULL_STRUCT
+SRC-231BEC51ED7E,FILE-008,VTB_BankStatement_40702810804000008482_01.01.2024-22.06.2026_376277.pdf,G1,Финансы и денежные потоки,bank,Active source candidate,Низкий,PDF_OK,44,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-CF1A608847CB,FILE-009,VTB_BankStatement_40802810404000000049_01.01.2024-22.06.2026_417016.pdf,G1,Финансы и денежные потоки,bank,Active source candidate,Низкий,PDF_OK,22,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-4E7A03BAE008,FILE-010,VTB_BankStatement_40802810500000006196_01.01.2024-22.06.2026_417014.pdf,G1,Финансы и денежные потоки,bank,Active source candidate,Низкий,PDF_OK,125,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-47B23059C048,FILE-011,Бюджет 2-е полугодие 2025(1).xlsx,G2,Финансы и денежные потоки,budget,Active source candidate,Низкий,XLSX_OK,1,md_income_month_eur|opex_classified|operating_bridge,FULL_STRUCT
+SRC-7B59F03FC58C,FILE-012,Бюджет 2026.xlsx,G2,Финансы и денежные потоки,budget,Active source candidate,Низкий,XLSX_OK,1,md_income_month_eur|opex_classified|operating_bridge,FULL_STRUCT
+SRC-3BB52EE0AFF1,FILE-013,Выписка_40802810202620002686_01.01.2024–31.12.2024.xlsx,G1,Финансы и денежные потоки,bank,Active source candidate,Низкий,XLSX_OK,1,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-E56D76D98C01,FILE-014,Выписка_40802810202620002686_01.01.2025–31.12.2025.xlsx,G1,Финансы и денежные потоки,bank,Active source candidate,Низкий,XLSX_OK,1,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-F7E9F79D4112,FILE-015,Выписка_40802810202620002686_01.01.2026–23.06.2026.xlsx,G1,Финансы и денежные потоки,bank,Active source candidate,Низкий,XLSX_OK,1,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-627DAA533FFD,FILE-016,Вышивка себестоимость 2024-2026.xlsx,G4,Себестоимость и производство,cost_embroidery,Active source candidate,Низкий,XLSX_OK,7,cost_identity_watchlist,FULL_STRUCT
+SRC-CC92902423D3,FILE-017,ДДС 2024.xlsx,G2,Финансы и денежные потоки,cashflow_dds,Controlled working — устранить внешние ссылки,Средний,XLSX_OK,9,md_income_month_eur|opex_classified|operating_bridge,FULL_STRUCT
+SRC-A4FF290ABA3F,FILE-018,ДДС 2025.xlsx,G2,Финансы и денежные потоки,cashflow_dds,Active source candidate,Низкий,XLSX_OK,9,md_income_month_eur|opex_classified|operating_bridge,FULL_STRUCT
+SRC-EBE873A7CE95,FILE-019,ДДС 2026.xlxs.xlsx,G2,Финансы и денежные потоки,cashflow_dds,Controlled working — устранить внешние ссылки,Средний,XLSX_OK,8,md_income_month_eur|opex_classified|operating_bridge,FULL_STRUCT
+SRC-F74A077718EA,FILE-020,Декларация по НДС за 1 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,G8,Налоги и обязательная отчётность,tax_nds,Active source candidate,Низкий,PDF_OK,83,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-58E7C0A3C0A6,FILE-021,Декларация по НДС за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf,G8,Налоги и обязательная отчётность,tax_nds,Active source candidate,Низкий,PDF_OK,75,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-751E72CC84B8,FILE-022,Декларация по НДС за 2 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,G8,Налоги и обязательная отчётность,tax_nds,Active source candidate,Низкий,PDF_OK,81,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-4189B4529037,FILE-023,Декларация по НДС за 3 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,G8,Налоги и обязательная отчётность,tax_nds,Active source candidate,Низкий,PDF_OK,68,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-FD5D253E7EE2,FILE-024,Декларация по НДС за 4 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,G8,Налоги и обязательная отчётность,tax_nds,Active source candidate,Низкий,PDF_OK,81,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-3C28C9E1DE55,FILE-025,Декларация по УСН за 2024 г. (ДЕКОР ООО).pdf,G8,Налоги и обязательная отчётность,tax_usn,Active source candidate,Низкий,PDF_OK,6,tax_usn_amounts|tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-384293B40F8C,FILE-026,Декларация по УСН за 2024 г. (Янина Ю. Ф. ИП).pdf,G8,Налоги и обязательная отчётность,tax_usn,Active source candidate,Низкий,PDF_OK,4,tax_usn_amounts|tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-12D1111A4489,FILE-027,Декларация по УСН за 2025 г. (ДЕКОР ООО)(1).pdf,G8,Налоги и обязательная отчётность,tax_usn,Active source candidate,Низкий,PDF_OK,6,tax_usn_amounts|tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-6F9B905DECFD,FILE-028,Декларация по УСН за 2025 г. (Янина Ю. Ф. ИП)(1).pdf,G8,Налоги и обязательная отчётность,tax_usn,Active source candidate,Низкий,PDF_OK,4,tax_usn_amounts|tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_HIGH
+SRC-0E9A2E8AA89B,FILE-029,Договор_комплексной_диагностики_ИП_Янина_+_паспорт.docx,G9,Договоры и проектные документы,contracts,Active source candidate,Низкий,DOCX_OK,,(governance/context),FULL_STRUCT
+SRC-BD6B213893F2,FILE-030,ЗП за апрель 2025.xlsx,G7,Персонал и оплата труда,payroll_monthly,Active source candidate,Низкий,XLSX_OK,11,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-A3D0BA92FB36,FILE-031,ЗП за апрель 2026.xlsx,G7,Персонал и оплата труда,payroll_monthly,Active source candidate,Низкий,XLSX_OK,12,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-FB5CFE41ED03,FILE-032,ЗП за июнь 2025.xlsx,G7,Персонал и оплата труда,payroll_monthly,Active source candidate,Низкий,XLSX_OK,11,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-5CDDA43EB163,FILE-033,ЗП за май 2025.xlsx,G7,Персонал и оплата труда,payroll_monthly,Active source candidate,Низкий,XLSX_OK,11,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-3DE974947BCA,FILE-034,ЗП за май 2026.xlsx,G7,Персонал и оплата труда,payroll_monthly,Active source candidate,Низкий,XLSX_OK,12,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-BBDDE3BD1FDF,FILE-035,ЗП за март 2025.xlsx,G7,Персонал и оплата труда,payroll_monthly,Active source candidate,Низкий,XLSX_OK,11,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-0BB9EE764409,FILE-036,ЗП за март 2026.xlsx,G7,Персонал и оплата труда,payroll_monthly,Active source candidate,Низкий,XLSX_OK,11,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-2FD7298151E1,FILE-037,ЗП за февраль 2025.xlsx,G7,Персонал и оплата труда,payroll_monthly,Active source candidate,Низкий,XLSX_OK,11,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-CB8E8DD59181,FILE-038,ЗП за февраль 2026.xlsx,G7,Персонал и оплата труда,payroll_monthly,Quarantine — исправить до использования,Критический,XLSX_OK,11,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-9B9FB12C59E9,FILE-039,ЗП за январь 2025.xlsx,G7,Персонал и оплата труда,payroll_monthly,Active source candidate,Низкий,XLSX_OK,11,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-B4ED2A1BE490,FILE-040,ЗП за январь 2026.xlsx,G7,Персонал и оплата труда,payroll_monthly,Quarantine — исправить до использования,Критический,XLSX_OK,12,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-BAF7BFF99489,FILE-046,ЗП_ЦЕХ 01.26.xlsx,G7,Персонал и оплата труда,payroll_shop,Active source candidate,Низкий,XLSX_OK,2,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-BD500A7BC88C,FILE-047,ЗП_ЦЕХ 02.26.xlsx,G7,Персонал и оплата труда,payroll_shop,Active source candidate,Низкий,XLSX_OK,2,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-DC5E6177775F,FILE-048,ЗП_ЦЕХ 03.26.xlsx,G7,Персонал и оплата труда,payroll_shop,Active source candidate,Низкий,XLSX_OK,2,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-400D80F1258C,FILE-049,ЗП_ЦЕХ 04.26.xlsx,G7,Персонал и оплата труда,payroll_shop,Active source candidate,Низкий,XLSX_OK,2,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-83E3DE587848,FILE-050,ЗП_ЦЕХ 05.26.xlsx,G7,Персонал и оплата труда,payroll_shop,Active source candidate,Низкий,XLSX_OK,2,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-47D5B18B8E3A,FILE-051,МД — копия.xlsx,G4,Себестоимость и производство,md,Active source candidate,Низкий,XLSX_OK,3,md_payments|md_salon_orders|md_shop_sales|recon_md_payments_vs_dds_adj,FULL_STRUCT
+SRC-6FF053438E32,FILE-052,Орг. структура на 28.05.2026.pdf,G7,Персонал и оплата труда,org,Active source candidate,Низкий,PDF_OK,1,(governance/context),FULL_STRUCT
+SRC-7348EDC937A6,FILE-053,Остатки ткани из 1С на 31.05.2026.xlsx,G6,Закупки и запасы,inventory,Active source candidate,Низкий,XLSX_OK,1,material_stock|material_meta,FULL_STRUCT
+SRC-270AEFF96E0F,FILE-055,Положение об оплате труда и премировании в ИП Янина.doc,G7,Персонал и оплата труда,hr_policy,Active source candidate,Низкий,DOC_LEGACY,,(governance/context),PARTIAL_LEGACY
+SRC-A594E1F3E73E,FILE-056,Приложение 1 к положению.docx,G7,Персонал и оплата труда,hr_policy,Active source candidate,Низкий,DOCX_OK,,(governance/context),FULL_STRUCT
+SRC-CC75592DAF41,FILE-057,Продажи ЦУМ 2024.xlsx,G3,Продажи и каналы,sales_tsum,Active source candidate,Низкий,XLSX_OK,1,sales_lines|margin_channel_views_h28|recon_tsum_net_model,FULL_STRUCT
+SRC-A2B1D2B1ED4E,FILE-058,Продажи ЦУМ 2025.xlsx,G3,Продажи и каналы,sales_tsum,Active source candidate,Низкий,XLSX_OK,1,sales_lines|margin_channel_views_h28|recon_tsum_net_model,FULL_STRUCT
+SRC-463526E0FBB4,FILE-059,Продажи ЦУМ 2026.xlsx,G3,Продажи и каналы,sales_tsum,Active source candidate,Низкий,XLSX_OK,1,sales_lines|margin_channel_views_h28|recon_tsum_net_model,FULL_STRUCT
+SRC-2CAA0ACFD98B,FILE-060,Расходы 2024.xlsx,G2,Финансы и денежные потоки,expenses,Active source candidate,Низкий,XLSX_OK,16,md_income_month_eur|opex_classified|operating_bridge,FULL_STRUCT
+SRC-9838A6CF583E,FILE-061,Расходы 2025.xlsx,G2,Финансы и денежные потоки,expenses,Active source candidate,Низкий,XLSX_OK,12,md_income_month_eur|opex_classified|operating_bridge,FULL_STRUCT
+SRC-ED89CA0F5ABF,FILE-062,Расходы 2026.xlsx,G2,Финансы и денежные потоки,expenses,Active source candidate,Низкий,XLSX_OK,6,md_income_month_eur|opex_classified|operating_bridge,FULL_STRUCT
+SRC-65DECAD2CB32,FILE-063,Расчет по страховым взносам за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf,G8,Налоги и обязательная отчётность,tax_insurance,Active source candidate,Низкий,PDF_OK,112,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_LOW
+SRC-8B2E6E29F3B1,FILE-064,Расчет по страховым взносам за 2024 г. (ДЕКОР ООО).pdf,G8,Налоги и обязательная отчётность,tax_insurance,Active source candidate,Низкий,PDF_OK,61,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_LOW
+SRC-DB643E47A4E7,FILE-065,Расчет по страховым взносам за 2024 г. (Янина Ю. Ф. ИП).pdf,G8,Налоги и обязательная отчётность,tax_insurance,Active source candidate,Низкий,PDF_OK,40,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_LOW
+SRC-011873CC74E2,FILE-066,Расчет по страховым взносам за 2025 г. (ДЕКОР ООО).pdf,G8,Налоги и обязательная отчётность,tax_insurance,Active source candidate,Низкий,PDF_OK,56,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_LOW
+SRC-8DBBD4BE38B0,FILE-067,Расчет по страховым взносам за 2025 г. (Янина Ю. Ф. ИП).pdf,G8,Налоги и обязательная отчётность,tax_insurance,Active source candidate,Низкий,PDF_OK,80,tax_obligations|recon_tax_cash_bank,FULL_STRUCT+AMOUNTS_LOW
+SRC-74B267159F90,FILE-080,Сведения о наличии отрицательного сальдо ЕНС.pdf,G8,Налоги и обязательная отчётность,tax_ens,Active source candidate,Средний,PDF_OK,1,tax_obligations,FULL_STRUCT_NO_AMOUNTS
+SRC-CCFA8B9574EB,FILE-081,Себестоимость Жукова.xlsx,G4,Себестоимость и производство,cost_person,Quarantine — исправить до использования,Высокий,XLSX_OK,6,cost_identity_watchlist,FULL_STRUCT
+SRC-823CE027153E,FILE-082,Себестоимость Меркушина.xlsx,G4,Себестоимость и производство,cost_person,Quarantine — исправить до использования,Средний,XLSX_OK,4,cost_identity_watchlist,FULL_STRUCT
+SRC-11F7B2D33F44,FILE-085,Список контрагентов по закупке.xlsx,G6,Закупки и запасы,procurement,Active source candidate,Низкий,XLSX_OK,1,suppliers,FULL_STRUCT
+SRC-0A59904DD2D1,FILE-086,Список представленной отчетности за 2024.pdf,G8,Налоги и обязательная отчётность,tax_list,Active source candidate,Средний,PDF_OK,5,tax_obligations,FULL_STRUCT_NO_AMOUNTS
+SRC-446E4DDA8AA4,FILE-087,Список представленной отчетности за 2025.pdf,G8,Налоги и обязательная отчётность,tax_list,Active source candidate,Средний,PDF_OK,5,tax_obligations,FULL_STRUCT_NO_AMOUNTS
+SRC-48B008B303E0,FILE-088,Список представленной отчетности за 2026.pdf,G8,Налоги и обязательная отчётность,tax_list,Active source candidate,Средний,PDF_OK,3,tax_obligations,FULL_STRUCT_NO_AMOUNTS
+SRC-52671EB999E4,FILE-089,Справка о расчетах по взносам на несч.сл на 25.06.2026.pdf,G8,Налоги и обязательная отчётность,tax_insurance,Active source candidate,Средний,PDF_OK,2,tax_obligations|recon_tax_cash_bank,FULL_STRUCT
+SRC-90040AE0AF41,FILE-090,Справка об исполнении обязанности по налогам.pdf,G8,Налоги и обязательная отчётность,tax_ens,Active source candidate,Средний,PDF_OK,1,tax_obligations,FULL_STRUCT_NO_AMOUNTS
+SRC-758F1723B3D6,FILE-091,Факт анализ продаж B2B 2025.xlsx,G3,Продажи и каналы,sales_b2b,Active source candidate,Низкий,XLSX_OK,3,sales_lines|data_request_b2b_open|margin_channel_month,FULL_STRUCT
+SRC-8CD1B3A3570F,FILE-092,Факт анализ продаж B2B 2026.xlsx,G3,Продажи и каналы,sales_b2b,Quarantine — исправить до использования,Средний,XLSX_OK,3,sales_lines|data_request_b2b_open|margin_channel_month,FULL_STRUCT
+SRC-500393DD127F,FILE-093,Штатка ИП.xlsx,G7,Персонал и оплата труда,org,Active source candidate,Низкий,XLSX_OK,1,(governance/context),FULL_STRUCT
+SRC-D0AA6A1A6383,FILE-041,зп_конструкторы_01.26.xlsx,G7,Персонал и оплата труда,payroll_designers,Active source candidate,Низкий,XLSX_OK,4,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-1D6289FEF8A4,FILE-042,зп_конструкторы_02.26.xlsx,G7,Персонал и оплата труда,payroll_designers,Active source candidate,Низкий,XLSX_OK,4,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-17CBBBF54CF2,FILE-043,зп_конструкторы_03.26.xlsx,G7,Персонал и оплата труда,payroll_designers,Active source candidate,Низкий,XLSX_OK,4,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-098D5B89E567,FILE-044,зп_конструкторы_04.26.xlsx,G7,Персонал и оплата труда,payroll_designers,Active source candidate,Низкий,XLSX_OK,4,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-D2207EE54FBE,FILE-045,зп_конструкторы_05.26.xlsx,G7,Персонал и оплата труда,payroll_designers,Active source candidate,Низкий,XLSX_OK,4,payroll_lines|recon_payroll_multi,FULL_STRUCT
+SRC-F5394740B494,FILE-054,план работы.docx,G9,Договоры и проектные документы,contracts,Active source candidate,Низкий,DOCX_OK,,(governance/context),FULL_STRUCT
+SRC-A7421E474C22,FILE-078,результат НГ 2024.xlsx,G5,Коллекции и продукт,collection_result,Active source candidate,Низкий,XLSX_OK,2,(layer2 optional),FULL_STRUCT
+SRC-FF307568DB94,FILE-079,результат НГ 24.11.25.xlsx,G5,Коллекции и продукт,collection_result,Active source candidate,Низкий,XLSX_OK,2,(layer2 optional),FULL_STRUCT
+SRC-0DB64A857C29,FILE-068,результат капсула 2024.xlsx,G5,Коллекции и продукт,collection_result,Active source candidate,Низкий,XLSX_OK,2,(layer2 optional),FULL_STRUCT
+SRC-2E85F06F7FA4,FILE-069,результат капсула 2025.xlsx,G5,Коллекции и продукт,collection_result,Active source candidate,Низкий,XLSX_OK,2,(layer2 optional),FULL_STRUCT
+SRC-E677B0690075,FILE-070,результат кол-я 43 (янв 2024).xlsx,G5,Коллекции и продукт,collection_result,Controlled working — устранить внешние ссылки,Средний,XLSX_OK,3,(layer2 optional),FULL_STRUCT
+SRC-7E1258EE5D2D,FILE-071,результат кол-я 44 (июнь 2024).xlsx,G5,Коллекции и продукт,collection_result,Controlled working — устранить внешние ссылки,Средний,XLSX_OK,3,(layer2 optional),FULL_STRUCT
+SRC-A05546F621AB,FILE-072,результат кол-я 45 (янв 2025).xlsx,G5,Коллекции и продукт,collection_result,Controlled working — устранить внешние ссылки,Средний,XLSX_OK,3,(layer2 optional),FULL_STRUCT
+SRC-975A4D4C055D,FILE-073,результат кол-я 46 (июль 2025).xlsx,G5,Коллекции и продукт,collection_result,Controlled working — устранить внешние ссылки,Средний,XLSX_OK,3,(layer2 optional),FULL_STRUCT
+SRC-D215DA62070C,FILE-074,результат кол-я 47 (янв 2026).xlsx,G5,Коллекции и продукт,collection_result,Controlled working — устранить внешние ссылки,Средний,XLSX_OK,3,(layer2 optional),FULL_STRUCT
+SRC-25BCD1E70D4C,FILE-075,результат круиз 09.04.25.xlsx,G5,Коллекции и продукт,collection_result,Active source candidate,Низкий,XLSX_OK,1,(layer2 optional),FULL_STRUCT
+SRC-964463AEE601,FILE-076,результат круиз 14.04.26.xlsx,G5,Коллекции и продукт,collection_result,Active source candidate,Низкий,XLSX_OK,2,(layer2 optional),FULL_STRUCT
+SRC-655D54FE7533,FILE-077,результат круиз 22.04.24.xlsx,G5,Коллекции и продукт,collection_result,Active source candidate,Низкий,XLSX_OK,1,(layer2 optional),FULL_STRUCT
+SRC-5AE5AEA8B202,FILE-083,себестоимость Мокеева 2025.xlsx,G4,Себестоимость и производство,cost_person,Active source candidate,Низкий,XLSX_OK,1,cost_identity_watchlist,FULL_STRUCT
+SRC-064CDEDD5BF7,FILE-084,себестоимость Мокеева 2026.xlsx,G4,Себестоимость и производство,cost_person,Active source candidate,Низкий,XLSX_OK,1,cost_identity_watchlist,FULL_STRUCT
+SRC-3A0BA373AE81,FILE-094,StatementFull_0400-C-869430_2024-01-01_2024-12-31_2026-07-24_09-31-20.xls,G1,Банк / карточный счёт,bank_card,Active source candidate,Средний,XLS_AS_XLSX_OK,1,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-5F69DD138914,FILE-095,StatementFull_0400-C-869430_2025-01-01_2025-12-31_2026-07-24_09-30-49.xls,G1,Банк / карточный счёт,bank_card,Active source candidate,Средний,XLS_AS_XLSX_OK,1,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-63E52A02A16E,FILE-096,StatementFull_0400-C-869430_2026-01-01_2026-06-30_2026-07-24_09-31-18.xls,G1,Банк / карточный счёт,bank_card,Active source candidate,Средний,XLS_AS_XLSX_OK,1,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-503171CC87B0,FILE-097,Движение тканей.xlsx,G6,Материалы / ткани,mat_movement,Active source candidate,Низкий,XLSX_OK,1,material_movements_fabric,FULL_STRUCT
+SRC-764CA2B82D8F,FILE-098,Движение товара по складам.xlsx,G6,Склад / товар,stock_movement,Active source candidate,Низкий,XLSX_OK,1,stock_by_warehouse,FULL_STRUCT
+SRC-CF84AB121369,FILE-099,Движение товаров с себестоимостью.xlsx,G6,Склад / себестоимость,stock_cost_movement,Active source candidate,Низкий,XLSX_OK,1,stock_cost_lines|margin_*,FULL_STRUCT
+SRC-72223003EB59,FILE-100,Продажи B2B 2024-06.2026.xlsx,G3,Продажи B2B,sales_b2b,Active source candidate,Низкий,XLSX_OK,1,sales_lines|data_request_b2b_open|margin_channel_month,FULL_STRUCT
+SRC-211EE1D5C5C3,FILE-101,Продажи ИМ 2024-06.2026.xlsx,G3,Продажи ИМ,sales_im,Active source candidate,Низкий,XLSX_OK,1,sales_lines|margin_channel_month|recon_im_combo,FULL_STRUCT
+SRC-A82BC039C07C,FILE-102,Продажи ЦУМ 2024-06.2026.xlsx,G3,Продажи ЦУМ,sales_tsum,Active source candidate,Низкий,XLSX_OK,1,sales_lines|margin_channel_views_h28|recon_tsum_net_model,FULL_STRUCT
+SRC-373EC9658D44,FILE-103,СберБизнес. Выписка за 2024.01.01-2024.12.31 счёт 40702810638040103938.xlsx,G1,Банк / Сбер,bank_sber,Active source candidate,Средний,XLSX_OK,1,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-454CD0923D1B,FILE-104,СберБизнес. Выписка за 2025.01.01-2025.12.31 счёт 40702810638040103938.xlsx,G1,Банк / Сбер,bank_sber,Active source candidate,Средний,XLSX_OK,1,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-777ADAFAAF01,FILE-105,СберБизнес. Выписка за 2026.01.01-2026.06.30 счёт 40702810638040103938.xlsx,G1,Банк / Сбер,bank_sber,Active source candidate,Средний,XLSX_OK,1,bank_transactions|recon_bank_dds,FULL_STRUCT
+SRC-9FC954AF42A9,FILE-106,Справочник номенклатуры товара.xls,G5,Продукт / номенклатура,sku_master,Active source candidate,Низкий,XLS_OK,1,sku_alias_master|margin_sku_top40,FULL_STRUCT
+SRC-06A2CA72E604,FILE-107,Финансы и платежи.docx,G9,Governance / RACI,org_raci,Active source candidate,Низкий,DOCX_OK,,(governance/context),FULL_STRUCT
