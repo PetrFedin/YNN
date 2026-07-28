@@ -1,0 +1,2 @@
+contract_id,contract_date,counterparty,n_implied_months,implied_min,implied_p25,implied_median,implied_mean,implied_p75,implied_max,model_rate_used,lag_months_mode,lag_months_share,ask_owner
+ДП00288281,23.12.2022,ООО МЕРКУРИ МОДА,28,0.4242,0.4536,0.4668,0.469,0.4818,0.5345,0.4668,1,29/29,Подтвердить договорный % удержания/net к перечислению (после НДС-логики договора). Если % вне band [0.45; 0.48] — пересобрать модель; иначе median ок как interim.

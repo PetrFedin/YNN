@@ -1,0 +1,8 @@
+{
+  "horizon": "H41",
+  "title": "Priority Gate via TSUM_NET (timing lag 2026-05/06)",
+  "created": "2026-07-28",
+  "key_finding": "OPEN months have sales but agent_allocated=0; 29/29 historical lag=+1 month; June bank has no Mercury payment despite cutoff 2026-06-30",
+  "not_primary": "Contract rate A-TSUM-RATE-01 is secondary until cash arrives",
+  "path_to_30": "IM(H39)+BANK(H40)+May cash+June cash (or TIMING policy)"
+}

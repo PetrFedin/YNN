@@ -1,0 +1,7 @@
+scenario,desc,released,blocked,tsum_open
+S0_now,Текущий gate (после H39 baseline),18,12,2
+S1_im_pos,H39: IM+POS slices → +6,24,6,2
+S2_bank_dds,H40: BANK core−card + DDS Jun + 2026-02 → +4..5,28,2,2
+S3_may_cash,H41: платёж Меркурий за май ~2.58M в банке + H11,29,1,1
+S4_jun_cash,H41: платёж за июнь ~1.77M (июль-выписка) + H11,30,0,0
+S3b_timing_policy,H41 alt: Accept TIMING_LAG для месяцев <45д без cash,30,0,0
