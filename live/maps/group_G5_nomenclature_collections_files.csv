@@ -1,0 +1,14 @@
+group,domain,category,file_name,years,entities,risk,lifecycle_status,source_file_id
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат НГ 2024.xlsx,2024,общий/не указан,Низкий,Active source candidate,SRC-A7421E474C22
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат НГ 24.11.25.xlsx,Не определён из названия,общий/не указан,Низкий,Active source candidate,SRC-FF307568DB94
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат капсула 2024.xlsx,2024,общий/не указан,Низкий,Active source candidate,SRC-0DB64A857C29
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат капсула 2025.xlsx,2025,общий/не указан,Низкий,Active source candidate,SRC-2E85F06F7FA4
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат кол-я 43 (янв 2024).xlsx,2024,общий/не указан,Средний,Controlled working — устранить внешние ссылки,SRC-E677B0690075
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат кол-я 44 (июнь 2024).xlsx,2024,общий/не указан,Средний,Controlled working — устранить внешние ссылки,SRC-7E1258EE5D2D
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат кол-я 45 (янв 2025).xlsx,2025,общий/не указан,Средний,Controlled working — устранить внешние ссылки,SRC-A05546F621AB
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат кол-я 46 (июль 2025).xlsx,2025,общий/не указан,Средний,Controlled working — устранить внешние ссылки,SRC-975A4D4C055D
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат кол-я 47 (янв 2026).xlsx,2026,общий/не указан,Средний,Controlled working — устранить внешние ссылки,SRC-D215DA62070C
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат круиз 09.04.25.xlsx,Не определён из названия,общий/не указан,Низкий,Active source candidate,SRC-25BCD1E70D4C
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат круиз 14.04.26.xlsx,Не определён из названия,общий/не указан,Низкий,Active source candidate,SRC-964463AEE601
+G5_NOMENCLATURE_COLLECTIONS,Коллекции и продукт,collection_result,результат круиз 22.04.24.xlsx,Не определён из названия,общий/не указан,Низкий,Active source candidate,SRC-655D54FE7533
+G5_NOMENCLATURE_COLLECTIONS,Продукт / номенклатура,sku_master,Справочник номенклатуры товара.xls,2026,GROUP,Низкий,Active source candidate,SRC-9FC954AF42A9

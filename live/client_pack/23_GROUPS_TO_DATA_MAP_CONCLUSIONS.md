@@ -381,7 +381,8 @@ A9 Договоры/RACI              →      LEGAL / governance          owner
 | **G2** | ДДС / расходы / SALES / бюджет | `G2_DDS_OPEX_SALES_GROUP_DETAIL.md` (**готово**) |
 | **G3** | Продажи IM/B2B/ЦУМ | `G3_SALES_CHANNELS_GROUP_DETAIL.md` (**готово**) |
 | **G4** | Себестоимость + МД | `G4_COST_MD_GROUP_DETAIL.md` (**готово**) |
-| G5 | Номенклатура / коллекции | следующий |
+| **G5** | Номенклатура / коллекции | `G5_NOMENCLATURE_COLLECTIONS_GROUP_DETAIL.md` (**готово**) |
+| G6 | Ткани / склады / закупки | следующий |
 
 Обзор всех групп одним проходом: этот файл (§A).  
 Детализация — серия `G1`, `G2`, … на GitHub в `client_pack/`.

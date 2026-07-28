@@ -37,6 +37,7 @@
 | G2 | `G2_DDS_OPEX_SALES_GROUP_DETAIL.md` | **Детально ДДС/расходы/SALES** + `group_G2_*.csv` |
 | G3 | `G3_SALES_CHANNELS_GROUP_DETAIL.md` | **Детально IM/B2B/ЦУМ** + `group_G3_*.csv` |
 | G4 | `G4_COST_MD_GROUP_DETAIL.md` | **Детально себестоимость/МД** + `group_G4_*.csv` |
+| G5 | `G5_NOMENCLATURE_COLLECTIONS_GROUP_DETAIL.md` | **Детально номенклатура/коллекции** + `group_G5_*.csv` |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |
