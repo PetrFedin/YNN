@@ -1,0 +1,6 @@
+fio,n_open_roles_if_confirmed,roles,sod_risk,note
+Коптева Марина,3,DOM-B2B / Owner; SRC-CTRL-03 / Owner; SRC-CTRL-02 / Approver,HIGH_CONCENTRATION — совмещение ролей; нужен осознанный Accept,
+Мокеева Анна,3,DOM-COST / Owner; DOM-PROD / Owner; SRC-CTRL-02 / Owner,HIGH_CONCENTRATION — совмещение ролей; нужен осознанный Accept,
+Мамушкина Елена,2,SRC-CTRL-03 / Approver; SRC-CTRL-01 / Approver,MEDIUM — проверить SoD (segregation of duties),Уже ACCEPTED в H23: Сливяк=TAX/PAYROLL/BANK; Мамушкина=CASH
+Коновалова Анна,1,DOM-PRODUCT / Owner,OK,
+Сливяк Галина,1,DOM-DATA / Owner,OK,Уже ACCEPTED в H23: Сливяк=TAX/PAYROLL/BANK; Мамушкина=CASH

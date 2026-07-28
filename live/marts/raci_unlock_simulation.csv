@@ -1,0 +1,5 @@
+scenario,desc,p0_domains_open,b2b_collect_executable,alias_accept_executable
+S0_now,H23 formal: 8 ACCEPT + 10 OPEN; H27 candidates not formal,4,NO,NO
+S1_confirm_B2B,CONFIRM only DOM-B2B = Коптева,3,YES,NO
+S2_confirm_P0_domains,CONFIRM B2B+PRODUCT+COST+DATA,0,YES,YES
+S3_confirm_all_10,CONFIRM all 10 OPEN rows,0,,

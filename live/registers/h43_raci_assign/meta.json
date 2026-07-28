@@ -1,0 +1,10 @@
+{
+  "horizon": "H43",
+  "title": "Priority RACI OPEN FIO confirm (close H27↔H23 gap)",
+  "created": "2026-07-28",
+  "open_n": 10,
+  "p0_first": "DOM-B2B → unlocks H42 collect",
+  "key_finding": "H27 already has candidate FIO for all 10; H23 formal still OPEN — need Yanina CONFIRM, not new discovery",
+  "no_auto_accept": true,
+  "sod_watch": "Мокеева (COST+PROD), Коптева (B2B+controls), Сливяк (DATA+TAX+PAYROLL+BANK)"
+}

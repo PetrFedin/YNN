@@ -1,0 +1,11 @@
+rank,role_id,candidate_fio,decision,if_replace_fio,date,signature_yanina,why_now,unlocks
+1,DOM-B2B / Owner,Коптева Марина,,,,,CASH 2.51M,Исполнение call-script топ-3; confirm bank hypotheses; write-off decisions
+2,DOM-PRODUCT / Owner,Коновалова Анна,,,,,MARGIN QUALITY,Review/Accept/Reject alias candidates; clean cost match
+3,DOM-COST / Owner,Мокеева Анна,,,,,UNIT-ECON BLOCKER,Cost version ownership; MD cost process (Stage 2 prep)
+4,DOM-DATA / Owner,Сливяк Галина,,,,,GATE GOVERNANCE,D-ACQ-POS / BANK policy Accept; gate threshold changes
+5,DOM-PROD / Owner,Мокеева Анна,,,,,WC GOVERNANCE,G6 fabrics stewardship; WC ~28.6M trusted contour owner
+6,SRC-CTRL-03 / Owner,Коптева Марина,,,,,CONTROL,Разделение исполнения (Коптева) и approve (Мамушкина)
+7,SRC-CTRL-03 / Approver,Мамушкина Елена,,,,,CONTROL,Разделение исполнения (Коптева) и approve (Мамушкина)
+8,SRC-CTRL-02 / Owner,Мокеева Анна,,,,,CONTROL,Cost change approve path
+9,SRC-CTRL-02 / Approver,Коптева Марина,,,,,CONTROL,Cost change approve path
+10,SRC-CTRL-01 / Approver,Мамушкина Елена,,,,,PAYROLL CONTROL,Approve payroll exceptions / quarantine Jan–Feb 2026

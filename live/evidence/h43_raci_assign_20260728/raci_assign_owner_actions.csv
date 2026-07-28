@@ -1,0 +1,6 @@
+rank,action_id,title,detail,accept
+1,H43-A1,Янина: CONFIRM DOM-B2B (Коптева) — 1 подпись,Снимает блокер H42 collect 2.51M. Макс. ROI на 1 решение.,YES — formal RACI
+2,H43-A2,CONFIRM P0: PRODUCT / COST / DATA,Alias + cost policy + gate governance.,YES
+3,H43-A3,CONFIRM DOM-PROD + SRC-CTRL 01/02/03,Закрывает оставшиеся 6 строк; проверить SoD на Мокеевой/Коптевой.,YES
+4,H43-A4,После CONFIRM — обновить SOT_POLICY + sot_owners (H23 formal),H27 candidates → H23 ACCEPTED. Не делать до подписи Яниной.,process
+5,H43-A5,Не auto-ACCEPT: H27 status ≠ formal SoT,H27 пометил ACCEPTED из брифа структуры; diagnostic pack трактует как CANDIDATE до H43 signoff.,policy reminder

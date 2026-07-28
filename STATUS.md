@@ -3,18 +3,15 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Приоритет сейчас: H42 B2B collect 2.51M
-Документ: `live/client_pack/29_PRIORITY_B2B_COLLECT_H42.md`
+## Приоритет сейчас: H43 RACI 10 OPEN FIO
+Документ: `live/client_pack/30_PRIORITY_RACI_ASSIGN_H43.md`
 
 ### Ключевой find
-**82%** open = 3 покупателя; **95%** суммы **>366 дней**; STRONG bank hypothesis только **~0.22M** (нужен confirm owners). DOM-B2B в RACI = OPEN.
+Кандидаты ФИО **уже есть в H27**; формальный H23 = **OPEN**. Нужен CONFIRM Яниной, не поиск людей.
 
-### Gate path (H39–H41) — без изменений
-18 → 24 (IM) → 28 (BANK) → 30 (TSUM cash/timing)
+### Max ROI
+1 подпись **DOM-B2B = Коптева** → разблокирует H42 collect **2.51M**.
 
-### Owner сейчас
-1. Назначить DOM-B2B  
-2. Обзвонить топ-3 (Бекеева / Нурова / Чухонцева)  
-3. Confirm/reject bank hypotheses  
+Лист: `live/marts/raci_yanina_signoff_sheet.csv`
 
 Updated: 2026-07-28

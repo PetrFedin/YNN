@@ -1,0 +1,6 @@
+layer,status,authority,use_for
+H23 SOT_POLICY / sot_owners,10 OPEN_NEEDS_OWNER (formal),Owner Packet ACCEPT 2026-07-24,Формальный SoT staging
+H27 business structure,10 FIO proposed / marked ACCEPTED in h27 csv,Business brief ingest — NOT owner signoff on RACI,Кандидаты для H43 confirm
+H26 stubs,replaced by H27 FIO in stubs file,temp,historical
+H37 dojim_RACI_open_pack,10 WAITING_OWNER_FIO,diagnostic,owner execution backlog
+H43 (this),Confirm sheet for Янина,pending,Закрыть разрыв H27↔H23
