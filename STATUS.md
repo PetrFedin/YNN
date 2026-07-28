@@ -3,13 +3,13 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Приоритет сейчас: H44 Alias Accept
-Документ: `live/client_pack/31_PRIORITY_ALIAS_ACCEPT_H44.md`
+## Приоритет сейчас: H45 Quarantine ЗП янв–фев 2026
+Документ: `live/client_pack/32_PRIORITY_PAYROLL_QUARANTINE_H45.md`
 
 ### Ключевой find
-На review **16 PENDING** (не 20): 4 уже H23. Топ-5 ≈ **3.04M** выручки. Accept ≠ apply.
+В `Распределение` **#REF!** на картах. Касса DDS↔bank **CLOSE**. Feb: dist=0, zp_where=Отчет В2В. Эталон — апрель 2026.
 
-Лист: `live/marts/alias_konovalova_decision_sheet.csv`  
-Блокер: H43 CONFIRM DOM-PRODUCT (Коновалова).
+### Owner
+Сливяк — fix файлов · Мамушкина — release quarantine после criteria.
 
 Updated: 2026-07-28

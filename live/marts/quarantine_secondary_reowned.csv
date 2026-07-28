@@ -1,0 +1,4 @@
+rank,file_name,group,risk,root_cause,owner_fix,owner_wrong_in_h37,priority,action,blocks
+3,Себестоимость Жукова.xlsx,G4,Высокий,Person-cost workbook quarantine (не ЗП monthly),DOM-COST — Мокеева Анна (НЕ Payroll),DOM-PAYROLL — исправлено в H45,P1,FIX_OR_REPLACE_BEFORE_USE,MD/person unit-econ partial
+4,Себестоимость Меркушина.xlsx,G4,Средний,Person-cost workbook quarantine,DOM-COST — Мокеева Анна,DOM-PAYROLL — исправлено в H45,P1,FIX_OR_REPLACE_BEFORE_USE,person-cost
+5,Факт анализ продаж B2B 2026.xlsx,G3,Средний,B2B sales fact workbook quarantine,DOM-B2B — Коптева Марина,DOM-PAYROLL — исправлено в H45,P1,FIX_OR_REPLACE_BEFORE_USE,B2B analytics quality (collect H42 независим)

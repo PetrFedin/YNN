@@ -1,0 +1,5 @@
+scenario,desc,person_sot_2026_h1,unblocks
+S0_now,Jan/Feb quarantine; cash CLOSE; person SoT blocked,PARTIAL (Mar–May OK),
+S1_fix_feb_only,Починить февраль (#REF! total) first — worst,,2026-02 distribution
+S2_fix_jan_feb,Оба файла + W2 re-run,,H1 2026 person payroll continuity
+S3_approver_release,Мамушкина снимает quarantine flag,,lifecycle Active; usable in analytics

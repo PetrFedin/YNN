@@ -1,0 +1,10 @@
+{
+  "horizon": "H45",
+  "title": "Payroll quarantine Jan-Feb 2026 root cause #REF!",
+  "created": "2026-07-28",
+  "key_finding": "Jan/Feb Распределение card block has #REF!; cash DDS↔bank still CLOSE; Feb dist_cash_card=0; wrong zp_where",
+  "cash_ok": true,
+  "person_sot_blocked": true,
+  "template_reference": "ЗП за апрель 2026.xlsx (MATCH)",
+  "no_fake_release": true
+}

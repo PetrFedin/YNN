@@ -1,0 +1,6 @@
+period_month,quarantine,overall,dds_vs_bank,lines_vs_dds,dds_bn,bank_zp,dist_cash_card,legacy_zp_where,legacy_status,template_quality
+2026-01,YES,CLOSE,CLOSE,WIDE_GAP,1173362.0,1183388.76,185846.5,окладники:r65,GAP,BROKEN_REF_partial
+2026-02,YES,CLOSE,CLOSE,WIDE_GAP,3156703.01,3160451.55,0.0,Отчет В2В:r17,GAP,BROKEN_REF_total_cards
+2026-03,NO,CLOSE,CLOSE,WIDE_GAP,2943703.89,2951738.85,9518278.0,Распределение:r24,GAP,OK_old_layout
+2026-04,NO,CLOSE,CLOSE,WIDE_GAP,3107643.17,3117016.2,9144149.0,Распределение:r26,MATCH,OK_MATCH_template
+2026-05,NO,CLOSE,CLOSE,WIDE_GAP,3278397.75,3290103.05,9648298.94,Распределение:r26,GAP,OK

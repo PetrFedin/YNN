@@ -1,0 +1,6 @@
+rank,action_id,title,detail,accept
+1,H45-A1,Сливяк: починить #REF! в ЗП февраль 2026 (Карты),Сейчас dist_cash_card=0; zp_ctrl ошибочно с Отчет В2В,file replace
+2,H45-A2,Сливяк: починить #REF! в ЗП январь 2026,Частичные #REF!; zp_ctrl с окладники,file replace
+3,H45-A3,Re-run W2 + сверка acceptance criteria,Цель: zp_where=Распределение,diagnostic
+4,H45-A4,Мамушкина: Approver release quarantine,После H43 CONFIRM SRC-CTRL-01 Approver,YES
+5,H45-A5,Переназначить owners 3 secondary quarantine,Жукова/Меркушина→COST; B2B fact→B2B (не Payroll),ownership fix
