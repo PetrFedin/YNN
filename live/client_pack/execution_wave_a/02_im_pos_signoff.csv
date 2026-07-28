@@ -1,0 +1,7 @@
+rank,period_month,pattern,action,amount_rub,detail,decision,signer,date
+1,2025-08,UNDERBANKED,ACCEPT POS slice,37327.69,soft=37327.69 / close=648312.45,,Сливяк + Мамушкина / Янина,
+1,2026-04,UNDERBANKED,ACCEPT POS slice,509351.08,soft=509351.08 / close=1087184.65,,Сливяк + Мамушкина / Янина,
+2,2024-08,OVERBANKED,GET REGISTER,724695.42,Реестр возмещений ПОС IP+Декор за 2024-08 ±1 мес; объяснить +724695 ₽ vs IM sales,,Сливяк + Мамушкина / Янина,
+2,2025-01,OVERBANKED,GET REGISTER,420515.18,Реестр возмещений ПОС IP+Декор за 2025-01 ±1 мес; объяснить +420515 ₽ vs IM sales,,Сливяк + Мамушкина / Янина,
+2,2025-10,OVERBANKED,GET REGISTER,244872.43,Реестр возмещений ПОС IP+Декор за 2025-10 ±1 мес; объяснить +244872 ₽ vs IM sales,,Сливяк + Мамушкина / Янина,
+2,2026-03,OVERBANKED,GET REGISTER,264104.72,Реестр возмещений ПОС IP+Декор за 2026-03 ±1 мес; объяснить +264105 ₽ vs IM sales,,Сливяк + Мамушкина / Янина,

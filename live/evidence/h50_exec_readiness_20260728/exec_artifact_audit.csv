@@ -1,0 +1,13 @@
+exec_id,wave,priority,title,owner_primary,artifacts_expected,artifacts_found,readiness,missing,primary_artifact,exec_status
+E01,A,P0,RACI CONFIRM DOM-B2B = Коптева,Янина,2,2,READY,,live/marts/raci_yanina_signoff_sheet.csv,WAITING_CONFIRM
+E02,A,P0,IM POS Accept soft-slices 2026-04 (509k) + 2025-08 (37k),Сливяк,3,3,READY,,live/marts/im_pos_slice_payments.csv,WAITING_ACCEPT
+E03,A,P0,RACI CONFIRM P0: PRODUCT / COST / DATA,Янина,2,2,READY,,live/marts/raci_yanina_signoff_sheet.csv,WAITING_CONFIRM
+E04,B,P0,B2B collect топ-3 (Бекеева/Нурова/Чухонцева),Коптева,2,2,READY,,live/marts/b2b_call_script.csv,BLOCKED_RACI
+E05,B,P0,"Alias Accept топ-5 SKU (T-2750B/C, T-3187A, …)",Коновалова,2,2,READY,,live/marts/alias_konovalova_decision_sheet.csv,BLOCKED_RACI
+E06,A,P0,Починить #REF! ЗП янв–фев 2026 (Распределение/Карты),Сливяк,2,2,READY,,live/marts/payroll_quarantine_fix_checklist.csv,WAITING_FILE_FIX
+E07,B,P0,IM overbank: реестры ×4 месяцев,Сливяк,2,2,READY,,live/marts/im_overbank_register_asks.csv,WAITING_FILES
+E08,C,P1,BANK policy core−card + догрузить DDS June,Сливяк,2,2,READY,,live/client_pack/27_PRIORITY_GATE_BANK_DDS_H40.md,WAITING_POLICY_OR_FILE
+E09,B,P1,MD 2026: заполнить 26 salon cost + закрепить shop process,Мокеева,2,2,READY,,live/marts/md_salon_2026_missing_cost_top40.csv,WAITING_OPS
+E10,C,P1,TSUM Mercury: найти/дождаться платежи май/июнь,Сливяк / Cash,2,2,READY,,live/client_pack/28_PRIORITY_GATE_TSUM_NET_H41.md,WAITING_BANK_OR_TIMING
+E11,A,P1,RACI остаток: PROD + SRC-CTRL 01/02/03,Янина,1,1,READY,,live/marts/raci_yanina_signoff_sheet.csv,WAITING_CONFIRM
+E12,C,P2,Policy: no unit-econ МД 2024–25 в обещаниях,Янина,2,2,READY,,live/marts/md_unit_econ_can_cannot_say.csv,WAITING_POLICY

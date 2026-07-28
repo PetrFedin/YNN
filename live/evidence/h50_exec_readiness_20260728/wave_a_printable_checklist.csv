@@ -1,0 +1,5 @@
+step,who,what,open_file,decision,done_when,check,date_done,notes
+E01,Янина,RACI CONFIRM DOM-B2B = Коптева,live/marts/raci_yanina_signoff_sheet.csv,CONFIRM_CANDIDATE / REPLACE_FIO / DEFER,E04 B2B collect,☐,,
+E02,Сливяк,IM POS Accept soft-slices 2026-04 (509k) + 2025-08 (37k),live/marts/im_pos_slice_payments.csv,"ACCEPT_SOFT_SLICE (доля платежа, не весь)",Gate 18→20,☐,,
+E03,Янина,RACI CONFIRM P0: PRODUCT / COST / DATA,live/marts/raci_yanina_signoff_sheet.csv,CONFIRM кандидатов H27,E05 alias · E09 MD pilot · gate harden,☐,,
+E06,Сливяк,Починить #REF! ЗП янв–фев 2026 (Распределение/Карты),live/marts/payroll_quarantine_fix_checklist.csv,FILE_REPLACE → Approver release,Person payroll SoT H1 2026,☐,,

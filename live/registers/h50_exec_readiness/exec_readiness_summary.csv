@@ -1,0 +1,2 @@
+n_exec_items,ready,partial,missing,wave_a_ready,blocking_for_owners,next_human_action,no_new_analysis,h50_repair
+12,12,0,0,True,Decisions/files — not missing artifacts,Fill Wave A checklist (E01 E02 E03 E06),Y,Copied H40 CSVs into live/marts/
