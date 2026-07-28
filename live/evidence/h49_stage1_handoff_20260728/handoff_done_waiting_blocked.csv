@@ -1,0 +1,9 @@
+bucket,item,ref
+DONE,G1–G9 group deep-dives,live/client_pack/G*.md
+DONE,H37 deep dojim 107 files + owner packs,24_DEEP_DOJIM…
+DONE,H38–H47 priority packs (gate/IM/bank/TSUM/B2B/RACI/alias/ZP/MD),25–34
+DONE,H48 Master execution board E01–E12,35_MASTER…
+DONE,Dual contour diagnosis + constraints map,"01–05, 20"
+WAITING,Owner Accept / files / confirms,master_execution_board.csv
+BLOCKED,MD unit-econ 2024–25,H47
+BLOCKED,Audited company P&L / full SoT,Stage 2+

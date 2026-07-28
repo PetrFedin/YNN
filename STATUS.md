@@ -3,17 +3,17 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Приоритет сейчас: H48 Master Execution Board
-Документ: `live/client_pack/35_MASTER_OWNER_EXECUTION_H48.md`
+## Режим: Stage-1 HANDOFF (H49)
+Документ: `live/client_pack/36_STAGE1_HANDOFF_H49.md`
 
-### Режим
-**OWNER_EXECUTION** — не новый аналитический слой.
+Диагностика упакована. Дальше — **исполнение E01–E12**, не новый анализ.
 
-### Первый час
-1. Янина: **E01** DOM-B2B + **E03** PRODUCT/COST/DATA  
-2. Сливяк: **E02** POS slices + **E06** ЗП `#REF!`
+### Сегодня / эта неделя
+1. Янина: E01 + E03 (RACI)  
+2. Сливяк: E02 (POS) + E06 (ЗП)
 
 Board: `live/marts/master_execution_board.csv`  
-Gate path: 18→20→24→28→30
+Actions: `live/OWNER_ACTIONS.md`  
+Meeting: `live/MEETING_15MIN_SCRIPT.md`
 
 Updated: 2026-07-28

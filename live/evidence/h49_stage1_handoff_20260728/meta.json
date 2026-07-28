@@ -1,0 +1,7 @@
+{
+  "horizon": "H49",
+  "title": "Stage-1 client handoff pack",
+  "created": "2026-07-28",
+  "mode": "HANDOFF_NOT_NEW_ANALYSIS",
+  "points_to": "H48 master_execution_board"
+}

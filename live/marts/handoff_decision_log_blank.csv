@@ -1,0 +1,9 @@
+decision_id,question,options,maps_to,owner,answer,date
+D-H48-01,CONFIRM DOM-B2B = Коптева Марина?,YES / OTHER_FIO / DEFER,E01,Янина,,
+D-H48-02,"CONFIRM PRODUCT=Коновалова, COST=Мокеева, DATA=Сливяк?",YES / REPLACE / DEFER,E03,Янина,,
+D-H48-03,ACCEPT POS soft-slice 2026-04 = 509351₽ в IM?,YES / NO / PARTIAL,E02,Сливяк/Мамушкина,,
+D-H48-04,ACCEPT POS soft-slice 2025-08 = 37328₽ в IM?,YES / NO,E02,Сливяк/Мамушкина,,
+D-H48-05,Сливяк чинит ЗП янв–фев #REF! на этой неделе?,YES / DATE,E06,Сливяк,,
+D-FRAME-01,Два контура (МД / товар) = обязательная рамка отчётов?,YES / NO,policy,Янина,,
+D-FRAME-02,Запрет: goods −58/−74% ≠ P&L компании?,YES / NO,policy,Янина,,
+D-H47-01,Accept: unit-econ МД 2024–25 не обещаем без нового cost?,YES / NO,E12,Янина,,

@@ -1,0 +1,10 @@
+metric,value,note
+release_gate,18/30,path to 30 via E02→E07→E08→E10
+b2b_open_rub,2514023,15 docs; top-3 = 82%
+im_open_months,6,2 underbanked POS slices; 4 overbank registers
+raci_open_fio,10,H27 candidates ready; need Yanina CONFIRM
+alias_pending,16,top-5 ~3.04M rev
+zp_quarantine,Jan+Feb 2026,#REF! in Распределение cards
+md_salon_cost_fill_2024_25,0%,unit-econ blocked
+md_shop_cost_fill_2026,90.5%,forward pilot
+tsum_net_open,2026-05/06,"timing lag +1m, not rate"
