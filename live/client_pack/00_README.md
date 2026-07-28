@@ -50,6 +50,7 @@
 | **29** | `29_PRIORITY_B2B_COLLECT_H42.md` | **H42 приоритет:** B2B collect 2.51M — топ-3 / aging / bank hypotheses |
 | **30** | `30_PRIORITY_RACI_ASSIGN_H43.md` | **H43 приоритет:** RACI 10 OPEN — confirm H27 кандидатов (лист Яниной) |
 | **31** | `31_PRIORITY_ALIAS_ACCEPT_H44.md` | **H44 приоритет:** Alias Accept — 16 PENDING / топ-5 ≈3.04M (Коновалова) |
+| **32** | `32_PRIORITY_PAYROLL_QUARANTINE_H45.md` | **H45 приоритет:** ЗП янв–фев quarantine — root cause #REF! в Распределение |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |
