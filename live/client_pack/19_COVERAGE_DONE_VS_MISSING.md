@@ -123,6 +123,7 @@ Marts (семейства): margin 10 · md 10 · recon 9 · settle 5 · bank 4 
 - [x] Измерение POS/invoice в OTHER_IN  
 
 - [x] H37 deep scan 107 + tax HIGH extract + dojim owner packs (`24_…`)  
+- [x] H38 continue: IM×POS, bank/DDS gaps, FOT drivers, fabric ABC indicative (`25_…`)  
 
 ### Не сделано (нужны owners / файлы / этапы 2+)
 - [ ] ACCEPT класса `ACQ_POS`  

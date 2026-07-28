@@ -1,0 +1,4 @@
+channel,period_month,sales_revenue_rub,agent_allocated_rub,net_rate_used,expected_net_cash_rub,gap_vs_model_rub,gap_vs_model_pct,status_vs_model,status_vs_gross,implied_net_rate,note,action,priority,pack,dojim_status
+TSUM,2023-12,0.0,3871189.34,0.4668,0.0,3871189.34,,OPEN,OPEN,,agent cash allocated by purpose period; model=median net-rate,CHECK_AGENT_CASH_TIMING,P2,H38,EXPECTED_OR_REVIEW
+TSUM,2026-05,5525456.6,0.0,0.4668,2579198.09,-2579198.09,-100.0,OPEN,OPEN,0.0,agent cash allocated by purpose period; model=median net-rate,CHECK_AGENT_CASH_TIMING,P2,H38,EXPECTED_OR_REVIEW
+TSUM,2026-06,3799712.0,0.0,0.4668,1773647.07,-1773647.07,-100.0,OPEN,OPEN,0.0,agent cash allocated by purpose period; model=median net-rate,CHECK_AGENT_CASH_TIMING,P2,H38,EXPECTED_OR_REVIEW

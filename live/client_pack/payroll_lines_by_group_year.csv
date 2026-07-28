@@ -1,0 +1,9 @@
+year,group,amount_rub,lines,note
+2025,SALARY,126464065.0,272,from payroll_lines where present; not full FOT
+2025,EMBROIDERY,18308514.0,127,from payroll_lines where present; not full FOT
+2025,MASTERS,7650814.0,76,from payroll_lines where present; not full FOT
+2025,DESIGNERS,5356249.0,37,from payroll_lines where present; not full FOT
+2026,SALARY,56830900.32,254,from payroll_lines where present; not full FOT
+2026,EMBROIDERY,11713643.53,120,from payroll_lines where present; not full FOT
+2026,MASTERS,5727854.33,69,from payroll_lines where present; not full FOT
+2026,DESIGNERS,4989311.73,36,from payroll_lines where present; not full FOT

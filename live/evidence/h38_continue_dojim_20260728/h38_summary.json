@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-07-28 14:56",
+  "im_open_months": 6,
+  "im_likely_if_pos_accept": 1,
+  "bank_dds_months": 30,
+  "fabric_abc_skus": 1338,
+  "fabric_abc_total_rub": 29837656.49,
+  "collection_files": 12,
+  "collection_sheets": 27,
+  "collection_sku_overlap": 3,
+  "md_invoice_links": 13,
+  "tsum_net_open": 3,
+  "note": "H38 continuation — still no auto-ACCEPT; ABC indicative; collection join probe only"
+}

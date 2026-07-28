@@ -1,0 +1,5 @@
+year,exp,dds_bn,tax,bank,months,expense_minus_dds_bn,note
+2024,19565628.06,19565628.34,0.0,19801640.73,12,-0.28,expense includes tax-like load; dds_bn closer to cash payroll
+2025,37765983.67,27638418.26,10127567.44,28108787.97,12,10127565.41,expense includes tax-like load; dds_bn closer to cash payroll
+2026,19074912.23,13659809.82,5415102.28,13702698.41,5,5415102.41,expense includes tax-like load; dds_bn closer to cash payroll
+YoY_2025_vs_2024,18200355.61,8072789.92,10127567.44,8307147.24,12,10127565.69,delta expense 18.2M = dds_bn 8.1M + tax/other 10.1M

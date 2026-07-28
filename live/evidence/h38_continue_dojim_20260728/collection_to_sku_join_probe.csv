@@ -1,0 +1,2 @@
+collection_article_tokens_unique,known_sales_cost_skus_sample,overlap_n,overlap_sample,join_status,so_t,note
+332,158,3,0-2548|0-2604|0-3364,PARTIAL_TOKEN_OVERLAP,N,Token scrape from first 40 rows — not full collection P&L. External-link workbooks may be incomplete.
