@@ -1,0 +1,6 @@
+exec_id,board_status,human_next
+E01,DRAFT_RECOMMENDED_CONFIRM,Янина подписать
+E02,DRAFT_RECOMMENDED_ACCEPT_SOFT,Сливяк/Мамушкина подписать доли
+E03,DRAFT_RECOMMENDED_CONFIRM,Янина подписать 3 домена
+E06,DRAFT_COMMIT_FIX_BY_2026-08-04,Сливяк подтвердить дату
+E12,DRAFT_RECOMMENDED_CONSTRAINT,Янина подписать

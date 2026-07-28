@@ -3,13 +3,12 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Режим: EXECUTION (H50 readiness = 12/12 READY)
-Wave A папка: `live/client_pack/execution_wave_a/`  
-Handoff: `live/client_pack/36_STAGE1_HANDOFF_H49.md`
+## Сейчас: H51 draft решений на подпись
+`live/client_pack/38_DRAFT_DECISIONS_H51.md`  
+CSV: `live/marts/draft_recommended_decisions.csv`
 
-### Сделать
-☐ E01 RACI B2B · ☐ E02 POS slices · ☐ E03 RACI P0 · ☐ E06 ЗП
+**Не Accept** — нужные подписи Янина / Сливяк / Мамушкина.
 
-**Стоп новых аналитических горизонтов** до Accept/файлов.
+Wave A: `live/client_pack/execution_wave_a/`
 
 Updated: 2026-07-28

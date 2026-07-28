@@ -1,0 +1,4 @@
+order,who,minutes,items,sheet
+1,Янина,5,"E01, E03a-c, E12, FRAME1-2",draft_recommended_decisions.csv
+2,Сливяк + Мамушкина,10,"E02a, E02b, E06 target date",draft_recommended_decisions.csv + im_pos_slices
+3,все,2,Скан/фото подписанного CSV → статус E* = SIGNED,update master board
