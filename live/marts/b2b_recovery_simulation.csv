@@ -1,0 +1,6 @@
+scenario,desc,cash_rub,open_left_rub,docs_closed
+S0_open_now,Текущий OPEN B2B,0,2514023.0,0
+S1_confirm_strong_links,Owner подтверждает STRONG bank hypotheses → link,217391.0,2296632.0,1
+S2_top3_buyers_collect,Collect топ-3 покупателя (Бекеева/Нурова/Чухонцева),826553.6,1687469.4,
+S3_heuristic_full,Сумма expect_recovery по age buckets,404926.65,2109096.35,
+S4_writeoff_366plus_residual,После collect: остаток 366+ → write-off decision,0,,

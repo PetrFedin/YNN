@@ -1,0 +1,14 @@
+{
+  "horizon": "H42",
+  "title": "Priority B2B collect 2.51M",
+  "created": "2026-07-28",
+  "open_rub": 2514023.0,
+  "n_docs": 15,
+  "top3_share_pct": 82.2,
+  "strong_hypothesis_rub": 217391.0,
+  "weak_hypothesis_rub": 659826.0,
+  "none_rub": 1636806.0,
+  "age_366plus_rub": 2399907.0,
+  "key_finding": "Top-3 buyers = majority of open; most debt >366d; STRONG bank hypotheses must be owner-confirmed",
+  "no_auto_accept": true
+}

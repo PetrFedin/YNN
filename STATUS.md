@@ -3,18 +3,18 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Приоритет сейчас: H41 Gate TSUM_NET
-Документ: `live/client_pack/28_PRIORITY_GATE_TSUM_NET_H41.md`
+## Приоритет сейчас: H42 B2B collect 2.51M
+Документ: `live/client_pack/29_PRIORITY_B2B_COLLECT_H42.md`
 
 ### Ключевой find
-OPEN 2026-05/06 = **лаг оплаты +1 мес** (29/29), не ошибка ставки. В июньской выписке **нет** платежа Меркурий (~2.58M за май).
+**82%** open = 3 покупателя; **95%** суммы **>366 дней**; STRONG bank hypothesis только **~0.22M** (нужен confirm owners). DOM-B2B в RACI = OPEN.
 
-### Quick path к gate
-1. H39 IM → 24/30  
-2. H40 BANK↔DDS → 28/30  
-3. H41 платёж май + июль-выписка июнь → **30/30**  
-   (alt: Accept TIMING_LAG policy)
+### Gate path (H39–H41) — без изменений
+18 → 24 (IM) → 28 (BANK) → 30 (TSUM cash/timing)
 
-Договорный % (A-TSUM-RATE-01) — **вторично**, пока agent_cash=0.
+### Owner сейчас
+1. Назначить DOM-B2B  
+2. Обзвонить топ-3 (Бекеева / Нурова / Чухонцева)  
+3. Confirm/reject bank hypotheses  
 
 Updated: 2026-07-28

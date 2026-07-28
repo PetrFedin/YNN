@@ -1,0 +1,6 @@
+rank,action_id,title,detail,blocks_cash,accept
+1,H42-A1,Назначить DOM-B2B ФИО (RACI),Без владельца collect не исполняется. Связь с H37 RACI OPEN.,YES,RACI assign
+2,H42-A2,Обзвонить топ-3: Бекеева 0.83M + Нурова 0.74M + Чухонцева 0.50M,82%+ open (82.2%). SLA 5 дней.,YES,NO
+3,H42-A3,Подтвердить/отклонить STRONG bank hypotheses,Потенциал link ~0.22M без нового платежа (если гипотезы верны). НЕ auto-ACCEPT.,PARTIAL,per-doc confirm
+4,H42-A4,По 366+ без гипотез — решение collect vs write-off,Нурова 0.74M и др. без bank hit. Age 366+: 2.4M.,YES,write-off only if owner
+5,H42-A5,Раева 10k (28д) — мягкий collect / сверка,Свежий долг; не путать с одноимённым платежом 2025.,LOW,NO

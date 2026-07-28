@@ -1,0 +1,5 @@
+age_bucket,n_docs,open_rub,expect_recovery_rub_heuristic,policy
+0-90,1,10000.0,8500.0,мягкий collect
+91-180,0,0,0,жёсткий collect + претензия
+181-365,2,104116.0,36440.6,претензия / юрист
+366+,12,2399907.0,359986.05,решение collect vs списание (owner)
