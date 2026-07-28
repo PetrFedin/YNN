@@ -1,0 +1,8 @@
+group,domain,category,file_name,years,entities,risk,lifecycle_status,source_file_id
+G4_COST_MD,Себестоимость и производство,cost_embroidery,Вышивка себестоимость 2024-2026.xlsx,2024;2026,общий/не указан,Низкий,Active source candidate,SRC-627DAA533FFD
+G4_COST_MD,Себестоимость и производство,md,МД — копия.xlsx,Не определён из названия,общий/не указан,Низкий,Active source candidate,SRC-47D5B18B8E3A
+G4_COST_MD,Себестоимость и производство,cost_person,Себестоимость Жукова.xlsx,Не определён из названия,общий/не указан,Высокий,Quarantine — исправить до использования,SRC-CCFA8B9574EB
+G4_COST_MD,Себестоимость и производство,cost_person,Себестоимость Меркушина.xlsx,Не определён из названия,общий/не указан,Средний,Quarantine — исправить до использования,SRC-823CE027153E
+G4_COST_MD,Себестоимость и производство,cost_person,себестоимость Мокеева 2025.xlsx,2025,общий/не указан,Низкий,Active source candidate,SRC-5AE5AEA8B202
+G4_COST_MD,Себестоимость и производство,cost_person,себестоимость Мокеева 2026.xlsx,2026,общий/не указан,Низкий,Active source candidate,SRC-064CDEDD5BF7
+G4_COST_MD,Склад / себестоимость,stock_cost_movement,Движение товаров с себестоимостью.xlsx,2024-2026,GROUP,Низкий,Active source candidate,SRC-CF84AB121369
