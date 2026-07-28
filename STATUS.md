@@ -5,18 +5,13 @@
 Ветка: `main`  
 Локально: `/Users/petr/Projects/yanina-docs`
 
-Сырые `documents/` / Downloads **не** в git.
-
-## Аналитика
-Слои 1–5 + Stage 1 client_pack — **готовы**.  
-Мастер-схема заказчику: `live/client_pack/18_MASTER_SCHEME_CLIENT.md`  
+## Главное сейчас
+Полный перечень покрытия: **`live/client_pack/19_COVERAGE_DONE_VS_MISSING.md`**  
+CSV: `live/maps/coverage_done_vs_missing.csv`  
 Исполнение: `live/maps/execution_pack/`
 
-## Что делать дальше
-1. `D-ACQ-POS-01` — класс POS 62.3M  
-2. `D-B2B-01` — collect 2.51M  
-3. `D-IM-REG-01` — реестры IM  
-4. `D-MD-INV-01` — сверка invoice↔МД  
-5. ведомости ЗП / cost МД / %% ЦУМ  
+## Сводка статусов анализа
+DONE · PARTIAL · BLOCKED_NO_DATA · NOT_DONE — см. doc 19.  
+Этап 1 диагностика = выполнен; Stage 2+ и операционные дыры = ждут owners.
 
-Updated: 2026-07-27
+Updated: 2026-07-28

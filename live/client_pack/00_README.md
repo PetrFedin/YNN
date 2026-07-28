@@ -28,6 +28,7 @@
 | 16 | `16_LAYER5_SCORECARD.md` | **Layer 5:** единый статус; POS=только ИП; invoice↔МД ~40% |
 | 17 | `17_EXECUTION_PACK.md` | **Стоп narrative** → пакет решений owners + CSV |
 | 18 | `18_MASTER_SCHEME_CLIENT.md` | **Мастер-схема:** данные↔связи↔результат↔S1–S4 / модель |
+| 19 | `19_COVERAGE_DONE_VS_MISSING.md` | **Полный перечень:** что сделано / чего нет (+ CSV) |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |
