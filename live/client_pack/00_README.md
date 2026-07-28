@@ -54,6 +54,7 @@
 | **33** | `33_PRIORITY_IM_POS_ACCEPT_H46.md` | **H46 приоритет:** IM POS Accept — slices 509k+37k → gate 20/30 |
 | **34** | `34_PRIORITY_MD_UNIT_ECON_H47.md` | **H47 приоритет:** MD unit-econ — 24–25 BLOCKED / пилот 2026 shop+salon |
 | **35** | `35_MASTER_OWNER_EXECUTION_H48.md` | **H48 Master Board:** E01–E12 исполнение owners (freeze анализа) |
+| **36** | `36_STAGE1_HANDOFF_H49.md` | **H49 Handoff:** сдача Stage 1 + decision log (не новый анализ) |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |
