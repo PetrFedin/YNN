@@ -49,6 +49,7 @@
 | **28** | `28_PRIORITY_GATE_TSUM_NET_H41.md` | **H41 приоритет:** Gate TSUM_NET — лаг +1 мес / Меркурий → 30/30 |
 | **29** | `29_PRIORITY_B2B_COLLECT_H42.md` | **H42 приоритет:** B2B collect 2.51M — топ-3 / aging / bank hypotheses |
 | **30** | `30_PRIORITY_RACI_ASSIGN_H43.md` | **H43 приоритет:** RACI 10 OPEN — confirm H27 кандидатов (лист Яниной) |
+| **31** | `31_PRIORITY_ALIAS_ACCEPT_H44.md` | **H44 приоритет:** Alias Accept — 16 PENDING / топ-5 ≈3.04M (Коновалова) |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |
