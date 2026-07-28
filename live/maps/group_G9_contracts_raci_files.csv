@@ -1,0 +1,5 @@
+group,domain,category,file_name,years,entities,risk,lifecycle_status,source_file_id
+G9_CONTRACTS_RACI,Договоры и проектные документы,contracts,NDA_ИП_Янина + паспорт.docx,Не определён из названия,ИП_Янина,Низкий,Active source candidate,SRC-C83DF869483D
+G9_CONTRACTS_RACI,Договоры и проектные документы,contracts,Договор_комплексной_диагностики_ИП_Янина_+_паспорт.docx,Не определён из названия,ИП_Янина,Низкий,Active source candidate,SRC-0E9A2E8AA89B
+G9_CONTRACTS_RACI,Договоры и проектные документы,contracts,план работы.docx,Не определён из названия,общий/не указан,Низкий,Active source candidate,SRC-F5394740B494
+G9_CONTRACTS_RACI,Governance / RACI,org_raci,Финансы и платежи.docx,2026,GROUP,Низкий,Active source candidate,SRC-06A2CA72E604

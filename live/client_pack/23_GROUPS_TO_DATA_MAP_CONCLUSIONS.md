@@ -384,7 +384,10 @@ A9 Договоры/RACI              →      LEGAL / governance          owner
 | **G5** | Номенклатура / коллекции | `G5_NOMENCLATURE_COLLECTIONS_GROUP_DETAIL.md` (**готово**) |
 | **G6** | Ткани / склады / закупки | `G6_FABRICS_WAREHOUSES_PURCHASES_GROUP_DETAIL.md` (**готово**) |
 | **G7** | Персонал / ЗП | `G7_PAYROLL_GROUP_DETAIL.md` (**готово**) |
-| G8 | Налоги PDF | следующий |
+| **G8** | Налоги PDF | `G8_TAX_PDF_GROUP_DETAIL.md` (**готово**) |
+| **G9** | Договоры / RACI | `G9_CONTRACTS_RACI_GROUP_DETAIL.md` (**готово**) |
+
+**Серия G1–G9 завершена.**
 
 Обзор всех групп одним проходом: этот файл (§A).  
 Детализация — серия `G1`, `G2`, … на GitHub в `client_pack/`.
