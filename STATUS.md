@@ -1,13 +1,12 @@
 # Статус YANINA / YNN
 
 ## GitHub
-https://github.com/PetrFedin/YNN · ветка `main`
+https://github.com/PetrFedin/YNN · `main`  
+Сырые Downloads не в git · анализ в `live/client_pack/`
 
-Сырые файлы Downloads **не** в git (только каталог + анализ).  
-Все аналитические документы Этапа 1 — в `live/client_pack/` и `live/maps/`.
-
-## Сейчас в работе
-Серия детальных групп: **G1 Банк готов** → далее G2.  
-`live/client_pack/G1_BANK_GROUP_DETAIL.md`
+## Серия групп
+- G1 Банк — DONE  
+- **G2 ДДС/расходы/SALES — DONE** → `G2_DDS_OPEX_SALES_GROUP_DETAIL.md`  
+- G3 Продажи — следующий  
 
 Updated: 2026-07-28

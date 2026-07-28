@@ -1,0 +1,10 @@
+group,domain,category,file_name,years,entities,risk,lifecycle_status,source_file_id
+G2_DDS_OPEX_SALES,Финансы и денежные потоки,sales_general,SALES 2024-2026.xlsx,2024;2026,общий/не указан,Средний,Controlled source — проверить скрытые листы,SRC-FC6C0194884C
+G2_DDS_OPEX_SALES,Финансы и денежные потоки,budget,Бюджет 2-е полугодие 2025(1).xlsx,2025,общий/не указан,Низкий,Active source candidate,SRC-47B23059C048
+G2_DDS_OPEX_SALES,Финансы и денежные потоки,budget,Бюджет 2026.xlsx,2026,общий/не указан,Низкий,Active source candidate,SRC-7B59F03FC58C
+G2_DDS_OPEX_SALES,Финансы и денежные потоки,cashflow_dds,ДДС 2024.xlsx,2024,общий/не указан,Средний,Controlled working — устранить внешние ссылки,SRC-CC92902423D3
+G2_DDS_OPEX_SALES,Финансы и денежные потоки,cashflow_dds,ДДС 2025.xlsx,2025,общий/не указан,Низкий,Active source candidate,SRC-A4FF290ABA3F
+G2_DDS_OPEX_SALES,Финансы и денежные потоки,cashflow_dds,ДДС 2026.xlxs.xlsx,2026,общий/не указан,Средний,Controlled working — устранить внешние ссылки,SRC-EBE873A7CE95
+G2_DDS_OPEX_SALES,Финансы и денежные потоки,expenses,Расходы 2024.xlsx,2024,общий/не указан,Низкий,Active source candidate,SRC-2CAA0ACFD98B
+G2_DDS_OPEX_SALES,Финансы и денежные потоки,expenses,Расходы 2025.xlsx,2025,общий/не указан,Низкий,Active source candidate,SRC-9838A6CF583E
+G2_DDS_OPEX_SALES,Финансы и денежные потоки,expenses,Расходы 2026.xlsx,2026,общий/не указан,Низкий,Active source candidate,SRC-ED89CA0F5ABF

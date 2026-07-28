@@ -34,6 +34,7 @@
 | 22 | `22_DIAGNOSIS_DETAILED_EXPLAINER.md` | **Детальная расшифровка** 4 тезисов + арифметика −74% |
 | 23 | `23_GROUPS_TO_DATA_MAP_CONCLUSIONS.md` | **По группам:** лежит / посчитано / досчёт / карта / выводы |
 | G1 | `G1_BANK_GROUP_DETAIL.md` | **Детально группа Банк** + `group_G1_bank_files.csv` |
+| G2 | `G2_DDS_OPEX_SALES_GROUP_DETAIL.md` | **Детально ДДС/расходы/SALES** + `group_G2_*.csv` |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |
