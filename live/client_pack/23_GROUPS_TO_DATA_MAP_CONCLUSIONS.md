@@ -379,7 +379,8 @@ A9 Договоры/RACI              →      LEGAL / governance          owner
 |-----|--------|------|
 | **G1** | Банк | `G1_BANK_GROUP_DETAIL.md` (**готово**) |
 | **G2** | ДДС / расходы / SALES / бюджет | `G2_DDS_OPEX_SALES_GROUP_DETAIL.md` (**готово**) |
-| G3 | Продажи IM/B2B/ЦУМ | следующий |
+| **G3** | Продажи IM/B2B/ЦУМ | `G3_SALES_CHANNELS_GROUP_DETAIL.md` (**готово**) |
+| G4 | Себестоимость + МД | следующий |
 
 Обзор всех групп одним проходом: этот файл (§A).  
 Детализация — серия `G1`, `G2`, … на GitHub в `client_pack/`.

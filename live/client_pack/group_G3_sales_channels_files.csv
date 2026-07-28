@@ -1,0 +1,9 @@
+group,domain,category,file_name,years,entities,risk,lifecycle_status,source_file_id
+G3_SALES_CHANNELS,Продажи и каналы,sales_tsum,Продажи ЦУМ 2024.xlsx,2024,ЦУМ,Низкий,Active source candidate,SRC-CC75592DAF41
+G3_SALES_CHANNELS,Продажи и каналы,sales_tsum,Продажи ЦУМ 2025.xlsx,2025,ЦУМ,Низкий,Active source candidate,SRC-A2B1D2B1ED4E
+G3_SALES_CHANNELS,Продажи и каналы,sales_tsum,Продажи ЦУМ 2026.xlsx,2026,ЦУМ,Низкий,Active source candidate,SRC-463526E0FBB4
+G3_SALES_CHANNELS,Продажи и каналы,sales_b2b,Факт анализ продаж B2B 2025.xlsx,2025,B2B,Низкий,Active source candidate,SRC-758F1723B3D6
+G3_SALES_CHANNELS,Продажи и каналы,sales_b2b,Факт анализ продаж B2B 2026.xlsx,2026,B2B,Средний,Quarantine — исправить до использования,SRC-8CD1B3A3570F
+G3_SALES_CHANNELS,Продажи B2B,sales_b2b,Продажи B2B 2024-06.2026.xlsx,2024-2026,GROUP,Низкий,Active source candidate,SRC-72223003EB59
+G3_SALES_CHANNELS,Продажи ИМ,sales_im,Продажи ИМ 2024-06.2026.xlsx,2024-2026,GROUP,Низкий,Active source candidate,SRC-211EE1D5C5C3
+G3_SALES_CHANNELS,Продажи ЦУМ,sales_tsum,Продажи ЦУМ 2024-06.2026.xlsx,2024-2026,GROUP,Низкий,Active source candidate,SRC-A82BC039C07C
