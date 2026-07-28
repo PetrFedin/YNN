@@ -4,8 +4,8 @@
 https://github.com/PetrFedin/YNN · `main`
 
 ## Серия групп
-- G1–G5 — DONE  
-- **G6 Ткани/склады/закупки — DONE** → `G6_FABRICS_WAREHOUSES_PURCHASES_GROUP_DETAIL.md`  
-- G7 Персонал/ЗП — следующий  
+- G1–G6 — DONE  
+- **G7 Персонал/ЗП — DONE** → `G7_PAYROLL_GROUP_DETAIL.md`  
+- G8 Налоги PDF — следующий  
 
 Updated: 2026-07-28

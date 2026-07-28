@@ -39,6 +39,7 @@
 | G4 | `G4_COST_MD_GROUP_DETAIL.md` | **Детально себестоимость/МД** + `group_G4_*.csv` |
 | G5 | `G5_NOMENCLATURE_COLLECTIONS_GROUP_DETAIL.md` | **Детально номенклатура/коллекции** + `group_G5_*.csv` |
 | G6 | `G6_FABRICS_WAREHOUSES_PURCHASES_GROUP_DETAIL.md` | **Детально ткани/склады/закупки** + `group_G6_*.csv` |
+| G7 | `G7_PAYROLL_GROUP_DETAIL.md` | **Детально персонал/ЗП** + `group_G7_*.csv` |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |

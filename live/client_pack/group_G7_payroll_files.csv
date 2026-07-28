@@ -1,0 +1,26 @@
+group,domain,category,file_name,years,entities,risk,lifecycle_status,source_file_id
+G7_PAYROLL,Персонал и оплата труда,payroll_monthly,ЗП за апрель 2025.xlsx,2025,общий/не указан,Низкий,Active source candidate,SRC-BD6B213893F2
+G7_PAYROLL,Персонал и оплата труда,payroll_monthly,ЗП за апрель 2026.xlsx,2026,общий/не указан,Низкий,Active source candidate,SRC-A3D0BA92FB36
+G7_PAYROLL,Персонал и оплата труда,payroll_monthly,ЗП за июнь 2025.xlsx,2025,общий/не указан,Низкий,Active source candidate,SRC-FB5CFE41ED03
+G7_PAYROLL,Персонал и оплата труда,payroll_monthly,ЗП за май 2025.xlsx,2025,общий/не указан,Низкий,Active source candidate,SRC-5CDDA43EB163
+G7_PAYROLL,Персонал и оплата труда,payroll_monthly,ЗП за май 2026.xlsx,2026,общий/не указан,Низкий,Active source candidate,SRC-3DE974947BCA
+G7_PAYROLL,Персонал и оплата труда,payroll_monthly,ЗП за март 2025.xlsx,2025,общий/не указан,Низкий,Active source candidate,SRC-BBDDE3BD1FDF
+G7_PAYROLL,Персонал и оплата труда,payroll_monthly,ЗП за март 2026.xlsx,2026,общий/не указан,Низкий,Active source candidate,SRC-0BB9EE764409
+G7_PAYROLL,Персонал и оплата труда,payroll_monthly,ЗП за февраль 2025.xlsx,2025,общий/не указан,Низкий,Active source candidate,SRC-2FD7298151E1
+G7_PAYROLL,Персонал и оплата труда,payroll_monthly,ЗП за февраль 2026.xlsx,2026,общий/не указан,Критический,Quarantine — исправить до использования,SRC-CB8E8DD59181
+G7_PAYROLL,Персонал и оплата труда,payroll_monthly,ЗП за январь 2025.xlsx,2025,общий/не указан,Низкий,Active source candidate,SRC-9B9FB12C59E9
+G7_PAYROLL,Персонал и оплата труда,payroll_monthly,ЗП за январь 2026.xlsx,2026,общий/не указан,Критический,Quarantine — исправить до использования,SRC-B4ED2A1BE490
+G7_PAYROLL,Персонал и оплата труда,payroll_shop,ЗП_ЦЕХ 01.26.xlsx,01.2026,общий/не указан,Низкий,Active source candidate,SRC-BAF7BFF99489
+G7_PAYROLL,Персонал и оплата труда,payroll_shop,ЗП_ЦЕХ 02.26.xlsx,02.2026,общий/не указан,Низкий,Active source candidate,SRC-BD500A7BC88C
+G7_PAYROLL,Персонал и оплата труда,payroll_shop,ЗП_ЦЕХ 03.26.xlsx,03.2026,общий/не указан,Низкий,Active source candidate,SRC-DC5E6177775F
+G7_PAYROLL,Персонал и оплата труда,payroll_shop,ЗП_ЦЕХ 04.26.xlsx,04.2026,общий/не указан,Низкий,Active source candidate,SRC-400D80F1258C
+G7_PAYROLL,Персонал и оплата труда,payroll_shop,ЗП_ЦЕХ 05.26.xlsx,05.2026,общий/не указан,Низкий,Active source candidate,SRC-83E3DE587848
+G7_PAYROLL,Персонал и оплата труда,org,Орг. структура на 28.05.2026.pdf,2026,общий/не указан,Низкий,Active source candidate,SRC-6FF053438E32
+G7_PAYROLL,Персонал и оплата труда,hr_policy,Положение об оплате труда и премировании в ИП Янина.doc,Не определён из названия,ИП_Янина,Низкий,Active source candidate,SRC-270AEFF96E0F
+G7_PAYROLL,Персонал и оплата труда,hr_policy,Приложение 1 к положению.docx,Не определён из названия,общий/не указан,Низкий,Active source candidate,SRC-A594E1F3E73E
+G7_PAYROLL,Персонал и оплата труда,org,Штатка ИП.xlsx,Не определён из названия,общий/не указан,Низкий,Active source candidate,SRC-500393DD127F
+G7_PAYROLL,Персонал и оплата труда,payroll_designers,зп_конструкторы_01.26.xlsx,01.2026,общий/не указан,Низкий,Active source candidate,SRC-D0AA6A1A6383
+G7_PAYROLL,Персонал и оплата труда,payroll_designers,зп_конструкторы_02.26.xlsx,02.2026,общий/не указан,Низкий,Active source candidate,SRC-1D6289FEF8A4
+G7_PAYROLL,Персонал и оплата труда,payroll_designers,зп_конструкторы_03.26.xlsx,03.2026,общий/не указан,Низкий,Active source candidate,SRC-17CBBBF54CF2
+G7_PAYROLL,Персонал и оплата труда,payroll_designers,зп_конструкторы_04.26.xlsx,04.2026,общий/не указан,Низкий,Active source candidate,SRC-098D5B89E567
+G7_PAYROLL,Персонал и оплата труда,payroll_designers,зп_конструкторы_05.26.xlsx,05.2026,общий/не указан,Низкий,Active source candidate,SRC-D2207EE54FBE
