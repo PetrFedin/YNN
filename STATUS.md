@@ -3,13 +3,14 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Приоритет сейчас: H45 Quarantine ЗП янв–фев 2026
-Документ: `live/client_pack/32_PRIORITY_PAYROLL_QUARANTINE_H45.md`
+## Приоритет сейчас: H46 IM POS Accept
+Документ: `live/client_pack/33_PRIORITY_IM_POS_ACCEPT_H46.md`
 
 ### Ключевой find
-В `Распределение` **#REF!** на картах. Касса DDS↔bank **CLOSE**. Feb: dist=0, zp_where=Отчет В2В. Эталон — апрель 2026.
+Accept **доли** POS→IM: **2026-04 = 509k** + **2025-08 = 37k** → gate **20/30**.  
+4 overbanked — только реестры. Path: 18→20→24→30.
 
-### Owner
-Сливяк — fix файлов · Мамушкина — release quarantine после criteria.
+Лист: `live/marts/im_pos_yanina_signoff.csv`  
+Backlog: `live/marts/owner_execution_backlog_h46.csv`
 
 Updated: 2026-07-28

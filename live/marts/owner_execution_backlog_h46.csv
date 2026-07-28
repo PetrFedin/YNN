@@ -1,0 +1,9 @@
+rank,horizon,item,owner,impact,status
+1,H46/H39,IM POS soft slices 04.26+08.25,Сливяк/Мамушкина,Gate 18→20,WAITING_ACCEPT
+2,H46,IM overbank registers ×4,Сливяк,Gate →24,WAITING_FILES
+3,H43,RACI CONFIRM 10 FIO (start DOM-B2B),Янина,Unlock H42,WAITING_CONFIRM
+4,H42,B2B collect 2.51M top-3,Коптева,Cash 2.51M,BLOCKED_RACI
+5,H44,Alias Accept top-5 SKU,Коновалова,Margin quality,BLOCKED_RACI
+6,H45,Fix ZP Jan/Feb #REF!,Сливяк,Person payroll SoT,WAITING_FILE_FIX
+7,H40,BANK core−card + DDS June,Сливяк/Мамушкина,Gate →28,WAITING_POLICY_OR_FILE
+8,H41,TSUM Mercury cash May/Jun,Cash,Gate →30,WAITING_BANK_OR_TIMING

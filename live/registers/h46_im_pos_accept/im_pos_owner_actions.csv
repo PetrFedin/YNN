@@ -1,0 +1,5 @@
+rank,action_id,title,detail,unblocks,accept
+1,H46-A1,ACCEPT POS soft-slice 2026-04 (~509k),Кандидаты платежей в im_pos_slice_payments.csv; pool месяца ~4.1M,+1 gate,D-ACQ-POS-01
+2,H46-A2,ACCEPT POS soft-slice 2025-08 (~37k),Малый slice — один платёж ≥37k,+1 gate,D-ACQ-POS-01
+3,H46-A3,Запросить реестры OVERBANKED ×4,"2024-08, 2025-01, 2025-10, 2026-03 — НЕ лить POS",+4 gate,files
+4,H46-A4,Не auto-class POS→IM без Accept,Policy H23/H39 stands,risk control,policy

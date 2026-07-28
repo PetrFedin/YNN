@@ -1,0 +1,18 @@
+{
+  "horizon": "H46",
+  "title": "IM ACQ_POS Accept execution (payment-level slices)",
+  "created": "2026-07-28",
+  "underbanked": [
+    "2026-04",
+    "2025-08"
+  ],
+  "overbanked": [
+    "2024-08",
+    "2025-01",
+    "2025-10",
+    "2026-03"
+  ],
+  "path": "18→20 (slices)→24 (registers)→30 (H40+H41)",
+  "no_auto_accept": true,
+  "slice_payments_n": 2
+}

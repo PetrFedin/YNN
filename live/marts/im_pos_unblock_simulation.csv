@@ -1,0 +1,5 @@
+scenario,released,blocked,im_open,note
+S0_as_is,18,12,6,
+S1_accept_soft_2026_04_and_2025_08,20,10,4,quick wins POS slices
+S2_plus_4_overbank_registers,24,6,0,
+S3_plus_H40_H41,30,0,,BANK+TSUM path after IM
