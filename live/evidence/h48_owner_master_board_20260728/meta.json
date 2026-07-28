@@ -1,0 +1,20 @@
+{
+  "horizon": "H48",
+  "title": "Master Owner Execution Board",
+  "created": "2026-07-28",
+  "n_exec_items": 12,
+  "wave_a_parallel": [
+    "E01",
+    "E02",
+    "E03",
+    "E06",
+    "E11"
+  ],
+  "key_finding": "Stage-1 analysis complete; value is weekly execution of E01–E12, not new diagnostic layers",
+  "first_hour": [
+    "E01 RACI B2B",
+    "E02 POS slices",
+    "E03 RACI P0",
+    "E06 ZP REF"
+  ]
+}

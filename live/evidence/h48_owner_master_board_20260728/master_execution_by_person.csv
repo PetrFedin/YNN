@@ -1,0 +1,7 @@
+person,n_items,exec_ids,first_action_today,note
+Янина,5,E01; E03; E11; E12; E02(approver),E01,Параллель Wave A где parallel_ok=Y
+Сливяк Галина,5,E02; E06; E07; E08; E10,E02,Параллель Wave A где parallel_ok=Y
+Мамушкина Елена,4,E02(support); E06(release); E04(support); E08,E02(support),Параллель Wave A где parallel_ok=Y
+Коптева Марина,1,E04,E04,Параллель Wave A где parallel_ok=Y
+Коновалова Анна,1,E05,E05,Параллель Wave A где parallel_ok=Y
+Мокеева Анна,2,E09; E05(support),E09,Параллель Wave A где parallel_ok=Y

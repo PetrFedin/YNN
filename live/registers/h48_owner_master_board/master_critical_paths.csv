@@ -1,0 +1,5 @@
+path_id,sequence,result,owners,blocks_if_stuck
+GATE_30,E02 → E07 → E08 → E10,Release Gate 18→20→24→28→30,Сливяк / Мамушкина / Cash,Gate score
+CASH_B2B,E01 → E04,Collectability на 2.51M open,Янина → Коптева,Cash AR
+MARGIN_QUALITY,E03 → E05,Alias Accept top-5,Янина → Коновалова,COGS match
+MD_FORWARD,E03 → E09 (+ E12 policy),Unit-econ вперёд 2026; 2024-25 остаётся blocked,Янина → Мокеева,S2 narrative
