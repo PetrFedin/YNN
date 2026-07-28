@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-07-28 18:18",
+  "priority_block": "Release Gate — BANK_DDS_CORE",
+  "why": "After IM, bank/DDS is the next largest BLOCKED cluster",
+  "key_finding": "3 of 5 bank-fail months flip to PASS if gate uses core−card (card already inside core)",
+  "quick_wins": [
+    "Accept alt view / map card into DDS for 2024-01/06/12",
+    "Upload DDS June 2026",
+    "Reconcile 2026-02 DDS>bank 1.5M"
+  ],
+  "combined_with_H39_path_to": "27–28/30 before TSUM rate"
+}

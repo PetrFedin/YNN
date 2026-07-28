@@ -1,0 +1,5 @@
+priority,action_id,owner,what,unblocks,depends_on
+P0,H40-DDS-01,Сливяк,Догрузить ДДС 2026 с полным июнем (сейчас BN=0 → BANK_ONLY 5.55M). Opex уже сходится с банком CLOSE.,"2026-06 BANK_DDS_CORE (+ возможно упрощает TSUM месяц, если смотреть отдельно)",Файл ДДС 2026 обновлённый
+P0,H40-DDS-02,Сливяк / Янина (policy),"ACCEPT analytical view core−card для gate ИЛИ разнести VTB_CARD в ДДС. Снимает WIDE на 2024-01, 2024-06, 2024-12 (все flip→CLOSE/SOFT_GAP).",+3 RELEASED по BANK_DDS (2024-01 ещё TAX 36k — почти шум),OWNER ACCEPT policy alt-control или проводки карты в ДДС
+P0,H40-DDS-03,Сливяк,2026-02: ДДС на 1.50M больше банка — статья-за-статьёй (не карта). Opex overall CLOSE с банком через hub.,2026-02 BANK_DDS,Ручной разбор ДДС vs bank out
+P1,H40-TAX-01,Сливяк,2024-01 TAX_CASH_BANK GAP 36k — добить после bank (мелочь vs 0.8M bank gap),второй fail 2024-01,Классификация tax cash

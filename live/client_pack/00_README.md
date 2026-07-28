@@ -45,6 +45,7 @@
 | **24** | `24_DEEP_DOJIM_FULL_107_AND_OWNER_PACKS.md` | **H37:** полный scan 107 + tax HIGH + owner packs |
 | **25** | `25_CONTINUE_DOJIM_H38.md` | **H38:** IM×POS, bank/DDS gaps, FOT drivers, fabric ABC indicative |
 | **26** | `26_PRIORITY_GATE_IM_POS_H39.md` | **H39 приоритет:** Gate IM/POS — slice Accept → 20–24/30 |
+| **27** | `27_PRIORITY_GATE_BANK_DDS_H40.md` | **H40 приоритет:** Gate BANK↔DDS — card alt + ДДС июнь → 26–28/30 |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |

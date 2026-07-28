@@ -1,0 +1,8 @@
+scenario,released,blocked,note
+AS_IS,18,12,
+H39_all_6_IM,24,6,
+H39_IM_+_ex_card_policy,26,4,2024-06 & 2024-12 unlock; 2024-01 still TAX_CASH 36k
++fix_TAX_36k_2024-01,27,3,
++_2026_02_article_recon,28,2,
++_DDS_june_alone_without_TSUM,27,3,2026-06 stays BLOCKED while TSUM_NET OPEN
++_TSUM_rate_both,30,0,after prior steps
