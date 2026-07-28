@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-07-28 17:05",
+  "priority_block": "Release Gate — IM_ACQ_COMBO first",
+  "formula": "status_gap: CLOSE<=8% SOFT<=25% of max(sales,bank)",
+  "as_is": "18/30 RELEASED",
+  "quick_wins": [
+    "2026-04 POS slice",
+    "2025-08 POS slice tiny"
+  ],
+  "if_quick_wins": "20/30",
+  "if_all_im": "24/30",
+  "rows": [
+    {
+      "period_month": "2024-08",
+      "pattern": "OVERBANKED",
+      "recommended_path": "P0_NEED_ACQ_REGISTER_EXPLAIN_OVERBANK",
+      "pos_slice_to_soft_rub": 0,
+      "pos_candidate_month_rub": 462756.05,
+      "gate_unlock_potential": "NONE_VIA_POS"
+    },
+    {
+      "period_month": "2025-01",
+      "pattern": "OVERBANKED",
+      "recommended_path": "P0_NEED_ACQ_REGISTER_EXPLAIN_OVERBANK",
+      "pos_slice_to_soft_rub": 0,
+      "pos_candidate_month_rub": 0.0,
+      "gate_unlock_potential": "NONE_VIA_POS"
+    },
+    {
+      "period_month": "2025-08",
+      "pattern": "UNDERBANKED",
+      "recommended_path": "P0_ACCEPT_POS_SLICE_TO_SOFT",
+      "pos_slice_to_soft_rub": 37327.69,
+      "pos_candidate_month_rub": 366800.0,
+      "gate_unlock_potential": "HIGH"
+    },
+    {
+      "period_month": "2025-10",
+      "pattern": "OVERBANKED",
+      "recommended_path": "P0_NEED_ACQ_REGISTER_EXPLAIN_OVERBANK",
+      "pos_slice_to_soft_rub": 0,
+      "pos_candidate_month_rub": 3966620.0,
+      "gate_unlock_potential": "NONE_VIA_POS"
+    },
+    {
+      "period_month": "2026-03",
+      "pattern": "OVERBANKED",
+      "recommended_path": "P0_NEED_ACQ_REGISTER_EXPLAIN_OVERBANK",
+      "pos_slice_to_soft_rub": 0,
+      "pos_candidate_month_rub": 4549174.89,
+      "gate_unlock_potential": "NONE_VIA_POS"
+    },
+    {
+      "period_month": "2026-04",
+      "pattern": "UNDERBANKED",
+      "recommended_path": "P0_ACCEPT_POS_SLICE_TO_CLOSE",
+      "pos_slice_to_soft_rub": 509351.08,
+      "pos_candidate_month_rub": 4116399.15,
+      "gate_unlock_potential": "HIGH"
+    }
+  ]
+}

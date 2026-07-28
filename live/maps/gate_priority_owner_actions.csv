@@ -1,0 +1,6 @@
+priority,action_id,owner,what,unblocks,depends_on
+P0,H39-IM-01,Сливяк / Мамушкина / Янина (Approver cash),D-ACQ-POS-01 Accept: slice POS→IM за 2026-04 = 509351₽ до SOFT (или 1087185₽ до CLOSE). В кандидатах месяца 4116399₽.,2026-04 IM_ACQ_COMBO → +1 RELEASED (месяц сейчас single-fail BLOCKED),OWNER ACCEPT класса ACQ_POS (не auto-apply)
+P0,H39-IM-02,Сливяк,2025-08 UNDERBANKED: slice до SOFT всего 37328₽ при POS 366800₽ → Accept малого slice ИЛИ точечный реестр.,2025-08 → +1 RELEASED,ACCEPT малого POS slice или реестр
+P0,H39-IM-03,Сливяк,"OVERBANKED реестры ±1м: 2024-08 (+725k), 2025-01 (+421k), 2025-10 (+245k), 2026-03 (+264k). POS сюда НЕ лить.",до +4 RELEASED,Файлы возмещений ПОС IP+Декор
+P1,H39-GATE-02,Сливяк,BANK_DDS HIGH: 2024-12 WIDE +1.85M; 2026-02 WIDE −1.50M; 2026-06 BANK_ONLY +5.55M (догрузить ДДС июня),ещё +3–5 RELEASED после IM,Разбор / файл ДДС
+P2,H39-TSUM-01,Меркушина,A-TSUM-RATE-01 договорной % на 2026-05/06,+1–2 после IM/bank,Ставка договора

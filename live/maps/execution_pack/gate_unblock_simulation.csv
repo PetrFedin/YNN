@@ -1,0 +1,5 @@
+scenario,released,blocked,note
+AS_IS,18,12,gate 18/30
+IF_2026_04_AND_2025_08_POS_SLICE,20,10,оба underbanked закрываются малым/средним POS slice
+IF_ALL_6_IM_FIXED,24,6,+4 overbanked требуют реестры
+IF_IM_PLUS_BANK_DDS_HIGH,27–29,1–3,после IM + bank/DDS + optionally TSUM

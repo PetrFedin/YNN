@@ -3,14 +3,17 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## G1–G9 + H37 — DONE
-## H38 continue dojim — DONE
-- `25_CONTINUE_DOJIM_H38.md`
-- IM OPEN × POS hypothesis (2026-04 LIKELY if ACQ_POS Accept)
-- Bank↔DDS ranked gaps · FOT YoY drivers (+8.1M cash / +10.1M tax)
-- Fabric ABC indicative · collection join probe (weak)
+## Приоритет сейчас: H39 Gate IM/POS
+Документ: `live/client_pack/26_PRIORITY_GATE_IM_POS_H39.md`
 
-### Ждёт owners
-RACI OPEN · B2B collect · ACQ_POS · alias Accept · ЗП quarantine
+Quick wins (только ACCEPT slice, без новых файлов):
+- **2026-04** — POS slice ~509k₽ → SOFT (или ~1.09M → CLOSE)
+- **2025-08** — POS slice ~37k₽ → SOFT
+→ Gate **18 → 20/30**
+
+Полный clear 6 IM OPEN (+ реестры overbanked) → **24/30**
+
+### Дальше по приоритету
+BANK_DDS HIGH → TSUM rate 2026-05/06 → B2B collect / RACI OPEN
 
 Updated: 2026-07-28
