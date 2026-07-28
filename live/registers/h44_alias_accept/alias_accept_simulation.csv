@@ -1,0 +1,5 @@
+scenario,desc,pending_n,accepted_n,applied_n,rev_rub,note
+S0_now,16 PENDING; applied=N; 4 KEEP_H23,16,0,0,6466841.69,
+S1_accept_top5,ACCEPT топ-5,16,5,0,3037166.92,registry only
+S2_accept_all_pending,ACCEPT все 16,16,16,0,6466841.69,registry only
+S3_accept_and_apply,ACCEPT + apply-pass,16,16,16,6466841.69,Needs DOM-DATA; rewrites COGS

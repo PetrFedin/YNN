@@ -3,15 +3,13 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Приоритет сейчас: H43 RACI 10 OPEN FIO
-Документ: `live/client_pack/30_PRIORITY_RACI_ASSIGN_H43.md`
+## Приоритет сейчас: H44 Alias Accept
+Документ: `live/client_pack/31_PRIORITY_ALIAS_ACCEPT_H44.md`
 
 ### Ключевой find
-Кандидаты ФИО **уже есть в H27**; формальный H23 = **OPEN**. Нужен CONFIRM Яниной, не поиск людей.
+На review **16 PENDING** (не 20): 4 уже H23. Топ-5 ≈ **3.04M** выручки. Accept ≠ apply.
 
-### Max ROI
-1 подпись **DOM-B2B = Коптева** → разблокирует H42 collect **2.51M**.
-
-Лист: `live/marts/raci_yanina_signoff_sheet.csv`
+Лист: `live/marts/alias_konovalova_decision_sheet.csv`  
+Блокер: H43 CONFIRM DOM-PRODUCT (Коновалова).
 
 Updated: 2026-07-28

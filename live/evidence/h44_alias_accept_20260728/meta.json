@@ -1,0 +1,16 @@
+{
+  "horizon": "H44",
+  "n_pending_review": 16,
+  "n_skip_already_accepted": 4,
+  "top5_skus": [
+    "T-2750B",
+    "T-2750C",
+    "T-3187A",
+    "T-2973A",
+    "T-3069B"
+  ],
+  "top5_revenue_rub": 3037166.92,
+  "pending_revenue_rub": 6466841.69,
+  "key_finding": "16 PENDING mostly CATEGORY_MISMATCH; Accept≠apply",
+  "no_auto_accept": true
+}

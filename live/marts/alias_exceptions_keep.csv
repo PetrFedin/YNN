@@ -1,0 +1,5 @@
+canonical_sku,alias_status,registry_accept,note,action
+0-2493A,MARGIN_EXCEPTION_ACCEPTED,ACCEPT,Owner-accepted commercial loss exception,DO_NOT_REOPEN
+0-2496,MARGIN_EXCEPTION_ACCEPTED,ACCEPT,Owner-accepted commercial loss exception,DO_NOT_REOPEN
+0-2497,MARGIN_EXCEPTION_ACCEPTED,ACCEPT,Owner-accepted commercial loss exception,DO_NOT_REOPEN
+0-3243,QUARANTINE_ACCEPTED,ACCEPT,Owner-accepted quarantine,DO_NOT_REOPEN

@@ -1,0 +1,6 @@
+rank,action_id,title,detail,accept
+1,H44-A1,H43 CONFIRM DOM-PRODUCT (Коновалова),Без RACI decision sheet не SoT,RACI
+2,H44-A2,Review топ-5 P0,"T-2750B, T-2750C, T-3187A, T-2973A, T-3069B; rev≈3.04M",per-SKU
+3,H44-A3,Batch остальные 11 pending,SLA 10 дней,per-SKU
+4,H44-A4,После ACCEPT — отдельный apply-pass,Accept ≠ rewrite sales; нужен DOM-DATA,policy
+5,H44-A5,SKIP 4 already ACCEPTED,0-2493A/2496/2497 wholesale + 0-3243 quarantine,keep
