@@ -1,0 +1,8 @@
+category,lines_n,amount_rub,share_pct,cum_share_pct,dds_article_hypothesis,hypothesis_confidence,hypothesis_rule,so_t
+TRAVEL,7,1098682.0,50.2,50.2,Расходы по корп.карте,MED,travel/hotels → corp-card; alt представительские if exists in DDS,N
+OTHER,4,443829.12,20.3,70.4,Расходы по корп.карте,LOW,unclassified MCC → corp-card until owner splits,N
+MARKETPLACE,28,343439.99,15.7,86.1,реклама МД,HIGH,ozon/wb/marketplace spend → ads/MD promo class,N
+LOGISTICS_CUSTOMS,3,123340.0,5.6,91.8,доставка,MED,customs/logistics → delivery/logistics class,N
+OFFICE_SUPPLY,12,97044.65,4.4,96.2,Расходы по корп.карте,HIGH,komus/office → corp-card opex bucket,N
+TAXI_DELIVERY,31,48999.0,2.2,98.4,доставка,MED,taxi/delivery apps → delivery; confirm vs personal,N
+FOOD,4,34324.64,1.6,100.0,Расходы по корп.карте,MED,food/restaurant → corp-card / representation,N

@@ -73,3 +73,4 @@ CSV в этой папке: каталог документов, crosswalk пр�
 - `38_FABRIC_PROCUREMENT_CASH_MAP.md` (H67)
 - `39_MASTER_P0_BOARD_MAP.md` (H68)
 - `40_OVERBANK_HYPOTHESIS_MAP.md` (H69)
+- `41_CARD_DDS_E08_MAP.md` (H70)

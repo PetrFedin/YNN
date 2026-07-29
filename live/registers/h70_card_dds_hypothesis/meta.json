@@ -1,0 +1,18 @@
+{
+  "horizon": "H70",
+  "date": "2026-07-29",
+  "title": "Card→DDS hypotheses + E08 dual-path checklist",
+  "card_lines_n": 89,
+  "card_total_rub": 2189659.4,
+  "categories_n": 7,
+  "hyp_by_confidence": {
+    "HIGH": 40,
+    "LOW": 4,
+    "MED": 45
+  },
+  "path_a_recommended": "D-H58-BANK-01 core−card",
+  "gate_now": "18/30",
+  "gate_if_e02_e07_e08": "26/30",
+  "no_fake_accept": true,
+  "so_t": false
+}

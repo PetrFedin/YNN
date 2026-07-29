@@ -1,0 +1,5 @@
+step,path,action,effect,artifact,signer,recommended,check,signature,date,do_not_auto_accept,forbidden
+1,A_POLICY,Подписать D-H58-BANK-01: analytical core−card для gate BANK_DDS,2024-01 CLOSE; 2024-06/12 SOFT; +3 potential без построчного маппинга,06_bank_dds_policy_draft.csv,Янина + Сливяк,YES,☐,,,YES,FAKE_MAP_WITHOUT_EVIDENCE
+2,B_MAP,Если Path A = NO: подтвердить гипотезы dds_article по 89 card lines,Тот же gate через bookkeeping map,23_bank_card_dds_hypothesis_prefill.csv,Сливяк,ALT_IF_NO_TO_A,☐,,,YES,ACCEPT unverified article guesses as SoT
+3,FILE,UPLOAD DDS 2026 full June (D-H58-BANK-03),clears 2026-06 BANK_ONLY ~5.55M,01_bank_dds_work_orders.csv WO-BANK-DDS-JUNE,Сливяк,YES_FILE,☐,,,YES,IGNORE_AND_CLOSE_GATE
+4,TAX,Map TAX 36k 2024-01 (payment 56f8574ddc801765) to DDS tax article,2024-01 full CLOSE after core−card,09_tax_cash_gap_2024_01_prefill.csv,Сливяк,YES,☐,,,YES,CLOSE_TAX_WITHOUT_MAP
