@@ -1,9 +1,8 @@
 # STATUS
 
-## Сейчас: H87 бриф встречи с заказчиком (диагностика)
+## Сейчас: выводы на GitHub для выгрузки
 
-Документ: `live/client_pack/74_CLIENT_MEETING_BRIEF_H87.md`
+Главный текст: `live/client_pack/75_HUMAN_CONCLUSIONS_FOR_GITHUB.md`  
+Бриф встречи: `live/client_pack/74_CLIENT_MEETING_BRIEF_H87.md`
 
-Gate: **18/30** (фон). Updated: 2026-07-29
-
-Вход: `NOW.md`
+Updated: 2026-07-29 · вход: `NOW.md`

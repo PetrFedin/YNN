@@ -54,3 +54,4 @@
 - **H85**: tax filing completeness (Q2’26 gaps) — `live/client_pack/72_TAX_COMPLETENESS_H85.md`
 - **H86**: P0 exec refresh (digest/telegram) — `live/client_pack/73_P0_EXEC_REFRESH_H86.md`
 - **H87**: client meeting brief (have/missing + asks) — `live/client_pack/74_CLIENT_MEETING_BRIEF_H87.md`
+- **Human conclusions (RU)**: `live/client_pack/75_HUMAN_CONCLUSIONS_FOR_GITHUB.md`
