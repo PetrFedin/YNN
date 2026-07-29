@@ -1,6 +1,6 @@
 item,why,alt
-Новый «обзорный» forensic слой без файлов/подписей,ROI≈0; Stage1 data+packaging exhausted (H73–H82),sign session / intake files / 17_POST_SIGN_ACTIVATION
-Ещё один Hxx «делай дальше» без owners,не двигает gate 18/30; плодит twin-отчёты,отправить 18_TELEGRAM_BLAST + провести встречу; исключение P2: HR↔payroll или fabric aging только по явному выбору
-Авто-ACCEPT POS/alias/RACI/MD/TAX perimeter,ломает SoT,human confirm sheets 01/14 / 21_RACI_SIGNOFF_EVIDENCE_H82
+Новый «обзорный» forensic слой без файлов/подписей,ROI≈0; Stage1 data+packaging exhausted (H73–H83),sign session / intake files / 17_POST_SIGN_ACTIVATION
+Ещё один Hxx «делай дальше» без owners,не двигает gate 18/30; плодит twin-отчёты,отправить 18_TELEGRAM_BLAST + провести встречу; исключение P2: mat_movement↔fabric aging только по явному выбору
+Авто-ACCEPT POS/alias/RACI/MD/TAX/UNFORMAL perimeter,ломает SoT,human confirm + 21_RACI + 22_HR_UNFORMAL
 Единый company P&L как KPI сейчас,методологически запрещён Stage 1,dual contour FRAME1/2
-Повторно «углублять» G9 contracts текстом без bridge,уже закрыто H82 marts,использовать 21_* + 69_* на встрече
+Повторно парсить все ЗП без новой логики,уже w2+H83 bridge,чинить quarantine янв/фев Distribution

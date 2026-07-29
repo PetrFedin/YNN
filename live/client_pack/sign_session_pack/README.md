@@ -1,6 +1,6 @@
 # Sign session pack — README
 
-**Обновлено:** 2026-07-29 (H82) — + RACI signoff evidence 21_*.
+**Обновлено:** 2026-07-29 (H83) — + RACI signoff evidence 21_*.
 
 ## Порядок на встречу
 
@@ -19,7 +19,8 @@
 - После подписи: `17_POST_SIGN_ACTIVATION.csv`  
 - Async файлы: `12_GATE_TAIL_CHECKLIST.csv`  
 - Кто должен: `20_WAITING_ON_OWNERS.csv`
-- RACI evidence: `21_RACI_SIGNOFF_EVIDENCE_H82.csv` (10/10 YES)  
+- RACI evidence: `21_RACI_SIGNOFF_EVIDENCE_H82.csv` (10/10 YES)
+- HR UNFORMAL+paid: `22_HR_UNFORMAL_PAID_H83.csv` (async/P1)  
 
 ## Command center
 

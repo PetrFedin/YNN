@@ -18,3 +18,4 @@ print_order,file,role,when,required
 17,03_SLA_ESCALATION.csv,SLA/эскалации,ops,N
 18,16_MEETING_MINUTE_SCRIPT.csv,Поминутный скрипт,meet,N
 19,09_MASTER_P0_ACTION_BOARD.csv,Полный P0 board,ops,N
+20,22_HR_UNFORMAL_PAID_H83.csv,UNFORMAL+paid 2026 (H83) — async/P1,async,N

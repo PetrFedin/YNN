@@ -1,0 +1,6 @@
+policy_system,people_n,paid_2026_n,unformal_n,unformal_paid_n,gross_sum_2026_rub,align_n,mismatch_n,payroll_not_roster_n,linked_artifacts
+TIME_SALARY,44,43,11,10,49656371.51,25,1,17,ЗП monthly!окладники + RACI ФОТ Сливяк
+SALARY_BONUS,44,44,18,18,19511908.31,31,0,7,вышивальщицы + зп_конструкторы (H73) + Прил.1 частично
+PIECE_BONUS,22,21,8,7,9659059.68,13,5,3,ЗП_ЦЕХ portn (H74) + Приложение 1 расценки
+UNKNOWN,1,1,1,1,0.0,0,0,0,уточнить роль в штатке/Положении
+MIXED,0,0,0,0,0,0,0,0,несколько групп выплат

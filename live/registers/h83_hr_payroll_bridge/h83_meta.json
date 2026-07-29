@@ -1,0 +1,35 @@
+{
+  "hypothesis": "H83",
+  "title": "hr_policy_shtatka_payroll_bridge",
+  "do_not_auto_accept": true,
+  "not_sot": true,
+  "gate": "18/30",
+  "sources": {
+    "policy": "Положение об оплате труда и премировании в ИП Янина.doc",
+    "appendix": "Приложение 1 к положению.docx",
+    "shtatka": "Штатка ИП.xlsx (via H82)",
+    "payroll_lines": "w2_payroll/payroll_lines.csv",
+    "designers": "designer_kpi_monthly.csv (H73)",
+    "shop": "shop_pay_totals.csv (H74)"
+  },
+  "risk_counts": {
+    "OK_FORMAL_PAID": 44,
+    "MED_POLICY_MISMATCH": 2,
+    "HIGH_UNFORMAL_PAID": 36,
+    "MED_UNFORMAL_NO_PAY": 2,
+    "MED_PAY_WITHOUT_SHTATKA": 27
+  },
+  "summary": {
+    "shtatka_people": 84,
+    "shtatka_unformal": 38,
+    "unformal_paid_2026": 36,
+    "unformal_paid_gross_2026_rub": 11555750.89,
+    "payroll_people_2026": 109,
+    "payroll_not_in_shtatka": 27,
+    "shtatka_not_paid_2026": 2,
+    "policy_mismatch": 6,
+    "payroll_lines_2026": 479
+  },
+  "month_quality_note": "jan/feb 2026 quarantine (#REF!) — person totals indicative",
+  "policy_excerpt_chars": 2500
+}

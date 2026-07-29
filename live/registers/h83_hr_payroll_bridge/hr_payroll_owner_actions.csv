@@ -1,0 +1,6 @@
+priority,action_id,what,who,evidence,why,gate_delta
+P1,H83-A1,Разбор UNFORMAL+paid 2026: 36 чел / ~11.56M ₽,Сливяк + Мамушкина,hr_unformal_paid_2026.csv,compliance + корректность ФОТ/6-НДФЛ контура,0 (не score; риск Stage1)
+P1,H83-A2,Закрыть бланки Положения: наставничество / совмещение / командировки,Янина + Сливяк,hr_policy_open_items.csv,локальный акт неполный → споры при Wave B HR,0
+P1,H83-A3,"Сверить payroll-only vs штатка (нет в roster, есть выплаты)",Сливяк,hr_people_bridge.csv risk=MED_PAY_WITHOUT_SHTATKA,roster drift; мешает RACI/owner checks,0
+P2,H83-A4,Не снимать quarantine янв/фев 2026 ЗП (#REF!) до фикса Distribution,Сливяк,payroll_quarantine_p0_jan_feb.csv,lines_vs_dds WIDE_GAP; person-level не SoT,0
+P2,H83-A5,Сдельные: Прил.1 ↔ ЗП_ЦЕХ (H74) — выборочный контроль топ портных,Мокеева,hr_policy_stream_rollup.csv PIECE_BONUS,policy↔факт для цеха,0

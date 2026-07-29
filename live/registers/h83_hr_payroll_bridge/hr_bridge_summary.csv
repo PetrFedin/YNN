@@ -1,0 +1,10 @@
+metric,value,note
+shtatka_people,84,H82 roster
+shtatka_unformal,38,employment flag
+unformal_paid_2026,36,HIGH risk
+unformal_paid_gross_2026_rub,11555750.89,indicative sum across streams
+payroll_people_2026,109,monthly+designers+shop keys
+payroll_not_in_shtatka,27,roster gap
+shtatka_not_paid_2026,2,may be left / unpaid / other LE
+policy_mismatch,6,expected system vs pay group
+payroll_lines_2026,479,w2 monthly sheets only

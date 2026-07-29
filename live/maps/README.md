@@ -86,3 +86,4 @@ CSV в этой папке: каталог документов, crosswalk пр�
 - `51_POST_SIGN_ACTIVATION_MAP.md` (H80)
 - `52_WAITING_OWNERS_CHECKPOINT_MAP.md` (H81)
 - `53_CONTRACTS_RACI_SHTATKA_MAP.md` (H82)
+- `54_HR_PAYROLL_BRIDGE_MAP.md` (H83)
