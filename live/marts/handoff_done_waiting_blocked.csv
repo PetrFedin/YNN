@@ -1,10 +1,11 @@
 bucket,item,ref
-DONE,H52–H56 packs (maps/WO/WaveB/enable/NOW),39–43
-DONE,H57 overbank+MD prefill,44
-DONE,H58 BANK card+B2B+dekor fix,45
-DONE,H59 alias/TSUM missing/ZP/soft-slice,46
-DONE,H60 board sync + TAX36k + unified gate path,47
+DONE,H52–H60 packs (enable/NOW/TAX36k/gate path),39–47
+DONE,H61–H67 source freeze / collections / fabric / person-cost,48–54
+DONE,H68–H72 master P0 + overbank + card/DDS + gate tail + sign sync,55–59
+DONE,H73–H75 designers/цех/stock sell-through bridges,60–62
+DONE,H76 tax SOFT=Salon UFK perimeter + H77 SALES↔budget sanity,63–64
+DONE,H78 P0 gate sync (today/path/simulation),65
 WAITING,Owner signatures / file fills / calls,NOW.md + sign_session_pack
-WAITING,Mercury May cash / DDS June file,wave_c 07 + checklist
+WAITING,Mercury May cash / DDS June / Feb dump,wave_c 26–27 + checklist
 BLOCKED,MD unit-econ 2024–25,E12 constraint
 BLOCKED,Audited company P&L,Stage 2+

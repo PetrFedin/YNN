@@ -55,7 +55,8 @@ Marts (семейства): margin 10 · md 10 · recon 9 · settle 5 · bank 4 
 - Банк **4933**; Salon Sber **510/510**  
 - Goods margin / dual TSUM **37.9 / 87.9**; commission proxy ~61M/30м  
 - B2B open **2.51M** / 15  
-- Gate **18/30**; controls payroll/opex 100%, tax cash ~97%  
+- Gate **18/30**; controls payroll/opex 100%, tax cash **READY_FOR_SIGN** (H76 Salon UFK)
+- H73–H78 data/P0 packaging closed — see `65_P0_GATE_SYNC_H78.md`  
 - POS-like в OTHER_IN **62.3M** (только ИП); invoice↔МД surname ~**15.6M**  
 - ФОТ classified **+18.2M YoY (+93%)**  
 - Ткани end **~28.6M** (money-trusted)

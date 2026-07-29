@@ -1,10 +1,10 @@
-# Пакет на подпись — 15–20 минут (H72 sync · H76 TAX perimeter)
+# Пакет на подпись — 15–20 минут (H78 sync · H76 TAX perimeter)
 
 **Дата пакета:** 2026-07-29  
 **Цель:** один документ на встречу → сдвиг gate **18→30**.  
 **Это черновик рекомендаций, не авто-Accept в SoT.**
 
-Карта пути: [`13_GATE_CRITICAL_PATH.csv`](13_GATE_CRITICAL_PATH.csv) · хвост: [`12_GATE_TAIL_CHECKLIST.csv`](12_GATE_TAIL_CHECKLIST.csv)
+Карта пути: [`13_GATE_CRITICAL_PATH.csv`](13_GATE_CRITICAL_PATH.csv) · хвост: [`12_GATE_TAIL_CHECKLIST.csv`](12_GATE_TAIL_CHECKLIST.csv) · симуляция: [`15_GATE_UNLOCK_SIMULATION_H78.csv`](15_GATE_UNLOCK_SIMULATION_H78.csv)
 
 ---
 

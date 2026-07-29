@@ -1,0 +1,12 @@
+{
+  "horizon": "H78",
+  "date": "2026-07-29",
+  "title": "P0 gate sync after H73–H77 — today/path/simulation/coverage",
+  "gate_now": "18/30",
+  "gate_if_full_path": "30/30",
+  "p0_actions_n": 7,
+  "data_ops_closed": "H73-H77",
+  "no_fake_accept": true,
+  "so_t": false,
+  "note": "Packaging only — owners/files move the score"
+}

@@ -1,0 +1,9 @@
+scenario,gate_score,delta,requires,note,so_t
+AS_IS,18/30,0,—,Current,N
+E02_SIGNED,20/30,+2,07_E02 soft-slice signs,"Soft only, not full POS",N
+E02_E07,24/30,+4,overbank hypothesis confirms,Wave A prefill,N
+E02_E07_E08,26/30,+2,E08 Path A preferred,core−card policy,N
+PLUS_TAX_PERIMETER,27/30,+1,14_TAX_SOFT + 11_TAX_36K,Salon UFK in TAX_CASH_BANK,N
+PLUS_FEB_FILE,28/30,+1,Feb DDS article dump,No FORCE_CLOSE,N
+PLUS_MERCURY,29/30,+1,Mercury May + July bank,Intake WO,N
+PLUS_JUNE_DDS,30/30,+1,DDS 2026 full June,Stage1 gate closed,N
