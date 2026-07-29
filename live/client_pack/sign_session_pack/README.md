@@ -1,6 +1,6 @@
 # Sign session pack — README
 
-**Обновлено:** 2026-07-29 (H81) — waiting-on-owners checkpoint.
+**Обновлено:** 2026-07-29 (H82) — + RACI signoff evidence 21_*.
 
 ## Порядок на встречу
 
@@ -18,8 +18,9 @@
 - До: `18_TELEGRAM_BLAST_READY.csv`  
 - После подписи: `17_POST_SIGN_ACTIVATION.csv`  
 - Async файлы: `12_GATE_TAIL_CHECKLIST.csv`  
-- Кто должен: `20_WAITING_ON_OWNERS.csv`  
+- Кто должен: `20_WAITING_ON_OWNERS.csv`
+- RACI evidence: `21_RACI_SIGNOFF_EVIDENCE_H82.csv` (10/10 YES)  
 
 ## Command center
 
-[`../../../NOW.md`](../../../NOW.md) · статус analytics: **EXHAUSTED_PENDING_OWNERS** (H81)
+[`../../../NOW.md`](../../../NOW.md) · статус analytics: **P0 owners** · H82 meeting ammo ready

@@ -1,0 +1,11 @@
+domain_raw,raci_domain,block_text,people_n,people,in_shtatka_n,unformal_n,vacancy,gap,h23_formal_status,h23_owner,h27_candidate,owner_action,do_not_auto_accept
+CASH_CASHLESS,CASH,Финансы и платежи,2,Мамушкина Елена | Сливяк Галина,2,0,,,ACCEPTED,Мамушкина Елена,Мамушкина Елена,KEEP_ACCEPTED,YES
+ACCOUNTING_TAX_1C,TAX,"Бухгалтерия и налоги, 1С, подготовка выгрузок",1,Сливяк Галина,1,0,,,ACCEPTED,Сливяк Галина,Сливяк Галина,KEEP_ACCEPTED,YES
+PAYROLL_FOT,PAYROLL,ФОТ,5,Богдашкина Евгения | Мокеева Анна | Жукова Анна | Сливяк Галина | Мамушкина Елена,5,0,,,ACCEPTED,Сливяк Галина,Сливяк Галина,KEEP_ACCEPTED,YES
+PROCUREMENT,COST,Закупки,3,Дендерина Ирина | Меркушина Татьяна | Богдашкина Евгения,3,0,,,OPEN_NEEDS_OWNER,,Мокеева Анна,SIGN_CANDIDATE_ON_YANINA_SHEET,YES
+WAREHOUSE_MATERIALS,PRODUCT,Склад и материалы,2,Дендерина Ирина | Коновалова Анна,2,0,Кладовщик,,OPEN_NEEDS_OWNER,,Коновалова Анна,SIGN_CANDIDATE_ON_YANINA_SHEET,YES
+PRODUCTION_MD,PRODUCTION,Производство Модный дом,3,Богдашкина Евгения | Мокеева Анна | Шалагинова Татьяна,3,0,,,OPEN_NEEDS_OWNER,,Мокеева Анна,SIGN_CANDIDATE_ON_YANINA_SHEET,YES
+CHANNELS_IM,PRODUCT,Площадки/ИМ,2,Меркушина Татьяна | Жукова Анна,2,0,,,OPEN_NEEDS_OWNER,,Коновалова Анна,SIGN_CANDIDATE_ON_YANINA_SHEET,YES
+COGS_COSTING,COST,Себестоимость,4,Богдашкина Евгения | Мокеева Анна | Меркушина Татьяна | Жукова Анна,4,0,,,OPEN_NEEDS_OWNER,,Мокеева Анна,SIGN_CANDIDATE_ON_YANINA_SHEET,YES
+B2B,B2B,B2B,1,Коптева Марина,1,0,,менеджера нет,OPEN_NEEDS_OWNER,,Коптева Марина,SIGN_CANDIDATE_ON_YANINA_SHEET,YES
+B2C,,B2C,1,Лимачева Инна,1,0,,,NO_FORMAL_DOMAIN,,,MAP_ONLY,YES

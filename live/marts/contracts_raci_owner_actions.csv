@@ -1,0 +1,6 @@
+priority,action_id,what,who,evidence,unlocks,gate_delta
+P0,H82-A1,На встрече: OPEN Product/Cost/Prod/B2B по signoff + finance doc evidence,Янина,h82_signoff_evidence.csv + 01_SIGN_CHECKBOXES,RACI completeness → Wave B owners,"косвенно (исполнение), score только после human sign"
+P0,H82-A2,Зафиксировать scope: Stage1 ≠ внедрение UE/регламентов (договор),Янина + Петр,h82_contract_perimeter.csv,нет расползания ожиданий на встрече,0 (governance)
+P1,H82-A3,Закрыть vacancy «Кладовщик» или Accept временного R: Дендерина+Коновалова,Мамушкина / Коптева,domain WAREHOUSE_MATERIALS,G6/WC stewardship яснее,0
+P1,H82-A4,"B2B: либо назначить менеджера, либо Accept «контроль = Коптева» как Owner DOM-B2B",Янина,domain B2B gap=менеджера нет,E01 call-script execution owner,0 напрямую; разблокирует Wave B B2B
+P2,H82-A5,Разбор UNFORMAL в штатке (38 чел) — приоритет hit RACI,Сливяк + Мамушкина,h82_shtatka_coverage.csv priority HIGH,HR↔payroll контур (следующий P2),0

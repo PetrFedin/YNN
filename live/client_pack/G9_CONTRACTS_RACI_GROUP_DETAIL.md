@@ -1,9 +1,9 @@
 # G9 — Группа «Договоры / проект / RACI»
 
-Updated: 2026-07-28  
+Updated: 2026-07-29 (H82 bridge)  
 Серия: …G8 → **G9** (финал серии групп)  
-Файлов: **4**  
-CSV: `group_G9_contracts_raci_files.csv`  
+Файлов: **4** (+ штатка как roster evidence в H82)  
+CSV: `group_G9_contracts_raci_files.csv` · bridge: `69_CONTRACTS_RACI_SHTATKA_H82.md`  
 Статус: governance · задаёт **границы этапа и owners**, не финансовый SoT
 
 ---

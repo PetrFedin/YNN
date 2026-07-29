@@ -1,9 +1,6 @@
 item,why,alt
-Новый «обзорный» forensic слой без файлов/подписей,ROI≈0; Stage1 data+packaging exhausted (H73–H80),sign session / intake files / 17_POST_SIGN_ACTIVATION
-Ещё один Hxx «делай дальше» без owners,не двигает gate 18/30; плодит twin-отчёты,отправить 18_TELEGRAM_BLAST + провести встречу
-Авто-ACCEPT POS/alias/RACI/MD/TAX perimeter,ломает SoT,human confirm sheets 01/14
+Новый «обзорный» forensic слой без файлов/подписей,ROI≈0; Stage1 data+packaging exhausted (H73–H82),sign session / intake files / 17_POST_SIGN_ACTIVATION
+Ещё один Hxx «делай дальше» без owners,не двигает gate 18/30; плодит twin-отчёты,отправить 18_TELEGRAM_BLAST + провести встречу; исключение P2: HR↔payroll или fabric aging только по явному выбору
+Авто-ACCEPT POS/alias/RACI/MD/TAX perimeter,ломает SoT,human confirm sheets 01/14 / 21_RACI_SIGNOFF_EVIDENCE_H82
 Единый company P&L как KPI сейчас,методологически запрещён Stage 1,dual contour FRAME1/2
-Unit-econ МД 2024–25 в обещаниях,cost fill 0%,E12 + pilot 2026
-Лить весь POS в IM / POS в OVERBANK,gate regress,soft-slice / register WO
-BPMN to-be / live BI сейчас,Stage 3,stage2_entry_criteria
-Новые bridges без новых документов,107/107 уже связаны H61–H77,ждать DDS June / Mercury / Feb dump
+Повторно «углублять» G9 contracts текстом без bridge,уже закрыто H82 marts,использовать 21_* + 69_* на встрече
