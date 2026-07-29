@@ -79,7 +79,10 @@ Marts (семейства): margin 10 · md 10 · recon 9 · settle 5 · bank 4 
 | Ops close calendar | **DONE (map)** | H52 `ops_close_calendar` | ☐ done_flag owners | исполнение Wave A |
 | Unlock / intake | **DONE (ops)** | H53 dependency + file_intake | подписи/файлы | U09→U01–U05 |
 | MD payment queue | **PARTIAL+** | H53 queue+rules поверх surname 40% | line-by-line match | D-MD-INV-01 |
-| B2B settle | **PARTIAL** | open list 2.51M | Collect | D-B2B-01 |
+| B2B settle | **PARTIAL+** | open 2.51M; **H54 Wave B call pack топ-3** | Collect после E01 | D-B2B-01 |
+| Alias Accept | **PARTIAL+** | H44 sheet; **H54 top-5 в Wave B** | ACCEPT/REJECT Коновалова | D-ALIAS-01 |
+| BANK↔DDS | **PARTIAL+** | H40 matrix; **H54 3 WO** | DDS June + policy | D-BANK-DDS |
+| Gate path | **MAPPED** | **H54 ladder 18→30** | исполнение E02/E07/E08/E10 | owners |
 | OTHER_IN / POS | **PARTIAL** | 62.3M измерено | ACCEPT ACQ_POS | D-ACQ-POS-01 |
 | Invoice↔МД | **PARTIAL** | 40% surname MED | Платёж↔платёж | D-MD-INV-01 |
 | Payroll totals | **PARTIAL** | multi CLOSE | 19 NO_LINES; split | D-PAY-LINES-01 |

@@ -1,0 +1,23 @@
+{
+  "horizon": "H54",
+  "date": "2026-07-29",
+  "title": "Wave B ready pack + gate ladder + person cards",
+  "no_fake_accept": true,
+  "depends": [
+    "H51 draft",
+    "H52 maps",
+    "H53 overbank WO"
+  ],
+  "artifacts": [
+    "file_intake_priority_v2.csv",
+    "gate_score_ladder.csv",
+    "person_action_cards.csv",
+    "wave_b_alias_top5.csv",
+    "wave_b_b2b_call_top3.csv",
+    "wave_b_b2b_docs_top3.csv",
+    "wave_b_bank_dds_work_orders.csv",
+    "wave_b_checklist.csv",
+    "wave_b_md_salon_cost_wo.csv",
+    "wave_b_tsum_wait_calendar.csv"
+  ]
+}

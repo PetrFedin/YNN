@@ -1,0 +1,11 @@
+rank,ask,type,files,unlocks,owner,wave
+1,Подпись H51 draft (15 мин),DECISION,draft_recommended_decisions.csv,U09→Wave A+B,Янина,A
+2,Accept soft-slices IM POS,DECISION,im_pos_slice_payments.csv,gate 18→20,Сливяк/Мамушкина,A
+3,B2B звонки топ-3,CALL,wave_b_b2b_call_top3.csv,cash ~2.07M focus,Коптева,B
+4,Реестр overbank 2024-08,FILE,acq_register_IP_Dekor_2024-08.xlsx,IM surplus explain,Сливяк,B
+5,Alias топ-5,DECISION,wave_b_alias_top5.csv,margin quality,Коновалова,B
+6,DDS 2026 полный июнь,FILE,ДДС_2026_июнь.xlsx,BANK 2026-06,Сливяк,C
+7,ЗП янв–фев без #REF!,FILE,Распределение/Карты,payroll person SoT,Сливяк,A
+8,26 salon cost,DATA_ENTRY,wave_b_md_salon_cost_wo.csv,pilot GM,Мокеева,B
+9,core−card policy CONFIRM,DECISION,WO-BANK-CARD-POLICY,gate BANK +3,Янина,C
+10,TSUM Mercury refresh,BANK_WAIT,wave_b_tsum_wait_calendar.csv,gate 28→30,Сливяк,C

@@ -1,0 +1,7 @@
+person,minutes,wave,actions,artifact,blocks_if_skip
+Янина,15,A,1) E01 DOM-B2B CONFIRM Коптева 2) E03 PRODUCT/COST/DATA 3) E12+FRAME dual contour 4) Approver soft-slice,draft_recommended_decisions.csv,весь Wave B + gate soft-slice
+Сливяк,30,A+B,1) Soft-slice Accept prep 2) Overbank WO 2024-08 file 3) ZP #REF! fix date 4) DDS June ask,im_pos_slice + overbank WO + zp checklist,gate +2 and IM overbank
+Мамушкина,20,A,1) Approver soft-slice 2) Release ZP after fix 3) Support B2B/BANK,im_pos_yanina_signoff + payroll release,Accept не финализируется
+Коптева,60,B,После E01: 3 звонка Бекеева/Нурова/Чухонцева по script,wave_b_b2b_call_top3.csv,2.07M collect idle
+Коновалова,45,B,После E03: ACCEPT/REJECT топ-5 alias SKU,wave_b_alias_top5.csv,~3.04M rev margin quality
+Мокеева,90,B,После E03 (или draft): заполнить 26 salon cost lines,wave_b_md_salon_cost_wo.csv,salon pilot GM <80%

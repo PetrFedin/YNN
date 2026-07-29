@@ -1,0 +1,6 @@
+score_from,score_to,unlock,months,wave,impact
+18,20,E02 soft-slice Accept,IM 2025-08 + 2026-04,A,HIGH
+20,24,E07 overbank registers OR remaining IM path,IM 4 OVERBANK explain,B,HIGH
+24,28,E08 BANK DDS June + card policy,BANK 2024-01/06/12 + 2026-06,C,HIGH
+28,30,E10 TSUM Mercury OR TIMING policy,TSUM 2026-05/06,C,MED
+18,18,без подписей/файлов,—,—,NONE — score stuck

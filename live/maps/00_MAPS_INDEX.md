@@ -28,7 +28,10 @@ Updated: 2026-07-29
 | **20** | **Unlock dependency** | `20_UNLOCK_DEPENDENCY.md` | **H53:** что разблокирует gate/cash |
 | **21** | **IM overbank WO** | `21_IM_OVERBANK_WORK_ORDERS.md` | **H53:** 4 реестра + шаблон |
 | **22** | **MD invoice payment queue** | `22_MD_INVOICE_PAYMENT_QUEUE.md` | **H53:** payment-level поверх surname |
-| EXEC | Пакет исполнения | `execution_pack/` + `../client_pack/execution_wave_a/` | Решения owners |
+| **23** | **Wave B ready** | `23_WAVE_B_READY.md` | **H54:** B2B/alias/cost/BANK/TSUM pack |
+| **24** | **Gate score ladder** | `24_GATE_SCORE_LADDER.md` | **H54:** 18→20→24→28→30 |
+| **25** | **Person action cards** | `25_PERSON_ACTION_CARDS.md` | **H54:** что делать сегодня по ФИО |
+| EXEC | Пакет исполнения | `execution_pack/` + `execution_wave_a/` + `execution_wave_b/` | Решения owners |
 | JSON | Снимки слоёв | `deep_synthesis_snapshot.json`, `depth_layer2_*.json` … | Воспроизводимость |
 | CSV | Машиночитаемые срезы | `*.csv` в этой папке | + H52 gap maps |
 

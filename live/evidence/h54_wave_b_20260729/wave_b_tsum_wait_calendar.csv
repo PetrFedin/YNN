@@ -1,0 +1,3 @@
+period_month,sales_rub,expected_net_median_rub,pay_window,status_now,action,owner,draft_policy,gate_control
+2026-05,5530000,2580000,~2026-06-20..30,NO_MERCURY_IN_BANK_TO_2026-06-30,REFRESH_BANK + WAIT_OR_ESCALATE,Сливяк,TIMING_LAG if age<45d (D-TSUM-TIMING-01 draft only),TSUM_NET_MODEL
+2026-06,3800000,1770000,~2026-07-20..30,WINDOW_NOT_YET / OPEN,WAIT_JULY_STATEMENT,Сливяк,TIMING_LAG if age<45d,TSUM_NET_MODEL

@@ -1,0 +1,9 @@
+step,wave,who,what,unlocks,status,done_when,check
+E01,A→B,Янина,CONFIRM DOM-B2B Коптева,E04,WAITING,подпись H51 E01,☐
+E04,B,Коптева,Обзвонить топ-3 B2B (2.07M),cash AR,BLOCKED_RACI,3 звонка + ответы/эскалация,☐
+E03,A→B,Янина,CONFIRM PRODUCT/COST/DATA,E05+E09,WAITING,подпись H51 E03,☐
+E05,B,Коновалова,Alias Accept топ-5 SKU (~3.04M rev),margin quality,BLOCKED_RACI,ACCEPT/REJECT по 5 SKU,☐
+E09,B,Мокеева,26 salon cost 2026 (~178k revenue lines),pilot GM salon,BLOCKED_RACI,cost fill ≥80% salon 2026,☐
+E07,B,Сливяк,4× overbank реестра (H53 WO),IM OVERBANK explain,WAITING_FILE,4 файла + allocation,☐
+E08,C,Сливяк/Янина,BANK↔DDS: DDS June + core−card policy,gate +3 BANK,WAITING,файл июня + draft policy confirm,☐
+E10,C,Сливяк,TSUM Mercury май/июнь платежи,gate TSUM 2,WAITING_BANK,платежи в выписке или TIMING policy,☐

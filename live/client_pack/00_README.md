@@ -59,6 +59,7 @@
 | **38** | `38_DRAFT_DECISIONS_H51.md` | **H51:** черновик решений Wave A на подпись (не Accept) |
 | **39** | `39_GAP_MAPS_H52.md` | **H52:** недостающие карты — calendar / IM acq / MD cost to-be / RACI |
 | **40** | `40_PRIORITY_OPS_H53.md` | **H53:** WO overbank + очередь MD↔invoice + граф unlock |
+| **41** | `41_WAVE_B_READY_H54.md` | **H54:** Wave B pack — B2B/alias/cost/BANK/TSUM + ladder |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |
