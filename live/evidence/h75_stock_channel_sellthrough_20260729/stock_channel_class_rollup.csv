@@ -1,0 +1,4 @@
+class,skus_n,stock_qty_end_sum,sales_qty_sum,sales_revenue_rub_sum,so_t
+SALES_NO_STOCK,322,0.0,951.0,87523958.12,N
+STOCK_NO_SALES,226,388.0,0.0,0.0,N
+STOCK_AND_SALES,214,579.0,1508.0,105803980.54,N

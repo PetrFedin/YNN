@@ -41,3 +41,4 @@
 - **H72**: sign pack sync to gate path — `live/client_pack/59_SIGN_PACK_SYNC_H72.md`
 - **H73**: designers KPI/smetka ↔ collections/person-cost — `live/client_pack/60_DESIGNERS_COLLECTION_BRIDGE_H73.md`
 - **H74**: цех ЗП ↔ collections/person-cost/warehouses — `live/client_pack/61_SHOP_WAREHOUSE_BRIDGE_H74.md`
+- **H75**: stock end-qty ↔ IM/TSUM sell-through — `live/client_pack/62_STOCK_CHANNEL_SELLTHROUGH_H75.md`

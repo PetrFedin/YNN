@@ -78,3 +78,4 @@ CSV в этой папке: каталог документов, crosswalk пр�
 - `43_SIGN_PACK_SYNC_MAP.md` (H72)
 - `44_DESIGNERS_COLLECTION_BRIDGE_MAP.md` (H73)
 - `45_SHOP_WAREHOUSE_BRIDGE_MAP.md` (H74)
+- `46_STOCK_CHANNEL_SELLTHROUGH_MAP.md` (H75)

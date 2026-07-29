@@ -19,3 +19,4 @@ H54: `../41_WAVE_B_READY_H54.md`
 - `26–30_*` fabric/procurement cash (H67)
 - `34–37_*` designers KPI/smetka ↔ collections (H73)
 - `38–42_*` цех ↔ collections/stock warehouses (H74)
+- `43–46_*` stock ↔ IM/TSUM sell-through (H75)

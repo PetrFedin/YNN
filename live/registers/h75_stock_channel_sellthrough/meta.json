@@ -1,0 +1,18 @@
+{
+  "horizon": "H75",
+  "date": "2026-07-29",
+  "title": "Goods stock end-qty ↔ IM/TSUM channel sell-through",
+  "stock_rows_n": 2385,
+  "sales_rows_n": 2826,
+  "bridge_skus_n": 762,
+  "stock_and_sales_n": 214,
+  "stock_no_sales_n": 226,
+  "sales_no_stock_n": 322,
+  "owner_actions_n": 235,
+  "owner_actions_high_n": 36,
+  "im_stock_no_ch_sales_qty": 312.0,
+  "tsum_stock_no_ch_sales_qty": 0,
+  "no_fake_accept": true,
+  "so_t": false,
+  "note": "qty_end snapshot vs multi-period sales; sellthrough_proxy is indicative only"
+}
