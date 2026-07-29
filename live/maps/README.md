@@ -67,3 +67,5 @@ CSV в этой папке: каталог документов, crosswalk пр�
 - `edges_199.csv`
 - `field_lineage_644.csv`
 - `economic_map_summary.json`
+- `35_SKU_STOCK_FABRIC_BRIDGE_MAP.md` (H64)
+- `36_PERSON_COST_COLLECTION_BRIDGE_MAP.md` (H65)

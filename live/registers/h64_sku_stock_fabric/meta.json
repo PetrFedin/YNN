@@ -1,0 +1,58 @@
+{
+  "horizon": "H64",
+  "date": "2026-07-29",
+  "title": "SKU/stock/fabric bridge + fabric ABC",
+  "sku_rows": 1863,
+  "sku_with_article": 1854,
+  "stock_lines": 2957,
+  "stock_articles": 1081,
+  "fabric_lines": 1338,
+  "bridge": {
+    "collection_articles_n": 538,
+    "in_stock_n": 16,
+    "in_sku_n": 38,
+    "in_alias_n": 0,
+    "full_n": 16,
+    "none_n": 500,
+    "high_gap_n": 190
+  },
+  "fabric_abc": {
+    "lines_n": 1338,
+    "total_rub": 29837656.49,
+    "A_n": 498,
+    "B_n": 408,
+    "C_n": 432,
+    "A_rub": 23869120.55
+  },
+  "article_families": [
+    {
+      "article_family": "GOODS_STYLE",
+      "articles_n": 432,
+      "sale_eur": 1680477.0,
+      "in_stock_n": 15,
+      "in_sku_n": 37,
+      "none_n": 395,
+      "note": ""
+    },
+    {
+      "article_family": "COLLECTION_STYLE",
+      "articles_n": 98,
+      "sale_eur": 2322496.0,
+      "in_stock_n": 0,
+      "in_sku_n": 0,
+      "none_n": 98,
+      "note": "COL43-47 codes are MD-showroom; goods stock uses 0-xxxx — use person-cost/MD links"
+    },
+    {
+      "article_family": "OTHER",
+      "articles_n": 8,
+      "sale_eur": 34802.0,
+      "in_stock_n": 1,
+      "in_sku_n": 1,
+      "none_n": 7,
+      "note": ""
+    }
+  ],
+  "no_fake_accept": true,
+  "so_t": false
+}

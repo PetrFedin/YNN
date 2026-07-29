@@ -1,11 +1,16 @@
 # NOW — Command Center YANINA / YNN
 
-**Обновлено:** 2026-07-29 (H61)  
-**Вердикт:** Stage 1 диагностика + packs H52–H60 **готовы**. Исходники **107/107 OK** (H61).  
-**Стоп:** новый текстовый слой без owners **не усиливает** проект.
+**Обновлено:** 2026-07-29 (H65)  
+**Вердикт:** Stage 1 + H52–H65. Исходники **107/107 OK**. Data-слои SKU/stock/fabric + person-cost bridge **готовы**.  
+**Стоп:** новый текстовый слой без owners **не двигает gate**.
+
+## H64–H65 DONE (data, приоритет G4/G5/G6)
+- **H64:** SKU **1854** · stock **1081** · fabric ABC **1338** / ~**29.8M** ₽ · bridge NONE **500** (ожидаемо для 43-xx)
+- **H65:** person/emb **7096** линий → закрывает **327** collection NONE / **~3.41M €** · HIGH hit **157/190**
+- Docs: [`51_…H64`](live/client_pack/51_SKU_STOCK_FABRIC_BRIDGE_H64.md) · [`52_…H65`](live/client_pack/52_PERSON_COST_COLLECTION_BRIDGE_H65.md)
+- Wave B: `15–21_*` · worksheet: `21_high_gap_owner_worksheet.csv`
 
 ---
-
 ## Сделать сегодня (P0) — только это двигает метрики
 
 1. **15 мин подписи** → [`sign_session_pack/00_SIGN_SESSION_15MIN.md`](live/client_pack/sign_session_pack/00_SIGN_SESSION_15MIN.md)  
@@ -14,7 +19,7 @@
 
 Полный список owner-only: [`only_owner_moves_metrics.csv`](live/marts/only_owner_moves_metrics.csv)  
 Verify источников: [`48_SOURCE_FREEZE_VERIFY_H61.md`](live/client_pack/48_SOURCE_FREEZE_VERIFY_H61.md)  
-Новый анализ документов: [`49_COLLECTIONS_MARGIN_H62.md`](live/client_pack/49_COLLECTIONS_MARGIN_H62.md) · [`50_BUDGET_VS_FACT_H63.md`](live/client_pack/50_BUDGET_VS_FACT_H63.md)
+Анализ: [`49 H62`](live/client_pack/49_COLLECTIONS_MARGIN_H62.md) · [`50 H63`](live/client_pack/50_BUDGET_VS_FACT_H63.md) · [`51 H64`](live/client_pack/51_SKU_STOCK_FABRIC_BRIDGE_H64.md) · [`52 H65`](live/client_pack/52_PERSON_COST_COLLECTION_BRIDGE_H65.md)
 
 ---
 

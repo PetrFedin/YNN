@@ -1,0 +1,21 @@
+{
+  "horizon": "H65",
+  "date": "2026-07-29",
+  "title": "Person-cost/embroidery → collection article bridge",
+  "person_cost_lines_n": 7096,
+  "unique_articles_n": 1030,
+  "bridge_n": 1030,
+  "closes_collection_gap_n": 327,
+  "closes_collection_gap_sale_eur": 3407253.0,
+  "high_gaps_total": 190,
+  "high_gaps_with_person_cost": 157,
+  "collection_style_linked_n": 88,
+  "by_person": {
+    "embroidery": 4873,
+    "merkushina": 284,
+    "mokeeva": 941,
+    "zhukova": 998
+  },
+  "no_fake_accept": true,
+  "so_t": false
+}

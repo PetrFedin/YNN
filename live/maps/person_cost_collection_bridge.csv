@@ -1,0 +1,1044 @@
+article_norm,article_family,person_sources,person_lines_n,person_years,clients_sample,products_sample,cost_rub_sum_indicative,cost_lines_n,hours_sum,in_collection_sales,collection_sale_eur,collection_link_coverage,collection_priority,in_sku_master,in_stock_cost,bridge_value,so_t,do_not_auto_accept
+46-21,COLLECTION_STYLE,embroidery|mokeeva|zhukova,129,2024-2026|2025|2026,Ахмедова|Ева Лангория|Енгибарян,НАКИДКА|ПЛАТЬЕ|блуза,1386253.85,15,3351.0,Y,79176.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-01,COLLECTION_STYLE,embroidery|mokeeva,114,2024-2026|2025|2026,Коллекция|Кузьмич|Магдалина,жакет|жакет с выш|жакет черн,315866.6,11,1039.5,Y,35620.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-12,COLLECTION_STYLE,embroidery|mokeeva,88,2024-2026|2025|2026,Борисевич|Влада|Владимирова,Браслет|боди|брошь,796752.5,14,1100.5,Y,63045.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-28,COLLECTION_STYLE,embroidery|mokeeva,73,2024-2026|2025,Казьмина|Кузьмич|Кулишова,"блуза""пальчики""|блузон|блузон клематис",20890.0,2,1624.0,Y,71545.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-09,COLLECTION_STYLE,embroidery|mokeeva,66,2024-2026|2025,Зингаревич|Крушинская|Лукоянова,"жакет|жакет""феникс""|ниж.юбка",284353.0,16,494.0,Y,67510.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-09,COLLECTION_STYLE,embroidery|mokeeva,66,2024-2026|2025,Вита|Запас|Коллекция,жилет пальто|кейп|колье,204705.0,11,622.5,Y,46110.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-06,COLLECTION_STYLE,embroidery|mokeeva,64,2024-2026|2025,Коллекция|Крушинская|Кузнецова,бант|берет фуксия|брюки,146755.0,11,364.0,Y,26420.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-05,COLLECTION_STYLE,embroidery|mokeeva|zhukova,62,2024-2026|2025,Батурина|Влада|Гирько,КОСТЮМ|жакет|жакет(кожа),144131.0,9,357.8,Y,53790.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-14,COLLECTION_STYLE,embroidery|mokeeva,59,2024-2026|2025,Вита|Кулишова|Кулишова М,жакет|жакет +шапочка|ниж платье,72505.0,4,625.5,Y,35570.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-22,COLLECTION_STYLE,embroidery|mokeeva,58,2024-2026|2025|2026,Вита|Гирько|Жилова,брюки|ободок|платье,76653.0,4,632.5,Y,102330.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3400,GOODS_STYLE,embroidery|mokeeva|zhukova,52,2024-2026|2026,Дашкова|Дашкова А|Дашкова/Жукова,ПЛАТЬЕ|платье|платье бел,137534.6,7,113.0,Y,8182.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-27,COLLECTION_STYLE,embroidery|mokeeva,50,2024-2026|2025|2026,Крупицкая|Резеда|Уланова,"блуза|блуза ""Лебедь""|блуза ""белые пальчики""",176069.0,2,648.0,Y,17010.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+36-05,COLLECTION_STYLE,embroidery|mokeeva,49,2024-2026|2025|2026,Camilla|Camille|Ахмедова,"жакет|жакет ""пятн на просвет""|жакет камешки",322280.6,8,394.0,N,,,,N,N,ORPHAN_COST,N,YES
+47-18,COLLECTION_STYLE,embroidery|mokeeva,49,2024-2026|2025|2026,Коллекция|Коллекция 47|Резеда,бусы|жакет|корсет,280037.0,5,612.5,Y,11200.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-02,COLLECTION_STYLE,embroidery|mokeeva,48,2024-2026|2025,Казьмина|Мустафаева|Сазонова,жакет|юбка,75541.0,5,417.5,Y,29700.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3001,GOODS_STYLE,embroidery|zhukova,45,2024|2024-2026,Батурина|Вита|Жукова+Кузьмич,КУРТКА|куртка|куртка(капсула+клиент),5281.0,1,497.0,Y,43130.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-14,COLLECTION_STYLE,embroidery|mokeeva,45,2024-2026|2025,Коллекция|Кузьмич|Кулишова,платье,133717.0,7,478.0,Y,28670.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-19,COLLECTION_STYLE,embroidery|mokeeva,45,2024-2026|2025|2026,Коллекция|Коллекция 47|Магдалина,боди|брошь|брюки,360452.0,6,481.0,Y,29850.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3231,GOODS_STYLE,embroidery|mokeeva|zhukova,44,2024-2026|2025,Батурина|Батурина Е|Запас,КУРТКА|жакет н/п|жакет на синтепоне,92502.0,4,145.0,Y,11040.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-16,COLLECTION_STYLE,embroidery|mokeeva,43,2024-2026|2025|2026,Коллекция|Кулишова|Кулишова М,платье|платье н/п,213774.3,4,554.0,Y,34550.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-19,COLLECTION_STYLE,embroidery|mokeeva,42,2024-2026|2025,Коллекция|Литвинюк,боди|жакет|кейп,14530.0,1,618.0,Y,11680.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-02,COLLECTION_STYLE,embroidery|mokeeva,42,2024-2026|2025,Коллекция|Медведева|Элисо,жакет|пальто,53056.0,2,620.5,Y,24565.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-21,COLLECTION_STYLE,embroidery|mokeeva,42,2024-2026|2025|2026,Ахмедова|Коллекция|Коллекция 47,брошь|жакет|ниж юбка,369067.7,6,567.0,Y,43380.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3130,GOODS_STYLE,embroidery|mokeeva,41,2024-2026|2025,Жукова|Казьмина|Капсула,платье|платье(белое)|платье(красное),30460.0,2,91.5,N,,,,N,N,ORPHAN_COST,N,YES
+46-10,COLLECTION_STYLE,embroidery|mokeeva,40,2024-2026|2025|2026,Коллекция|Крупицкая|коллекция 46,блуза (по идее платья)|жакет|платье,232915.0,3,444.0,Y,12070.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-04,COLLECTION_STYLE,embroidery|mokeeva,40,2024-2026|2025,Коллекция|Мустафаева|Резеда,баска|блуза|брюки,107533.0,7,374.0,Y,18202.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-05,COLLECTION_STYLE,embroidery|mokeeva,40,2024-2026|2025|2026,Коллекция|Коллекция 47|Кузьмич,47-05|боди|брошь,274855.2,5,439.5,Y,24640.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-25,COLLECTION_STYLE,embroidery|mokeeva,39,2024-2026|2025,Коллекция|Лера|коллекция 46,жакет|ободок|перчатки,55494.0,2,354.0,Y,22800.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-01,COLLECTION_STYLE,embroidery|mokeeva,38,2024-2026|2025|2026,Болотова|Болтова|Влада,платье,241707.25,4,341.5,Y,28640.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-20,COLLECTION_STYLE,embroidery|mokeeva,38,2024-2026|2025|2026,Борисевич|Дашкова|Коллекция,платье|платье с кейпом,288129.6,3,684.0,Y,96740.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-06,COLLECTION_STYLE,embroidery|mokeeva,37,2024-2026|2025|2026,Казьмина|Коллекция|Коллекция 47,Платье|Подвеска|платье,411660.6,5,524.5,Y,46995.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+42-07,COLLECTION_STYLE,embroidery,37,2024-2026,Дакота(Мари),"платье ""Дюймовочка""|платье""Дюймовочка""",,0,571.5,N,,,,N,N,ORPHAN_COST,N,YES
+45-13,COLLECTION_STYLE,embroidery|mokeeva|zhukova,36,2024|2024-2026|2025,Запас|Казьмина А|Коллекция,БЛУЗА|ШОРТЫ|ЮБКА,55499.0,6,561.5,Y,6450.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-04,COLLECTION_STYLE,embroidery|mokeeva,36,2024-2026|2025,Коллекция|Кузьмич|Кузьмич Т,юбка|юбка насюрморт,27495.0,2,842.4,Y,16240.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-23,COLLECTION_STYLE,embroidery|mokeeva,36,2024-2026|2025|2026,Казьмина|Коллекция|Коллекция 47,Жакет Н/п|жакет|майка,202593.0,5,452.5,Y,16010.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-30,COLLECTION_STYLE,embroidery|mokeeva|zhukova,35,2024-2026|2025|2026,Жукова А.|Коллекция 47|Уланова,БРАСЛЕТ|ЖАКЕТ|ЮБКА,317673.0,10,400.0,Y,52470.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-31,COLLECTION_STYLE,embroidery|mokeeva|zhukova,35,2024-2026|2025,Коллекция|Кузьмич|Кузьмич Т,ПЛАТЬЕ|блузон|ободок,25890.0,3,322.0,Y,16700.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3265,GOODS_STYLE,embroidery|mokeeva|zhukova,35,2024-2026|2025,?|Баткаева|Белла,"ПЛАТОК|платок|платок шейный, шелк",18497.0,16,16.5,Y,3235.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3057,GOODS_STYLE,embroidery,34,2024-2026,Валентина|Воронина|Ищеева,платье,,0,208.0,Y,11723.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-30,COLLECTION_STYLE,embroidery|mokeeva|zhukova,33,2024-2026|2025,Коллекция|Кулишова|Кулишова М,ПЛАТЬЕ|платье,33064.0,2,461.15,Y,19000.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-03,COLLECTION_STYLE,embroidery|mokeeva,33,2024-2026|2025,Коллекция|Кулишова|Кулишова М,брюки н/п|брюки н/п + переделка|жакет,95885.0,3,384.5,Y,10620.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3274,GOODS_STYLE,embroidery|mokeeva|zhukova,32,2024-2026|2025|2026,Баткаева|Владимирова|Капсула,ЖАКЕТ|РАСШИВКА|жакет,176135.0,6,174.0,Y,16940.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3140А,GOODS_STYLE,embroidery|mokeeva|zhukova,32,2024-2026|2025,Svaetichin|Svaetichin Irina|Запас,ПЛАТЬЕ|платье|платье бабоч,103294.0,6,108.0,Y,18800.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3264,GOODS_STYLE,embroidery|mokeeva,32,2024-2026|2025,Казьмина|Казьмина А|Капсула,манжеты|манжеты (кожа бел)|манжеты (кожа черн),1500.0,3,86.0,Y,4480.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-07,COLLECTION_STYLE,embroidery|mokeeva,32,2024-2026|2025,Коллекция|Коллекция 47|Магдалина,брошь|жакет|шорты,37000.0,2,206.0,Y,1680.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3198,GOODS_STYLE,embroidery|mokeeva|zhukova,31,2024-2026|2025,Гонтова|Ершова|Капсула,ПАЛЬТО|пальто|пальто (серое),125605.0,6,162.8,Y,5120.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-11,COLLECTION_STYLE,embroidery|mokeeva,31,2024-2026|2025|2026,Владимирова|Коллекция|Коллекция 47,Браслет|брошь|жакет н/п,341284.03,7,334.0,Y,32835.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-15,COLLECTION_STYLE,embroidery|mokeeva,31,2024-2026|2025|2026,Казьмина|Коллекция|Коллекция 47,боди|брюки н/п|жакет,256742.0,3,395.0,Y,19035.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-16,COLLECTION_STYLE,embroidery|mokeeva,29,2024-2026|2025|2026,Коллекция|Коллекция 47|Мустафаева,браслет|брюки|жакет,339295.75,5,426.0,Y,29870.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+48-13,COLLECTION_STYLE,embroidery|mokeeva,28,2024-2026|2026,Коллекция|Коллекция 48,платье,,0,328.5,N,,,,N,N,ORPHAN_COST,N,YES
+47-22,COLLECTION_STYLE,embroidery|mokeeva|zhukova,27,2024-2026|2025|2026,Жукова А.|Коллекция|Коллекция 47,БРАСЛЕТ|жакет|ниж. юбка,36547.0,3,289.5,Y,22880.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2985,GOODS_STYLE,embroidery|zhukova,27,2024-2026|2026,Дмитриева|Жукова|Кулишова,ЮБКА|дубленка|юбка,9430.0,1,162.5,Y,2310.0,FULL,MED,Y,Y,SUPPORTS_COLLECTION,N,YES
+0-3200,GOODS_STYLE,embroidery|mokeeva|zhukova,27,2024-2026|2025|2026,Ефремова|Капсула|Клышевич,ПАЛЬТО|пальто|пальто с выш,282408.0,7,352.0,Y,26605.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-17,COLLECTION_STYLE,embroidery|mokeeva,26,2024-2026|2025|2026,Коллекция|Коллекция 47|Мустафаева,ниж.юбка|платье|платье корсет,245307.5,4,265.5,Y,42000.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-31,COLLECTION_STYLE,embroidery|mokeeva,26,2024-2026|2025,Коллекция|Коллекция 47|МД,платье|украшене на голову|фата,36200.0,2,477.5,N,,,,N,N,ORPHAN_COST,N,YES
+46-07,COLLECTION_STYLE,embroidery|mokeeva,26,2024-2026|2026,Вита|Коллекция|Крупицкая,Кейп|боди|кейп,204379.6,3,221.5,Y,22235.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3194В,GOODS_STYLE,embroidery|mokeeva,26,2024-2026|2026,МД|МД запуск,палантин|палантин листья,131318.75,6,161.0,N,,,,N,N,ORPHAN_COST,N,YES
+48-21,COLLECTION_STYLE,embroidery|mokeeva|zhukova,25,2024-2026|2026,Жукова|Коллекция 48,Н.ЮБКА|ПЛАТЬЕ|платье,120432.0,2,178.5,N,,,,N,N,ORPHAN_COST,N,YES
+45-14,COLLECTION_STYLE,embroidery|zhukova,25,2024-2026|2025,Коллекция,ПЛАТЬЕ|головной убор|кейп,1600.0,1,199.9,N,,,,N,N,ORPHAN_COST,N,YES
+45-18,COLLECTION_STYLE,embroidery|mokeeva|zhukova,25,2024|2024-2026|2025,Коллекция|Литвинюк,БЛУЗА|ШОРТЫ|блузон,15645.0,3,357.9,Y,2080.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3273,GOODS_STYLE,embroidery|mokeeva|zhukova,25,2024-2026|2025|2026,Капсула|МД|Маганова,ПЛАТЬЕ|платье|платье круж твид,142488.3,5,164.5,Y,8580.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-01,COLLECTION_STYLE,embroidery|mokeeva,25,2024-2026|2025,Гонтова|Запас|Коллекция,жакет|жакет н/п|жакет+юбка,86555.0,6,388.5,Y,15710.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-22,COLLECTION_STYLE,embroidery|mokeeva,25,2024-2026|2025,Коллекция|Кузьмич|коллекция 46,платье|платье с арабеск,43339.0,2,330.5,Y,11340.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3194С,GOODS_STYLE,embroidery|mokeeva,25,2024-2026|2026,МД|МД запуск|беж,палантин|палантин ЦВЕТЫ,113843.75,6,121.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3384,GOODS_STYLE,embroidery|mokeeva,25,2024-2026|2026,Жукова|Запас|Круиз,кафтан|пуговицы,30314.0,1,107.0,Y,1760.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-20,COLLECTION_STYLE,embroidery|mokeeva|zhukova,24,2024-2026|2025,Коллекция|Крушинская,ПЛАТЬЕ|головной убор|платье,21126.0,2,232.0,Y,11360.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3141А,GOODS_STYLE,embroidery|mokeeva|zhukova,24,2024-2026|2025,Баткаева|Батурина|Шафикова,КАФТАН|кафтан|кафтан перец,110697.0,7,140.5,Y,12540.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3229,GOODS_STYLE,embroidery|mokeeva|zhukova,24,2024-2026|2025|2026,Вита|Владимирова|МД,ЖАКЕТ|блузон|блузон н/п,273744.7,7,98.5,Y,13230.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-22,COLLECTION_STYLE,embroidery|mokeeva,24,2024-2026|2025,Вита|Коллекция,головной убор|платье,15640.0,1,294.4,Y,9896.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-28,COLLECTION_STYLE,embroidery|zhukova,23,2024-2026|2025,Коллекция,ПЛАТЬЕ|ШЛЕЙФ|платье,2300.0,2,196.9,N,,,,N,N,ORPHAN_COST,N,YES
+45-17,COLLECTION_STYLE,embroidery|zhukova,23,2024-2026|2025,Коллекция,БЛУЗА|ЮБКА|блузон,2500.0,2,314.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3276,GOODS_STYLE,embroidery|mokeeva|zhukova,23,2024-2026|2025,Гонтова|Гонтова Н|Кулишова,БЛУЗОН|Блузон(бордо)|блузон,112458.0,7,158.0,Y,16190.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-32,COLLECTION_STYLE,embroidery|mokeeva,23,2024-2026|2025,Навка,корсет/платье+реставрац|платье,27220.0,1,418.0,Y,49250.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-05,COLLECTION_STYLE,embroidery|mokeeva,23,2024-2026|2025,Гирько|Запас|Коллекция,берет|головной убор|жакет,46514.0,3,345.5,Y,19170.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-08,COLLECTION_STYLE,embroidery|mokeeva,23,2024-2026|2025,Коллекция|Резеда,блуза|платье|платье с палериной,24525.0,1,169.5,Y,6376.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-03,COLLECTION_STYLE,embroidery,23,2024-2026,Архив|Запас|Коллекция,жакет|комбинезон|ободок,,0,308.4,N,,,,N,N,ORPHAN_COST,N,YES
+46-09,COLLECTION_STYLE,embroidery,23,2024-2026,Коллекция|Янина Ю,"блуза бел, перья|блуза чер, перья|боди",,0,233.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3212,GOODS_STYLE,embroidery|mokeeva|zhukova,22,2024-2026|2025|2026,Тарасенко|Тарасенкова|Умарова,"ПЛАТЬЕ|колье ""сереб колье""|манжеты ""сереб колье""",154510.0,5,267.0,Y,15200.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3399,GOODS_STYLE,embroidery|mokeeva,22,2024-2026|2026,Круиз|Круиз 26|МД,платье,66711.0,2,198.0,Y,1176.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-14,COLLECTION_STYLE,embroidery|mokeeva|zhukova,21,2024-2026|2025|2026,Владимирова|Жукова А.|Коллекция 47,ПЛАТЬЕ|ЮБКА|платье,315217.0,6,181.0,Y,24010.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3395,GOODS_STYLE,embroidery|zhukova,21,2024-2026|2026,Жукова|Ляззат,ЛЕКАЛА|ПЛАТЬЕ|платье беж,5530.0,3,51.0,Y,6240.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-32,COLLECTION_STYLE,embroidery|zhukova,21,2024-2026|2025,Коллекция|Проба,ПЛАТЬЕ|платье,1400.0,1,117.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3206,GOODS_STYLE,embroidery|mokeeva|zhukova,21,2024-2026|2025,Капсула|Резеда|Якунина,ЖАКЕТ|жакет|жакет (желт),66249.0,3,90.5,Y,6080.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2352,GOODS_STYLE,embroidery|mokeeva,21,2024-2026|2025,Капсула|Элисо|повтор осен. капсулы 25,пальто|пальто  S|пальто L,123954.0,6,101.5,Y,8320.0,FULL,MED,Y,Y,SUPPORTS_COLLECTION,N,YES
+47-10,COLLECTION_STYLE,embroidery|mokeeva,21,2024-2026|2025,Коллекция|Коллекция 47,Браслет|брюки|жакет,64500.0,3,365.0,N,,,,N,N,ORPHAN_COST,N,YES
+48-09,COLLECTION_STYLE,embroidery|mokeeva,21,2024-2026|2026,Коллекция|Коллекция 48,блуза|платье|турнюр,,0,210.0,N,,,,N,N,ORPHAN_COST,N,YES
+47-27,COLLECTION_STYLE,embroidery|mokeeva|zhukova,20,2024-2026|2025|2026,Жукова А.|Кислова|Коллекция 47,ПЛАТЬЕ|брюки|кимоно,297567.0,7,207.0,Y,12580.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-23,COLLECTION_STYLE,embroidery|mokeeva|zhukova,20,2024-2026|2025,Коллекция|Литвинюк,ПЛАТЬЕ|платье,34258.0,2,120.4,Y,14240.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3196,GOODS_STYLE,embroidery|mokeeva|zhukova,20,2024-2026|2025,Баткаева|Батурина Е|Воронина,"КУРТКА|бомбер|бомбер ""розы""",89770.0,5,98.0,Y,12660.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-14,COLLECTION_STYLE,embroidery|mokeeva,20,2024-2026|2025,Кулишова|Кулишова М|Морозова,блузон|брюки|платье,34955.0,2,185.4,Y,31910.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-11,COLLECTION_STYLE,embroidery|mokeeva,20,2024-2026|2025,Влада|Лера|Лера Вита,брюи|брюки|ободок,38085.0,5,204.0,Y,15760.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-15,COLLECTION_STYLE,embroidery|mokeeva,20,2024-2026|2025,Коллекция|МД|Повтор,боди|платье,6990.0,1,474.5,Y,0.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3264А,GOODS_STYLE,embroidery|mokeeva,20,2024-2026|2025,Кузьмич|Маганова|Медведева,манжеты|манжеты кожа бел,500.0,1,43.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-2999,GOODS_STYLE,embroidery,20,2024-2026,Влада|Воронина|Запас,"юбка|юбка короткая""графит""|юбка""графит листья""",,0,190.5,Y,5390.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3378,GOODS_STYLE,embroidery|mokeeva|zhukova,19,2024-2026|2026,Гонтова|Жукова|Кулишова,БЛУЗА|ЛЕКАЛА|блуза,3310.0,3,35.0,Y,1005.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3191,GOODS_STYLE,embroidery|mokeeva|zhukova,19,2024-2026|2025,Дмитриева|Капсула|Шелудченко,БЛУЗОН|блузон н/п|блузон с выш,54787.0,3,80.5,Y,9235.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+31-33,COLLECTION_STYLE,embroidery,19,2024-2026,Якунина,платье|платье (лиф),,0,237.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3232,GOODS_STYLE,embroidery|mokeeva|zhukova,18,2024-2026|2025|2026,Болотова|Ефремова|Ефремова Н,БЛУЗА|блуза + переделка|блузон,118536.0,8,79.0,Y,10880.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3364,GOODS_STYLE,embroidery|merkushina|zhukova,18,2024-2026|2026|ИМ,Меркушина Т|Ницца,"БЛУЗА|Брошь|брошь ""Колосок""",12950.0,4,41.5,Y,892.0,FULL,LOW,Y,Y,SUPPORTS_COLLECTION,N,YES
+48-27,COLLECTION_STYLE,embroidery|mokeeva|zhukova,18,2024-2026|2026,Жукова|Коллекция 48,БЛУЗА|ЛЕГГИНСЫ|ТОП,30830.0,4,260.5,N,,,,N,N,ORPHAN_COST,N,YES
+38-12,COLLECTION_STYLE,embroidery|mokeeva|zhukova,18,2024-2026|2025,Романова,ЖАКЕТ|жакет|юбка,43420.0,3,67.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3347,GOODS_STYLE,embroidery|merkushina,18,2024-2026|ИМ,Меркушина Т,Жакет бархатный с поясом бахромой|Жакет двубортный из стрейч-бархата|Жакет двубортный из стрейч-бархата  с по,35824.7,3,81.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3131А,GOODS_STYLE,embroidery|mokeeva,18,2024-2026|2025,Запас|Круиз|Якунина,кейп|кейп (зеленый)|кейп(зеленый),35644.0,2,68.5,Y,2560.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3128,GOODS_STYLE,embroidery|mokeeva,18,2024-2026|2025,Круиз|круиз 25,жакет|куртка(красная),18240.0,1,49.0,Y,2240.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3128В,GOODS_STYLE,embroidery|mokeeva,18,2024-2026|2025,Круиз|МД|Ушакова,жакет|куптка(белая)|куртка(белая),73464.0,3,64.0,Y,5440.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-05,COLLECTION_STYLE,embroidery|mokeeva,18,2024-2026|2025,МД|Маганова,"жакет|жакет ""феникс""|жакет""феникс""",34100.0,2,316.5,Y,15920.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3271,GOODS_STYLE,embroidery|mokeeva,18,2024-2026|2025|2026,Гонтова|Капсула|Кузьмич,жакет|жакет н/п|жакет(серый),132981.6,3,95.0,Y,8545.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-15,COLLECTION_STYLE,embroidery,18,2024-2026,Коллекция,кейп|платье,,0,402.5,N,,,,N,N,ORPHAN_COST,N,YES
+36-18,COLLECTION_STYLE,embroidery,18,2024-2026,Клышевич|Семилетова,"пальто ""серые пантеры""|пальто""пантеры""",,0,207.5,N,,,,N,N,ORPHAN_COST,N,YES
+42-12,COLLECTION_STYLE,embroidery,18,2024-2026,Кулишова|Кулишова (Настя),"платье ""Василек|платье""василек""",,0,78.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3354,GOODS_STYLE,embroidery|mokeeva|zhukova,17,2024-2026|2026,Гонтова|Круиз|Круиз 26,ЮБКА|юбка|юбка б,31768.3,2,95.5,Y,8540.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3030,GOODS_STYLE,embroidery|zhukova,17,2024-2026|2025,Жукова,БЛУЗА|свитшот,2070.0,1,13.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2983,GOODS_STYLE,embroidery|mokeeva|zhukova,17,2024|2024-2026|2025|2026,Александрова|Моисеева|Шишкина,ПЛАТЬЕ|платье,104544.1,5,26.1,N,,,,N,N,ORPHAN_COST,N,YES
+0-3113,GOODS_STYLE,embroidery|mokeeva|zhukova,17,2024-2026|2025|2026,Вита|Ищеева|Майорова,ЖАКЕТ|КОСТЮМ|жакет,94450.0,6,57.5,Y,8450.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3258,GOODS_STYLE,embroidery|mokeeva|zhukova,17,2024-2026|2025,Гонтова|Кулишова|Кулишова М,ЮБКА|юбка|юбка (черн ромбы),79938.0,7,83.0,Y,12050.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3267,GOODS_STYLE,embroidery|zhukova,17,2024-2026|2025,Капсула,ПАЛАНТИН|палантин,8039.0,1,103.0,Y,4620.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-11,COLLECTION_STYLE,embroidery|mokeeva,17,2024-2026|2025,Казьмина|Казьмина А|Карасева,платье|сарафан|чалма,117257.0,8,68.5,Y,26514.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-20,COLLECTION_STYLE,embroidery|mokeeva,17,2024-2026|2025,Коллекция|коллекция 46,пальто,18440.0,1,121.5,N,,,,N,N,ORPHAN_COST,N,YES
+47-03,COLLECTION_STYLE,embroidery|mokeeva,17,2024-2026|2025,Коллекция|Коллекция 47,блузон|броши|брюки,36205.0,2,654.5,N,,,,N,N,ORPHAN_COST,N,YES
+48-28,COLLECTION_STYLE,embroidery|mokeeva,17,2024-2026|2026,Коллекция|Коллекция 48,брюки|перчатки|платье,1000.0,1,168.5,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2933,GOODS_STYLE,embroidery,17,2024-2026,ЦУМ,блуза|блузон,,0,96.0,N,,,,N,N,ORPHAN_COST,N,YES
+47-28,COLLECTION_STYLE,embroidery|mokeeva|zhukova,16,2024-2026|2025|2026,Коллекция|Коллекция 47|Литвинюк,БОДИ|КОМБЕНИЗОН|ЮБКА,191302.0,7,137.0,Y,15520.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3286,GOODS_STYLE,mokeeva|zhukova,16,2025|2026,Гонтова|Ефремова Н|Казьмина А,БРЮКИ|ЮБКА-БРЮКИ|юбка брюки,149145.5,16,,Y,12986.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+34-08,COLLECTION_STYLE,embroidery|mokeeva,16,2024-2026|2025,Мустафаева|Насобина,"жакет|жакет""звезды""|юбка",63505.0,3,196.5,N,,,,N,N,ORPHAN_COST,N,YES
+36-12,COLLECTION_STYLE,embroidery|mokeeva,16,2024-2026|2025|2026,Camilla|Camille|Бурая,"жакет ""белый барс""|жакет барс|жакет""барс""",192579.0,4,253.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3263,GOODS_STYLE,embroidery|mokeeva,16,2024-2026|2025,Казьмина|Казьмина А|Капсула,бант-стойка|бант-стойка (кожа бел)|платье,15800.0,1,40.5,Y,727.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-04,COLLECTION_STYLE,embroidery|mokeeva,16,2024-2026|2025,Коллекция|Коллекция 47,платье|чокер,26200.0,1,125.5,N,,,,N,N,ORPHAN_COST,N,YES
+47-13,COLLECTION_STYLE,embroidery|mokeeva,16,2024-2026|2025|2026,Коллекция|Коллекция 47|Семилетова,Браслет|платье,97536.0,2,109.0,Y,12860.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-26,COLLECTION_STYLE,embroidery|mokeeva,16,2024-2026|2025|2026,Вита|Коллекция 47,брошь|жакет|платье,155165.1,2,144.0,Y,12150.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3371,GOODS_STYLE,embroidery|mokeeva,16,2024-2026|2026,Владимирова|МД|Меркушина Т,Y|Yc|рубашка,10304.0,1,15.5,Y,1455.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+48-08,COLLECTION_STYLE,embroidery|mokeeva,16,2024-2026|2026,Коллекция|Коллекция 48,платье|фата,,0,161.5,N,,,,N,N,ORPHAN_COST,N,YES
+43-34,COLLECTION_STYLE,embroidery,16,2024-2026,МД|Навка,"кейп|ободок|платье ""Золотой феникс""",,0,165.0,N,,,,N,N,ORPHAN_COST,N,YES
+48-22,COLLECTION_STYLE,embroidery|mokeeva|zhukova,15,2024-2026|2026,Коллекция|Коллекция 48,ВЫШИВКА|брюки|колье,1350.0,1,31.0,N,,,,N,N,ORPHAN_COST,N,YES
+45-29,COLLECTION_STYLE,embroidery|zhukova,15,2024-2026|2025,Архив|Коллекция,БЛУЗА|Головной убор|платье,900.0,1,91.2,N,,,,N,N,ORPHAN_COST,N,YES
+0-3116,GOODS_STYLE,embroidery|mokeeva|zhukova,15,2024-2026|2025,Гонтова|Ершова,ЖАКЕТ|КОСТЮМ|жакет,50265.0,4,46.5,Y,4827.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3140,GOODS_STYLE,embroidery|mokeeva|zhukova,15,2024-2026|2025,Ершова|Жукова|Магдалина,ПЛАТЬЕ|платье|платье н/п,139378.0,6,29.5,Y,10400.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3199,GOODS_STYLE,embroidery|zhukova,15,2024-2026|2025,Капсула,ПАЛЬТО|пальто|пальто(кожа),296754.0,2,89.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3262,GOODS_STYLE,embroidery|mokeeva|zhukova,15,2024-2026|2025,Казьмина|Казьмина А|Капсула,"СТОЙКА,МАНЖЕТЫ|бант-стойка|бант-стойка (кожа черн)",27427.0,2,28.5,Y,727.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-25,COLLECTION_STYLE,embroidery|mokeeva,15,2024-2026|2025,Коллекция|Коллекция 47,Браслет|корсет|юбка,32078.0,2,257.5,N,,,,N,N,ORPHAN_COST,N,YES
+45-25,COLLECTION_STYLE,embroidery,15,2024-2026,Коллекция,головной убор|платье,,0,82.5,N,,,,N,N,ORPHAN_COST,N,YES
+45-16,COLLECTION_STYLE,embroidery,15,2024-2026,Архив|Коллекция,накидка|платье,,0,155.5,N,,,,N,N,ORPHAN_COST,N,YES
+45-24,COLLECTION_STYLE,embroidery,15,2024-2026,Коллекция,платье,,0,171.0,N,,,,N,N,ORPHAN_COST,N,YES
+48-24,COLLECTION_STYLE,embroidery|mokeeva|zhukova,14,2024-2026|2026,Жукова|Коллекция|Коллекция 48,БРЮКИ|ЖАКЕТ|ТОП,40368.0,5,46.0,N,,,,N,N,ORPHAN_COST,N,YES
+43-25,COLLECTION_STYLE,mokeeva|zhukova,14,2024|2025|2026,Амина|Енгибарян Марине|Кулишова М,БОДИ|ВЫШИВКА|КОЛЬЕ,295035.3,13,,Y,111556.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3114,GOODS_STYLE,embroidery|mokeeva|zhukova,14,2024-2026|2025,Вита|Крушинская|Майорова,БРЮКИ|брюки|брюки выш,37568.0,5,62.5,Y,6820.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+33-26,COLLECTION_STYLE,embroidery|mokeeva,14,2024-2026|2025|2026,Svaetichin|Svaetichin Irina|Москова,платье,97676.0,3,106.5,N,,,,N,N,ORPHAN_COST,N,YES
+45-12,COLLECTION_STYLE,embroidery|mokeeva,14,2024-2026|2025,Коллекция|Маганова,головной убор|кейп|платье,35806.0,2,167.5,Y,7800.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-19,COLLECTION_STYLE,embroidery|mokeeva,14,2024-2026|2025|2026,Казьмина|Коллекция|коллекция 46,блуза|блузон|платье,94721.0,2,75.0,Y,9700.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3277,GOODS_STYLE,embroidery|mokeeva,14,2024-2026|2025,Казьмина|Капсула|осен.капсула 25,платье,16208.0,1,125.5,N,,,,N,N,ORPHAN_COST,N,YES
+27-08,COLLECTION_STYLE,embroidery|mokeeva,14,2024-2026|2026,Крушинская,жакет|жакет н/п,128793.0,1,203.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3233,GOODS_STYLE,embroidery|mokeeva|zhukova,13,2024-2026|2025|2026,Болотова|Ефремова|Ефремова Н,ЮБКА|юбка|юбка (шампань),105377.0,8,22.0,Y,8646.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3398,GOODS_STYLE,embroidery|zhukova,13,2024-2026|2026,Жукова|МД,ПЛАТЬЕ|платье,22526.0,2,71.5,Y,0.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-27,COLLECTION_STYLE,embroidery|zhukova,13,2024|2024-2026|2025,Коллекция,БЛУЗА|ЮБКА|блузон,6672.0,2,66.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-2673,GOODS_STYLE,embroidery|merkushina|zhukova,13,2024|2024-2026|ИМ,ИМ|ЦУМ,БЛУЗОН|Блузка бархатная с вышивкой|блуза,7084.52,2,49.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+34-09,COLLECTION_STYLE,embroidery|mokeeva,13,2024-2026|2025|2026,19|Вита|Кузнецова,152|брюки|жакет,278284.0,7,338.5,N,,,,N,N,ORPHAN_COST,N,YES
+45-08,COLLECTION_STYLE,embroidery|mokeeva,13,2024-2026|2025,Вита|Коллекция,жакет|платье(чокер)|чокер,40120.0,1,107.0,Y,0.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-24,COLLECTION_STYLE,embroidery|mokeeva,13,2024-2026|2025,Коллекция|Харитонова|коллекция 46,боди|жакет|платье,63606.0,4,123.0,Y,9525.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-06,COLLECTION_STYLE,embroidery|mokeeva,13,2024-2026|2025,Коллекция|Кузьмич,боди|платье,7790.0,1,223.0,Y,3360.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+48-04,COLLECTION_STYLE,embroidery|mokeeva,13,2024-2026|2026,Коллекция|Коллекция 48,жакет|комбинезон|шорты,,0,91.5,N,,,,N,N,ORPHAN_COST,N,YES
+48-20,COLLECTION_STYLE,embroidery|mokeeva,13,2024-2026|2026,Коллекция|Коллекция 48,платье,,0,99.0,N,,,,N,N,ORPHAN_COST,N,YES
+43-03,COLLECTION_STYLE,embroidery,13,2024-2026,Влада|Воронина|Коллекция,платье,,0,101.0,Y,40760.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-21,COLLECTION_STYLE,embroidery,13,2024-2026,Коллекция,головной убор|платье,,0,142.1,N,,,,N,N,ORPHAN_COST,N,YES
+47-33,COLLECTION_STYLE,embroidery|zhukova,12,2024-2026|2026,Коллекция,ТОП|ЮБКА|аксесуары,92439.0,4,14.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-2779,GOODS_STYLE,embroidery|mokeeva|zhukova,12,2024-2026|2025|2026,Влада|Кокунова|МД повтор НГ,КЕЙП|кейп,47857.0,3,40.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3167,GOODS_STYLE,mokeeva|zhukova,12,2025,Маганова|Мадина|Майорова,ЖИЛЕТ|накидка,196498.0,12,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3202,GOODS_STYLE,embroidery|mokeeva|zhukova,12,2024-2026|2025,Баткаева|Баткаева Н|Капсула,КУРТКА|куртка парка|куртка-парка,119188.0,4,77.0,Y,14950.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3339,GOODS_STYLE,embroidery|merkushina,12,2024-2026|ИМ,Меркушина Т,Платье Комбинация|Платье из шифона без подклада|Платье из шифона без подклада с вышитым ,10806.5,3,42.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+46-13,COLLECTION_STYLE,embroidery|mokeeva,12,2024-2026|2025,Коллекция|коллекция 46,платье,19230.0,1,56.0,N,,,,N,N,ORPHAN_COST,N,YES
+33-24,COLLECTION_STYLE,embroidery|mokeeva,12,2024-2026|2025,Вера Влада|Влада(Вера)|Влада(Дара),платье,58326.0,1,89.5,N,,,,N,N,ORPHAN_COST,N,YES
+47-09,COLLECTION_STYLE,embroidery|mokeeva,12,2024-2026|2025,Коллекция|Коллекция 47,брюки|кимоно|пояс,42000.0,3,226.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3393,GOODS_STYLE,embroidery|mokeeva,12,2024-2026|2026,Круиз|Круиз 26|Кулишова,"рубашка|рубашка, ю-ш",21941.0,1,44.0,Y,1968.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+30-23,COLLECTION_STYLE,embroidery|mokeeva,12,2024-2026|2026,Харитонова,платье|платье н/п,110324.0,1,129.0,N,,,,N,N,ORPHAN_COST,N,YES
+33-31,COLLECTION_STYLE,embroidery|mokeeva,12,2024-2026|2026,Кислова,платье,114895.0,1,96.5,N,,,,N,N,ORPHAN_COST,N,YES
+48-02,COLLECTION_STYLE,embroidery|mokeeva,12,2024-2026|2026,Коллекция|Коллекция 48,платье,,0,81.0,N,,,,N,N,ORPHAN_COST,N,YES
+44-17,COLLECTION_STYLE,embroidery,12,2024-2026,Влада,"накидка ""пионы""|топ""пионы",,0,98.3,Y,15600.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3414,GOODS_STYLE,embroidery|mokeeva|zhukova,11,2024-2026|2026,Баткаева|Гонтова|Кулишова,БЛУЗА|ВЫШИВКА|блуза,32265.0,6,1.5,Y,6192.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3401,GOODS_STYLE,embroidery|zhukova,11,2024-2026|2026,Жукова,ПЛАТЬЕ|платье бел|платье черн,8889.0,1,28.0,N,,,,N,N,ORPHAN_COST,N,YES
+48-11,COLLECTION_STYLE,embroidery|mokeeva|zhukova,11,2024-2026|2026,Коллекция|Коллекция 48,ШОРТЫ|платье|трусы,4504.0,2,20.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3152,GOODS_STYLE,embroidery|merkushina|zhukova,11,2024-2026|2025|ИМ,Жукова|ЦУМ горох,"КАФТАН|кафтан длинный, батист с авторским принт|накидка",35086.59,7,13.5,Y,2032.0,SKU_ONLY,MED,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3225,GOODS_STYLE,mokeeva|zhukova,11,2025|2026,Вита|Ершова|ИМ /Олейник,БРЮКИ|брюки|брюки М,136867.0,11,,Y,3000.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3014,GOODS_STYLE,embroidery|zhukova,11,2024|2024-2026,Жукова,"СВИТЕР|свитер ""жучки""",68642.0,6,24.0,Y,23327.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-17,COLLECTION_STYLE,embroidery|mokeeva,11,2024-2026|2025,Коллекция|коллекция 46,блузон|жакет|юбка,35620.0,2,45.0,N,,,,N,N,ORPHAN_COST,N,YES
+46-27,COLLECTION_STYLE,embroidery|mokeeva,11,2024-2026|2025,Коллекция|коллекция 46,платье,17528.0,1,94.0,N,,,,N,N,ORPHAN_COST,N,YES
+36-06,COLLECTION_STYLE,embroidery|mokeeva,11,2024-2026|2026,21.25|Бурая|Уланова,"170|бомбер|бомбер ""бел тигр""",238201.0,2,231.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3383,GOODS_STYLE,embroidery|mokeeva,11,2024-2026|2026,Круиз|Круиз 26|МД,платье,84033.5,1,47.5,Y,5580.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+21-21,COLLECTION_STYLE,embroidery,11,2024-2026,Кузнецова,платье,,0,139.0,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2945,GOODS_STYLE,embroidery,11,2024-2026,ЦУМ,платье,,0,144.0,N,,,,N,N,ORPHAN_COST,N,YES
+43-33,COLLECTION_STYLE,embroidery,11,2024-2026,Повтор,ободок(стразы на сером)|ободок(стразы на черном),,0,48.5,N,,,,N,N,ORPHAN_COST,N,YES
+47-32,COLLECTION_STYLE,embroidery|mokeeva|zhukova,10,2024-2026|2025|2026,Жукова А.|Коллекция 47,ЖАКЕТ|ТОП|брошь,38136.0,6,14.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3396,GOODS_STYLE,embroidery|mokeeva|zhukova,10,2024-2026|2026,Владимирова|Жукова А|Резеда,ЛЕКАЛА|ПЛАТЬЕ|платье,44012.0,4,9.0,Y,3381.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3385,GOODS_STYLE,embroidery|mokeeva|zhukova,10,2024-2026|2026,Гонтова|Кулишова|Майорова,БЛУЗА|ЛЕКАЛА|блуза,28648.0,5,5.5,Y,3265.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3094,GOODS_STYLE,zhukova,10,2024|2025|2026,,СТОЙКА|ЧОКЕР,6136.0,10,,Y,3448.0,FULL,MED,Y,Y,SUPPORTS_COLLECTION,N,YES
+0-3052,GOODS_STYLE,zhukova,10,2024|2025,,ЮБКА,7021.0,10,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3032,GOODS_STYLE,embroidery|zhukova,10,2024-2026|2025,Жукова,"ЮБКА|юбка|юбка""Герда""",1638.0,1,21.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3297,GOODS_STYLE,embroidery|mokeeva|zhukova,10,2024-2026|2025,Влада|МД|НГ капсула,"ПЛАТЬЕ|брошь ""Цветок""|платье",104421.0,6,11.0,Y,5850.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-17,COLLECTION_STYLE,embroidery|mokeeva,10,2024-2026|2025,Казьмина|Кулишова Н,платье|платье гол,25255.0,1,46.5,Y,10950.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+42-11,COLLECTION_STYLE,embroidery|mokeeva,10,2024-2026|2026,Шарлин,платье,94993.0,1,45.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3319,GOODS_STYLE,embroidery|mokeeva,10,2024-2026|2026,ИМ|Казьмина|МД,платье,148196.8,3,81.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3318,GOODS_STYLE,embroidery|mokeeva,10,2024-2026|2026,МД|МД запуск Канны,платье,146729.0,1,152.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3382,GOODS_STYLE,embroidery|mokeeva,10,2024-2026|2026,Круиз|Круиз 26,платье|платье роз|платье син,135114.0,2,91.0,N,,,,N,N,ORPHAN_COST,N,YES
+29-14,COLLECTION_STYLE,embroidery|mokeeva,10,2024-2026|2026,Кислова,платье,36338.0,1,88.0,N,,,,N,N,ORPHAN_COST,N,YES
+48-23,COLLECTION_STYLE,embroidery|mokeeva,10,2024-2026|2026,Коллекция|Коллекция 48,колье|платье|шорты,,0,32.0,N,,,,N,N,ORPHAN_COST,N,YES
+48-26,COLLECTION_STYLE,embroidery|mokeeva,10,2024-2026|2026,Коллекция|Коллекция 48,колье|платье|турнюр,,0,75.0,N,,,,N,N,ORPHAN_COST,N,YES
+44-15,COLLECTION_STYLE,embroidery,10,2024-2026,Владимирова,юбка,,0,72.0,Y,20770.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-10,COLLECTION_STYLE,embroidery,10,2024-2026,Запас|Коллекция|Москова,платье|платье(колье),,0,193.0,N,,,,N,N,ORPHAN_COST,N,YES
+47-29,COLLECTION_STYLE,embroidery|mokeeva|zhukova,9,2024-2026|2025|2026,Жукова А.|Коллекция 47|МД,ПЛАТЬЕ|платье,120963.0,4,27.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3407,GOODS_STYLE,embroidery|zhukova,9,2024-2026|2026,Жукова|Нуряева,ЛЕКАЛА|ПЛАТЬЕ|блузон,31256.0,3,50.5,Y,8550.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3043,GOODS_STYLE,embroidery|zhukova,9,2024|2024-2026|2026,Жукова,БЛУЗА|поло,5091.0,2,8.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+48-30,COLLECTION_STYLE,embroidery|mokeeva|zhukova,9,2024-2026|2026,Жукова|Коллекция 48,ПЛАТЬЕ|ТРУСЫ|платье,11869.0,2,117.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3049,GOODS_STYLE,embroidery|zhukova,9,2024-2026|2025,ЦУМ,БОМБЕР|бомбер,6181.0,2,34.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3078,GOODS_STYLE,zhukova,9,2024|2025,,ЮБКА|ЮБКИ,20313.0,9,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2604,GOODS_STYLE,mokeeva|zhukova,9,2024|2025,Влада|Ершова|Кузьмич,ЮБКА|юбка,75965.0,9,,Y,4006.0,FULL,MED,Y,Y,SUPPORTS_COLLECTION,N,YES
+0-2548,GOODS_STYLE,zhukova,9,2025,,КАФТАН,44328.0,9,,Y,0.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3167А,GOODS_STYLE,mokeeva|zhukova,9,2025,Svaetichin|Мадина,ЖИЛЕТ|накидка,110550.0,9,,N,,,,N,N,ORPHAN_COST,N,YES
+38-07,COLLECTION_STYLE,embroidery|mokeeva|zhukova,9,2024-2026|2025,Мустафаева,БРЮКИ|брюки|жакет,45735.0,3,92.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3230,GOODS_STYLE,mokeeva|zhukova,9,2025|2026,Вита|Владимирова|МД (Элисо),БРЮКИ|брюки|брюки + переделка,303654.4,9,,Y,5670.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3205,GOODS_STYLE,embroidery|mokeeva|zhukova,9,2024-2026|2025,Батурина|Батурина Е|Майорова,КУРТКА|куртка парка с выш|куртка-парка + переделка,119739.0,3,38.5,Y,9870.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+Т-3001,GOODS_STYLE,embroidery|merkushina,9,2024-2026|ИМ|Площадки,ЦУМ,Куртка из шелкового бархата с расшитыми |Куртка черная из шелкого бархата с вышив|куртка,98717.57,4,101.0,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2703,GOODS_STYLE,embroidery|merkushina,9,2024-2026|ИМ|Площадки,ЦУМ,Блузка шелковая с вышивкой|блуза,37108.5,4,29.5,N,,,,N,N,ORPHAN_COST,N,YES
+Т-1672F,GOODS_STYLE,embroidery|merkushina,9,2024-2026|ИМ,ЦУМ,"Рубашка в белом цвете,  надпись|Рубашка в белом цвете, новая надпись|Рубашка в черном цвете, надпись",36745.83,4,12.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3337,GOODS_STYLE,embroidery|merkushina|mokeeva,9,2024-2026|2026|ИМ,ИМ|Круиз|Меркушина Т,Блуза из искусственной органзы с вышитым|блуза,39882.6,5,13.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+46-23,COLLECTION_STYLE,embroidery|mokeeva,9,2024-2026|2025,Коллекция|коллекция 46,платье,24370.0,1,23.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3350,GOODS_STYLE,embroidery|mokeeva,9,2024-2026|2026,МД Chanel|Сазонова|Фомина,жакет н/п|камелия,318616.6,5,23.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3023,GOODS_STYLE,embroidery,9,2024-2026,Резеда|ЦУМ|Чилингарова,платье,,0,118.0,Y,5120.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+Т-2948,GOODS_STYLE,embroidery,9,2024-2026,ЦУМ,юбка,,0,131.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3223С,GOODS_STYLE,embroidery,9,2024-2026,Запас|Капсула,свитер,,0,109.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3082,GOODS_STYLE,zhukova,8,2024|2025|2026,,КЕЙП,261664.0,6,,Y,29380.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+48-25,COLLECTION_STYLE,embroidery|mokeeva|zhukova,8,2024-2026|2026,Коллекция|Коллекция 48,ШОРТЫ|платье|турнюр,16764.0,1,34.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3031А,GOODS_STYLE,embroidery|zhukova,8,2024|2024-2026|2025,Жукова,БРЮКИ|ДЖОГГЕРЫ|шорты,7236.0,6,2.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3039,GOODS_STYLE,embroidery|zhukova,8,2024|2024-2026|2025,Жукова,БЛУЗА|свитшот,2226.0,2,6.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3144,GOODS_STYLE,embroidery|mokeeva|zhukova,8,2024-2026|2025,Батурина,"ПЛАТЬЕ|туника гжель|туника""гжель""",26705.0,3,55.0,Y,1496.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3157,GOODS_STYLE,embroidery|zhukova,8,2024-2026|2025,Жукова|Круиз,ВЫШИВКА|КЕЙП|кейп,38381.0,4,32.5,Y,5280.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3159,GOODS_STYLE,mokeeva|zhukova,8,2025,Крушинская|Мадина|Сазонова,ЮБКА|юбка,56098.0,8,,Y,5822.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2703,GOODS_STYLE,embroidery|zhukova,8,2024-2026|2025,Жукова|ЦУМ,БЛУЗА|блуза,14975.0,1,29.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3223,GOODS_STYLE,embroidery|zhukova,8,2024-2026|2025,Запас|Капсула|МД,СВИТЕР|свитер,2000.0,1,80.5,Y,0.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3197,GOODS_STYLE,embroidery|mokeeva|zhukova,8,2024|2024-2026|2025,Капсула|Сазонова,КИМОНО|ЮБКА|брюки,18192.0,2,8.5,Y,1760.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3266,GOODS_STYLE,embroidery|mokeeva|zhukova,8,2024-2026|2025,Капсула|Маганова|Филимонова,ШАРФИК|горжетка|шарф,14697.0,4,19.0,Y,5200.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3042С,GOODS_STYLE,embroidery|zhukova,8,2024|2024-2026,Запас|Хоба,БЛУЗА|блуза,1109.0,1,15.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3042А,GOODS_STYLE,embroidery|mokeeva,8,2024-2026|2025,Кулишова|Кулишова М,блуза|блуза с цветк,10632.0,1,10.5,N,,,,N,N,ORPHAN_COST,N,YES
+46-26,COLLECTION_STYLE,embroidery|mokeeva,8,2024-2026|2025,Коллекция|коллекция 46,платье,20715.0,1,48.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3277А,GOODS_STYLE,embroidery|mokeeva,8,2024-2026|2025,Казьмина А|Капсула|осен.капсула 25,ПЕРЕДЕЛКА платье|платье,20814.0,2,57.0,Y,7275.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3265А,GOODS_STYLE,embroidery|mokeeva,8,2024-2026|2025|2026,Белла|МД повтор|Маганова,"платок|платок шейный, шелк белый|шейн платок",40570.0,7,1.5,Y,997.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+30-15,COLLECTION_STYLE,embroidery|mokeeva,8,2024-2026|2025,Климова|Климова Е,"жакет|жакет ""звезды""",17200.0,1,88.5,N,,,,N,N,ORPHAN_COST,N,YES
+47-08,COLLECTION_STYLE,embroidery|mokeeva,8,2024-2026|2025,Коллекция|Коллекция 47,жакет|цветок|юбка,52510.0,2,122.5,N,,,,N,N,ORPHAN_COST,N,YES
+48-10,COLLECTION_STYLE,embroidery|mokeeva,8,2024-2026|2026,Коллекция|Коллекция 48,платье,,0,134.5,N,,,,N,N,ORPHAN_COST,N,YES
+48-17,COLLECTION_STYLE,embroidery|mokeeva,8,2024-2026|2026,Коллекция|Коллекция 48,блуза|платье|турнюр,,0,43.0,N,,,,N,N,ORPHAN_COST,N,YES
+43-15,COLLECTION_STYLE,embroidery,8,2024-2026,Литвинюк,платье,,0,313.9,Y,15680.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-02,COLLECTION_STYLE,embroidery,8,2024-2026,Коллекция|Кулишова|Повтор,комбинезон,,0,197.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3223А,GOODS_STYLE,embroidery,8,2024-2026,Запас|Капсула,свитер,,0,86.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3365,GOODS_STYLE,embroidery|mokeeva|zhukova,7,2024-2026|2026,Жукова|Сазонова,БЛУЗОН|блуза|блуза/шорты,37736.0,3,14.5,Y,2352.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3063,GOODS_STYLE,zhukova,7,2024|2025|2026,,БРЮКИ,6926.0,7,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3083,GOODS_STYLE,mokeeva|zhukova,7,2024|2025,Фомина,КЕЙП|кейп перья с барх завяз,260348.0,5,,Y,33840.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2600,GOODS_STYLE,merkushina|mokeeva|zhukova,7,2024|2025|ИМ,Черник,БРЮКИ|Брюки|Брюки ЧерныйДюшес,17940.54,7,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3160,GOODS_STYLE,zhukova,7,2025,,ПЛАТЬЕ|ПЛАТЬЕ(блуза),17185.0,7,,Y,4002.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3143,GOODS_STYLE,mokeeva|zhukova,7,2025,Мадина|Сазонова,ФРЕНЧ|френч,44164.0,7,,Y,5016.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3112,GOODS_STYLE,mokeeva|zhukova,7,2025,Фомина,ЮБКА|юбка,24659.0,7,,Y,3826.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3188,GOODS_STYLE,embroidery|zhukova,7,2024-2026|2025,Капсула,ДУБЛЕНКА|жакет,21900.0,1,76.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3278,GOODS_STYLE,embroidery|mokeeva|zhukova,7,2024-2026|2025,Ершова|Ершова С|Фомина,БЛУЗОН|блуза|блузон с выш,43734.0,3,30.5,Y,4455.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3296,GOODS_STYLE,embroidery|mokeeva|zhukova,7,2024-2026|2025,МД повтор НГ|Удрас,ПЛАТЬЕ|платье,41093.0,5,5.0,Y,2720.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+Т-3140,GOODS_STYLE,embroidery|merkushina,7,2024-2026|ИМ|Площадки,ЦУМ|Чилингарова,"платье|платье длинное, свободного кроя, с рукав",235032.6,2,23.0,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2673,GOODS_STYLE,embroidery|merkushina,7,2024-2026|ИМ,ЦУМ,Блузка бархатная с вышивкой|блуза,5353.52,1,74.5,N,,,,N,N,ORPHAN_COST,N,YES
+43-07,COLLECTION_STYLE,embroidery|mokeeva,7,2024-2026|2025,Кулишова М|Лукоянова,брюки|жакет,49770.0,3,15.0,Y,16860.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-07,COLLECTION_STYLE,embroidery|mokeeva,7,2024-2026|2025,Запас|Коллекция|Кузьмич Т,жакет|жилет|юбка,30725.0,2,36.0,Y,4506.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+33-04,COLLECTION_STYLE,embroidery|mokeeva,7,2024-2026|2025,Москова,платье,29100.0,1,87.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-1380,GOODS_STYLE,embroidery|mokeeva,7,2024-2026|2025,Черник|Черник ИВ,"блуза ""сереб листья""|блузон",18368.0,1,143.5,N,,,,N,N,ORPHAN_COST,N,YES
+47-02,COLLECTION_STYLE,embroidery|mokeeva,7,2024-2026|2025,Коллекция|Коллекция 47,боди,29600.0,1,133.5,N,,,,N,N,ORPHAN_COST,N,YES
+38-20,COLLECTION_STYLE,embroidery|mokeeva,7,2024-2026|2026,МД|МД повтор,платье,127019.0,1,104.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3390,GOODS_STYLE,embroidery|mokeeva,7,2024-2026|2026,Круиз|Круиз 26,жакет|жакет б|жакет ч,33350.8,1,8.0,Y,1470.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3404,GOODS_STYLE,embroidery|mokeeva,7,2024-2026|2026,Круиз|Круиз 26,платье|платье туника,23279.0,1,22.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-2163,GOODS_STYLE,embroidery|mokeeva,7,2024-2026|2026,Ищеева,платье|платье н/п,114758.0,1,87.5,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+48-32,COLLECTION_STYLE,embroidery|mokeeva,7,2024-2026|2026,Коллекция|Коллекция 48,платье,,0,46.5,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2967,GOODS_STYLE,embroidery,7,2024-2026,ЦУМ,платье,,0,99.0,N,,,,N,N,ORPHAN_COST,N,YES
+46-05,COLLECTION_STYLE,embroidery,7,2024-2026,Коллекция,жакет,,0,148.5,Y,824.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3223В,GOODS_STYLE,embroidery,7,2024-2026,Запас|Капсула|капсула,свитер,,0,104.5,Y,1540.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3194А,GOODS_STYLE,embroidery,7,2024-2026,Капсула,палантин,,0,66.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3092В,GOODS_STYLE,embroidery,7,2024-2026,ЦУМ,палантин,,0,132.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-1442,GOODS_STYLE,zhukova,6,2024|2025|2026,,ЮБКА,37015.0,6,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2852,GOODS_STYLE,embroidery|zhukova,6,2024-2026|2026,Жукова,КАФТАН|парео,15447.0,1,15.5,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3058,GOODS_STYLE,zhukova,6,2024|2025,,БЛУЗА|СВИТШОТ,10984.0,5,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-1416,GOODS_STYLE,merkushina|zhukova,6,2025|Площадки,,"БРЮКИ|Брюки женские (джогеры), из стрейч барха|ДЖОГГЕРЫ",10373.94,6,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3116А,GOODS_STYLE,embroidery|zhukova,6,2024-2026|2025,Погодина,ЖАКЕТ|жакет(белый),5673.0,2,17.5,Y,3152.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3155,GOODS_STYLE,mokeeva|zhukova,6,2025,Кулишова М|Кулишова Н,ШОРТЫ|шорты|шорты батист,34034.0,6,,Y,555.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3111,GOODS_STYLE,embroidery|mokeeva|zhukova,6,2024-2026|2025,Гонтова,ЖАКЕТ|жакет|жакет с выш на спине,36448.0,3,4.0,Y,1870.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3141,GOODS_STYLE,zhukova,6,2025,,ВЫШИВКА|КАФТАН,60930.0,6,,Y,4710.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3179,GOODS_STYLE,embroidery|zhukova,6,2024-2026|2025,Жукова,ФУТБОЛКА|ФУТБОЛКИ|футболка,4093.0,4,5.0,Y,1484.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3157А,GOODS_STYLE,embroidery|zhukova,6,2024-2026|2025,Жукова|Круиз,КЕЙП|кейп|кейп(белый),37281.0,3,22.0,Y,3060.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3189,GOODS_STYLE,embroidery|mokeeva|zhukova,6,2024-2026|2025,Влада|Гонтова|Гонтова Н,ДУБЛЕНКА|дубленка,186552.0,4,1.5,Y,16344.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3270,GOODS_STYLE,embroidery|mokeeva|zhukova,6,2024-2026|2025,Капсула|осен.капсула 25,ПЛАТЬЕ|платье,25400.0,2,16.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3102,GOODS_STYLE,embroidery|zhukova,6,2024|2024-2026,ЦУМ,ПАЛЬТО|накидка|халат,53031.0,3,62.0,Y,6300.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3090,GOODS_STYLE,embroidery|zhukova,6,2024|2024-2026,ЦУМ,КЕЙП|НАКИДКА|накидка,16777.0,1,106.0,Y,4160.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3128С,GOODS_STYLE,embroidery|mokeeva,6,2024-2026|2025,Круиз|круиз 25,жакет|куртка(розовая)|куртка(фуксия),18240.0,1,26.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3194,GOODS_STYLE,embroidery|mokeeva,6,2024-2026|2025,Капсула|МД|осен.капсула 25,палантин,2500.0,1,14.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3298,GOODS_STYLE,embroidery|mokeeva,6,2024-2026|2025,МД|НГ капсула,"брошь|брошь ""Лист""|платье М",12000.0,1,22.5,Y,1760.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+36-01,COLLECTION_STYLE,embroidery|mokeeva,6,2024-2026|2025,Харитонова,жакет,30487.0,1,55.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3320,GOODS_STYLE,embroidery|mokeeva,6,2024-2026|2026,МД|МД запуск Канны,платье,150982.0,1,67.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3394,GOODS_STYLE,embroidery|mokeeva,6,2024-2026|2026,Круиз|Круиз 26|Кулишова,юбка шорты|юбка-шорты,31634.0,2,4.0,Y,776.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+48-31,COLLECTION_STYLE,embroidery|mokeeva,6,2024-2026|2026,Коллекция|Коллекция 48,платье|турнюр,,0,5.0,N,,,,N,N,ORPHAN_COST,N,YES
+44-03,COLLECTION_STYLE,embroidery,6,2024-2026,Харитонова,жакет,,0,33.5,Y,3450.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-26,COLLECTION_STYLE,embroidery,6,2024-2026,Коллекция,платье,,0,53.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-2973,GOODS_STYLE,embroidery,6,2024-2026,Меркушина|ЦУМ,блуза|рубашка,,0,21.5,Y,570.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3128А,GOODS_STYLE,embroidery,6,2024-2026,Круиз,куртка(серая),,0,21.5,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3152А,GOODS_STYLE,embroidery,6,2024-2026,ЦУМ,блуза,,0,19.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-2807,GOODS_STYLE,embroidery,6,2024-2026,МД,пальто,,0,126.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3349,GOODS_STYLE,mokeeva|zhukova,5,2026,Фомина|Хачатрян Т,БРЮКИ|брюки|брюки б/п,110017.4,5,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+47-24,COLLECTION_STYLE,mokeeva|zhukova,5,2025|2026,Коллекция 47,БАЛЕРО|ПЛАТЬЕ|платье с пелериной,98439.0,5,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3419,GOODS_STYLE,zhukova,5,2026,,РУБАШКА,16115.0,5,,Y,1980.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3331А,GOODS_STYLE,zhukova,5,2026,,БРАСЛЕТ|БРАСЛЕТЫ,5580.0,5,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1178,GOODS_STYLE,merkushina|zhukova,5,2025|2026|ИМ,,ПАЛЬТО|ПАЛЬТО-ХАЛАТ|Пальто - халат,8767.0,5,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3073,GOODS_STYLE,zhukova,5,2024|2025|2026,,БЛУЗА|СВИТШОТ,6345.0,4,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+48-29,COLLECTION_STYLE,embroidery|mokeeva|zhukova,5,2024-2026|2026,Коллекция|Коллекция 48,ВЫШИВКА|платье|пояс,870.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2470,GOODS_STYLE,zhukova,5,2024|2025,,ЮБКА,13270.0,5,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3097,GOODS_STYLE,zhukova,5,2024|2025,,ПАЛЬТО,43861.0,4,,Y,11280.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2702,GOODS_STYLE,embroidery|zhukova,5,2024-2026|2025,Фомина,ПЛАТЬЕ|платье,4540.0,1,18.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3060,GOODS_STYLE,zhukova,5,2024|2025,,ЮБКА,4887.0,5,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3032А,GOODS_STYLE,embroidery|zhukova,5,2024|2024-2026|2025,Жукова,"ЮБКА|юбка""Герда""",8377.0,2,10.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3154,GOODS_STYLE,mokeeva|zhukova,5,2025,Кулишова Н,БЛУЗА|рубашка,18186.0,5,,Y,1358.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3120,GOODS_STYLE,mokeeva|zhukova,5,2025|2026,Резеда|Янакова,ПЛАТЬЕ|платье,31034.0,5,,Y,1280.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3025,GOODS_STYLE,embroidery|mokeeva|zhukova,5,2024-2026|2025,Бакунина ИМ|Жукова,БЛУЗОН|блуза|жакет,12410.0,3,12.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3156,GOODS_STYLE,mokeeva|zhukova,5,2025,Филимонова,БРЮКИ|брюки,16200.0,5,,Y,2159.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3178,GOODS_STYLE,embroidery|zhukova,5,2024-2026|2025,Жукова,ВЫШИВКА|МАЙКА|майка,20604.0,4,2.0,Y,1402.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3172,GOODS_STYLE,embroidery|mokeeva|zhukova,5,2024-2026|2025,Гонтова,ЮБКА|юбка,18908.0,2,4.0,Y,1080.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-1672В,GOODS_STYLE,embroidery|zhukova,5,2024-2026|2025,Жукова,РУБАШКА|рубашка,3294.0,2,5.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-1672С,GOODS_STYLE,embroidery|zhukova,5,2024-2026|2025,Жукова|ЦУМ,РУБАШКА|рубашка,1647.0,1,14.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2560,GOODS_STYLE,mokeeva|zhukova,5,2025|2026,Казьмина,КИМОНО|пальто халат,73733.5,5,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3275,GOODS_STYLE,mokeeva|zhukova,5,2025|2026,Баткаева|Владимирова|Кулишова М,БРЮКИ|брюки|брюки н/п,105419.0,5,,Y,5035.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3191А,GOODS_STYLE,embroidery|zhukova,5,2024-2026|2025,Дмитриева|Капсула|Шелудченко,БЛУЗА|блузон (кожа+бархат)|блузон(мех),18802.0,1,62.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3294,GOODS_STYLE,embroidery|zhukova,5,2024-2026|2025,Жукова А.,ПЛАТЬЕ|платье,11342.0,4,4.5,Y,7360.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3300,GOODS_STYLE,mokeeva|zhukova,5,2025|2026,Гонтова|Уланова|Якунина Ю,БЛУЗА|блуза,68230.0,5,,Y,3066.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2393,GOODS_STYLE,embroidery|mokeeva|zhukova,5,2024|2024-2026|2025,Луковникова,ПЛАТЬЕ|платье,27154.0,2,4.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3096,GOODS_STYLE,mokeeva|zhukova,5,2024|2025,Казьмина,ТОП|топ,22213.0,3,,Y,2855.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+Т-2804,GOODS_STYLE,embroidery|merkushina,5,2024-2026|Площадки,Запас|Маркушина,Жакет с клевантами принт ГОРОХ|блузон,17712.94,1,29.0,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3178,GOODS_STYLE,embroidery|merkushina,5,2024-2026|ИМ|Площадки,ЦУМ,"майка с вышивкой ""перец"", белый хлопок|футболка",24544.0,2,11.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3243,GOODS_STYLE,embroidery|merkushina,5,2024-2026|ИМ,Меркушина|ЦУМ,Худи из плотного футера|худи,8693.07,1,2.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2489,GOODS_STYLE,embroidery|mokeeva,5,2024-2026|2025,Батурина,жакет|жакет(кожа),23170.0,1,10.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2754А,GOODS_STYLE,mokeeva,5,2025,Батурина|Фомина,платье|платье комб,50020.0,5,,Y,4740.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3018,GOODS_STYLE,embroidery|mokeeva,5,2024-2026|2025,Мадина,платье|платье колье,22440.0,1,58.0,Y,6446.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3012,GOODS_STYLE,embroidery|mokeeva,5,2024-2026|2025,Мадина,пальто,26595.0,1,79.5,Y,4080.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-12,COLLECTION_STYLE,embroidery|mokeeva,5,2024-2026|2025,Коллекция|коллекция 46,кейп,8960.0,1,69.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-1302,GOODS_STYLE,embroidery|mokeeva,5,2024-2026|2025,Лолита,блузон,15201.0,1,34.5,N,,,,N,N,ORPHAN_COST,N,YES
+41-12,COLLECTION_STYLE,embroidery|mokeeva,5,2024-2026|2026,Марианна,платье,81402.0,1,63.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3392,GOODS_STYLE,embroidery|mokeeva,5,2024-2026|2026,Ершова|Круиз|Круиз 26,платье,46065.0,1,6.5,Y,4160.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+23-11,COLLECTION_STYLE,embroidery|mokeeva,5,2024-2026|2026,Литвинюк,платье|платье н/п,160793.0,1,181.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3370В,GOODS_STYLE,mokeeva,5,2026,Влада|Владимирова|Уланова,топ,47908.0,5,,Y,1968.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-04,COLLECTION_STYLE,embroidery,5,2024-2026,Коллекция|Повтор,"платье|платье ""феникс""",,0,159.0,Y,28720.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-16,COLLECTION_STYLE,embroidery,5,2024-2026,Влада,корсет,,0,42.0,Y,9760.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-30,COLLECTION_STYLE,embroidery,5,2024-2026,Казьмина,платье,,0,47.0,Y,42745.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3034,GOODS_STYLE,embroidery,5,2024-2026,Жукова,блуза,,0,9.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2984,GOODS_STYLE,embroidery,5,2024-2026,Харитонова|Шелудченко|Элисо,дубленка,,0,72.0,Y,18400.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-01,COLLECTION_STYLE,embroidery,5,2024-2026,Сивак,жакет|юбка,,0,90.0,Y,14100.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2997,GOODS_STYLE,embroidery,5,2024-2026,Клышевич|Мягких Ольга,боди,,0,56.0,Y,5500.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2998,GOODS_STYLE,embroidery,5,2024-2026,Клышевич,юбка,,0,20.0,Y,7000.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3072,GOODS_STYLE,embroidery,5,2024-2026,Хоба,платье,,0,30.5,Y,3570.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-08,COLLECTION_STYLE,embroidery,5,2024-2026,Коган,бомбер,,0,28.0,Y,4560.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-33,COLLECTION_STYLE,embroidery,5,2024-2026,Коллекция|Повтор,ободок(стразы на сером)|платье,,0,68.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3014В,GOODS_STYLE,embroidery,5,2024-2026,ЦУМ,"свитер|свитер(сер,бел)",,0,41.5,Y,4525.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-31,COLLECTION_STYLE,embroidery,5,2024-2026,МД,платье,,0,26.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3316,GOODS_STYLE,embroidery|mokeeva|zhukova,4,2024-2026|2026,?|Кулишова,ПАЛЬТО|брюки|пальто,14455.0,2,2.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3064А,GOODS_STYLE,mokeeva|zhukova,4,2025|2026,Кулишова М,Н/ПЛАТЬЕ|ПЛАТЬЕ|платье комб,27600.0,4,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3426,GOODS_STYLE,mokeeva|zhukova,4,2026,Кулишова|МД|Элла,ПЕРЕДЕЛКА|платье,94560.0,4,,Y,2880.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+48-19,COLLECTION_STYLE,zhukova,4,2026,,БЛУЗА|БРЮКИ|ТОП,21859.0,4,,N,,,,N,N,ORPHAN_COST,N,YES
+48-15,COLLECTION_STYLE,embroidery|mokeeva|zhukova,4,2024-2026|2026,Коллекция|Коллекция 48,ПЛАТЬЕ|платье|трусики,3850.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3040,GOODS_STYLE,zhukova,4,2024|2025,,БРЮКИ,6384.0,4,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3030А,GOODS_STYLE,zhukova,4,2024|2025,,БЛУЗА|БЛУЗОН,6584.0,4,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2406,GOODS_STYLE,zhukova,4,2024|2025,,ЮБКА,2662.0,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2788,GOODS_STYLE,embroidery|zhukova,4,2024-2026|2025,Меркушина,ПЛАТЬЕ|платье,1200.0,1,19.0,Y,1670.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3036,GOODS_STYLE,zhukova,4,2025,,ЮБКА,9685.0,4,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-1418,GOODS_STYLE,zhukova,4,2024|2025,,БЛУЗА|СВИТШОТ,10362.0,4,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3120В,GOODS_STYLE,mokeeva|zhukova,4,2025,Ершова|Михасенко|Фомина,ПЛАТЬЕ|платье,51561.0,4,,Y,3680.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3117А,GOODS_STYLE,mokeeva|zhukova,4,2025,Филимонова,ШОРТЫ|шорты,10588.0,4,,Y,775.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3126,GOODS_STYLE,embroidery|zhukova,4,2024-2026|2025,Жукова,БОМБЕР|бомбер,24774.0,3,4.5,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3153,GOODS_STYLE,embroidery|zhukova,4,2024-2026|2025,Жукова,ЖАКЕТ|ЖИЛЕТ|жилет,12940.0,3,2.0,Y,2586.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3134,GOODS_STYLE,mokeeva|zhukova,4,2025|2026,Мусатова,ШОРТЫ|шорты,12262.0,4,,Y,259.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3152В,GOODS_STYLE,zhukova,4,2025,,ВЫШИВКА|КАФТАН,13910.0,3,,Y,2095.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3168,GOODS_STYLE,zhukova,4,2025,,РУБАШКА,17888.0,4,,Y,7741.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3182,GOODS_STYLE,embroidery|zhukova,4,2024-2026|2025,Жукова,БЛУЗОН|СВИТШОТ|свитшот,10444.0,3,1.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3185,GOODS_STYLE,zhukova,4,2025,,БЛУЗА,19785.0,4,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3204,GOODS_STYLE,embroidery|zhukova,4,2024-2026|2025,Капсула,КУРТКА|куртка,47652.0,1,36.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3198А,GOODS_STYLE,embroidery|mokeeva|zhukova,4,2024-2026|2025,Гонтова Н|Капсула,ПАЛЬТО|пальто (розовое)|пальто с выш,56132.0,2,9.0,Y,2880.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3260,GOODS_STYLE,mokeeva|zhukova,4,2025|2026,Владимирова|Ершова,ТОП|блуза|топ,82644.5,4,,Y,2328.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3267А,GOODS_STYLE,embroidery|zhukova,4,2024-2026|2025,Капсула,ПАЛАНТИН|палантин,3000.0,1,28.5,Y,2210.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-1486,GOODS_STYLE,merkushina|zhukova,4,2024|2025|ИМ,,ЮБКА|ЮбкаЧерный Пайетки,14848.62,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3247,GOODS_STYLE,zhukova,4,2025,,РУБАШКА,27109.0,4,,Y,5940.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-963,GOODS_STYLE,zhukova,4,2024|2025,,РУКАВА,5393.0,4,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+43-24,COLLECTION_STYLE,embroidery|mokeeva|zhukova,4,2024-2026|2025,Кулишова М|Уланова|Уланова И,ПОЛОЧКА|платье,94284.0,3,0.5,Y,51320.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3095,GOODS_STYLE,zhukova,4,2024,,НАКИДКА|ПАЛАНТИН,29631.0,3,,Y,1870.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3092,GOODS_STYLE,zhukova,4,2024,,НАКИДКА|ПАЛАНТИН,17246.0,3,,Y,3220.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3088,GOODS_STYLE,embroidery|zhukova,4,2024|2024-2026,Жукова,КЕЙП|КЕЙП С ДЕКОРОМ|кейп,10857.0,1,8.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3080,GOODS_STYLE,zhukova,4,2024,,ПЛАТЬЕ,12477.0,2,,Y,6580.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3024,GOODS_STYLE,embroidery|zhukova,4,2024|2024-2026,Резеда,ЮБКА|платье,7140.0,3,6.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+Т-1418,GOODS_STYLE,merkushina,4,ИМ|Площадки,,Пуловер бархат|Пуловер стрейч-бархат черный,65926.87,4,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2472,GOODS_STYLE,merkushina,4,ИМ|Площадки,,Брюки джерси|Брюки футер с принтом|Брюки футер черный,30490.5,4,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2973,GOODS_STYLE,embroidery|merkushina,4,2024-2026|ИМ|Площадки,ЦУМ,"Рубашка белый
+вышивка на кармане|Рубашка с вышивка на кармане|рубашка",14130.77,2,4.0,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2973А,GOODS_STYLE,merkushina,4,ИМ|Площадки,,"Рубашка розовый 
+вышивка на карман|Рубашка с вышивка на кармане",20180.37,4,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2984,GOODS_STYLE,embroidery|merkushina,4,2024-2026|Площадки,ЦУМ,Куртка черный/белый дубленка 100%|дубленка,302202.79,1,19.0,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2988,GOODS_STYLE,merkushina,4,ИМ|Площадки,,Брюки палаццо из тонкой шерсти|Брюки палаццо черные|Брюки черные 100% шерсть,56856.48,4,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3102,GOODS_STYLE,embroidery|merkushina,4,2024-2026|ИМ|Площадки,МД|ЦУМ,Пальто из темно-синего шелкового бархата|пальто халат,33287.96,2,28.5,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3179A,GOODS_STYLE,embroidery|merkushina,4,2024-2026|ИМ|Площадки,ЦУМ горох,"футболка|футболка с вышивкой ""горох"", белый хлопо",20076.0,2,13.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3359,GOODS_STYLE,embroidery|merkushina,4,2024-2026|ИМ,Меркушина Т,Блуза пижамная из экошелка|жакет,3128.98,1,7.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3348,GOODS_STYLE,merkushina,4,ИМ,,Брюки бархатные|Брюки палаццо  из стрейч-бархата,8678.88,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+18-16,COLLECTION_STYLE,embroidery|mokeeva,4,2024-2026|2025,Элиза Дубай,"платье|платье""листья""",25435.0,1,37.5,N,,,,N,N,ORPHAN_COST,N,YES
+39-12,COLLECTION_STYLE,embroidery|mokeeva,4,2024-2026|2025,Кузнецова О|Кулишова,"кафтан|кафтан""разводы""",22581.0,1,13.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3299,GOODS_STYLE,mokeeva,4,2025|2026,МД повтор НГ|НГ капсула,платье|платье S|платье М,100064.8,4,,Y,2352.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3069А,GOODS_STYLE,embroidery|mokeeva,4,2024-2026|2025,Ушакова,топ,11532.0,1,5.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3391,GOODS_STYLE,embroidery|mokeeva,4,2024-2026|2026,Круиз|Круиз 26,платье,56020.0,1,9.5,Y,5220.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3427А,GOODS_STYLE,mokeeva,4,2026,МД,блуза перья,186416.0,4,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3032A,GOODS_STYLE,embroidery,4,2024-2026,Жукова,"юбка""Герда""",,0,9.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3032B,GOODS_STYLE,embroidery,4,2024-2026,Жукова,"юбка""Герда""",,0,9.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3021,GOODS_STYLE,embroidery,4,2024-2026,Жукова,жакет,,0,22.2,Y,2240.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3042,GOODS_STYLE,embroidery,4,2024-2026,Жукова,блуза,,0,19.9,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3034А,GOODS_STYLE,embroidery,4,2024-2026,Жукова,блуза,,0,6.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3003,GOODS_STYLE,embroidery,4,2024-2026,Запас|Коллекция|Хоба,платье,,0,53.5,Y,3060.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+Т-2940,GOODS_STYLE,embroidery,4,2024-2026,ЦУМ,платье,,0,12.5,N,,,,N,N,ORPHAN_COST,N,YES
+38-02,COLLECTION_STYLE,embroidery,4,2024-2026,Харитонова,платье,,0,38.0,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2847,GOODS_STYLE,embroidery,4,2024-2026,ЦУМ,платье,,0,34.5,N,,,,N,N,ORPHAN_COST,N,YES
+44-02,COLLECTION_STYLE,embroidery,4,2024-2026,Коган,юбка,,0,74.5,Y,9895.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3291А,GOODS_STYLE,embroidery,4,2024-2026,Капсула,блузон(мех),,0,7.5,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3179А,GOODS_STYLE,embroidery,4,2024-2026,ЦУМ|ЦУМ горох,футболка,,0,27.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3413,GOODS_STYLE,embroidery,4,2024-2026,Круиз,плате|платье,,0,6.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3315,GOODS_STYLE,embroidery|zhukova,3,2024-2026|2026,Жукова А.,ПАЛЬТО|пальто,14167.0,2,2.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3332,GOODS_STYLE,zhukova,3,2026,,МИТЕНКИ,12459.0,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3351,GOODS_STYLE,zhukova,3,2026,,РУБАШКА,14617.0,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3397,GOODS_STYLE,embroidery|zhukova,3,2024-2026|2026,Жукова|Жукова А.,ПЛАТЬЕ|блуза,7000.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3380,GOODS_STYLE,mokeeva|zhukova,3,2026,Гонтова|Круиз 26,ПЛАТЬЕ|платье|платье н/п,26461.0,2,,Y,1176.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3371С,GOODS_STYLE,mokeeva|zhukova,3,2026,Влада|Гонтова,БЛУЗА|рубашка,13638.0,2,,Y,2376.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3371А,GOODS_STYLE,mokeeva|zhukova,3,2026,Резеда,БЛУЗА|рубашка,15067.0,3,,Y,3928.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3372А,GOODS_STYLE,mokeeva|zhukova,3,2026,Резеда,БРЮКИ|брюки,8073.0,3,,Y,2713.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3059,GOODS_STYLE,zhukova,3,2024|2025,,БРЮКИ,3637.0,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3085,GOODS_STYLE,zhukova,3,2024|2025,,ПЕРЧАТКИ,2434.0,2,,Y,3010.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3055А,GOODS_STYLE,merkushina|zhukova,3,2025|ИМ,,БЛУЗА|Рубашка шелк Черный Игрик хаотичный,19876.85,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3077А,GOODS_STYLE,zhukova,3,2025,,БЛУЗА|ЛОНГСЛИВ,5060.0,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3123,GOODS_STYLE,mokeeva|zhukova,3,2025,Чилингарова,БРЮКИ|брюки н/п,17763.0,3,,Y,960.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-1487,GOODS_STYLE,merkushina|zhukova,3,2025|ИМ,,ЮБКА|Юбкасеребро Пайетки,7941.0,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3137,GOODS_STYLE,zhukova,3,2025,,КИМОНО|ПАЛЬТО,26882.0,3,,Y,3348.0,SKU_ONLY,MED,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3165,GOODS_STYLE,zhukova,3,2025,,ПЛАТЬЕ|ПОЯС,20404.0,3,,Y,3060.0,SKU_ONLY,MED,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3110В,GOODS_STYLE,mokeeva|zhukova,3,2025,Кулишова М,БРЮКИ|брюки,20779.0,3,,Y,3000.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3162,GOODS_STYLE,zhukova,3,2025,,КИМОНО,15414.0,3,,Y,1576.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3164,GOODS_STYLE,zhukova,3,2025,,ТОП,3944.0,2,,Y,536.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3145,GOODS_STYLE,embroidery|zhukova,3,2024-2026|2025,Жукова,ПЛАТЬЕ|платье,8250.0,2,7.0,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3124,GOODS_STYLE,zhukova,3,2025,,ПЛАТЬЕ|ШОРТЫ,7665.0,3,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3121А,GOODS_STYLE,mokeeva|zhukova,3,2025,Филимонова,ПЛАТЬЕ|сарафан,27889.0,3,,Y,2970.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3043А,GOODS_STYLE,embroidery|zhukova,3,2024-2026|2025,Жукова,БЛУЗА|поло,5091.0,2,2.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3146,GOODS_STYLE,zhukova,3,2025,,РУБАШКА,8054.0,3,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3133,GOODS_STYLE,mokeeva|zhukova,3,2025,Филимонова,ЖИЛЕТ|платье,12717.0,3,,Y,1629.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-2032,GOODS_STYLE,mokeeva|zhukova,3,2025,Батурина,БЛУЗА|куртка батист,18318.0,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2037,GOODS_STYLE,mokeeva|zhukova,3,2025,Батурина,БРЮКИ|брюки батист,12730.0,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3148,GOODS_STYLE,embroidery|zhukova,3,2024-2026|2025,Жукова,ПЛАТЬЕ|платье,22589.0,2,3.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3138,GOODS_STYLE,zhukova,3,2025,,МАЙКА|ПЛАТЬЕ|ЮБКА,10050.0,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3168В,GOODS_STYLE,mokeeva|zhukova,3,2025,Кулишова Н,РУБАШКА|рубашка,14738.0,3,,Y,5609.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3147,GOODS_STYLE,mokeeva|zhukova,3,2025,Сиротова,ПЛАТЬЕ|платье,20621.0,3,,Y,1402.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3183,GOODS_STYLE,embroidery|zhukova,3,2024-2026|2025,Жукова,ЮБКА|свитшот,16894.0,2,1.5,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2854А,GOODS_STYLE,zhukova,3,2025,,КАФТАН,25800.0,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3234,GOODS_STYLE,mokeeva|zhukova,3,2025,повтор осен. капсулы 25,ПЛАТЬЕ|платье М,53735.0,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3192,GOODS_STYLE,mokeeva|zhukova,3,2025,Уланова И|осен.капсула 25,КЕЙП|мех|накидка,55487.0,3,,Y,16120.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3259,GOODS_STYLE,embroidery|zhukova,3,2024-2026|2025,Капсула,ПЛАТОК|платок,872.0,1,1.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3261,GOODS_STYLE,mokeeva|zhukova,3,2025,Ищеева Е|Медведева,ГАРЖЕТКА|накидка горжетка,17710.0,3,,Y,5390.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3250,GOODS_STYLE,mokeeva|zhukova,3,2025,Вита,ПЕРЕДЕЛКА юбка|ЮБКА,8776.0,3,,Y,1950.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3251,GOODS_STYLE,zhukova,3,2025,,БЛУЗА|ТОП,20734.0,3,,Y,900.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3281,GOODS_STYLE,embroidery|zhukova,3,2024-2026|2025,Жукова,ПЛАТЬЕ|платье,22077.0,2,4.0,Y,4060.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3307А,GOODS_STYLE,mokeeva|zhukova,3,2025,Резеда,ПЛАТЬЕ|платье,26318.0,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3098,GOODS_STYLE,zhukova,3,2024|2025,,ПЕРЧАТКИ,7677.0,2,,Y,1504.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2007А,GOODS_STYLE,zhukova,3,2024,,БРЮКИ,2875.0,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2137,GOODS_STYLE,zhukova,3,2024,,БЛУЗА,2931.0,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3093,GOODS_STYLE,zhukova,3,2024,,КОЛЬЕ|МАНИШКА|ПАЛАНТИН,20817.0,1,,Y,6300.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2471,GOODS_STYLE,zhukova,3,2024,,БРЮКИ|СВИТШОТ,8817.0,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3081,GOODS_STYLE,zhukova,3,2024,,КЕЙП|НАКИДКА,33763.0,1,,Y,0.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3084,GOODS_STYLE,zhukova,3,2024,,КЕЙП|КЕЙП С БОА,21397.0,1,,Y,3360.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3029,GOODS_STYLE,merkushina|zhukova,3,2024|Площадки,,БРЮКИ|Брюки шелковые  на резинке,7550.0,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+Т-2699,GOODS_STYLE,embroidery|zhukova,3,2024|2024-2026,интернет магазин,ЮБКА|юбка,,0,11.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3091,GOODS_STYLE,zhukova,3,2024,,ТОП,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3089,GOODS_STYLE,embroidery|zhukova,3,2024|2024-2026,Янина Даша,КЕЙП|КЕЙП С ДЕКОРОМ|кейп,11854.0,2,3.0,Y,2727.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3079,GOODS_STYLE,zhukova,3,2024,,ПЛАТЬЕ,9694.0,2,,Y,4480.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3096А,GOODS_STYLE,mokeeva|zhukova,3,2024|2025,Казьмина|Панченко,ТОП|топ,27607.0,3,,Y,950.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+Т-2470,GOODS_STYLE,merkushina,3,ИМ|Площадки,,Юбка джерси|Юбка футер черный,34940.1,3,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2359,GOODS_STYLE,merkushina,3,ИМ|Площадки,,"Пуловер сердце
+черный|Свитшот джерси Сердце",48855.27,3,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2359А,GOODS_STYLE,merkushina,3,ИМ|Площадки,,"Пуловер дерево
+черный|Свитшот джерси Дерево",50449.9,3,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2865A,GOODS_STYLE,merkushina,3,ИМ|Площадки,,Платье из батиста|Платье из батиста (переделка готового пл,82913.16,3,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3152B,GOODS_STYLE,merkushina,3,ИМ|Площадки,,"кафтан длинный, с вышивкой ""папайя"", бат",84846.96,3,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3152A,GOODS_STYLE,merkushina,3,ИМ|Площадки,,"кафтан длинный, с вышивкой ""перец"", бати",77067.21,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3184,GOODS_STYLE,embroidery|merkushina,3,2024-2026|ИМ,,Бомбер из бархата с оборками из тафты на|блузон,4683.7,1,3.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+Т-2936,GOODS_STYLE,embroidery|merkushina,3,2024-2026|ИМ,ЦУМ|интернет магазин,"Жакет Черный
+Шелковый бархат|жакет",11711.18,1,4.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3340,GOODS_STYLE,merkushina,3,ИМ,,Блуза с рукавом летучая мышь|Блуза с рукавом летучая мышь из натураль,32178.33,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3341,GOODS_STYLE,merkushina|mokeeva,3,2026|ИМ,ИМ,Брюки зауженные|Брюки зауженные из костюмной ткани|брюки,19684.13,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3342,GOODS_STYLE,merkushina,3,ИМ,,Брюки  прямые из костюмной ткани|Брюки прямые,9179.26,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3355,GOODS_STYLE,merkushina|mokeeva,3,2026|ИМ,ИМ,Блуза из натурального шифона без подклад|Блуза из шифона без подклада|блуза,91915.7,3,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+ИМ-3042,GOODS_STYLE,embroidery|mokeeva,3,2024-2026|2025,Запас|Хоба,блуза,14260.0,1,1.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-2050,GOODS_STYLE,mokeeva,3,2025,Батурина|Кузнецова О,пальто-халат|шорты|шорты батист,16210.0,3,,Y,329.0,FULL,LOW,Y,Y,SUPPORTS_COLLECTION,N,YES
+29-15,COLLECTION_STYLE,mokeeva,3,2025,Влада|Луковникова,кейп|платье,78027.0,3,,N,,,,N,N,ORPHAN_COST,N,YES
+40-02,COLLECTION_STYLE,embroidery|mokeeva,3,2024-2026|2025,Ева Матвеевна|Матвеева,жакет,19535.0,1,24.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3272,GOODS_STYLE,mokeeva,3,2025|2026,Гонтова|Кузьмич|осен.капсула 25,юбка|юбка н/п,60078.0,3,,Y,2064.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-1283,GOODS_STYLE,mokeeva,3,2025,Баткаева Н|Влада|Воронина,брюки|брюки н/п,32942.0,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3310,GOODS_STYLE,mokeeva,3,2025,Казьмина А|Элисо,ПЕРЕДЕЛКА топа|топ н/п|топ со стойкой,30320.0,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3327,GOODS_STYLE,mokeeva,3,2026,Кузьмич М|МД пижамы,рубашка пжамная|рубашка пижамная,136699.6,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3333,GOODS_STYLE,mokeeva,3,2026,МД запуск,пальто б/п L|пальто б/п S,134907.0,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3334,GOODS_STYLE,mokeeva,3,2026,МД запуск|Шелудченко,брюки|брюки н/п L|брюки н/п S,53338.0,3,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3408,GOODS_STYLE,embroidery|mokeeva,3,2024-2026|2026,Круиз|Круиз 26,бомбер,26952.0,1,13.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3381,GOODS_STYLE,embroidery|mokeeva,3,2024-2026|2026,Круиз|Круиз 26,платье,64590.0,1,9.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3368А,GOODS_STYLE,mokeeva,3,2026,Владимирова|Кулишова|Чилингарова,блуза|блузон,21233.0,1,,Y,5428.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3369А,GOODS_STYLE,mokeeva,3,2026,Владимирова|Кулишова|Чилингарова,брюки,15660.0,1,,Y,3900.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-08,COLLECTION_STYLE,embroidery|mokeeva,3,2024-2026|2026,Борисевич|Геращенко,боди|жакет,65394.0,1,39.0,Y,30721.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+48-01,COLLECTION_STYLE,embroidery|mokeeva,3,2024-2026|2026,Коллекция|Коллекция 48,платье|шорты,704.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+48-03,COLLECTION_STYLE,embroidery|mokeeva,3,2024-2026|2026,Коллекция|Коллекция 48,брюки|комбинезон,,0,2.0,N,,,,N,N,ORPHAN_COST,N,YES
+48-05,COLLECTION_STYLE,mokeeva,3,2026,Коллекция 48,камзол|корсет|шорты,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+25-16,COLLECTION_STYLE,embroidery,3,2024-2026,Повтор,платье,,0,230.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-2665,GOODS_STYLE,embroidery,3,2024-2026,ЦУМ,блуза,,0,8.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+18-15,COLLECTION_STYLE,embroidery,3,2024-2026,Элиза Дубай,куртка,,0,22.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-2163А,GOODS_STYLE,embroidery,3,2024-2026,Сиротина,платье,,0,16.0,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3222С,GOODS_STYLE,embroidery,3,2024-2026,Запас|Капсула,свитер,,0,109.5,Y,2080.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+31-34,COLLECTION_STYLE,embroidery,3,2024-2026,Якунина,платье,,0,44.0,N,,,,N,N,ORPHAN_COST,N,YES
+36-17,COLLECTION_STYLE,embroidery,3,2024-2026,Ищеева,Платье|платье,,0,7.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3388,GOODS_STYLE,embroidery,3,2024-2026,Жукова|Меркушина Т,пояс,,0,6.0,Y,960.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+41-08,COLLECTION_STYLE,embroidery,3,2024-2026,Борисевич,жакет,,0,74.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3317,GOODS_STYLE,zhukova,2,2026,,ПАЛЬТО,28247.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3313А,GOODS_STYLE,zhukova,2,2026,,ПАЛЬТО,24975.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3331,GOODS_STYLE,zhukova,2,2026,,БРАСЛЕТЫ,3720.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3314В,GOODS_STYLE,zhukova,2,2026,,ПАЛЬТО,42667.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3352,GOODS_STYLE,mokeeva|zhukova,2,2026,Хачатрян Т,ЮБКА|жакет н/п,47396.2,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3353,GOODS_STYLE,mokeeva|zhukova,2,2026,Хачатрян Т,ЖАКЕТ|юбка,36926.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3362,GOODS_STYLE,zhukova,2,2026,,ТОП,1637.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3367,GOODS_STYLE,mokeeva|zhukova,2,2026,Влада,ШОРТЫ|шорты-юбка,17849.0,2,,Y,752.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3405,GOODS_STYLE,zhukova,2,2026,,ЛЕКАЛА|САРАФАН,12197.0,2,,Y,6979.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3406,GOODS_STYLE,zhukova,2,2026,,ЛЕКАЛА|ПЛАТЬЕ,11484.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3376,GOODS_STYLE,embroidery|zhukova,2,2024-2026|2026,Жукова,ЮБКА|пояс,740.0,1,3.0,Y,603.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3389,GOODS_STYLE,zhukova,2,2026,,БЛУЗА|ЛЕКАЛА,1871.0,2,,Y,900.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3415,GOODS_STYLE,zhukova,2,2026,,БЛУЗА|ЛЕКАЛА,2325.0,2,,Y,469.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3374,GOODS_STYLE,zhukova,2,2026,,БЛУЗА|ЛЕКАЛА,3185.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3375,GOODS_STYLE,zhukova,2,2026,,ЛЕКАЛА|ЮБКА,2891.0,2,,Y,0.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3094А,GOODS_STYLE,zhukova,2,2026,,ЧОКЕР,1280.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3038,GOODS_STYLE,zhukova,2,2025|2026,,ПЛАТЬЕ,8840.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3405А,GOODS_STYLE,zhukova,2,2026,,ПЛАТЬЕ,20594.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3414А,GOODS_STYLE,mokeeva|zhukova,2,2026,Кулишова,БЛУЗА|блуза,10396.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2546,GOODS_STYLE,zhukova,2,2025|2026,,КИМОНО,16890.0,2,,Y,1576.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3380С,GOODS_STYLE,zhukova,2,2026,,ПЛАТЬЕ,6096.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2540,GOODS_STYLE,zhukova,2,2025|2026,,БЛУЗА,11741.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2541,GOODS_STYLE,zhukova,2,2025|2026,,БРЮКИ,8538.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+48-33,COLLECTION_STYLE,mokeeva|zhukova,2,2026,Коллекция 48,ПЛАТЬЕ|платье,4950.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3075,GOODS_STYLE,zhukova,2,2024|2025,,ФУТБОЛКА,3357.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2686,GOODS_STYLE,zhukova,2,2025,,БЛУЗА,4674.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-1098В,GOODS_STYLE,zhukova,2,2024|2025,,БЛУЗА,5527.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2473,GOODS_STYLE,zhukova,2,2025,,КАРДИГАН,5860.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3087В,GOODS_STYLE,zhukova,2,2024|2025,,СУМКИ|СУМОЧКИ,3684.0,2,,Y,1020.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2359А,GOODS_STYLE,zhukova,2,2024|2025,,СВИТШОТ,6494.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3087А,GOODS_STYLE,zhukova,2,2024|2025,,КИСЕТ|СУМКИ,6822.0,1,,Y,3240.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3083В,GOODS_STYLE,zhukova,2,2024|2025,,КЕЙП,45697.0,1,,Y,11880.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3082А,GOODS_STYLE,zhukova,2,2024|2025,,КЕЙП,47957.0,2,,Y,4340.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3055,GOODS_STYLE,zhukova,2,2025,,БЛУЗА|РУБАШКА,12974.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3109А,GOODS_STYLE,mokeeva|zhukova,2,2025,Ушакова,ЖИЛЕТ|туника,18529.0,2,,Y,1919.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3110А,GOODS_STYLE,mokeeva|zhukova,2,2025,Ушакова,БРЮКИ|брюки,11498.0,2,,Y,2040.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3122,GOODS_STYLE,zhukova,2,2025,,РУБАШКА,10014.0,2,,Y,1176.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3118,GOODS_STYLE,zhukova,2,2025,,КАФТАН,12690.0,2,,Y,1336.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3119,GOODS_STYLE,zhukova,2,2025,,КАФТАН,8624.0,2,,Y,1029.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3161,GOODS_STYLE,mokeeva|zhukova,2,2025,Фомина,БРОШЬ|пальто-халат,13290.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3136,GOODS_STYLE,zhukova,2,2025,,БРЮКИ,7918.0,2,,Y,960.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3135,GOODS_STYLE,zhukova,2,2025,,БЛУЗА,11209.0,2,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3122А,GOODS_STYLE,mokeeva|zhukova,2,2025,Чилингарова,РУБАШКА|рубашка,24380.0,2,,Y,2352.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3151,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,13044.0,2,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3109В,GOODS_STYLE,mokeeva|zhukova,2,2025,Кулишова М,ЖИЛЕТ|туника,20742.0,2,,Y,2424.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3163,GOODS_STYLE,zhukova,2,2025,,БРЮКИ,7686.0,2,,Y,960.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3109,GOODS_STYLE,mokeeva|zhukova,2,2025,Луковникова,ЖИЛЕТ|туника,14750.0,2,,Y,679.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3110,GOODS_STYLE,mokeeva|zhukova,2,2025,Луковникова,БРЮКИ|брюки,14750.0,2,,Y,840.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-3144А,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,6900.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3044А,GOODS_STYLE,zhukova,2,2025,,ШОРТЫ,1362.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3115,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,5846.0,2,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3157С,GOODS_STYLE,embroidery|zhukova,2,2024-2026|2025,Жукова,КЕЙП|кейп,12427.0,1,1.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-3125,GOODS_STYLE,zhukova,2,2025,,БЛУЗА|ПЛАТЬЕ,8500.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3158,GOODS_STYLE,zhukova,2,2025,,ЖИЛЕТ,7141.0,2,,Y,1680.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3117,GOODS_STYLE,zhukova,2,2025,,ШОРТЫ,1576.0,2,,Y,376.0,SKU_ONLY,LOW,Y,N,SUPPORTS_COLLECTION,N,YES
+0-2600А,GOODS_STYLE,merkushina|zhukova,2,2025|ИМ,,БРЮКИ|Брюки,2652.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3168А,GOODS_STYLE,zhukova,2,2025,,РУБАШКА,6888.0,2,,Y,4350.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3061,GOODS_STYLE,merkushina|zhukova,2,2025|ИМ,,ПАЛЬТО|ХалатЧерныйСтрейч-Бархат + пайетки,6564.14,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3062,GOODS_STYLE,zhukova,2,2025,,МАЙКА|ПЛАТЬЕ-ТОП,3927.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3091А,GOODS_STYLE,mokeeva|zhukova,2,2025,Луковникова,БОДИ|боди,17190.0,2,,Y,2210.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3171,GOODS_STYLE,mokeeva|zhukova,2,2025,Ершова,ДЖИНСЫ|брюки,13000.0,2,,Y,776.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2455А,GOODS_STYLE,merkushina|zhukova,2,2025|ИМ,,ЮБКА|Юбка сетка с принтом,9676.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3055В,GOODS_STYLE,zhukova,2,2025,,БЛУЗА,12974.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3160А,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,4754.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3137А,GOODS_STYLE,zhukova,2,2025,,КИМОНО,24882.0,2,,Y,3245.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3133А,GOODS_STYLE,zhukova,2,2025,,ЖИЛЕТ,5714.0,2,,Y,1348.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3156Д,GOODS_STYLE,zhukova,2,2025,,БРЮКИ,5870.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3210,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,7731.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2854,GOODS_STYLE,zhukova,2,2025,,КАФТАН|КЕЙП,14475.0,2,,Y,4732.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2873,GOODS_STYLE,mokeeva|zhukova,2,2025,Маганова,БРЮКИ|брюки,11498.0,2,,Y,6800.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3193,GOODS_STYLE,mokeeva|zhukova,2,2025|2026,Владимирова,КУРТКА|куртка,87681.0,2,,Y,3170.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+Т-2234А,GOODS_STYLE,merkushina|zhukova,2,2025|ИМ,,ПЛАТЬЕ|Платье - балон,18127.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3195,GOODS_STYLE,mokeeva|zhukova,2,2025,Вита,КУРТКА|рубашка с пояс/карман,27220.0,2,,Y,1100.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3222Д,GOODS_STYLE,zhukova,2,2025,,СВИТЕР,11000.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2781,GOODS_STYLE,mokeeva|zhukova,2,2025,Филимонова,ЮБКА|юбка,11862.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3257,GOODS_STYLE,zhukova,2,2025,,ЮБКА,7508.0,2,,Y,1440.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3226,GOODS_STYLE,mokeeva|zhukova,2,2025,Якунина,ЮБКА|юбка,22323.0,2,,Y,960.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3203,GOODS_STYLE,mokeeva|zhukova,2,2025,осен.капсула 25,КУРТКА|куртка кожа,54118.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3224,GOODS_STYLE,mokeeva|zhukova,2,2025,осен.капсула 25,ЖАКЕТ|жакет,8563.0,2,,Y,2880.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3267В,GOODS_STYLE,mokeeva|zhukova,2,2025,Маганова/ повтор,ПАЛАНТИН|палантин,12987.0,2,,Y,3570.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3279,GOODS_STYLE,mokeeva|zhukova,2,2025,Ефремова,МАНЖЕТЫ|манжеты,3850.0,2,,Y,0.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3211,GOODS_STYLE,mokeeva|zhukova,2,2025,осен.капсула 25,ПАЛЬТО|пальто,22000.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2885,GOODS_STYLE,mokeeva|zhukova,2,2025|2026,Владимирова,КИМОНО|кимоно,32910.6,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2779А,GOODS_STYLE,zhukova,2,2025,,КЕЙП,35714.0,2,,Y,9100.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3293А,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,7391.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3284,GOODS_STYLE,zhukova,2,2025,,КОРСЕТ,4658.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3241,GOODS_STYLE,zhukova,2,2025,,БАЛЕРО|ФИГАРО,22777.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3305,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,6157.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3245,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,5890.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3283,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,44240.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3307,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,5575.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3252,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,12627.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3280,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,16627.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2027F,GOODS_STYLE,zhukova,2,2025,,КАФТАН|Н/ПЛАТЬЕ,6460.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3242,GOODS_STYLE,zhukova,2,2025,,КЕЙП,46963.0,2,,Y,12240.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3282,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,15083.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3301,GOODS_STYLE,zhukova,2,2025,,ЮБКА,5468.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3303,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,18960.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3249,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,5568.0,2,,Y,5740.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3285,GOODS_STYLE,zhukova,2,2025,,ПЛАТЬЕ,4913.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3087,GOODS_STYLE,zhukova,2,2024,,СУМКА|СУМКИ,1682.0,1,,Y,1980.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3086,GOODS_STYLE,zhukova,2,2024,,КЕЙП,4942.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3100,GOODS_STYLE,zhukova,2,2024,,ПАЛЬТО,46181.0,1,,Y,11000.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3092А,GOODS_STYLE,zhukova,2,2024,,ПАЛАНТИН,11334.0,2,,Y,10810.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3083А,GOODS_STYLE,zhukova,2,2024,,КЕЙП,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3044,GOODS_STYLE,zhukova,2,2024,,ШОРТЫ,1362.0,2,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+Т-1416,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Брюки джогеры,27089.83,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2792,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Платье из шифона,118225.78,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2862,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Рубашка дерево,30715.77,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2871А,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Блузка с завязками,11755.77,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2873,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Брюки с лампасом Y хаотичный,69966.35,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2805,GOODS_STYLE,merkushina|mokeeva,2,2026|Площадки,ИМ Черник,Туника шифон принт ГОРОХ|туника,44796.72,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2910,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Топ-майка сетка со стразами,15735.77,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3108,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Брюки сигаретки хб,15109.77,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2861,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Футболка принт La vie in Yanina,5755.77,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2861A,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Футболка принт ДЕРЕВО,5755.77,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3014В,GOODS_STYLE,merkushina,2,Площадки,,Свитер кашемировый черный с расшитыми ру|Свитер черный КАМНИ,99900.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2604,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Юбка черный стрейч бархат|Юбка черный стрейч-бархат,9071.63,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3023,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Платье черное мини из шелкового бархата ,23812.13,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2381,GOODS_STYLE,merkushina|mokeeva,2,2025|Площадки,Резеда,Блуза-топ черный из шелка на бретельках|топ,21042.21,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3062,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Блуза-топ черный из шелка без рукавов,22982.98,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3079,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Платье длинное из черного стрейч бархата,42700.01,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3092А,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"Накидка с прорезями для рук, из черного ",47788.45,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3091D,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"Топ без рукавов, кокетка- черная сетка, ",14846.93,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3187,GOODS_STYLE,merkushina,2,ИМ|Площадки,,Платье миди из голубого стрейч бархата 6,53220.39,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2985,GOODS_STYLE,merkushina,2,Площадки,,Юбка из шифона на шелковом подкладе. Выш,25260.74,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3168A,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"рубашка, батист с авторским принтом ""гор",40321.04,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3168B,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"рубашка длинная, батист с авторским прин",30037.02,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3168,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"рубашка, батист с авторским принтом ""пер",41627.65,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3133А,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"платье мини, без рукавов, батист с автор",17162.79,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3156D,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"брюки укороченные, батист с авторским пр",13190.55,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3156,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"брюки укороченные, батист с авторским пр",20973.76,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3109B,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"туника на пугвицах, без рукавов, белый ш",42788.63,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3110B,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"брюки широкие, белый шелк с авторским пр",59166.98,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3109,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"туника на пугвицах, без рукавов, голубой",45693.48,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3110,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"брюки широкие, голубой шелк с авторским ",28791.04,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3137A,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"пальто-кимоно, черный шелк с авторским п",115869.47,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3136A,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"брюки широкие, с лампасами, черный шелк ",111274.44,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3140A,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"платье длинное, свободного кроя, с рукав",180431.85,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3179,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"футболка с вышивкой ""папайя"", черных хло",22548.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3122,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"блузон длинный, с рукавами, синий шелк с",34232.95,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3069В,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"топ на тонких бретельках, шелк",22500.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3120А,GOODS_STYLE,merkushina,2,ИМ|Площадки,,"Платье
+синий шелк принт мелкие девочким|Платье с принтом девочки",67790.11,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3209С,GOODS_STYLE,merkushina,2,ИМ,,"Брюки  Черный
+Стрейч бархат|Брюки из бархата",3379.32,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3240,GOODS_STYLE,merkushina,2,ИМ,,Юбка А-силуэт из сетки|Юбка лагатола сетка,11708.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3338,GOODS_STYLE,merkushina,2,ИМ,,Блуза из кружева без карманов,21554.52,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3358,GOODS_STYLE,merkushina,2,ИМ,,Блуза из искусственной органзы с вышитым|Блузка из шифона с отрезной кокеткой из ,11171.6,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3356,GOODS_STYLE,merkushina|mokeeva,2,2026|ИМ,ИМ,Платье из натурального шелка без подклад|платье,50380.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3346,GOODS_STYLE,merkushina,2,ИМ,,Платье из Стрейч-бархата двубортное на п|Платье из стрейч-бархата с поясом с кист,18105.35,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3421,GOODS_STYLE,merkushina,2,ИМ,,Пояс бархат с кисточками|Пояс бархатный с кисточками,1474.25,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3422,GOODS_STYLE,merkushina,2,ИМ,,Пояс бархат с Бахромой|Пояс бархатный с бахромой,1786.0,2,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2991,GOODS_STYLE,mokeeva,2,2025,Зарина,водолазка,12200.0,2,,Y,857.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-01,COLLECTION_STYLE,mokeeva,2,2025|2026,Кислова|Романова,корсет|платье,13525.0,2,,Y,7160.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+31-05,COLLECTION_STYLE,mokeeva,2,2025,Романова,блуза|юбка,30645.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2027,GOODS_STYLE,embroidery|mokeeva,2,2024-2026|2025,Финк,кафтан,9805.0,1,21.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3132А,GOODS_STYLE,mokeeva,2,2025,Якунина|круиз 25,Платье|платье,30385.0,2,,Y,1760.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-23,COLLECTION_STYLE,mokeeva,2,2025,Кузьмич Т|Морозова,юбка,22190.0,2,,Y,8730.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2117,GOODS_STYLE,mokeeva,2,2025,Михасенко|Ушакова,платье,40720.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2754А,GOODS_STYLE,mokeeva,2,2025,Ушакова|повтор,платье комбин|платье комбинация,30559.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2754,GOODS_STYLE,mokeeva,2,2025,Кузнецова|Кузнецова О,платье|платье сорочка,23599.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2750А,GOODS_STYLE,mokeeva,2,2025,Кузнецова,топ,8000.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-0118М,GOODS_STYLE,mokeeva,2,2025,Медведева|повтор МД,рукава,3000.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3308,GOODS_STYLE,mokeeva,2,2025,НГ капсула,платье L|платье S,41410.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3295A,GOODS_STYLE,mokeeva,2,2025,НГ капсула,платье с драпиров L|платье с драпиров S,24000.0,2,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3295В,GOODS_STYLE,mokeeva,2,2025,НГ капсула,платье с драпиров L|платье с драпиров S,24000.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-0118,GOODS_STYLE,mokeeva,2,2025,МД|Медведева,рукава,3000.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3311,GOODS_STYLE,mokeeva,2,2025,Казьмина А,ПЕРЕДЕЛКА брюк|брюки,22121.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3328,GOODS_STYLE,mokeeva,2,2026,МД пижамы,брюки,60870.4,2,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3380А,GOODS_STYLE,mokeeva,2,2026,Круиз 26|МД повтор,платье,54697.0,2,,Y,6574.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3372С,GOODS_STYLE,mokeeva,2,2026,Влада|Гонтова,брюки,5620.0,1,,Y,1641.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3368В,GOODS_STYLE,mokeeva,2,2026,Влада|Дашкова Е,рубашка,31179.6,2,,Y,1503.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3369В,GOODS_STYLE,mokeeva,2,2026,Влада|Дашкова Е,брюки,25877.5,2,,Y,1080.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3427,GOODS_STYLE,mokeeva,2,2026,МД,блуза перья|блуза перья L,226368.0,2,,N,,,,N,N,ORPHAN_COST,N,YES
+48-07,COLLECTION_STYLE,mokeeva,2,2026,Коллекция 48,комбинезон|турнюр,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+48-14,COLLECTION_STYLE,embroidery|mokeeva,2,2024-2026|2026,Коллекция|Коллекция 48,платье,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+48-16,COLLECTION_STYLE,mokeeva,2,2026,Коллекция 48,брюки|жакет,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+26-27,COLLECTION_STYLE,embroidery,2,2024-2026,Харитонова,платье,,0,4.0,N,,,,N,N,ORPHAN_COST,N,YES
+44-29,COLLECTION_STYLE,embroidery,2,2024-2026,Кулишова|Юля,блузон|блузон(кожа),,0,44.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-2865А,GOODS_STYLE,embroidery,2,2024-2026,Жукова,платье,,0,60.0,Y,15419.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+31-45,COLLECTION_STYLE,embroidery,2,2024-2026,Жукова,платье,,0,6.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3298А,GOODS_STYLE,embroidery,2,2024-2026,Капсула,пальто(розовое),,0,3.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-2985А,GOODS_STYLE,embroidery,2,2024-2026,ЦУМ,юбка розов,,0,6.5,N,,,,N,N,ORPHAN_COST,N,YES
+0-2328Д,GOODS_STYLE,embroidery,2,2024-2026,Жукова А.,"юбка ""хризантемы""",,0,23.5,N,,,,N,N,ORPHAN_COST,N,YES
+40-18,COLLECTION_STYLE,embroidery,2,2024-2026,Янукова,платье,,0,17.5,N,,,,N,N,ORPHAN_COST,N,YES
+44-10,COLLECTION_STYLE,embroidery,2,2024-2026,МД,платье,,0,3.0,N,,,,N,N,ORPHAN_COST,N,YES
+48-06,COLLECTION_STYLE,embroidery,2,2024-2026,Коллекция,жакет,,0,16.5,N,,,,N,N,ORPHAN_COST,N,YES
+33-30,COLLECTION_STYLE,embroidery,2,2024-2026,Кулишова|Кулишова Настя,платье,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+50-150,COLLECTION_STYLE,embroidery,2,2024-2026,,,,0,2500.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3075В,GOODS_STYLE,zhukova,1,2026,,ФУТБОЛКА,827.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3326,GOODS_STYLE,zhukova,1,2026,,КОМБЕНИЗОН,5190.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3330,GOODS_STYLE,zhukova,1,2026,,ПЛПТЬЕ,7290.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3377,GOODS_STYLE,zhukova,1,2026,,КОЛЬЕ,3965.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3323,GOODS_STYLE,zhukova,1,2026,,ПЛАТЬЕ,8567.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3324,GOODS_STYLE,zhukova,1,2026,,ПЛАТЬЕ,9409.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3335,GOODS_STYLE,zhukova,1,2026,,ПЛАТЬЕ,4021.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3336,GOODS_STYLE,zhukova,1,2026,,ПЛАТЬЕ,2077.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2173А,GOODS_STYLE,zhukova,1,2026,,БЛУЗА,1620.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3325,GOODS_STYLE,zhukova,1,2026,,ПЛАТЬЕ,6476.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3315А,GOODS_STYLE,zhukova,1,2026,,ПАЛЬТО,7767.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3316А,GOODS_STYLE,zhukova,1,2026,,ПАЛЬТО,12355.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3366,GOODS_STYLE,zhukova,1,2026,,ТОП,767.0,1,,Y,216.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3379,GOODS_STYLE,zhukova,1,2026,,БЛУЗА,2331.0,1,,Y,1503.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3403,GOODS_STYLE,zhukova,1,2026,,ПЛАТЬЕ,2895.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3322,GOODS_STYLE,zhukova,1,2026,,ПЛАТЬЕ,3340.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3402,GOODS_STYLE,zhukova,1,2026,,ПЛАТЬЕ,14046.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3420,GOODS_STYLE,zhukova,1,2026,,БРЮКИ,5179.0,1,,Y,679.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3396А,GOODS_STYLE,zhukova,1,2026,,платье,2490.0,1,,Y,1176.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3385А,GOODS_STYLE,zhukova,1,2026,,БЛУЗА,2175.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3424,GOODS_STYLE,zhukova,1,2026,,РУБАШКА,6025.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3425,GOODS_STYLE,zhukova,1,2026,,ШОРТЫ,3357.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3409,GOODS_STYLE,zhukova,1,2026,,ПЕРЕДЕЛКА,8400.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2850,GOODS_STYLE,zhukova,1,2026,,ПАЛЬТО-ХАЛАТ,10110.0,1,,Y,1477.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3432,GOODS_STYLE,zhukova,1,2026,,СВИТШОТ,1394.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+Т-2541,GOODS_STYLE,zhukova,1,2026,,БРЮКИ,8230.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3031,GOODS_STYLE,zhukova,1,2025,,БРЮКИ,1206.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3076А,GOODS_STYLE,zhukova,1,2025,,СВИТШОТ,2281.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3075А,GOODS_STYLE,zhukova,1,2025,,ФУТБОЛКА,1680.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3106,GOODS_STYLE,zhukova,1,2025,,ПАЛЬТО,10339.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2754,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,9289.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3090А,GOODS_STYLE,zhukova,1,2025,,НАКИДКА,23739.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1934,GOODS_STYLE,zhukova,1,2025,,ШОПЕР,4747.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2364А,GOODS_STYLE,zhukova,1,2025,,БЛУЗА,1448.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2007A,GOODS_STYLE,zhukova,1,2025,,БРЮКИ,951.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3105,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,10080.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3105А,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,9762.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1984П,GOODS_STYLE,zhukova,1,2025,,ФУТБОЛКА,2477.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2460А,GOODS_STYLE,zhukova,1,2025,,БОМБЕР,4189.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3107,GOODS_STYLE,zhukova,1,2025,,ПАЛЬТО,31817.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3107А,GOODS_STYLE,zhukova,1,2025,,ПАЛЬТО,13347.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2892,GOODS_STYLE,zhukova,1,2025,,БЛУЗА,1200.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3043В,GOODS_STYLE,zhukova,1,2025,,БЛУЗА,2633.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3068А,GOODS_STYLE,zhukova,1,2025,,БРЮКИ,1421.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1416В,GOODS_STYLE,zhukova,1,2025,,ДЖОГГЕРЫ,1544.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1418А,GOODS_STYLE,zhukova,1,2025,,СВИТШОТ,2937.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1968,GOODS_STYLE,zhukova,1,2025,,ПАЛЬТО,3000.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3068В,GOODS_STYLE,zhukova,1,2025,,БРЮКИ,1421.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3067В,GOODS_STYLE,zhukova,1,2025,,БЛУЗОН,2179.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3031В,GOODS_STYLE,zhukova,1,2025,,БРЮКИ,1206.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3073А,GOODS_STYLE,zhukova,1,2025,,БЛУЗА,1836.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3118А,GOODS_STYLE,zhukova,1,2025,,КАФТАН,11690.0,1,,Y,1336.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3119А,GOODS_STYLE,zhukova,1,2025,,КАФТАН,7624.0,1,,Y,1249.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3067А,GOODS_STYLE,zhukova,1,2025,,БЛУЗОН,2179.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3122A,GOODS_STYLE,zhukova,1,2025,,РУБАШКА,8714.0,1,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3030В,GOODS_STYLE,zhukova,1,2025,,БЛУЗА,2070.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3127А,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,6732.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3115А,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,3846.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3065,GOODS_STYLE,zhukova,1,2025,,БЛУЗА,1898.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3066,GOODS_STYLE,zhukova,1,2025,,БРЮКИ,1266.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3136А,GOODS_STYLE,zhukova,1,2025,,БРЮКИ,6775.0,1,,Y,1020.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3135А,GOODS_STYLE,zhukova,1,2025,,БЛУЗОН,11675.0,1,,Y,1419.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3125В,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,9954.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3051,GOODS_STYLE,zhukova,1,2025,,БРЮКИ,1760.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3145А,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,7250.0,1,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3127,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,1200.0,1,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3139,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,9128.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3142,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,12642.0,1,,Y,1680.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-43,GOODS_STYLE,zhukova,1,2025,,ПОЛОЧКА,15000.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3152А,GOODS_STYLE,zhukova,1,2025,,КАФТАН,4294.0,1,,Y,2052.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3159А,GOODS_STYLE,zhukova,1,2025,,ЮБКА,6066.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3143А,GOODS_STYLE,zhukova,1,2025,,ФРЕНЧ,4951.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1187,GOODS_STYLE,zhukova,1,2025,,ПИЖАМА,5647.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3166,GOODS_STYLE,zhukova,1,2025,,РУБАШКА,3444.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3179А,GOODS_STYLE,zhukova,1,2025,,ФУТБОЛКА,900.0,1,,Y,1642.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2028,GOODS_STYLE,zhukova,1,2025,,КИМОНО,9289.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3154С,GOODS_STYLE,zhukova,1,2025,,БЛУЗА,2468.0,1,,Y,720.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3156С,GOODS_STYLE,zhukova,1,2025,,БРЮКИ,2935.0,1,,Y,500.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+41-16,COLLECTION_STYLE,zhukova,1,2025,,ПЛАТЬЕ,2625.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1486С,GOODS_STYLE,zhukova,1,2025,,ЮБКА,8165.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3223Д,GOODS_STYLE,zhukova,1,2025,,СВИТЕР,10800.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3182A,GOODS_STYLE,zhukova,1,2025,,СВИТШОТ,4422.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3183А,GOODS_STYLE,zhukova,1,2025,,ЮБКА,8452.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3221Е,GOODS_STYLE,zhukova,1,2025,,СВИТЕР,13260.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3222Е,GOODS_STYLE,zhukova,1,2025,,СВИТЕР,16327.0,1,,Y,2080.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2319,GOODS_STYLE,zhukova,1,2025,,КУРТКА,4180.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3222,GOODS_STYLE,zhukova,1,2025,,СВИТЕР,12750.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3222F,GOODS_STYLE,zhukova,1,2025,,СВИТЕР,16327.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3190,GOODS_STYLE,zhukova,1,2025,,ПАЛЬТО,3200.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3201,GOODS_STYLE,zhukova,1,2025,,ДУБЛЕНКА,9550.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3227,GOODS_STYLE,zhukova,1,2025,,ЮБКА,8200.0,1,,Y,1392.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3207,GOODS_STYLE,zhukova,1,2025,,ЮБКА,10802.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3278А,GOODS_STYLE,zhukova,1,2025,,БЛУЗОН,23350.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3228,GOODS_STYLE,zhukova,1,2025,,ЮБКА,727.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2050М,GOODS_STYLE,zhukova,1,2025,,ШОРТЫ,2050.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2050F,GOODS_STYLE,zhukova,1,2025,,ШОРТЫ,975.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2931А,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,7150.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2029,GOODS_STYLE,zhukova,1,2025,,ШОРТЫ,1050.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3198В,GOODS_STYLE,zhukova,1,2025,,ПАЛЬТО,33411.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3231А,GOODS_STYLE,zhukova,1,2025,,куртка,10887.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3224А,GOODS_STYLE,zhukova,1,2025,,ЖАКЕТ,7828.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3257А,GOODS_STYLE,zhukova,1,2025,,ЮБКА,6524.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3224С,GOODS_STYLE,zhukova,1,2025,,ЖАКЕТ,12326.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-1960,GOODS_STYLE,zhukova,1,2025,,БЛУЗА,2387.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+43-12,COLLECTION_STYLE,zhukova,1,2025,,ЛЕКАЛА,3300.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+39-09,COLLECTION_STYLE,zhukova,1,2025,,ПЛАТЬЕ,2100.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+39-17,COLLECTION_STYLE,zhukova,1,2025,,ПЛАТЬЕ,2100.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+39-22,COLLECTION_STYLE,zhukova,1,2025,,ПЛАТЬЕ,2800.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+39-27,COLLECTION_STYLE,zhukova,1,2025,,КЕЙП,2200.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+39-07,COLLECTION_STYLE,zhukova,1,2025,,ПЛАТЬЕ,2200.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+39-02,COLLECTION_STYLE,zhukova,1,2025,,ПЛАТЬЕ,3050.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1559,GOODS_STYLE,zhukova,1,2025,,КЕЙП,7730.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2855,GOODS_STYLE,zhukova,1,2025,,КАФТАН,10513.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+40-21,COLLECTION_STYLE,zhukova,1,2025,,ПЛАТЬЕ,1900.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+40-22,COLLECTION_STYLE,zhukova,1,2025,,ПЛАТЬЕ,1800.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-7,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,1900.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+40-12,COLLECTION_STYLE,zhukova,1,2025,,ПЛАТЬЕ,2300.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+40-13,COLLECTION_STYLE,zhukova,1,2025,,ПЛАТЬЕ,2300.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+40-08,COLLECTION_STYLE,zhukova,1,2025,,"ПЛАТЬЕ,КЕЙП",2800.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+40-05,COLLECTION_STYLE,zhukova,1,2025,,КОСТЮМ,2700.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+40-06,COLLECTION_STYLE,zhukova,1,2025,,КОСТЮМ,2800.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2894,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,5299.0,1,,Y,2100.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2075В,GOODS_STYLE,zhukova,1,2025,,КЕЙП,3000.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3293,GOODS_STYLE,zhukova,1,2025,,ПЛАТЬЕ,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3253,GOODS_STYLE,zhukova,1,2025,,ПАЛАНТИН,5727.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3314А,GOODS_STYLE,zhukova,1,2025,,ПАЛЬТО,30817.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3045,GOODS_STYLE,zhukova,1,2025,,КОЛЬЕ,783.0,1,,Y,13940.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3306,GOODS_STYLE,zhukova,1,2025,,БРАСЛЕТЫ,683.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3313,GOODS_STYLE,zhukova,1,2025,,ПАЛЬТО,13462.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3314,GOODS_STYLE,zhukova,1,2025,,ПАЛЬТО,83872.0,1,,Y,31741.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2472,GOODS_STYLE,zhukova,1,2024,,БРЮКИ,2316.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-2317,GOODS_STYLE,zhukova,1,2024,,ПАЛЬТО,8615.0,1,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3054,GOODS_STYLE,zhukova,1,2024,,ПЛАТЬЕ,,0,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3041А,GOODS_STYLE,zhukova,1,2024,,ПЛАТЬЕ,6099.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3101,GOODS_STYLE,zhukova,1,2024,,ПАЛЬТО,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1672,GOODS_STYLE,zhukova,1,2024,,РУБАШКА,1636.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3091С,GOODS_STYLE,zhukova,1,2024,,БЛУЗА,4587.0,1,,Y,0.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3091Д,GOODS_STYLE,zhukova,1,2024,,ТОП,7006.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3096В,GOODS_STYLE,zhukova,1,2024,,ТОП,4801.0,1,,Y,0.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3091В,GOODS_STYLE,zhukova,1,2024,,ТОП,4587.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3084А,GOODS_STYLE,zhukova,1,2024,,КЕЙП С БОА,21397.0,1,,Y,8280.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3019,GOODS_STYLE,zhukova,1,2024,,ПАЛЬТО,,0,,Y,5760.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-1960,GOODS_STYLE,zhukova,1,2024,,БЛУЗА,2306.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3092С,GOODS_STYLE,zhukova,1,2024,,ПАЛАНТИН,20817.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3096Д,GOODS_STYLE,zhukova,1,2024,,ТОП,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3059В,GOODS_STYLE,zhukova,1,2024,,БРЮКИ,1259.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-1984Р,GOODS_STYLE,merkushina,1,Площадки,,Футболка,13325.96,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-1444А,GOODS_STYLE,merkushina,1,Площадки,,Худи с капюшоном Дерево,24490.59,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2792А,GOODS_STYLE,merkushina,1,Площадки,,Платье из шифона,95866.97,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2788,GOODS_STYLE,merkushina,1,Площадки,,Платье из шифона,93005.53,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2865,GOODS_STYLE,merkushina,1,Площадки,,Платье из батиста,34987.65,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2894,GOODS_STYLE,merkushina,1,Площадки,,Платье + рукава буфы,26197.43,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2888,GOODS_STYLE,merkushina,1,Площадки,,Платье из батиста,21837.59,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2973В,GOODS_STYLE,merkushina,1,Площадки,,Рубашка с вышивка на кармане,17641.53,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2974A,GOODS_STYLE,merkushina,1,Площадки,,Рубашка цветы,30715.77,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2871,GOODS_STYLE,merkushina,1,Площадки,,Блузка с завязками,10030.77,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2872,GOODS_STYLE,merkushina,1,Площадки,,Блузон с лампасом по низу Y хаотичный,87619.77,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2928,GOODS_STYLE,merkushina,1,Площадки,,Блузон капли,49862.97,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2873С,GOODS_STYLE,merkushina,1,Площадки,,Брюки без лампас капли,44660.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2892,GOODS_STYLE,merkushina,1,Площадки,,Жакет с карманами принт ГОРОХ,40730.74,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2893,GOODS_STYLE,merkushina,1,Площадки,,Брюки с кантом принт ГОРОХ,32334.12,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2806,GOODS_STYLE,merkushina,1,Площадки,,Брюки широкие принт ГОРОХ,20515.77,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2909,GOODS_STYLE,merkushina,1,Площадки,,Брюки шелковые,10855.77,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2911,GOODS_STYLE,merkushina,1,Площадки,,Пальто-халат сетка со стразами,17700.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2921,GOODS_STYLE,merkushina,1,Площадки,,Шорты шелк,16355.77,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2975,GOODS_STYLE,merkushina,1,Площадки,,Шорты принт ЦВЕТЫ,6155.77,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2885,GOODS_STYLE,merkushina,1,Площадки,,Халат накидка принт ЦВЕТЫ,27850.77,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2924,GOODS_STYLE,merkushina,1,Площадки,,Пальто-халат шифон,39355.77,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2923,GOODS_STYLE,merkushina,1,Площадки,,Топ-майка сетка со стразами,19175.77,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1672C,GOODS_STYLE,merkushina,1,Площадки,,"Рубашка в белом цвете, новая надпись",1904.17,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3014А,GOODS_STYLE,merkushina,1,Площадки,,Свитер серый вышивка ФАНТАЗИЙНАЯ,49950.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3014С,GOODS_STYLE,merkushina,1,Площадки,,"Свитер розовый вышивка ГОРТЕНЗИИ 
+100% к",16650.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2604А,GOODS_STYLE,merkushina,1,Площадки,,Юбка Леопард из джерси,5744.69,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3013,GOODS_STYLE,merkushina,1,Площадки,,Жакет Леопард из джерси,19157.52,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2987,GOODS_STYLE,merkushina,1,Площадки,,Жакет черный кожаный со съемным бантом,32073.95,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3090,GOODS_STYLE,merkushina,1,Площадки,,"Накидка из черной тафтына подкладке, с в",96325.77,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3187А,GOODS_STYLE,merkushina,1,Площадки,,Платье миди темно-синий стрейч бархат В ,32653.61,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3086,GOODS_STYLE,merkushina,1,Площадки,,"Накидка на синтепоне, из
+черного шелково",23311.9,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3186,GOODS_STYLE,merkushina,1,Площадки,,Юбка длинная из черного стрейч бархата,8502.61,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3088,GOODS_STYLE,merkushina,1,Площадки,,Кейп из черного шелкового бархата,65340.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3049,GOODS_STYLE,merkushina,1,Площадки,,"Бомбер с вышивкой, из
+черного стрейч бар",7573.02,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3092В,GOODS_STYLE,merkushina,1,Площадки,,"Накидка с вышивкой и бахромой, из голубо",16007.19,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3133C,GOODS_STYLE,merkushina,1,Площадки,,"платье мини, с рукавом, батист с авторск",10593.81,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3134C,GOODS_STYLE,merkushina,1,Площадки,,"шорты, батист с авторским принтом ""горох",5501.47,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3118A,GOODS_STYLE,merkushina,1,Площадки,,"кафтан длинный, с воротником, темно-сини",40513.72,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3069А,GOODS_STYLE,merkushina,1,Площадки,,"топ на тонких бретельках, шелк",30380.56,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3194В,GOODS_STYLE,merkushina,1,Площадки,,Палантин с вышивкой решелье,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2671А,GOODS_STYLE,merkushina,1,Площадки,,Блузка из шифона с кружевом,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3292,GOODS_STYLE,merkushina,1,Площадки,,Платье,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3292А,GOODS_STYLE,merkushina,1,Площадки,,Платье,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3274,GOODS_STYLE,merkushina,1,Площадки,,Жакет с вышивкой,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3271А,GOODS_STYLE,merkushina,1,Площадки,,Жакет с вышивкой решелье,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3196,GOODS_STYLE,merkushina,1,Площадки,,Куртка с настроченными вышитыми цветами,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3229,GOODS_STYLE,merkushina,1,Площадки,,Жакет из бархата с вышивкой,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3276А,GOODS_STYLE,merkushina,1,Площадки,,Блузка розовая с вышивкой как у синего,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3232,GOODS_STYLE,merkushina,1,Площадки,,Блузка черная с вышивкой как у синего,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3200,GOODS_STYLE,merkushina,1,Площадки,,Пальто с норкой и вышивкой,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3205,GOODS_STYLE,merkushina,1,Площадки,,Куртка с мехом и вышивкой,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3202,GOODS_STYLE,merkushina,1,Площадки,,Куртка с мехом и вышивкой,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3275,GOODS_STYLE,merkushina,1,Площадки,,Брюки палаццо,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3230,GOODS_STYLE,merkushina,1,Площадки,,Брюки палаццо,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3272,GOODS_STYLE,merkushina,1,Площадки,,Юбка,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3197,GOODS_STYLE,merkushina,1,Площадки,,Юбка с вышивкой,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3258,GOODS_STYLE,merkushina,1,Площадки,,Юбка с вышивкой,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3233,GOODS_STYLE,merkushina,1,Площадки,,Юбка с вышивкой,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3296,GOODS_STYLE,merkushina,1,Площадки,,Платье,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3297,GOODS_STYLE,merkushina,1,Площадки,,Платье,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3307А,GOODS_STYLE,merkushina,1,Площадки,,Платье,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-0000,GOODS_STYLE,merkushina,1,Площадки,,,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2234,GOODS_STYLE,merkushina,1,ИМ,,Платье - балон,18500.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2949,GOODS_STYLE,merkushina,1,ИМ,,Платье с вышивкой ласточка,15732.15,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3238,GOODS_STYLE,merkushina,1,ИМ,,Жакет из ткани шанель,5968.92,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3239,GOODS_STYLE,merkushina,1,ИМ,,Шорты из ткани шанель,2377.47,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3248,GOODS_STYLE,merkushina,1,ИМ,,Юбка Баска А-силуэт из сетки,4375.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3244,GOODS_STYLE,merkushina,1,ИМ,,Юбка из костюмной ткани,22752.94,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3254,GOODS_STYLE,merkushina,1,ИМ,,Платье А-силуэт декор буфами,13168.83,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3255,GOODS_STYLE,merkushina,1,ИМ,,Блуза декор буфами,6777.76,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3246А,GOODS_STYLE,merkushina,1,ИМ,,"Брюки классические со стрелками, длина 7",6980.37,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3246В,GOODS_STYLE,merkushina,1,ИМ,,"Брюки бананы с отворотами, с карманами",3377.32,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3069С,GOODS_STYLE,merkushina,1,ИМ,,"топ на тонких бретельках, шелк",18972.73,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3069,GOODS_STYLE,merkushina,1,ИМ,,"топ на тонких бретельках, шелк",9114.17,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2988А,GOODS_STYLE,merkushina,1,ИМ,,Брюки палаццо в полоску серые,7605.81,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2937,GOODS_STYLE,merkushina,1,ИМ,,"Брюки  Черный
+шелковый бархат",9206.35,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-2973С,GOODS_STYLE,merkushina,1,ИМ,,"Рубашка черный 
+вышивка на кармане",3200.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-3092С,GOODS_STYLE,merkushina,1,ИМ,,НакидкаЧерныйСтрейч-Бархат,3727.15,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3068,GOODS_STYLE,merkushina,1,ИМ,,"Брюки бархат
+Стрейч бархат",2885.2,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3363,GOODS_STYLE,merkushina,1,ИМ,,Топ на тонких бретелях,548.09,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3363А,GOODS_STYLE,merkushina,1,ИМ,,Топ на тонких бретелях,856.19,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3342А,GOODS_STYLE,merkushina,1,ИМ,,Брюки  прямые из костюмной ткани,2921.98,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3360,GOODS_STYLE,merkushina,1,ИМ,,Брюки пижамные из экошелка,2328.63,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3361,GOODS_STYLE,merkushina,1,ИМ,,Жакет классический двубортный в полоску,6423.07,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3357,GOODS_STYLE,merkushina,1,ИМ,,Плащ больших форм,5411.63,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3423,GOODS_STYLE,merkushina,1,ИМ,,Платье Комбинация их экошелка,592.5,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3344,GOODS_STYLE,merkushina,1,ИМ,,Платье из шелка  отрезное по талии с юбк,30444.24,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3338А,GOODS_STYLE,merkushina,1,ИМ,,Блуза из кружева без карманов,4713.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3338В,GOODS_STYLE,merkushina,1,ИМ,,Блуза из кружева без карманов,4545.14,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3355А,GOODS_STYLE,merkushina,1,ИМ,,Блуза из шифона без подклада,20850.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3339А,GOODS_STYLE,merkushina,1,ИМ,,Платье из шифона без подклада с вышитым ,3472.5,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3357А,GOODS_STYLE,merkushina,1,ИМ,,Плащ больших форм,3679.85,1,,N,,,,N,N,ORPHAN_COST,N,YES
+Т-000,GOODS_STYLE,merkushina,1,ИМ,,Платье комбинация,,0,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2993,GOODS_STYLE,mokeeva,1,2025,Гонтова,юбка н/п,10374.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2352С,GOODS_STYLE,mokeeva,1,2025,Казьмина,пальто,19595.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2993А,GOODS_STYLE,mokeeva,1,2025,Гонтова,жакет,22056.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+43-26,COLLECTION_STYLE,mokeeva,1,2025,Кулишова М,жакет,28672.0,1,,Y,38240.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2992,GOODS_STYLE,mokeeva,1,2025,Зарина,сарафан,14800.0,1,,Y,9714.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+35-15,COLLECTION_STYLE,mokeeva,1,2025,Олейник,блузон,12000.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-1742,GOODS_STYLE,mokeeva,1,2025,Олейник,блузон Жаклин,11750.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3130А,GOODS_STYLE,mokeeva,1,2025,круиз 25,платье,18276.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3130В,GOODS_STYLE,mokeeva,1,2025,круиз 25,платье,15230.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3132,GOODS_STYLE,mokeeva,1,2025,круиз 25,Платье,15765.0,1,,Y,1650.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3131,GOODS_STYLE,mokeeva,1,2025,круиз 25,кейп,17594.0,1,,Y,2400.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3061С,GOODS_STYLE,mokeeva,1,2025,Кулишова М,пальто-халат,16953.6,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3063С,GOODS_STYLE,mokeeva,1,2025,Кулишова М,брюки,6480.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3062С,GOODS_STYLE,mokeeva,1,2025,Кулишова М,майка,8148.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+32-16,COLLECTION_STYLE,mokeeva,1,2025,Кузьмич Т,жакет,21180.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2560С,GOODS_STYLE,mokeeva,1,2025,Кузнецова О,ниж.юбка,2405.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+18-19,COLLECTION_STYLE,mokeeva,1,2025,Элиза Дубай,куртка,20180.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3129,GOODS_STYLE,mokeeva,1,2025,круиз 25,жакет,23535.0,1,,Y,2880.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3128Д,GOODS_STYLE,mokeeva,1,2025,круиз 25,жакет,18240.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2052,GOODS_STYLE,mokeeva,1,2025,Батурина,юбка батист,4875.0,1,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-2401В,GOODS_STYLE,mokeeva,1,2025,Черник,брюки,8195.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+44-18,COLLECTION_STYLE,mokeeva,1,2025,Янина Ю,пальто,22562.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+31-3442,COLLECTION_STYLE,mokeeva,1,2025,Дакота,платье микс,10140.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3156В,GOODS_STYLE,mokeeva,1,2025,Кулишова Н,брюки,3500.0,1,,Y,469.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3154А,GOODS_STYLE,mokeeva,1,2025,Кулишова Н,рубашка,5100.0,1,,Y,1020.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-13,COLLECTION_STYLE,mokeeva,1,2025,Крушинская,брюки,11000.0,1,,Y,10860.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+17-17,COLLECTION_STYLE,mokeeva,1,2025,Дара Влада,платье,43787.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+40-03,COLLECTION_STYLE,mokeeva,1,2025,Ева Матвеевна,брюки,6787.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3026,GOODS_STYLE,mokeeva,1,2025,Бакунина ИМ,брюки,10000.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+29-35,COLLECTION_STYLE,mokeeva,1,2025,Амина,юбка дюшес,21832.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3270А,GOODS_STYLE,mokeeva,1,2025,осен.капсула 25,платье,14575.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3295,GOODS_STYLE,mokeeva,1,2025,НГ капсула,платье с драпиров S,12000.0,1,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-3302В,GOODS_STYLE,mokeeva,1,2025,НГ капсула,платье-кейп,12000.0,1,,Y,1760.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3302А,GOODS_STYLE,mokeeva,1,2025,НГ капсула,платье-кейп,12000.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3302,GOODS_STYLE,mokeeva,1,2025,НГ капсула,платье-кейп,12000.0,1,,Y,1760.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3257С,GOODS_STYLE,mokeeva,1,2025,Сазонова,юбка,10747.0,1,,Y,696.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3309,GOODS_STYLE,mokeeva,1,2025,Казьмина А,ПЕРЕДЕЛКА платье,3800.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+30-16,COLLECTION_STYLE,mokeeva,1,2025,Климова Е,юбка,9256.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+30-17,COLLECTION_STYLE,mokeeva,1,2025,Климова Е,юбка,10744.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+40-16,COLLECTION_STYLE,mokeeva,1,2026,МД повтор,боди,41400.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3317L,GOODS_STYLE,mokeeva,1,2026,МД пижамы,рубашка пжамная,38130.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3417,GOODS_STYLE,mokeeva,1,2026,МД запуск,юбка н/п по 41-09,38752.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3079L,GOODS_STYLE,mokeeva,1,2026,МД повтор НГ,платье,33879.6,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3079S,GOODS_STYLE,mokeeva,1,2026,МД повтор НГ,платье,33879.6,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3329,GOODS_STYLE,mokeeva,1,2026,МД пижамы,шорты,19454.8,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3418,GOODS_STYLE,mokeeva,1,2026,МД запуск,жакет н/п по 41-09,69880.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-2419,GOODS_STYLE,mokeeva,1,2026,Катлинская,брюки,40149.0,1,,N,,,,Y,N,GOODS_COST_ONLY,N,YES
+0-2185,GOODS_STYLE,mokeeva,1,2026,Кузьмич М,брюки пижамные,53449.2,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3390А,GOODS_STYLE,mokeeva,1,2026,Круиз 26,жакет,40601.6,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3354А,GOODS_STYLE,mokeeva,1,2026,Круиз 26,юбка,33453.45,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3413А,GOODS_STYLE,mokeeva,1,2026,Круиз 26,платье,35315.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3404А,GOODS_STYLE,mokeeva,1,2026,Круиз 26,платье туника,23895.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3408А,GOODS_STYLE,mokeeva,1,2026,Круиз 26,бомбер,38546.0,1,,Y,1503.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3410А,GOODS_STYLE,mokeeva,1,2026,Круиз 26,брюки,28207.0,1,,Y,1080.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3410,GOODS_STYLE,mokeeva,1,2026,Круиз 26,брюки,21401.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3381А,GOODS_STYLE,mokeeva,1,2026,Круиз 26,платье,58849.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3411,GOODS_STYLE,mokeeva,1,2026,Круиз 26,платье,17174.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3393А,GOODS_STYLE,mokeeva,1,2026,Круиз 26,рубашка,19441.0,1,,Y,1143.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3394А,GOODS_STYLE,mokeeva,1,2026,Круиз 26,юбка шорты,12480.0,1,,Y,873.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3399А,GOODS_STYLE,mokeeva,1,2026,Круиз 26,платье,27279.0,1,,Y,0.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3054А,GOODS_STYLE,mokeeva,1,2026,Фомина,платье,54928.0,1,,N,,,,Y,Y,GOODS_COST_ONLY,N,YES
+0-3373С,GOODS_STYLE,mokeeva,1,2026,Влада,шорты,4685.0,1,,Y,336.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3373,GOODS_STYLE,mokeeva,1,2026,Владимирова,шорты,4563.0,1,,Y,630.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2493,GOODS_STYLE,mokeeva,1,2026,Дакота,платье,30911.0,1,,Y,1420.0,FULL,LOW,Y,Y,SUPPORTS_COLLECTION,N,YES
+0-3368,GOODS_STYLE,mokeeva,1,2026,Любовь Ницца,блузон,29004.0,1,,Y,2839.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3369,GOODS_STYLE,mokeeva,1,2026,Любовь Ницца,брюки,26878.5,1,,Y,2040.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3370,GOODS_STYLE,mokeeva,1,2026,Любовь Ницца,топ,16555.0,1,,Y,7239.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3416,GOODS_STYLE,mokeeva,1,2026,Майорова,брюки,16236.0,1,,Y,1600.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3134А,GOODS_STYLE,mokeeva,1,2026,Мусатова,шорты,13162.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3373А,GOODS_STYLE,mokeeva,1,2026,Резеда,шорты,4988.0,1,,Y,1701.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3378В,GOODS_STYLE,mokeeva,1,2026,Сазонова,блуза,16878.0,1,,Y,1752.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3371В,GOODS_STYLE,mokeeva,1,2026,Филимонова,рубашка,15831.75,1,,Y,1648.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3373В,GOODS_STYLE,mokeeva,1,2026,Филимонова,шорты,11964.0,1,,Y,714.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3454,GOODS_STYLE,mokeeva,1,2026,Гонтова,юбка,8402.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+0-3386,GOODS_STYLE,mokeeva,1,2026,Кулишова,брюки,,0,,Y,2182.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3370А,GOODS_STYLE,mokeeva,1,2026,Кулишова,топ,,0,,Y,4128.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+13-28,COLLECTION_STYLE,mokeeva,1,2026,Фомина,платье,48774.0,1,,N,,,,N,N,ORPHAN_COST,N,YES
+44-20,COLLECTION_STYLE,embroidery,1,2024-2026,Кулишова,накидка,,0,8.0,Y,11120.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+26-16,COLLECTION_STYLE,embroidery,1,2024-2026,Кузнецова,платье,,0,3.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3009,GOODS_STYLE,embroidery,1,2024-2026,Хоба,куртка,,0,2.0,Y,6510.0,FULL,MED,Y,Y,SUPPORTS_COLLECTION,N,YES
+44-23,COLLECTION_STYLE,embroidery,1,2024-2026,Вита,брюки,,0,2.0,N,,,,N,N,ORPHAN_COST,N,YES
+28-18,COLLECTION_STYLE,embroidery,1,2024-2026,Клшевич,платье,,0,0.5,N,,,,N,N,ORPHAN_COST,N,YES
+38-14,COLLECTION_STYLE,embroidery,1,2024-2026,Клиент,блузон,,0,3.0,N,,,,N,N,ORPHAN_COST,N,YES
+40-24,COLLECTION_STYLE,embroidery,1,2024-2026,Клиент,платье,,0,2.0,N,,,,N,N,ORPHAN_COST,N,YES
+46-28,COLLECTION_STYLE,embroidery,1,2024-2026,Коллекция,платье,,0,5.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-1387,GOODS_STYLE,embroidery,1,2024-2026,интернет магазин,юбка,,0,1.5,N,,,,N,N,ORPHAN_COST,N,YES
+Т-1387,GOODS_STYLE,embroidery,1,2024-2026,интернет магазин,юбка,,0,1.5,N,,,,N,N,ORPHAN_COST,N,YES
+43-22,COLLECTION_STYLE,embroidery,1,2024-2026,Уланова (Жукова А),платье,,0,4.5,Y,25980.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+33-20,COLLECTION_STYLE,embroidery,1,2024-2026,МД,платье,,0,115.0,N,,,,N,N,ORPHAN_COST,N,YES
+0-3412,GOODS_STYLE,embroidery,1,2024-2026,Меркушина Т,комбинезон,,0,1.0,Y,1260.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+26-08,COLLECTION_STYLE,embroidery,1,2024-2026,Крушинская,жакет,,0,,N,,,,N,N,ORPHAN_COST,N,YES

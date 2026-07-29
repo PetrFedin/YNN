@@ -3,10 +3,11 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H63 Budget plan/fact (document integration)
-Документ: `live/client_pack/50_BUDGET_VS_FACT_H63.md`  
+## Сейчас: H65 Person-cost → collection bridge
+Документ: `live/client_pack/52_PERSON_COST_COLLECTION_BRIDGE_H65.md`  
+Предыдущий data-слой: H64 SKU/stock/fabric — `51_SKU_STOCK_FABRIC_BRIDGE_H64.md`  
 Точка входа: [`NOW.md`](NOW.md)
 
-Бюджеты 2025H2/2026 → **497** строк plan/fact, топ-отклонения (представительские, мероприятия, Salon+Shop), bridge к opex.
+H65: **7096** workshop/emb линий → **327** закрытых collection gaps (~**3.41M €**), HIGH **157/190**.
 
-Updated: 2026-07-29
+Gate: **18/30** (owners). Updated: 2026-07-29

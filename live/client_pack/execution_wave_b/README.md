@@ -11,3 +11,7 @@
 4. Gate path → `07` + `05`/`06`
 
 H54: `../41_WAVE_B_READY_H54.md`
+
+## H64–H65 adds
+- `15–18_*` SKU/stock/fabric/family
+- `19–21_*` person-cost bridge + owner worksheet

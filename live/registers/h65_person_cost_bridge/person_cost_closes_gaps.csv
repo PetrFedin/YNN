@@ -1,0 +1,81 @@
+article_norm,article_family,person_sources,person_lines_n,person_years,clients_sample,products_sample,cost_rub_sum_indicative,cost_lines_n,hours_sum,in_collection_sales,collection_sale_eur,collection_link_coverage,collection_priority,in_sku_master,in_stock_cost,bridge_value,so_t,do_not_auto_accept
+46-21,COLLECTION_STYLE,embroidery|mokeeva|zhukova,129,2024-2026|2025|2026,Ахмедова|Ева Лангория|Енгибарян,НАКИДКА|ПЛАТЬЕ|блуза,1386253.85,15,3351.0,Y,79176.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-01,COLLECTION_STYLE,embroidery|mokeeva,114,2024-2026|2025|2026,Коллекция|Кузьмич|Магдалина,жакет|жакет с выш|жакет черн,315866.6,11,1039.5,Y,35620.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-12,COLLECTION_STYLE,embroidery|mokeeva,88,2024-2026|2025|2026,Борисевич|Влада|Владимирова,Браслет|боди|брошь,796752.5,14,1100.5,Y,63045.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-28,COLLECTION_STYLE,embroidery|mokeeva,73,2024-2026|2025,Казьмина|Кузьмич|Кулишова,"блуза""пальчики""|блузон|блузон клематис",20890.0,2,1624.0,Y,71545.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-09,COLLECTION_STYLE,embroidery|mokeeva,66,2024-2026|2025,Зингаревич|Крушинская|Лукоянова,"жакет|жакет""феникс""|ниж.юбка",284353.0,16,494.0,Y,67510.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-09,COLLECTION_STYLE,embroidery|mokeeva,66,2024-2026|2025,Вита|Запас|Коллекция,жилет пальто|кейп|колье,204705.0,11,622.5,Y,46110.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-06,COLLECTION_STYLE,embroidery|mokeeva,64,2024-2026|2025,Коллекция|Крушинская|Кузнецова,бант|берет фуксия|брюки,146755.0,11,364.0,Y,26420.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-05,COLLECTION_STYLE,embroidery|mokeeva|zhukova,62,2024-2026|2025,Батурина|Влада|Гирько,КОСТЮМ|жакет|жакет(кожа),144131.0,9,357.8,Y,53790.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-14,COLLECTION_STYLE,embroidery|mokeeva,59,2024-2026|2025,Вита|Кулишова|Кулишова М,жакет|жакет +шапочка|ниж платье,72505.0,4,625.5,Y,35570.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-22,COLLECTION_STYLE,embroidery|mokeeva,58,2024-2026|2025|2026,Вита|Гирько|Жилова,брюки|ободок|платье,76653.0,4,632.5,Y,102330.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3400,GOODS_STYLE,embroidery|mokeeva|zhukova,52,2024-2026|2026,Дашкова|Дашкова А|Дашкова/Жукова,ПЛАТЬЕ|платье|платье бел,137534.6,7,113.0,Y,8182.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-27,COLLECTION_STYLE,embroidery|mokeeva,50,2024-2026|2025|2026,Крупицкая|Резеда|Уланова,"блуза|блуза ""Лебедь""|блуза ""белые пальчики""",176069.0,2,648.0,Y,17010.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-18,COLLECTION_STYLE,embroidery|mokeeva,49,2024-2026|2025|2026,Коллекция|Коллекция 47|Резеда,бусы|жакет|корсет,280037.0,5,612.5,Y,11200.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-02,COLLECTION_STYLE,embroidery|mokeeva,48,2024-2026|2025,Казьмина|Мустафаева|Сазонова,жакет|юбка,75541.0,5,417.5,Y,29700.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3001,GOODS_STYLE,embroidery|zhukova,45,2024|2024-2026,Батурина|Вита|Жукова+Кузьмич,КУРТКА|куртка|куртка(капсула+клиент),5281.0,1,497.0,Y,43130.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-14,COLLECTION_STYLE,embroidery|mokeeva,45,2024-2026|2025,Коллекция|Кузьмич|Кулишова,платье,133717.0,7,478.0,Y,28670.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-19,COLLECTION_STYLE,embroidery|mokeeva,45,2024-2026|2025|2026,Коллекция|Коллекция 47|Магдалина,боди|брошь|брюки,360452.0,6,481.0,Y,29850.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3231,GOODS_STYLE,embroidery|mokeeva|zhukova,44,2024-2026|2025,Батурина|Батурина Е|Запас,КУРТКА|жакет н/п|жакет на синтепоне,92502.0,4,145.0,Y,11040.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-16,COLLECTION_STYLE,embroidery|mokeeva,43,2024-2026|2025|2026,Коллекция|Кулишова|Кулишова М,платье|платье н/п,213774.3,4,554.0,Y,34550.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-19,COLLECTION_STYLE,embroidery|mokeeva,42,2024-2026|2025,Коллекция|Литвинюк,боди|жакет|кейп,14530.0,1,618.0,Y,11680.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-02,COLLECTION_STYLE,embroidery|mokeeva,42,2024-2026|2025,Коллекция|Медведева|Элисо,жакет|пальто,53056.0,2,620.5,Y,24565.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-21,COLLECTION_STYLE,embroidery|mokeeva,42,2024-2026|2025|2026,Ахмедова|Коллекция|Коллекция 47,брошь|жакет|ниж юбка,369067.7,6,567.0,Y,43380.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-10,COLLECTION_STYLE,embroidery|mokeeva,40,2024-2026|2025|2026,Коллекция|Крупицкая|коллекция 46,блуза (по идее платья)|жакет|платье,232915.0,3,444.0,Y,12070.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-04,COLLECTION_STYLE,embroidery|mokeeva,40,2024-2026|2025,Коллекция|Мустафаева|Резеда,баска|блуза|брюки,107533.0,7,374.0,Y,18202.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-05,COLLECTION_STYLE,embroidery|mokeeva,40,2024-2026|2025|2026,Коллекция|Коллекция 47|Кузьмич,47-05|боди|брошь,274855.2,5,439.5,Y,24640.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-25,COLLECTION_STYLE,embroidery|mokeeva,39,2024-2026|2025,Коллекция|Лера|коллекция 46,жакет|ободок|перчатки,55494.0,2,354.0,Y,22800.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-01,COLLECTION_STYLE,embroidery|mokeeva,38,2024-2026|2025|2026,Болотова|Болтова|Влада,платье,241707.25,4,341.5,Y,28640.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-20,COLLECTION_STYLE,embroidery|mokeeva,38,2024-2026|2025|2026,Борисевич|Дашкова|Коллекция,платье|платье с кейпом,288129.6,3,684.0,Y,96740.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-06,COLLECTION_STYLE,embroidery|mokeeva,37,2024-2026|2025|2026,Казьмина|Коллекция|Коллекция 47,Платье|Подвеска|платье,411660.6,5,524.5,Y,46995.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-13,COLLECTION_STYLE,embroidery|mokeeva|zhukova,36,2024|2024-2026|2025,Запас|Казьмина А|Коллекция,БЛУЗА|ШОРТЫ|ЮБКА,55499.0,6,561.5,Y,6450.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-04,COLLECTION_STYLE,embroidery|mokeeva,36,2024-2026|2025,Коллекция|Кузьмич|Кузьмич Т,юбка|юбка насюрморт,27495.0,2,842.4,Y,16240.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-23,COLLECTION_STYLE,embroidery|mokeeva,36,2024-2026|2025|2026,Казьмина|Коллекция|Коллекция 47,Жакет Н/п|жакет|майка,202593.0,5,452.5,Y,16010.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-30,COLLECTION_STYLE,embroidery|mokeeva|zhukova,35,2024-2026|2025|2026,Жукова А.|Коллекция 47|Уланова,БРАСЛЕТ|ЖАКЕТ|ЮБКА,317673.0,10,400.0,Y,52470.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-31,COLLECTION_STYLE,embroidery|mokeeva|zhukova,35,2024-2026|2025,Коллекция|Кузьмич|Кузьмич Т,ПЛАТЬЕ|блузон|ободок,25890.0,3,322.0,Y,16700.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3265,GOODS_STYLE,embroidery|mokeeva|zhukova,35,2024-2026|2025,?|Баткаева|Белла,"ПЛАТОК|платок|платок шейный, шелк",18497.0,16,16.5,Y,3235.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3057,GOODS_STYLE,embroidery,34,2024-2026,Валентина|Воронина|Ищеева,платье,,0,208.0,Y,11723.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-30,COLLECTION_STYLE,embroidery|mokeeva|zhukova,33,2024-2026|2025,Коллекция|Кулишова|Кулишова М,ПЛАТЬЕ|платье,33064.0,2,461.15,Y,19000.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-03,COLLECTION_STYLE,embroidery|mokeeva,33,2024-2026|2025,Коллекция|Кулишова|Кулишова М,брюки н/п|брюки н/п + переделка|жакет,95885.0,3,384.5,Y,10620.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3274,GOODS_STYLE,embroidery|mokeeva|zhukova,32,2024-2026|2025|2026,Баткаева|Владимирова|Капсула,ЖАКЕТ|РАСШИВКА|жакет,176135.0,6,174.0,Y,16940.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3140А,GOODS_STYLE,embroidery|mokeeva|zhukova,32,2024-2026|2025,Svaetichin|Svaetichin Irina|Запас,ПЛАТЬЕ|платье|платье бабоч,103294.0,6,108.0,Y,18800.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3264,GOODS_STYLE,embroidery|mokeeva,32,2024-2026|2025,Казьмина|Казьмина А|Капсула,манжеты|манжеты (кожа бел)|манжеты (кожа черн),1500.0,3,86.0,Y,4480.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-07,COLLECTION_STYLE,embroidery|mokeeva,32,2024-2026|2025,Коллекция|Коллекция 47|Магдалина,брошь|жакет|шорты,37000.0,2,206.0,Y,1680.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3198,GOODS_STYLE,embroidery|mokeeva|zhukova,31,2024-2026|2025,Гонтова|Ершова|Капсула,ПАЛЬТО|пальто|пальто (серое),125605.0,6,162.8,Y,5120.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-11,COLLECTION_STYLE,embroidery|mokeeva,31,2024-2026|2025|2026,Владимирова|Коллекция|Коллекция 47,Браслет|брошь|жакет н/п,341284.03,7,334.0,Y,32835.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-15,COLLECTION_STYLE,embroidery|mokeeva,31,2024-2026|2025|2026,Казьмина|Коллекция|Коллекция 47,боди|брюки н/п|жакет,256742.0,3,395.0,Y,19035.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-16,COLLECTION_STYLE,embroidery|mokeeva,29,2024-2026|2025|2026,Коллекция|Коллекция 47|Мустафаева,браслет|брюки|жакет,339295.75,5,426.0,Y,29870.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-22,COLLECTION_STYLE,embroidery|mokeeva|zhukova,27,2024-2026|2025|2026,Жукова А.|Коллекция|Коллекция 47,БРАСЛЕТ|жакет|ниж. юбка,36547.0,3,289.5,Y,22880.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3200,GOODS_STYLE,embroidery|mokeeva|zhukova,27,2024-2026|2025|2026,Ефремова|Капсула|Клышевич,ПАЛЬТО|пальто|пальто с выш,282408.0,7,352.0,Y,26605.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-17,COLLECTION_STYLE,embroidery|mokeeva,26,2024-2026|2025|2026,Коллекция|Коллекция 47|Мустафаева,ниж.юбка|платье|платье корсет,245307.5,4,265.5,Y,42000.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-07,COLLECTION_STYLE,embroidery|mokeeva,26,2024-2026|2026,Вита|Коллекция|Крупицкая,Кейп|боди|кейп,204379.6,3,221.5,Y,22235.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-18,COLLECTION_STYLE,embroidery|mokeeva|zhukova,25,2024|2024-2026|2025,Коллекция|Литвинюк,БЛУЗА|ШОРТЫ|блузон,15645.0,3,357.9,Y,2080.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3273,GOODS_STYLE,embroidery|mokeeva|zhukova,25,2024-2026|2025|2026,Капсула|МД|Маганова,ПЛАТЬЕ|платье|платье круж твид,142488.3,5,164.5,Y,8580.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-01,COLLECTION_STYLE,embroidery|mokeeva,25,2024-2026|2025,Гонтова|Запас|Коллекция,жакет|жакет н/п|жакет+юбка,86555.0,6,388.5,Y,15710.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-22,COLLECTION_STYLE,embroidery|mokeeva,25,2024-2026|2025,Коллекция|Кузьмич|коллекция 46,платье|платье с арабеск,43339.0,2,330.5,Y,11340.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3384,GOODS_STYLE,embroidery|mokeeva,25,2024-2026|2026,Жукова|Запас|Круиз,кафтан|пуговицы,30314.0,1,107.0,Y,1760.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-20,COLLECTION_STYLE,embroidery|mokeeva|zhukova,24,2024-2026|2025,Коллекция|Крушинская,ПЛАТЬЕ|головной убор|платье,21126.0,2,232.0,Y,11360.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3141А,GOODS_STYLE,embroidery|mokeeva|zhukova,24,2024-2026|2025,Баткаева|Батурина|Шафикова,КАФТАН|кафтан|кафтан перец,110697.0,7,140.5,Y,12540.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3229,GOODS_STYLE,embroidery|mokeeva|zhukova,24,2024-2026|2025|2026,Вита|Владимирова|МД,ЖАКЕТ|блузон|блузон н/п,273744.7,7,98.5,Y,13230.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-22,COLLECTION_STYLE,embroidery|mokeeva,24,2024-2026|2025,Вита|Коллекция,головной убор|платье,15640.0,1,294.4,Y,9896.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3276,GOODS_STYLE,embroidery|mokeeva|zhukova,23,2024-2026|2025,Гонтова|Гонтова Н|Кулишова,БЛУЗОН|Блузон(бордо)|блузон,112458.0,7,158.0,Y,16190.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-32,COLLECTION_STYLE,embroidery|mokeeva,23,2024-2026|2025,Навка,корсет/платье+реставрац|платье,27220.0,1,418.0,Y,49250.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-05,COLLECTION_STYLE,embroidery|mokeeva,23,2024-2026|2025,Гирько|Запас|Коллекция,берет|головной убор|жакет,46514.0,3,345.5,Y,19170.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-08,COLLECTION_STYLE,embroidery|mokeeva,23,2024-2026|2025,Коллекция|Резеда,блуза|платье|платье с палериной,24525.0,1,169.5,Y,6376.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3212,GOODS_STYLE,embroidery|mokeeva|zhukova,22,2024-2026|2025|2026,Тарасенко|Тарасенкова|Умарова,"ПЛАТЬЕ|колье ""сереб колье""|манжеты ""сереб колье""",154510.0,5,267.0,Y,15200.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3399,GOODS_STYLE,embroidery|mokeeva,22,2024-2026|2026,Круиз|Круиз 26|МД,платье,66711.0,2,198.0,Y,1176.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-14,COLLECTION_STYLE,embroidery|mokeeva|zhukova,21,2024-2026|2025|2026,Владимирова|Жукова А.|Коллекция 47,ПЛАТЬЕ|ЮБКА|платье,315217.0,6,181.0,Y,24010.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3395,GOODS_STYLE,embroidery|zhukova,21,2024-2026|2026,Жукова|Ляззат,ЛЕКАЛА|ПЛАТЬЕ|платье беж,5530.0,3,51.0,Y,6240.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3206,GOODS_STYLE,embroidery|mokeeva|zhukova,21,2024-2026|2025,Капсула|Резеда|Якунина,ЖАКЕТ|жакет|жакет (желт),66249.0,3,90.5,Y,6080.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+47-27,COLLECTION_STYLE,embroidery|mokeeva|zhukova,20,2024-2026|2025|2026,Жукова А.|Кислова|Коллекция 47,ПЛАТЬЕ|брюки|кимоно,297567.0,7,207.0,Y,12580.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+45-23,COLLECTION_STYLE,embroidery|mokeeva|zhukova,20,2024-2026|2025,Коллекция|Литвинюк,ПЛАТЬЕ|платье,34258.0,2,120.4,Y,14240.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3196,GOODS_STYLE,embroidery|mokeeva|zhukova,20,2024-2026|2025,Баткаева|Батурина Е|Воронина,"КУРТКА|бомбер|бомбер ""розы""",89770.0,5,98.0,Y,12660.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+43-14,COLLECTION_STYLE,embroidery|mokeeva,20,2024-2026|2025,Кулишова|Кулишова М|Морозова,блузон|брюки|платье,34955.0,2,185.4,Y,31910.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+44-11,COLLECTION_STYLE,embroidery|mokeeva,20,2024-2026|2025,Влада|Лера|Лера Вита,брюи|брюки|ободок,38085.0,5,204.0,Y,15760.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+46-15,COLLECTION_STYLE,embroidery|mokeeva,20,2024-2026|2025,Коллекция|МД|Повтор,боди|платье,6990.0,1,474.5,Y,0.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-2999,GOODS_STYLE,embroidery,20,2024-2026,Влада|Воронина|Запас,"юбка|юбка короткая""графит""|юбка""графит листья""",,0,190.5,Y,5390.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3378,GOODS_STYLE,embroidery|mokeeva|zhukova,19,2024-2026|2026,Гонтова|Жукова|Кулишова,БЛУЗА|ЛЕКАЛА|блуза,3310.0,3,35.0,Y,1005.0,NONE,LOW,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3191,GOODS_STYLE,embroidery|mokeeva|zhukova,19,2024-2026|2025,Дмитриева|Капсула|Шелудченко,БЛУЗОН|блузон н/п|блузон с выш,54787.0,3,80.5,Y,9235.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3232,GOODS_STYLE,embroidery|mokeeva|zhukova,18,2024-2026|2025|2026,Болотова|Ефремова|Ефремова Н,БЛУЗА|блуза + переделка|блузон,118536.0,8,79.0,Y,10880.0,NONE,HIGH,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3131А,GOODS_STYLE,embroidery|mokeeva,18,2024-2026|2025,Запас|Круиз|Якунина,кейп|кейп (зеленый)|кейп(зеленый),35644.0,2,68.5,Y,2560.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
+0-3128,GOODS_STYLE,embroidery|mokeeva,18,2024-2026|2025,Круиз|круиз 25,жакет|куртка(красная),18240.0,1,49.0,Y,2240.0,NONE,MED,N,N,CLOSES_COLLECTION_GAP,N,YES
