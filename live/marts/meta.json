@@ -1,14 +1,6 @@
 {
-  "horizon": "H53",
+  "horizon": "H55",
   "date": "2026-07-29",
-  "title": "Priority ops: overbank WO + MD payment queue + unlock graph",
-  "no_fake_accept": true,
-  "artifacts": [
-    "file_intake_priority.csv",
-    "im_overbank_register_template.csv",
-    "im_overbank_work_orders.csv",
-    "md_invoice_payment_match_queue.csv",
-    "md_invoice_payment_match_rules.csv",
-    "unlock_dependency_graph.csv"
-  ]
+  "title": "Exec enablement: pings, SLA, sign packet, Stage2 entry, Wave C",
+  "no_fake_accept": true
 }

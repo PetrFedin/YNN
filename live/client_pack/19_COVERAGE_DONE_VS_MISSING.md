@@ -129,36 +129,42 @@ Marts (семейства): margin 10 · md 10 · recon 9 · settle 5 · bank 4 
 - [x] Master scheme для заказчика  
 - [x] Измерение POS/invoice в OTHER_IN  
 
-- [x] H37 deep scan 107 + tax HIGH extract + dojim owner packs (`24_…`)  
-- [x] H38 continue: IM×POS, bank/DDS gaps, FOT drivers, fabric ABC indicative (`25_…`)  
+- [x] H52 gap maps (calendar / IM acq / MD cost to-be / RACI)  
+- [x] H53 priority ops (overbank WO / MD payment queue / unlock)  
+- [x] H54 Wave B ready pack  
+- [x] H55 exec enablement (sign 15мин / pings / SLA / Stage2 entry / Wave C)  
 
 ### Не сделано (нужны owners / файлы / этапы 2+)
-- [ ] ACCEPT класса `ACQ_POS`  
-- [ ] Collect B2B 2.51M  *(пакет `dojim_B2B_collect_pack.csv` готов)*  
-- [ ] Эквайринг-реестры на 6 IM OPEN  *(пакет `dojim_IM_open_pack.csv` готов)*  
-- [ ] Alias Accept 20 SKU  *(пакет `dojim_ALIAS_review_pack.csv` готов)*  
-- [ ] Закрыть 10 OPEN RACI ФИО  *(пакет `dojim_RACI_open_pack.csv` готов)*  
+- [ ] **Подпись H51 / sign session 15 мин** *(пакет `sign_session_pack/` готов)*  
+- [ ] ACCEPT soft-slice IM / класса `ACQ_POS` (политика)  
+- [ ] Collect B2B 2.51M  *(Wave B call pack готов)*  
+- [ ] Эквайринг-реестры на IM OPEN / OVERBANK *(WO+шаблон готовы)*  
+- [ ] Alias Accept топ-5/20 SKU  *(Wave B sheet готов)*  
+- [ ] Закрыть OPEN RACI ФИО  *(sign checkboxes готовы)*  
 - [ ] Ведомости ЗП (NO_LINES) + quarantine 01–02.2026  
-- [ ] Формат cost/WIP МД + пилот contribution  
-- [ ] Договорной % ЦУМ  
+- [ ] Формат cost/WIP МД + пилот contribution *(26 WO готов)*  
+- [ ] Договорной % ЦУМ / Mercury cash  
 - [ ] ABC тканей; учёт фурнитуры  
 - [ ] Unified income / audited P&L  
 - [ ] KPI-система и дашборды «в бою»  
 - [ ] Утверждённые SOP + обучение  
-- [ ] Stage 2–4 внедрение и сопровождение  
+- [ ] Stage 2–4 внедрение и сопровождение  *(entry criteria H55)*
 
 ~~- [ ] Полный extract tax PDF~~ → **частично закрыто H37** (HIGH 14; RSV LOW; списки без сумм)
 ---
 
 ## 5. Очередь разблокировки (единственный полезный next)
 
-1. **D-ACQ-POS-01** — ACCEPT  
-2. **D-B2B-01** — collect  
-3. **D-IM-REG-01** — файлы  
-4. **D-MD-INV-01** — сверка  
-5. **D-PAY-LINES-01 / D-MD-COST-01 / D-TSUM-RATE-01** — данные для S2/S3  
+1. **Sign session 15 мин** — `sign_session_pack/00_SIGN_SESSION_15MIN.md`  
+2. **Разослать пинги** — `owner_ping_messages.csv`  
+3. **D-ACQ-POS / soft-slice** — ACCEPT долей  
+4. **D-B2B-01** — collect Wave B  
+5. **D-IM-REG-01** — файлы overbank  
+6. **DDS June + TSUM** — Wave C  
+7. **D-MD-INV / PAY / COST / TSUM-RATE** — по SLA  
 
-Без этого новый «углублённый анализ» = пересказ этого перечня.
+Без подписей/файлов новый «углублённый анализ» = пересказ этого перечня.  
+Пакеты исполнения: `execution_wave_a|b|c/` + `sign_session_pack/`.
 
 ---
 

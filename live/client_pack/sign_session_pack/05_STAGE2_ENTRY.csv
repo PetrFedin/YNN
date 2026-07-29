@@ -1,0 +1,11 @@
+criterion_id,criterion,must,evidence,status
+S2-01,Decision Log подписан (H51 Wave A),YES,signed CSV / scan,OPEN
+S2-02,Gate ≥24/30 OR план ≤30 дней до 28,YES,release gate re-run,OPEN
+S2-03,DOM-B2B assigned + collect started,YES,E01+E04 outcomes,OPEN
+S2-04,Dual contour policy accepted,YES,FRAME1/2 signed,OPEN
+S2-05,MD 2024–25 unit-econ NOT in scope (constraint),YES,E12 signed,OPEN
+S2-06,Alias top-5 decided OR deferred with date,YES,E05 sheet,OPEN
+S2-07,Audited company P&L,NO — Stage 3+,out of scope,N/A
+S2-08,Live BI dashboard,NO — Stage 3,out of scope,N/A
+S2-09,BPMN to-be implemented,NO — Stage 3,out of scope,N/A
+S2-10,Furniture 1C register,NO — Stage 2 backlog,I11 later,BACKLOG

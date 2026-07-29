@@ -1,0 +1,11 @@
+order,exec_id,decision,signer,options,recommended,check,signature,date
+1,E01,CONFIRM DOM-B2B = Коптева,Янина,CONFIRM|REPLACE_FIO|DEFER,CONFIRM,☐,,
+2,E03a,CONFIRM DOM-PRODUCT = Коновалова,Янина,CONFIRM|REPLACE|DEFER,CONFIRM,☐,,
+3,E03b,CONFIRM DOM-COST = Мокеева,Янина,CONFIRM|REPLACE|DEFER,CONFIRM,☐,,
+4,E03c,CONFIRM DOM-DATA = Сливяк,Янина,CONFIRM|REPLACE|DEFER,CONFIRM,☐,,
+5,E12,NO unit-econ promise MD 2024–25,Янина,ACCEPT_CONSTRAINT|DEFER,ACCEPT_CONSTRAINT,☐,,
+6,FRAME1,Dual contour mandatory in reports,Янина,YES|NO,YES,☐,,
+7,FRAME2,Ban goods −58/−74% as company P&L,Янина,YES|NO,YES,☐,,
+8,E02a,ACCEPT soft-slice IM 2026-04 = 509351.08,Сливяк+Мамушкина,ACCEPT_SOFT_SLICE|REJECT|DEFER,ACCEPT_SOFT_SLICE,☐,,
+9,E02b,ACCEPT soft-slice IM 2025-08 = 37327.69,Сливяк+Мамушкина,ACCEPT_SOFT_SLICE|REJECT|DEFER,ACCEPT_SOFT_SLICE,☐,,
+10,E06,ZP #REF! fix by 2026-08-04,Сливяк,YES_WITH_DATE|DEFER,YES_WITH_DATE,☐,,

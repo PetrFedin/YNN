@@ -1,0 +1,10 @@
+item,owner,sla_date,warn_date,if_miss,escalation,severity
+H51 sign session,Янина,2026-08-01,2026-07-31,Wave B frozen; gate stuck 18; B2B collect idle,Повторная встреча + эскалация на собственника,CRITICAL
+IM soft-slice Accept,Сливяк/Мамушкина,2026-08-04,2026-08-02,Gate не +2; UNDERBANKED OPEN,Янина cash policy force-decide,HIGH
+Overbank register 2024-08,Сливяк,2026-08-08,2026-08-05,IM OVERBANK path blocked,Запросить выписку у банка напрямую / IT,HIGH
+B2B top-3 calls done,Коптева,2026-08-08,2026-08-06,2.07M без движения,Янина + претензионный контур,HIGH
+DDS June 2026 file,Сливяк,2026-08-12,2026-08-10,BANK 2026-06 BLOCKED,Мамушкина / выгрузка 1С,HIGH
+Alias top-5 decided,Коновалова,2026-08-12,2026-08-10,margin quality drift,Янина PRODUCT,MED
+ZP #REF! fixed,Сливяк,2026-08-04,2026-08-01,person payroll SoT broken H1,Мамушкина release block,MED
+Salon 26 cost filled,Мокеева,2026-08-15,2026-08-12,pilot GM <80%,COST RACI + stop promising unit-econ,MED
+TSUM Mercury May pay,Сливяк,2026-08-05,2026-08-01,TSUM_NET 2026-05 OPEN,ЦУМ/Меркурий AR follow-up,MED

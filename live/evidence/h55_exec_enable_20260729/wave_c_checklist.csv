@@ -1,0 +1,7 @@
+step,who,what,unlocks,status,check
+E08a,Сливяк,Загрузить ДДС 2026 полный июнь,BANK 2026-06,WAITING_FILE,☐
+E08b,Янина,CONFIRM alt-view core−card OR map card in DDS,BANK +3 months,WAITING_POLICY,☐
+E08c,Сливяк,Article recon 2026-02 DDS>bank 1.5M,BANK 2026-02,WAITING_RECON,☐
+E10a,Сливяк,Найти платёж Меркурий за май-2026 (~2.58M net),TSUM 2026-05,WAITING_BANK,☐
+E10b,Сливяк,Дождаться июльской выписки по июню-2026,TSUM 2026-06,WAITING_WINDOW,☐
+E10c,Янина,Optional: ACCEPT TIMING_LAG policy <45d,false BLOCKED↓,DRAFT_ONLY,☐

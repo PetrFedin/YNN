@@ -3,11 +3,11 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H54 Wave B ready-pack
-Документ: `live/client_pack/41_WAVE_B_READY_H54.md`  
-Папка: `live/client_pack/execution_wave_b/`
+## Сейчас: H55 Exec enablement
+Документ: `live/client_pack/42_EXEC_ENABLE_H55.md`  
+Пакеты: `sign_session_pack/` · `execution_wave_c/`
 
-После H52–H53: упакован следующий слой исполнения (B2B/alias/cost/BANK/TSUM + лестница gate + карточки людей).  
-Метрики двигают только подписи/файлы/звонки owners.
+Готово к запуску owners: one-pager на 15 мин, тексты пингов, SLA, риски затягивания, критерии Stage 2.  
+Дальше сдвиг метрик — только подписи/файлы/звонки.
 
 Updated: 2026-07-29

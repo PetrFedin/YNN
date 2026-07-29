@@ -1,0 +1,8 @@
+risk_id,risk,impact,consequence,mitigation,owner
+R1,Подпись H51 откладывается >7 дней,CRITICAL,Все Wave B idle; narrative «анализ бесконечен»,Sign packet 15 мин + ping M-YANINA,ведущий
+R2,POS Accept целиком вместо soft-slice,HIGH,OVERBANKED хуже; SoT ложный,жёстко доля 37k/509k в инструкции,Сливяк/Мамушкина
+R3,POS в OVERBANK месяцы,HIGH,gate regress,H53 WO forbidden_action,Сливяк
+R4,Goods −58/−74% в отчёте как убыток компании,CRITICAL,неверные решения собственника,FRAME1/2 в sign session,Янина
+R5,Обещание unit-econ МД 2024–25,HIGH,ввод в заблуждение,E12 ACCEPT_CONSTRAINT,Янина
+R6,B2B write-off без звонка,MED,потеря recoverable cash,скрипт + 5 дней SLA,Коптева
+R7,Auto-match MD invoice без human,MED,ложные SoT links,R6 policy H53,Сливяк

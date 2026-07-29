@@ -31,7 +31,10 @@ Updated: 2026-07-29
 | **23** | **Wave B ready** | `23_WAVE_B_READY.md` | **H54:** B2B/alias/cost/BANK/TSUM pack |
 | **24** | **Gate score ladder** | `24_GATE_SCORE_LADDER.md` | **H54:** 18→20→24→28→30 |
 | **25** | **Person action cards** | `25_PERSON_ACTION_CARDS.md` | **H54:** что делать сегодня по ФИО |
-| EXEC | Пакет исполнения | `execution_pack/` + `execution_wave_a/` + `execution_wave_b/` | Решения owners |
+| **26** | **Sign + pings** | `26_SIGN_SESSION_AND_PINGS.md` | **H55:** 15 мин + тексты owners |
+| **27** | **Stage 2 entry** | `27_STAGE2_ENTRY_CRITERIA.md` | **H55:** must / not-must |
+| **28** | **Wave C BANK/TSUM** | `28_WAVE_C_BANK_TSUM.md` | **H55:** path 24→30 |
+| EXEC | Пакет исполнения | `wave_a` + `wave_b` + `wave_c` + `sign_session_pack` | Решения owners |
 | JSON | Снимки слоёв | `deep_synthesis_snapshot.json`, `depth_layer2_*.json` … | Воспроизводимость |
 | CSV | Машиночитаемые срезы | `*.csv` в этой папке | + H52 gap maps |
 
