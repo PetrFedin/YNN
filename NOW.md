@@ -11,9 +11,10 @@
 2. Разослать пинги → [`…/02_OWNER_PING_MESSAGES.csv`](live/client_pack/sign_session_pack/02_OWNER_PING_MESSAGES.csv)  
 3. Сливяк: заполнить channel shares в **prefill реестре** → [`execution_wave_a/12_im_overbank_register_prefill_all.csv`](live/client_pack/execution_wave_a/12_im_overbank_register_prefill_all.csv)  
 4. Сливяк/Янина: card→DDS prefill **или** draft policy core−card → [`execution_wave_c/04_bank_card_dds_map_prefill.csv`](live/client_pack/execution_wave_c/04_bank_card_dds_map_prefill.csv)  
-5. Держать запреты: не весь POS→IM · не POS в OVERBANK · не goods −58/−74% как P&L компании  
+5. Держать запреты: не весь POS→IM · не POS в OVERBANK · не goods −58/−74% как P&L · **не** лить июньский POS в TSUM  
 
-H58: [`45_BANK_B2B_PREFILL_H58.md`](live/client_pack/45_BANK_B2B_PREFILL_H58.md) · H57: [`44_…`](live/client_pack/44_PREFILL_REGISTERS_H57.md)
+H59: Mercury за май **нет в банке** → [`46_ALIAS_TSUM_ZP_H59.md`](live/client_pack/46_ALIAS_TSUM_ZP_H59.md)  
+H58/H57: prefill BANK/overbank · точка входа: этот файл + `weekly_ops_card.csv`
 
 ---
 

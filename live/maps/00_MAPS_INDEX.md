@@ -37,6 +37,7 @@ Updated: 2026-07-29
 | **NOW** | **Command Center** | `../../NOW.md` | **H56:** что делать прямо сейчас |
 | **29** | **Overbank prefill** | `29_OVERBANK_REGISTER_PREFILL.md` | **H57:** 48 bank lines ready to fill |
 | **30** | **BANK/B2B prefill** | `30_BANK_B2B_PREFILL.md` | **H58:** 89 card lines + B2B confirm + dekor fix |
+| **31** | **Alias/TSUM/ZP** | `31_ALIAS_TSUM_ZP.md` | **H59:** evidence + Mercury missing + P0 ZP |
 | EXEC | Пакет исполнения | `wave_a` + `wave_b` + `wave_c` + `sign_session_pack` | Решения owners |
 | JSON | Снимки слоёв | `deep_synthesis_snapshot.json`, `depth_layer2_*.json` … | Воспроизводимость |
 | CSV | Машиночитаемые срезы | `*.csv` в этой папке | + H52 gap maps |

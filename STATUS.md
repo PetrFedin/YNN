@@ -3,10 +3,11 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H58 BANK/B2B prefill + dekor fix
-Документ: `live/client_pack/45_BANK_B2B_PREFILL_H58.md`  
+## Сейчас: H59 Alias / TSUM missing / ZP
+Документ: `live/client_pack/46_ALIAS_TSUM_ZP_H59.md`  
 Точка входа: [`NOW.md`](NOW.md)
 
-89 card lines для DDS map · B2B confirm worksheet · acquiring focus с коррекцией аренды Декор.
+Факт: Mercury за продажи 2026-05 в июньской выписке **отсутствует** (ожид. ~2.58M).  
+Alias top-5 evidence + soft-slice card + ZP P0 runbook готовы.
 
 Updated: 2026-07-29

@@ -1,9 +1,7 @@
 {
-  "horizon": "H57",
+  "horizon": "H59",
   "date": "2026-07-29",
-  "title": "Prefill overbank registers + MD top5 bank lines",
+  "title": "Alias evidence + TSUM missing tracker + soft-slice card + ZP P0 runbook",
   "no_fake_accept": true,
-  "overbank_lines": 48,
-  "md_bank_hits": 11,
-  "finding": "H52 dekor_inflow amounts are INTERNAL rent Dekor→Salon, not acquiring — flagged"
+  "tsum_finding": "No Mercury payment in 2026-06 for May sales; bank max Mercury 2026-05-28 (April sales)"
 }
