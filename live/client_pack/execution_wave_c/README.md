@@ -11,6 +11,6 @@ Gate path 24→28→30 (BANK/DDS + TSUM).
 
 H55: `../42_EXEC_ENABLE_H55.md`
 
-## H76 adds
+## H76–H77 adds
 - `30–33_tax_*` soft-month owner pack + Salon UFK sign card + bank tax tags
-
+- `34–37_sales_budget_*` SALES ДДС-доход ↔ budget Fact sanity

@@ -1,0 +1,204 @@
+period_month,year,metric,label_raw,amount_eur_like,sheet,warning,source_file,so_t
+2024-01,2024,cash_balance_total,ИТОГО  ОСТАТОК,312903.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-02,2024,cash_balance_total,ИТОГО  ОСТАТОК,209143.38,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-03,2024,cash_balance_total,ИТОГО  ОСТАТОК,282384.68,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-04,2024,cash_balance_total,ИТОГО  ОСТАТОК,246987.58,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-05,2024,cash_balance_total,ИТОГО  ОСТАТОК,265045.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-06,2024,cash_balance_total,ИТОГО  ОСТАТОК,144769.08,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-07,2024,cash_balance_total,ИТОГО  ОСТАТОК,167580.68,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-08,2024,cash_balance_total,ИТОГО  ОСТАТОК,297632.92,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-09,2024,cash_balance_total,ИТОГО  ОСТАТОК,294668.59,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-10,2024,cash_balance_total,ИТОГО  ОСТАТОК,205822.98,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-11,2024,cash_balance_total,ИТОГО  ОСТАТОК,184373.17,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-12,2024,cash_balance_total,ИТОГО  ОСТАТОК,146842.24,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-01,2024,cash_turnover,оборот,109325.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-02,2024,cash_turnover,оборот,187204.15,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-03,2024,cash_turnover,оборот,195425.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-04,2024,cash_turnover,оборот,296748.52,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-05,2024,cash_turnover,оборот,216678.16,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-06,2024,cash_turnover,оборот,200727.14,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-07,2024,cash_turnover,оборот,319167.11,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-08,2024,cash_turnover,оборот,144229.69,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-09,2024,cash_turnover,оборот,100131.46,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-10,2024,cash_turnover,оборот,188804.65,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-11,2024,cash_turnover,оборот,166204.97,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-12,2024,cash_turnover,оборот,474372.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-01,2024,cash_costs_total,расходы общ,103131.45,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-02,2024,cash_costs_total,расходы общ,90015.05,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-03,2024,cash_costs_total,расходы общ,120746.98,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-04,2024,cash_costs_total,расходы общ,168339.11,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-05,2024,cash_costs_total,расходы общ,92972.59,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-06,2024,cash_costs_total,расходы общ,55897.4,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-07,2024,cash_costs_total,расходы общ,85260.8,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-08,2024,cash_costs_total,расходы общ,40058.58,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-09,2024,cash_costs_total,расходы общ,50851.09,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-10,2024,cash_costs_total,расходы общ,87924.5,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-11,2024,cash_costs_total,расходы общ,84550.17,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-12,2024,cash_costs_total,расходы общ,147698.58,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-01,2024,payroll_cash,зп нал,92163.16,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-02,2024,payroll_cash,зп нал,55669.47,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-03,2024,payroll_cash,зп нал,58687.37,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-04,2024,payroll_cash,зп нал,55891.58,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-05,2024,payroll_cash,зп нал,53435.79,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-06,2024,payroll_cash,зп нал,63503.16,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-07,2024,payroll_cash,зп нал,61165.79,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-08,2024,payroll_cash,зп нал,43560.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-09,2024,payroll_cash,зп нал,55820.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-10,2024,payroll_cash,зп нал,67261.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-11,2024,payroll_cash,зп нал,61471.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-12,2024,payroll_cash,зп нал,64589.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-01,2024,payroll_cards_or_rub,ЗП карты,6968.32,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-02,2024,payroll_cards_or_rub,ЗП карты,15257.71,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-03,2024,payroll_cards_or_rub,ЗП карты,17105.22,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-04,2024,payroll_cards_or_rub,ЗП карты,27819.51,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-05,2024,payroll_cards_or_rub,ЗП карты,7901.37,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-06,2024,payroll_cards_or_rub,ЗП карты,18096.5,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-07,2024,payroll_cards_or_rub,ЗП карты,17933.33,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-08,2024,payroll_cards_or_rub,ЗП карты,17606.11,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-09,2024,payroll_cards_or_rub,ЗП карты,10117.24,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-10,2024,payroll_cards_or_rub,ЗП карты,15197.53,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-11,2024,payroll_cards_or_rub,ЗП карты,19460.53,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-12,2024,payroll_cards_or_rub,ЗП карты,28627.31,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-01,2024,cash_total_net_like,TOTAL,-103759.62,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-02,2024,cash_total_net_like,TOTAL,73241.31,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-03,2024,cash_total_net_like,TOTAL,-35397.11,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-04,2024,cash_total_net_like,TOTAL,18057.42,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-05,2024,cash_total_net_like,TOTAL,-120275.92,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-06,2024,cash_total_net_like,TOTAL,22811.6,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-07,2024,cash_total_net_like,TOTAL,130052.24,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-08,2024,cash_total_net_like,TOTAL,-2964.33,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-09,2024,cash_total_net_like,TOTAL,-88845.61,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-10,2024,cash_total_net_like,TOTAL,-21449.81,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-11,2024,cash_total_net_like,TOTAL,-37530.93,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2024-12,2024,cash_total_net_like,TOTAL,111538.41,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-01,2025,cash_balance_total,ИТОГО  ОСТАТОК,258380.82,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-02,2025,cash_balance_total,ИТОГО  ОСТАТОК,95645.24,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-03,2025,cash_balance_total,ИТОГО  ОСТАТОК,121782.06,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-04,2025,cash_balance_total,ИТОГО  ОСТАТОК,75639.4,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-05,2025,cash_balance_total,ИТОГО  ОСТАТОК,52400.73,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-06,2025,cash_balance_total,ИТОГО  ОСТАТОК,79627.51,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-07,2025,cash_balance_total,ИТОГО  ОСТАТОК,104591.72,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-08,2025,cash_balance_total,ИТОГО  ОСТАТОК,144792.59,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-09,2025,cash_balance_total,ИТОГО  ОСТАТОК,71481.66,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-10,2025,cash_balance_total,ИТОГО  ОСТАТОК,67246.89,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-11,2025,cash_balance_total,ИТОГО  ОСТАТОК,122231.43,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-12,2025,cash_balance_total,ИТОГО  ОСТАТОК,87197.06,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-01,2025,cash_turnover,оборот,116479.64,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-02,2025,cash_turnover,оборот,400290.82,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-03,2025,cash_turnover,оборот,179493.97,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-04,2025,cash_turnover,оборот,221486.18,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-05,2025,cash_turnover,оборот,254326.57,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-06,2025,cash_turnover,оборот,227563.65,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-07,2025,cash_turnover,оборот,298799.31,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-08,2025,cash_turnover,оборот,95648.31,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-09,2025,cash_turnover,оборот,178315.03,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-10,2025,cash_turnover,оборот,297269.79,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-11,2025,cash_turnover,оборот,232012.1,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-12,2025,cash_turnover,оборот,270001.98,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-01,2025,cash_costs_total,расходы общ,90214.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-02,2025,cash_costs_total,расходы общ,254372.06,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-03,2025,cash_costs_total,расходы общ,86517.32,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-04,2025,cash_costs_total,расходы общ,114748.14,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-05,2025,cash_costs_total,расходы общ,112905.77,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-06,2025,cash_costs_total,расходы общ,75714.72,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-07,2025,cash_costs_total,расходы общ,179368.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-08,2025,cash_costs_total,расходы общ,64958.22,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-09,2025,cash_costs_total,расходы общ,54467.87,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-10,2025,cash_costs_total,расходы общ,110299.92,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-11,2025,cash_costs_total,расходы общ,127620.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-12,2025,cash_costs_total,расходы общ,99169.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-01,2025,payroll_cards_or_rub,зп карты,17914.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-02,2025,payroll_cards_or_rub,зп карты,7253.94,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-03,2025,payroll_cards_or_rub,зп карты,17605.68,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-04,2025,payroll_cards_or_rub,зп карты,30283.36,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-05,2025,payroll_cards_or_rub,зп карты,8758.23,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-06,2025,payroll_cards_or_rub,зп карты,19027.28,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-07,2025,payroll_cards_or_rub,зп карты,29487.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-08,2025,payroll_cards_or_rub,зп карты,22184.78,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-09,2025,payroll_cards_or_rub,зп карты,19700.13,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-10,2025,payroll_cards_or_rub,зп карты,25788.08,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-11,2025,payroll_cards_or_rub,зп карты,27844.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-12,2025,payroll_cards_or_rub,зп карты,50538.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-01,2025,payroll_cash,зп нал,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-02,2025,payroll_cash,зп нал,88290.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-03,2025,payroll_cash,зп нал,53580.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-04,2025,payroll_cash,зп нал,57834.5,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-05,2025,payroll_cash,зп нал,59160.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-06,2025,payroll_cash,зп нал,65666.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-07,2025,payroll_cash,зп нал,75997.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-08,2025,payroll_cash,зп нал,61360.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-09,2025,payroll_cash,зп нал,46105.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-10,2025,payroll_cash,зп нал,56831.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-11,2025,payroll_cash,зп нал,62196.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-12,2025,payroll_cash,зп нал,130139.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-01,2025,cash_total_net_like,TOTAL,-26106.36,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-02,2025,cash_total_net_like,TOTAL,26136.82,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-03,2025,cash_total_net_like,TOTAL,-49136.03,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-04,2025,cash_total_net_like,TOTAL,-58006.82,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-05,2025,cash_total_net_like,TOTAL,54910.57,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-06,2025,cash_total_net_like,TOTAL,18159.65,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-07,2025,cash_total_net_like,TOTAL,-5064.69,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-08,2025,cash_total_net_like,TOTAL,-67993.69,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-09,2025,cash_total_net_like,TOTAL,2664.03,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-10,2025,cash_total_net_like,TOTAL,58960.79,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-11,2025,cash_total_net_like,TOTAL,-35550.9,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-12,2025,cash_total_net_like,TOTAL,-52565.02,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-02,2025,payroll_cards_or_rub,"зп, охрана в рублях нал",9108700.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-03,2025,payroll_cards_or_rub,"зп, охрана в рублях нал",5661100.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-04,2025,payroll_cards_or_rub,"зп, охрана в рублях нал",6074650.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-05,2025,payroll_cards_or_rub,"зп, охрана в рублях нал",6223500.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-06,2025,payroll_cards_or_rub,"зп, охрана в рублях нал",6475800.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-07,2025,payroll_cards_or_rub,"зп, охрана в рублях нал",7896900.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-08,2025,payroll_cards_or_rub,"зп, охрана в рублях нал",6545000.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-09,2025,payroll_cards_or_rub,"зп, охрана в рублях нал",4905400.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-10,2025,payroll_cards_or_rub,"зп, охрана в рублях нал",5984400.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-11,2025,payroll_cards_or_rub,"зп, охрана в рублях нал",6521400.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2025-12,2025,payroll_cards_or_rub,"зп, охрана в рублях нал",13631000.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-01,2026,cash_balance_total,ИТОГО  ОСТАТОК,28970.65,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-02,2026,cash_balance_total,ИТОГО  ОСТАТОК,35998.83,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-03,2026,cash_balance_total,ИТОГО  ОСТАТОК,54181.54,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-04,2026,cash_balance_total,ИТОГО  ОСТАТОК,36712.49,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-05,2026,cash_balance_total,ИТОГО  ОСТАТОК,90680.8,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-06,2026,cash_balance_total,ИТОГО  ОСТАТОК,33115.26,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-07,2026,cash_balance_total,ИТОГО  ОСТАТОК,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-08,2026,cash_balance_total,ИТОГО  ОСТАТОК,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-09,2026,cash_balance_total,ИТОГО  ОСТАТОК,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-10,2026,cash_balance_total,ИТОГО  ОСТАТОК,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-11,2026,cash_balance_total,ИТОГО  ОСТАТОК,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-12,2026,cash_balance_total,ИТОГО  ОСТАТОК,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-01,2026,cash_turnover,оборот,118766.81,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-02,2026,cash_turnover,оборот,218394.99,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-03,2026,cash_turnover,оборот,175672.93,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-04,2026,cash_turnover,оборот,329115.64,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-05,2026,cash_turnover,оборот,188410.3,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-06,2026,cash_turnover,оборот,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-07,2026,cash_turnover,оборот,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-08,2026,cash_turnover,оборот,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-09,2026,cash_turnover,оборот,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-10,2026,cash_turnover,оборот,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-11,2026,cash_turnover,оборот,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-12,2026,cash_turnover,оборот,0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-01,2026,cash_costs_total,расходы общ,146872.38,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-02,2026,cash_costs_total,расходы общ,101814.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-03,2026,cash_costs_total,расходы общ,84984.96,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-04,2026,cash_costs_total,расходы общ,126780.57,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-05,2026,cash_costs_total,расходы общ,106512.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-01,2026,payroll_cards_or_rub,зп карты,11733.62,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-02,2026,payroll_cards_or_rub,зп карты,31567.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-03,2026,payroll_cards_or_rub,зп карты,29437.04,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-04,2026,payroll_cards_or_rub,зп карты,31076.43,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-05,2026,payroll_cards_or_rub,зп карты,32784.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-02,2026,payroll_cash,зп нал,62907.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-03,2026,payroll_cash,зп нал,52161.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-04,2026,payroll_cash,зп нал,56755.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-05,2026,payroll_cash,зп нал,50970.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-01,2026,cash_total_net_like,TOTAL,7028.81,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-02,2026,cash_total_net_like,TOTAL,18182.99,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-03,2026,cash_total_net_like,TOTAL,-17469.07,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-04,2026,cash_total_net_like,TOTAL,53968.34,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-05,2026,cash_total_net_like,TOTAL,-58400.6,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-01,2026,payroll_cards_or_rub,"зп, охрана в рублях нал",0.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-02,2026,payroll_cards_or_rub,"зп, охрана в рублях нал",6592100.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-03,2026,payroll_cards_or_rub,"зп, охрана в рублях нал",5544500.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-04,2026,payroll_cards_or_rub,"зп, охрана в рублях нал",5990600.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N
+2026-05,2026,payroll_cards_or_rub,"зп, охрана в рублях нал",5913600.0,доходы-расходы,NOT_COMPANY_PL_SANITY_ONLY,SALES 2024-2026.xlsx,N

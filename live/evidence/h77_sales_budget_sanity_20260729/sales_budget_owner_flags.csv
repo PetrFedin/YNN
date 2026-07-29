@@ -1,0 +1,3 @@
+period_month,priority,issue,sales_salon_shop,budget_salon_shop_fact,delta,owner_ask,do_not_auto_accept,so_t
+2026-01,LOW,SALON_SHOP_MISMATCH|EXPLAINED_BY_DEPOSIT_RETURN,74560.0,70360.0,4200.0,Optional confirm: budget Fact = SALES Salon+Shop + deposit return,YES,N
+2026-06,HIGH,JUNE2026_INCOMPLETE,,,,Fill June 2026 budget Fact / SALES June column (ties to DDS June gap),YES,N

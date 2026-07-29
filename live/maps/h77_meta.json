@@ -1,0 +1,17 @@
+{
+  "horizon": "H77",
+  "date": "2026-07-29",
+  "title": "SALES ДДС-доход ↔ budget income sanity",
+  "sales_file": "SALES 2024-2026.xlsx",
+  "dds_income_rows_n": 262,
+  "cash_sheet_rows_n": 203,
+  "bridge_months_n": 36,
+  "budget_overlap_match_n": 5,
+  "budget_overlap_mismatch_n": 0,
+  "budget_overlap_partial_n": 6,
+  "jan2026_deposit_explains_delta": true,
+  "owner_flags_n": 2,
+  "no_fake_accept": true,
+  "so_t": false,
+  "warning": "доходы-расходы sheet is cash/остатки — NOT company P&L"
+}

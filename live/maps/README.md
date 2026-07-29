@@ -80,3 +80,4 @@ CSV в этой папке: каталог документов, crosswalk пр�
 - `45_SHOP_WAREHOUSE_BRIDGE_MAP.md` (H74)
 - `46_STOCK_CHANNEL_SELLTHROUGH_MAP.md` (H75)
 - `47_TAX_SOFT_PERIMETER_MAP.md` (H76)
+- `48_SALES_BUDGET_SANITY_MAP.md` (H77)

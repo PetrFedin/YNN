@@ -1,0 +1,19 @@
+period_month,budget_fact_income_sum_eur,budget_plan_income_sum_eur,budget_fact_expense_sum_eur,budget_plan_expense_sum_eur,sales_dds_total_eur,delta_sales_total_minus_budget_income,income_lines_n,expense_lines_n,note,so_t
+2025-07,,,569704.0,336979.62,298799.31,,0,19,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2025-08,,,297006.0,282646.63,95648.31,,0,19,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2025-09,,,240546.0,338233.31,178315.03,,0,20,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2025-10,,,385842.0,352386.78,297269.79,,0,18,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2025-11,,,435324.0,334224.26,232012.1,,0,20,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2025-12,,,559690.0,670465.18,270001.98,,0,20,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-01,118766.81,134000.0,204351.14,449973.0,118766.81,0.0,3,27,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-02,218394.89,282000.0,313178.0,383792.79,218394.99,0.1,3,28,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-03,175673.0,348500.0,293988.0,382691.18,175672.93,-0.07,5,29,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-04,329116.0,315000.0,399689.0,431201.36,329115.64,-0.36,3,28,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-05,188411.0,247000.0,354146.0,356246.23,188410.3,-0.7,3,28,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-06,,288500.0,,411915.28,0.0,,5,25,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-07,,292000.0,,706900.96,0.0,,3,27,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-08,,192000.0,,319207.28,0.0,,3,24,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-09,,270500.0,,342880.13,0.0,,4,26,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-10,,295000.0,,390934.08,0.0,,3,25,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-11,,296000.0,,312633.15,0.0,,3,23,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
+2026-12,,569500.0,,523016.31,0.0,,5,24,Sum of leaf budget lines (not Поступления/Расходы headers); indicative,N
