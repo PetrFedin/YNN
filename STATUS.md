@@ -3,10 +3,10 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H67 Fabric/procurement cash
-Документ: `live/client_pack/54_FABRIC_PROCUREMENT_CASH_H67.md`  
+## Сейчас: H68 Master P0 + E02 evidence
+Документ: `live/client_pack/55_MASTER_P0_BOARD_H68.md`  
 Точка входа: [`NOW.md`](NOW.md)
 
-Bank fabric-like **9,233,486** ₽ · expense ткани **14,194,396** ₽ · inventory A **23,869,121** ₽.
+Board **39** действий · E02 soft **546,679 ₽** → gate 18→20 после подписи.
 
 Gate: **18/30** (owners). Updated: 2026-07-29

@@ -1,0 +1,6 @@
+board_rank,priority_band,source,exec_tag,action,owner,unlocks,gate_effect,artifact,minutes_est,depends_on,status,do_not_auto_accept,so_t
+1,P0_GATE,only_owner_moves,SIGN,Sign H51 / sign_session 15min,см. sign_session / wave owners,Wave A+B,18→ready Waves,sign_session_pack/,15,—,WAITING_OWNER,YES,N
+2,P0_GATE,only_owner_moves,E02,Soft-slice Accept E02,см. sign_session / wave owners,gate 18→20,18→20,06_IM_SOFT_SLICE_SIGN_CARD.csv,10,sign session,WAITING_OWNER,YES,N
+3,P0_GATE,only_owner_moves,E07,Fill overbank prefill channel shares,см. sign_session / wave owners,gate →24,→24,12_im_overbank_register_prefill_all.csv,30,sign session,WAITING_OWNER,YES,N
+4,P0_GATE,only_owner_moves,E08,Card→DDS map OR core−card policy,см. sign_session / wave owners,gate →26,→26,wave_c/04+06,20,sign session,WAITING_OWNER,YES,N
+5,P0_GATE,only_owner_moves,TAX,TAX 36k map to DDS,см. sign_session / wave owners,gate →27,→27,09_tax_cash_gap_2024_01_prefill.csv,15,sign session,WAITING_OWNER,YES,N

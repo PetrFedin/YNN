@@ -1,0 +1,18 @@
+{
+  "horizon": "H68",
+  "date": "2026-07-29",
+  "title": "Master P0 board + E02 soft-slice evidence",
+  "board_n": 39,
+  "p0_gate_n": 7,
+  "e02_months": [
+    "2025-08",
+    "2026-04"
+  ],
+  "e02_soft_total_rub": 546678.77,
+  "e02_gap_total_rub": 2294941.02,
+  "gate_now": "18/30",
+  "gate_if_e02_signed": "20/30",
+  "no_fake_accept": true,
+  "so_t": false,
+  "note": "Does not move gate alone — owners must sign. Reduces friction."
+}
