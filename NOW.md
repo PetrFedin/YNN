@@ -1,29 +1,27 @@
-**Обновлено:** 2026-07-29 (H84)  
-**Вердикт:** P0 = owners. H84: fabric aging — **~12.9M ₽ DEAD_STOCK** (>365д).
+**Обновлено:** 2026-07-29 (H85)  
+**Вердикт:** P0 = owners. H85: tax completeness — **MISSING НДС+РСВ 2026-Q2**; списки ФНС = scan/OCR.
 
 ---
 
 ## Сделать сейчас (P0)
 
-1. Telegram: [`18_TELEGRAM_BLAST_READY.csv`](live/client_pack/sign_session_pack/18_TELEGRAM_BLAST_READY.csv)  
-2. Встреча: [`16_MEETING_RUNCARD_ONEPAGE.md`](live/client_pack/sign_session_pack/16_MEETING_RUNCARD_ONEPAGE.md)  
-3. RACI: [`21_RACI_SIGNOFF_EVIDENCE_H82.csv`](live/client_pack/sign_session_pack/21_RACI_SIGNOFF_EVIDENCE_H82.csv)  
-4. Async P1: HR [`22_HR_UNFORMAL_PAID_H83.csv`](live/client_pack/sign_session_pack/22_HR_UNFORMAL_PAID_H83.csv) · Fabric [`23_FABRIC_DEAD_STOCK_H84.csv`](live/client_pack/sign_session_pack/23_FABRIC_DEAD_STOCK_H84.csv)  
+1. Telegram + встреча: [`16_MEETING_RUNCARD_ONEPAGE.md`](live/client_pack/sign_session_pack/16_MEETING_RUNCARD_ONEPAGE.md)  
+2. TAX soft sign: [`14_TAX_SOFT_PERIMETER_H76.csv`](live/client_pack/sign_session_pack/14_TAX_SOFT_PERIMETER_H76.csv) → **26→27**  
+3. Запросить файлы: [`24_TAX_COMPLETENESS_GAPS_H85.csv`](live/client_pack/sign_session_pack/24_TAX_COMPLETENESS_GAPS_H85.csv)  
+4. RACI / HR / Fabric async: `21_*` · `22_*` · `23_*`  
 5. Ждём: [`20_WAITING_ON_OWNERS.csv`](live/client_pack/sign_session_pack/20_WAITING_ON_OWNERS.csv)  
-
-После подписи → [`17_POST_SIGN_ACTIVATION.csv`](live/client_pack/sign_session_pack/17_POST_SIGN_ACTIVATION.csv)
 
 ---
 
 ## Сделано по приоритету
 
-- **H84** fabric aging — [`71_FABRIC_AGING_H84.md`](live/client_pack/71_FABRIC_AGING_H84.md)  
-- **H83** HR/payroll · **H82** contracts/RACI  
+- **H85** tax completeness — [`72_TAX_COMPLETENESS_H85.md`](live/client_pack/72_TAX_COMPLETENESS_H85.md)  
+- H84 fabric aging · H83 HR · H82 RACI  
 
-## Дальше
+## Stop
 
-Крупные data-мосты Stage1 **закрыты**. Без owners/файлов — stop (см. `stop_doing_list`).  
-Исключения только по явному запросу (tax_list completeness / Decor tags + Accept).
+Новый empty forensic без подписей/файлов — нет.  
+Исключение: OCR tax_list **после** текстовой выгрузки от Сливяк.
 
 ---
 
@@ -33,4 +31,4 @@
 18 →20 E02 →24 E07 →26 E08 →27 TAX →28 Feb →29 Mercury →30
 ```
 
-**18/30** · P0 pending owners
+**18/30**

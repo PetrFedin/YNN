@@ -1,6 +1,6 @@
 item,why,alt
-Новый «обзорный» forensic слой без файлов/подписей,ROI≈0; Stage1 data bridges H73–H84 closed,sign session / intake / 17_POST_SIGN_ACTIVATION
-Ещё один Hxx «делай дальше» без owners,не двигает gate 18/30,отправить 18_TELEGRAM_BLAST + встреча; исключения только по явному запросу
-Авто-ACCEPT POS/alias/RACI/TAX/UNFORMAL/DEAD write-off,ломает SoT,human confirm sheets + 21/22/23 packs
-Единый company P&L как KPI сейчас,запрещён Stage 1,dual contour FRAME1/2
-Считать leaf qty «Движение тканей» как рубли,AMBIGUOUS (H4/H84),только Остатки 31.05 amount_rub
+Новый «обзорный» forensic без файлов/подписей,ROI≈0; H73–H85 closed,sign session / 17_POST_SIGN / intake Q2 tax
+Ещё один Hxx без owners,не двигает gate 18/30,встреча + TAX soft sign + запрос 2026-Q2
+Выдумывать строки из tax_list сканов,нет текста в PDF,OCR/перевыгрузка от Сливяк
+Авто-ACCEPT TAX perimeter / FORCE_CLOSE,ломает SoT,14_TAX_SOFT human sign
+Смешивать Decor и IP в один P&L,dual contour,FRAME1/2 + H85 LE rollup

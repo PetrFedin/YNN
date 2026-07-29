@@ -1,0 +1,29 @@
+legal_entity_id,tax_type,period,expected_due,status,files_n,files,amount_rub_anchor,text_extract,why,owner_action,blocks_gate,do_not_auto_accept,so_t
+LE-IP-YANINA,USN,2024,Y,HAVE,1,Декларация по УСН за 2024 г. (Янина Ю. Ф. ИП).pdf,993121,N/A,годовая УСН,OK — в пакете,N,YES,N
+LE-IP-YANINA,USN,2025,Y,HAVE,1,Декларация по УСН за 2025 г. (Янина Ю. Ф. ИП)(1).pdf,1390632,N/A,годовая УСН,OK — в пакете,N,YES,N
+LE-IP-YANINA,USN,2026,N,NOT_DUE,0,,,,NOT_DUE до конца 2026,не требовать сейчас,N,YES,N
+LE-IP-YANINA,6NDFL,2024,Y,HAVE,1,6-НДФЛ (с 2021 года) за 2024 г. (Янина Ю. Ф. ИП).pdf,1426959,N/A,годовой 6-НДФЛ,OK — в пакете,N,YES,N
+LE-IP-YANINA,6NDFL,2025,Y,HAVE_DUP,2,6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП)(1).pdf | 6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП).pdf,2202651,N/A,годовой 6-НДФЛ,Оставить один master; второй в quarantine duplicate,N,YES,N
+LE-IP-YANINA,6NDFL,2026,N,NOT_DUE,0,,,,NOT_DUE (год не закрыт),не требовать сейчас,N,YES,N
+LE-IP-YANINA,RSV,2024,Y,HAVE,1,Расчет по страховым взносам за 2024 г. (Янина Ю. Ф. ИП).pdf,3324230,N/A,годовой РСВ,OK — в пакете,N,YES,N
+LE-IP-YANINA,RSV,2025,Y,HAVE,1,Расчет по страховым взносам за 2025 г. (Янина Ю. Ф. ИП).pdf,2752319,N/A,годовой РСВ,OK — в пакете,N,YES,N
+LE-IP-YANINA,RSV,2026-Q1,Y,HAVE,1,Расчет по страховым взносам за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf,1636332,N/A,квартальный РСВ,OK — в пакете,N,YES,N
+LE-IP-YANINA,RSV,2026-Q2,Y,MISSING,0,,,,срок ~25.07.2026 — as_of 29.07,Запросить у Сливяк файл декларации/расчёта 2026-Q2,SOFT,YES,N
+LE-IP-YANINA,NDS,2025-Q1,Y,HAVE,1,Декларация по НДС за 1 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,998748,N/A,НДС квартал,OK — в пакете,N,YES,N
+LE-IP-YANINA,NDS,2025-Q2,Y,HAVE,1,Декларация по НДС за 2 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,1602606,N/A,НДС квартал,OK — в пакете,N,YES,N
+LE-IP-YANINA,NDS,2025-Q3,Y,HAVE,1,Декларация по НДС за 3 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,1334790,N/A,НДС квартал,OK — в пакете,N,YES,N
+LE-IP-YANINA,NDS,2025-Q4,Y,HAVE,1,Декларация по НДС за 4 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,2163237,N/A,НДС квартал,OK — в пакете,N,YES,N
+LE-IP-YANINA,NDS,2026-Q1,Y,HAVE,1,Декларация по НДС за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf,1443002,N/A,НДС квартал,OK — в пакете,N,YES,N
+LE-IP-YANINA,NDS,2026-Q2,Y,MISSING,0,,,,срок ~25.07.2026 — as_of 29.07,Запросить у Сливяк файл декларации/расчёта 2026-Q2,SOFT,YES,N
+LE-OOO-DEKOR,USN,2024,Y,HAVE,1,Декларация по УСН за 2024 г. (ДЕКОР ООО).pdf,117389,N/A,годовая УСН Decor,OK — в пакете,N,YES,N
+LE-OOO-DEKOR,USN,2025,Y,HAVE,1,Декларация по УСН за 2025 г. (ДЕКОР ООО)(1).pdf,191261,N/A,годовая УСН Decor,OK — в пакете,N,YES,N
+LE-OOO-DEKOR,USN,2026,N,NOT_DUE,0,,,,NOT_DUE,не требовать сейчас,N,YES,N
+LE-OOO-DEKOR,6NDFL,2024,Y,HAVE,1,6-НДФЛ (с 2021 года) за 2024 г. (ДЕКОР ООО).pdf,1445469,N/A,6-НДФЛ Decor,OK — в пакете,N,YES,N
+LE-OOO-DEKOR,6NDFL,2025,Y,HAVE,1,6-НДФЛ (с 2021 года) за 2025 г. (ДЕКОР ООО).pdf,1863059,N/A,6-НДФЛ Decor,OK — в пакете,N,YES,N
+LE-OOO-DEKOR,RSV,2024,Y,HAVE,1,Расчет по страховым взносам за 2024 г. (ДЕКОР ООО).pdf,1622243,N/A,РСВ Decor,OK — в пакете,N,YES,N
+LE-OOO-DEKOR,RSV,2025,Y,HAVE,1,Расчет по страховым взносам за 2025 г. (ДЕКОР ООО).pdf,2266018,N/A,РСВ Decor,OK — в пакете,N,YES,N
+LE-OOO-DEKOR,NDS,ANY,N,N_A_NO_FILES,0,,,,N_A — в пакете нет НДС Decor (УСН contour),keep Decor without NDS unless Accept says otherwise,N,YES,N
+BOTH,REPORT_LIST,2024,Y,HAVE_SCAN_NO_TEXT,1,Список представленной отчетности за 2024.pdf,,OCR_NEEDED,список ФНС (scan),OCR/перевыгрузка текстового PDF для сверки списка ФНС,N,YES,N
+BOTH,REPORT_LIST,2025,Y,HAVE_SCAN_NO_TEXT,1,Список представленной отчетности за 2025.pdf,,OCR_NEEDED,список ФНС (scan),OCR/перевыгрузка текстового PDF для сверки списка ФНС,N,YES,N
+BOTH,REPORT_LIST,2026,Y,HAVE_SCAN_NO_TEXT,1,Список представленной отчетности за 2026.pdf,,OCR_NEEDED,список ФНС (scan),OCR/перевыгрузка текстового PDF для сверки списка ФНС,N,YES,N
+BOTH,ENS,CURRENT,Y,HAVE_SCAN_NO_TEXT,2,Сведения о наличии отрицательного сальдо ЕНС.pdf | Справка об исполнении обязанности по налогам.pdf,,OCR_NEEDED,сальдо/справка ЕНС (scan),OCR/перевыгрузка текстового PDF для сверки списка ФНС,N,YES,N

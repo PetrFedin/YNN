@@ -1,0 +1,4 @@
+legal_entity_id,slots_n,have_n,missing_n,scan_n,not_due_n,contour_note
+LE-IP-YANINA,16,12,2,0,2,Salon/IP money + NDS contour
+LE-OOO-DEKOR,8,6,0,0,1,Decor separate — не смешивать с IP P&L
+BOTH,4,4,0,4,0,lists/ENS meta

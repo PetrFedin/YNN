@@ -51,3 +51,4 @@
 - **H82**: contracts ↔ RACI ↔ штатка (meeting evidence) — `live/client_pack/69_CONTRACTS_RACI_SHTATKA_H82.md`
 - **H83**: HR policy ↔ payroll ↔ штатка (UNFORMAL+paid) — `live/client_pack/70_HR_PAYROLL_BRIDGE_H83.md`
 - **H84**: mat_movement ↔ fabric aging (DEAD_STOCK) — `live/client_pack/71_FABRIC_AGING_H84.md`
+- **H85**: tax filing completeness (Q2’26 gaps) — `live/client_pack/72_TAX_COMPLETENESS_H85.md`

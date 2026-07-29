@@ -1,0 +1,6 @@
+priority,action_id,what,who,evidence,unlocks,gate_delta
+P0,H85-A1,"Подписать TAX perimeter (H76) — 2024-01/10, 2025-08, trademark 2026-06",Сливяк + Янина,14_TAX_SOFT + tax_completeness_soft_bridge.csv,gate 26→27,YES
+P1,H85-A2,Догрузить MISSING 2026-Q2: НДС + РСВ (IP) — срок уже прошёл as_of 29.07,Сливяк,tax_completeness_gaps.csv,полнота пакета 2026; не путать с monthly tax_cash,SOFT
+P1,H85-A3,OCR/текст: Списки отчётности 2024–2026 + ЕНС справки,Сливяк,HAVE_SCAN_NO_TEXT in matrix,сверка ФНС list ↔ наш pack без догадок,N
+P2,H85-A4,Разрешить дубликаты (1) в именах 6-НДФЛ/УСН 2025,Сливяк / Data,HAVE_DUP rows,один master на obligation,N
+P2,H85-A5,Держать Decor contour отдельно (нет НДС в пакете = OK unless Accept),Янина,LE-OOO-DEKOR NDS ANY = N_A,dual contour discipline,N

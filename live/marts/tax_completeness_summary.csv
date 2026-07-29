@@ -1,0 +1,10 @@
+metric,value,note
+tax_catalog_files,25,category tax_*
+matrix_slots,28,expected calendar
+have,17,
+have_dup,1,
+have_scan_no_text,4,lists/ENS
+missing,2,incl 2026-Q2
+not_due,3,
+soft_sign_open,4,H76
+as_of,2026-07-29,

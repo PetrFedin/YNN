@@ -1,0 +1,8 @@
+legal_entity_id,tax_type,period,expected_due,status,files_n,files,amount_rub_anchor,text_extract,why,owner_action,blocks_gate,do_not_auto_accept,so_t
+LE-IP-YANINA,6NDFL,2025,Y,HAVE_DUP,2,6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП)(1).pdf | 6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП).pdf,2202651,N/A,годовой 6-НДФЛ,Оставить один master; второй в quarantine duplicate,N,YES,N
+LE-IP-YANINA,RSV,2026-Q2,Y,MISSING,0,,,,срок ~25.07.2026 — as_of 29.07,Запросить у Сливяк файл декларации/расчёта 2026-Q2,SOFT,YES,N
+LE-IP-YANINA,NDS,2026-Q2,Y,MISSING,0,,,,срок ~25.07.2026 — as_of 29.07,Запросить у Сливяк файл декларации/расчёта 2026-Q2,SOFT,YES,N
+BOTH,REPORT_LIST,2024,Y,HAVE_SCAN_NO_TEXT,1,Список представленной отчетности за 2024.pdf,,OCR_NEEDED,список ФНС (scan),OCR/перевыгрузка текстового PDF для сверки списка ФНС,N,YES,N
+BOTH,REPORT_LIST,2025,Y,HAVE_SCAN_NO_TEXT,1,Список представленной отчетности за 2025.pdf,,OCR_NEEDED,список ФНС (scan),OCR/перевыгрузка текстового PDF для сверки списка ФНС,N,YES,N
+BOTH,REPORT_LIST,2026,Y,HAVE_SCAN_NO_TEXT,1,Список представленной отчетности за 2026.pdf,,OCR_NEEDED,список ФНС (scan),OCR/перевыгрузка текстового PDF для сверки списка ФНС,N,YES,N
+BOTH,ENS,CURRENT,Y,HAVE_SCAN_NO_TEXT,2,Сведения о наличии отрицательного сальдо ЕНС.pdf | Справка об исполнении обязанности по налогам.pdf,,OCR_NEEDED,сальдо/справка ЕНС (scan),OCR/перевыгрузка текстового PDF для сверки списка ФНС,N,YES,N

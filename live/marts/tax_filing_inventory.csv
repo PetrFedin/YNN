@@ -1,0 +1,26 @@
+source_file_id,category,file_name,legal_entity_id,tax_type,period,bytes,exists,text_extract,do_not_auto_accept,so_t
+SRC-F5301BBAE5D8,tax_6ndfl,6-НДФЛ (с 2021 года) за 2024 г. (ДЕКОР ООО).pdf,LE-OOO-DEKOR,6NDFL,2024,2258934,YES,N/A,YES,N
+SRC-4F39B4966345,tax_6ndfl,6-НДФЛ (с 2021 года) за 2024 г. (Янина Ю. Ф. ИП).pdf,LE-IP-YANINA,6NDFL,2024,2278034,YES,N/A,YES,N
+SRC-99A04FDE09F3,tax_6ndfl,6-НДФЛ (с 2021 года) за 2025 г. (ДЕКОР ООО).pdf,LE-OOO-DEKOR,6NDFL,2025,1586045,YES,N/A,YES,N
+SRC-A8FCDD6B6090,tax_6ndfl,6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП)(1).pdf,LE-IP-YANINA,6NDFL,2025,2174035,YES,N/A,YES,N
+SRC-A8FCDD6B6090,tax_6ndfl,6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП).pdf,LE-IP-YANINA,6NDFL,2025,2174035,YES,N/A,YES,N
+SRC-F74A077718EA,tax_nds,Декларация по НДС за 1 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,LE-IP-YANINA,NDS,2025-Q1,2046077,YES,N/A,YES,N
+SRC-58E7C0A3C0A6,tax_nds,Декларация по НДС за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf,LE-IP-YANINA,NDS,2026-Q1,1946232,YES,N/A,YES,N
+SRC-751E72CC84B8,tax_nds,Декларация по НДС за 2 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,LE-IP-YANINA,NDS,2025-Q2,2002663,YES,N/A,YES,N
+SRC-4189B4529037,tax_nds,Декларация по НДС за 3 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,LE-IP-YANINA,NDS,2025-Q3,1707882,YES,N/A,YES,N
+SRC-FD5D253E7EE2,tax_nds,Декларация по НДС за 4 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,LE-IP-YANINA,NDS,2025-Q4,1999226,YES,N/A,YES,N
+SRC-3C28C9E1DE55,tax_usn,Декларация по УСН за 2024 г. (ДЕКОР ООО).pdf,LE-OOO-DEKOR,USN,2024,247364,YES,N/A,YES,N
+SRC-384293B40F8C,tax_usn,Декларация по УСН за 2024 г. (Янина Ю. Ф. ИП).pdf,LE-IP-YANINA,USN,2024,224716,YES,N/A,YES,N
+SRC-12D1111A4489,tax_usn,Декларация по УСН за 2025 г. (ДЕКОР ООО)(1).pdf,LE-OOO-DEKOR,USN,2025,247398,YES,N/A,YES,N
+SRC-6F9B905DECFD,tax_usn,Декларация по УСН за 2025 г. (Янина Ю. Ф. ИП)(1).pdf,LE-IP-YANINA,USN,2025,216198,YES,N/A,YES,N
+SRC-65DECAD2CB32,tax_insurance,Расчет по страховым взносам за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf,LE-IP-YANINA,RSV,2026-Q1,2770678,YES,N/A,YES,N
+SRC-8B2E6E29F3B1,tax_insurance,Расчет по страховым взносам за 2024 г. (ДЕКОР ООО).pdf,LE-OOO-DEKOR,RSV,2024,1517599,YES,N/A,YES,N
+SRC-DB643E47A4E7,tax_insurance,Расчет по страховым взносам за 2024 г. (Янина Ю. Ф. ИП).pdf,LE-IP-YANINA,RSV,2024,1031068,YES,N/A,YES,N
+SRC-011873CC74E2,tax_insurance,Расчет по страховым взносам за 2025 г. (ДЕКОР ООО).pdf,LE-OOO-DEKOR,RSV,2025,1407031,YES,N/A,YES,N
+SRC-8DBBD4BE38B0,tax_insurance,Расчет по страховым взносам за 2025 г. (Янина Ю. Ф. ИП).pdf,LE-IP-YANINA,RSV,2025,1990116,YES,N/A,YES,N
+SRC-74B267159F90,tax_ens,Сведения о наличии отрицательного сальдо ЕНС.pdf,BOTH,ENS,CURRENT,142911,YES,OCR_NEEDED,YES,N
+SRC-0A59904DD2D1,tax_list,Список представленной отчетности за 2024.pdf,BOTH,REPORT_LIST,2024,1420603,YES,OCR_NEEDED,YES,N
+SRC-446E4DDA8AA4,tax_list,Список представленной отчетности за 2025.pdf,BOTH,REPORT_LIST,2025,1563806,YES,OCR_NEEDED,YES,N
+SRC-48B008B303E0,tax_list,Список представленной отчетности за 2026.pdf,BOTH,REPORT_LIST,2026,847736,YES,OCR_NEEDED,YES,N
+SRC-52671EB999E4,tax_insurance,Справка о расчетах по взносам на несч.сл на 25.06.2026.pdf,UNKNOWN,RSV,2026,633438,YES,N/A,YES,N
+SRC-90040AE0AF41,tax_ens,Справка об исполнении обязанности по налогам.pdf,BOTH,ENS,CURRENT,163946,YES,OCR_NEEDED,YES,N

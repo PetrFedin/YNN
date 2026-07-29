@@ -1,0 +1,29 @@
+{
+  "hypothesis": "H85",
+  "title": "tax_filing_completeness",
+  "do_not_auto_accept": true,
+  "not_sot": true,
+  "gate": "18/30",
+  "as_of": "2026-07-29",
+  "status_counts": {
+    "HAVE": 17,
+    "NOT_DUE": 3,
+    "HAVE_DUP": 1,
+    "MISSING": 2,
+    "N_A_NO_FILES": 1,
+    "HAVE_SCAN_NO_TEXT": 4
+  },
+  "summary": {
+    "tax_catalog_files": 25,
+    "matrix_slots": 28,
+    "have": 17,
+    "have_dup": 1,
+    "have_scan_no_text": 4,
+    "missing": 2,
+    "not_due": 3,
+    "soft_sign_open": 4,
+    "as_of": "2026-07-29"
+  },
+  "note": "tax_list/ENS are image PDFs — completeness by filename+anchors; OCR separate",
+  "dual_contour": true
+}

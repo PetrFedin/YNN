@@ -1,0 +1,5 @@
+check_id,period_month,status_now,delta_rub,hypothesis,sim_status,signature,completeness_link,owner,approver,do_not_auto_accept,so_t
+TAX-SOFT-2024-01,2024-01,GAP,36000.0,SALON_UFK_MISSING_FROM_BANK_TAX_LIKE,CLOSE,,H85 matrix ≠ cash recon; soft sign still required for TAX→27,Сливяк,Янина,YES,N
+TAX-SOFT-2024-10,2024-10,SOFT_GAP,147180.0,SALON_UFK_MISSING_FROM_BANK_TAX_LIKE,CLOSE,,H85 matrix ≠ cash recon; soft sign still required for TAX→27,Сливяк,Янина,YES,N
+TAX-SOFT-2025-08,2025-08,SOFT_GAP,77410.0,SALON_UFK_MISSING_FROM_BANK_TAX_LIKE,CLOSE,,H85 matrix ≠ cash recon; soft sign still required for TAX→27,Сливяк,Янина,YES,N
+TAX-SOFT-2026-06,2026-06,SOFT_GAP,-30900.0,TRADEMARK_IN_TAX_LIKE,SOFT_GAP,,H85 matrix ≠ cash recon; soft sign still required for TAX→27,Сливяк,Янина,YES,N
