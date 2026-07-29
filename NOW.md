@@ -1,30 +1,22 @@
-**Обновлено:** 2026-07-29 (H86)  
-**Вердикт:** Analytics **стоп**. Делай P0 руками: пинги → встреча → подписи / файлы.
+**Обновлено:** 2026-07-29 (H87)  
+**Вердикт:** Завтра = **диагностическая встреча с заказчиком** (карта есть/нет + выводы), не sign-session.
 
 ---
 
-## Сделать сейчас (ты)
+## Главный файл на завтра
 
-1. ☐ Отправить [`18_TELEGRAM_BLAST_READY.csv`](live/client_pack/sign_session_pack/18_TELEGRAM_BLAST_READY.csv) (YES: Янина/Сливяк/Мамушкина)  
-2. ☐ Чеклист [`26_P0_SEND_NOW_CHECKLIST_H86.csv`](live/client_pack/sign_session_pack/26_P0_SEND_NOW_CHECKLIST_H86.csv)  
-3. ☐ Встреча [`16_MEETING_RUNCARD_ONEPAGE.md`](live/client_pack/sign_session_pack/16_MEETING_RUNCARD_ONEPAGE.md)  
-4. ☐ Digest [`25_P0_OWNER_NOW_DIGEST_H86.csv`](live/client_pack/sign_session_pack/25_P0_OWNER_NOW_DIGEST_H86.csv)  
+[`live/client_pack/74_CLIENT_MEETING_BRIEF_H87.md`](live/client_pack/74_CLIENT_MEETING_BRIEF_H87.md)
 
-После подписи → [`17_POST_SIGN_ACTIVATION.csv`](live/client_pack/sign_session_pack/17_POST_SIGN_ACTIVATION.csv)
+Рядом:
+- [`74_CLIENT_DOMAIN_MAP_H87.csv`](live/client_pack/74_CLIENT_DOMAIN_MAP_H87.csv) — 9 доменов есть/нет  
+- [`74_CLIENT_ASK_LIST_H87.csv`](live/client_pack/74_CLIENT_ASK_LIST_H87.csv) — что спросить  
+- [`74_CLIENT_PACKAGE_CHECKLIST_H87.csv`](live/client_pack/74_CLIENT_PACKAGE_CHECKLIST_H87.csv) — пакет Этапа 1  
+- [`74_CLIENT_QUALITY_H87.csv`](live/client_pack/74_CLIENT_QUALITY_H87.csv) — оценки данные/процессы/бизнес  
 
----
-
-## Почему не новый анализ
-
-Intake: **0** новых файлов · Подписи: **0** · H73–H85 закрыты.  
-См. [`73_P0_EXEC_REFRESH_H86.md`](live/client_pack/73_P0_EXEC_REFRESH_H86.md) · `stop_doing_list.csv`
+Опора: `01_DIAGNOSTIC_REPORT` · `18_MASTER_SCHEME` · `19_COVERAGE` · `20_VERDICT` · `21_BUSINESS` · `23_GROUPS`
 
 ---
 
 ## Gate
 
-```
-18 →20 E02 →24 E07 →26 E08 →27 TAX →28 Feb →29 Mercury →30
-```
-
-**18/30**
+**18/30** — термометр качества месяца, не цель завтрашней встречи.

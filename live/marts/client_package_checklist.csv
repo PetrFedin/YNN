@@ -1,0 +1,11 @@
+pack_item,status,path,note
+Диагностический отчёт (финансы/запасы/ассортимент/процессы),READY,01_DIAGNOSTIC_REPORT.md,с оговорками indicative
+Карта документов 107 + группы G1–G9,READY,G*_GROUP_DETAIL + catalog,есть
+Единая карта данных / lineage,READY,18_MASTER_SCHEME + 09_DATA_LINEAGE,есть
+Покрытие есть/нет,READY,19_COVERAGE_DONE_VS_MISSING,обновить ссылкой на H87
+Выводы о ведении бизнеса + план,READY,21_BUSINESS_RUNNING + 20_VERDICT,есть
+Сценарии оптимизации S1–S4,READY,OPTIMIZATION_SCENARIOS / execution_pack,"ориентиры, не гарантия ₽"
+Качество данных (scorecard/gate),READY_PARTIAL,gate 18/30 + recon marts,"показать как термометр, не как аудит"
+Unit-econ МД audited,NOT_IN_SCOPE_NOW,—,нет данных cost 2024–25
+Единый company P&L,NOT_IN_SCOPE_NOW,—,методологически после dual contour
+Внедрение УУ / регламенты,OUT_OF_CONTRACT,договор Stage1 OUT,не обещать завтра

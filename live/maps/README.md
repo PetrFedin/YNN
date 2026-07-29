@@ -90,3 +90,4 @@ CSV в этой папке: каталог документов, crosswalk пр�
 - `55_FABRIC_AGING_MAP.md` (H84)
 - `56_TAX_COMPLETENESS_MAP.md` (H85)
 - `57_P0_EXEC_REFRESH_MAP.md` (H86)
+- `58_CLIENT_MEETING_MAP.md` (H87)

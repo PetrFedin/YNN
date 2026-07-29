@@ -1,10 +1,9 @@
 # STATUS
 
-## Сейчас: H86 P0 exec refresh — ждут owners
+## Сейчас: H87 бриф встречи с заказчиком (диагностика)
 
-Документ: `live/client_pack/73_P0_EXEC_REFRESH_H86.md`  
-Digest: `live/client_pack/sign_session_pack/25_P0_OWNER_NOW_DIGEST_H86.csv`
+Документ: `live/client_pack/74_CLIENT_MEETING_BRIEF_H87.md`
 
-Gate: **18/30**. Analytics stop until signs/files. Updated: 2026-07-29
+Gate: **18/30** (фон). Updated: 2026-07-29
 
 Вход: `NOW.md`
