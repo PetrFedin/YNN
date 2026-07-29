@@ -3,11 +3,10 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H57 Prefill registers (data)
-Документ: `live/client_pack/44_PREFILL_REGISTERS_H57.md`  
+## Сейчас: H58 BANK/B2B prefill + dekor fix
+Документ: `live/client_pack/45_BANK_B2B_PREFILL_H58.md`  
 Точка входа: [`NOW.md`](NOW.md)
 
-48 bank lines предзаполнены в overbank WO + MD top5 bank worksheet.  
-Коррекция: dekor 180k/90k = аренда INTERNAL, не эквайринг.
+89 card lines для DDS map · B2B confirm worksheet · acquiring focus с коррекцией аренды Декор.
 
 Updated: 2026-07-29

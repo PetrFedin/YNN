@@ -1,0 +1,4 @@
+decision_id,question,recommended,effect,is_accept,signer,check,signature,date
+D-H58-BANK-01,Use analytical core−card view for gate BANK_DDS?,YES_DRAFT,2024-01 CLOSE; 2024-06/12 SOFT; +3 potential,NO — needs Янина/Сливяк signature,Янина + Сливяк,☐,,
+D-H58-BANK-02,Instead map all VTB card lines into DDS articles?,ALT_IF_NO_TO_01,Same months via bookkeeping,NO — file work,Сливяк,☐,,
+D-H58-BANK-03,Upload DDS 2026 with full June?,YES_FILE,clears 2026-06 BANK_ONLY 5.55M,NO — file intake,Сливяк,☐,,

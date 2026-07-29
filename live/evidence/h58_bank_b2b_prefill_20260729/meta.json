@@ -1,0 +1,8 @@
+{
+  "horizon": "H58",
+  "date": "2026-07-29",
+  "title": "Correct dekor acquiring map + BANK card prefill + B2B confirm sheet",
+  "no_fake_accept": true,
+  "card_prefill_lines": 45,
+  "b2b_rows": 6
+}

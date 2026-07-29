@@ -1,0 +1,6 @@
+period_month,card_lines_n,card_prefill_rub,matrix_card_rub,match_ok,status_as_is,status_ex_card,gate_would_pass_ex_card,owner_next
+2024-01,18,667396.08,667396.08,Y,WIDE_GAP,CLOSE,Y,"Либо ACCEPT alt-control core−card (status→CLOSE), либо показать карту в ДДС. Card=667,396₽."
+2024-06,15,493671.44,493671.44,Y,WIDE_GAP,SOFT_GAP,Y,"Либо ACCEPT alt-control core−card (status→SOFT_GAP), либо показать карту в ДДС. Card=493,671₽."
+2024-12,12,886165.5,886165.5,Y,WIDE_GAP,SOFT_GAP,Y,"Либо ACCEPT alt-control core−card (status→SOFT_GAP), либо показать карту в ДДС. Card=886,166₽."
+2026-02,6,39497.66,39497.66,Y,WIDE_GAP,WIDE_GAP,N,"ДДС больше банка на 1,499,972₽ — найти лишние статьи/двойной счёт в ДДС или недобор банка."
+2026-06,38,102928.72,102928.72,Y,BANK_ONLY,BANK_ONLY,N,Догрузить ДДС 2026 с июнем (сейчас dds_b_bn=0 при bank_core=5.55M). Opex clean vs bank уже CLOSE.
