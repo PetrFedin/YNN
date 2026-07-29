@@ -1,0 +1,12 @@
+{
+  "hypothesis": "H86",
+  "title": "p0_exec_refresh",
+  "kind": "packaging_only",
+  "do_not_auto_accept": true,
+  "not_sot": true,
+  "gate": "18/30",
+  "intake_new_files": 0,
+  "signatures_filled": 0,
+  "why": "No new data; refresh P0 send/meeting artifacts with H83–H85 async pointers",
+  "stop_forensic": true
+}

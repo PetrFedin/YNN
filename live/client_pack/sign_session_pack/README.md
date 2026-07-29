@@ -1,6 +1,6 @@
 # Sign session pack — README
 
-**Обновлено:** 2026-07-29 (H85) — + RACI signoff evidence 21_*.
+**Обновлено:** 2026-07-29 (H86) — + RACI signoff evidence 21_*.
 
 ## Порядок на встречу
 
@@ -22,7 +22,9 @@
 - RACI evidence: `21_RACI_SIGNOFF_EVIDENCE_H82.csv` (10/10 YES)
 - HR UNFORMAL+paid: `22_HR_UNFORMAL_PAID_H83.csv` (async/P1)
 - Fabric DEAD_STOCK: `23_FABRIC_DEAD_STOCK_H84.csv` (~12.9M ₽, async/P1)
-- Tax gaps: `24_TAX_COMPLETENESS_GAPS_H85.csv` (Q2’26 MISSING + OCR lists)  
+- Tax gaps: `24_TAX_COMPLETENESS_GAPS_H85.csv` (Q2’26 MISSING + OCR lists)
+- P0 digest: `25_P0_OWNER_NOW_DIGEST_H86.csv`
+- Send-now: `26_P0_SEND_NOW_CHECKLIST_H86.csv`  
 
 ## Command center
 

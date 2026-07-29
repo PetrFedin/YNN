@@ -5,5 +5,5 @@ WAITING,Сливяк+Янина,TAX_PERIMETER + TAX36k,26→27,2026-08-06,14_* +
 WAITING,Сливяк,E07 overbank confirm,20→24,2026-08-08,wave_a/20_*
 WAITING_FILE,Сливяк,НДС+РСВ 2026-Q2 (IP) — H85 MISSING,tax pack completeness,2026-08-05,24_TAX_COMPLETENESS_GAPS_H85
 WAITING_FILE,Сливяк,Feb DDS dump / Mercury / DDS June / July bank,27→30,2026-08-12…15,12_GATE_TAIL
-DONE_ANALYTICS,analytics,H73–H85 data+meeting packaging,friction↓,—,60–72 client packs
+DONE_ANALYTICS,analytics,H73–H86 packaging; STOP further forensic,friction↓,—,60–73 + stop_doing_list
 BLOCKED_METHOD,Stage1,Audited P&L / MD UE 2024-25,Stage2+,—,E12 / FRAME

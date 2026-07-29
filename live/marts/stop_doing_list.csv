@@ -1,6 +1,6 @@
 item,why,alt
-Новый «обзорный» forensic без файлов/подписей,ROI≈0; H73–H85 closed,sign session / 17_POST_SIGN / intake Q2 tax
-Ещё один Hxx без owners,не двигает gate 18/30,встреча + TAX soft sign + запрос 2026-Q2
-Выдумывать строки из tax_list сканов,нет текста в PDF,OCR/перевыгрузка от Сливяк
-Авто-ACCEPT TAX perimeter / FORCE_CLOSE,ломает SoT,14_TAX_SOFT human sign
-Смешивать Decor и IP в один P&L,dual contour,FRAME1/2 + H85 LE rollup
+Новый forensic / Hxx без подписей или файлов,ROI=0; H73–H86 closed,отправить 18_TELEGRAM + встреча 16_* + digest 25_*
+Повтор «делай дальше» в analytics,не двигает gate 18/30,выполнить 26_P0_SEND_NOW_CHECKLIST
+Авто-ACCEPT / FORCE_CLOSE,ломает SoT,human sheets 01/14
+Единый company P&L сейчас,запрещён Stage1,FRAME1/2
+OCR выдуманный из tax_list сканов,нет текста,перевыгрузка от Сливяк

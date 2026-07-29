@@ -1,7 +1,7 @@
-# Пакет на стол — one-pager встречи (H79)
+# Пакет на стол — one-pager встречи (H79 / refresh H86)
 
 **Цель:** gate **18→30** · **не SoT** · без auto-Accept  
-**Держать открытыми:** `01_SIGN_CHECKBOXES` · `07_E02` · `10_E08` · `14_TAX_SOFT` · `15_SIM`
+**Держать открытыми:** `25_P0_DIGEST` · `01_SIGN_CHECKBOXES` · `07_E02` · `10_E08` · `14_TAX_SOFT` · `15_SIM`
 
 ---
 

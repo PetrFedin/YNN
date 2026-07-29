@@ -1,0 +1,7 @@
+step,action,file,done_check
+1,Отправить 3 YES-пинга: Янина / Сливяк / Мамушкина,18_TELEGRAM_BLAST_READY.csv,☐
+2,Открыть на экране/печати 16 + 01 + 21 + 14,19_SIGN_PACK_PRINT_INDEX.csv,☐
+3,Провести 15–20 мин по runcard,16_MEETING_RUNCARD_ONEPAGE.md,☐
+4,После каждой подписи — 17_POST_SIGN_ACTIVATION,17_POST_SIGN_ACTIVATION.csv,☐
+5,Зафиксировать запрос файлов Q2 + Feb/Mercury/DDS,20_WAITING_ON_OWNERS.csv,☐
+6,НЕ делать новый Hxx forensic,stop_doing_list.csv,☐

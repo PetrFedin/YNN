@@ -52,3 +52,4 @@
 - **H83**: HR policy ↔ payroll ↔ штатка (UNFORMAL+paid) — `live/client_pack/70_HR_PAYROLL_BRIDGE_H83.md`
 - **H84**: mat_movement ↔ fabric aging (DEAD_STOCK) — `live/client_pack/71_FABRIC_AGING_H84.md`
 - **H85**: tax filing completeness (Q2’26 gaps) — `live/client_pack/72_TAX_COMPLETENESS_H85.md`
+- **H86**: P0 exec refresh (digest/telegram) — `live/client_pack/73_P0_EXEC_REFRESH_H86.md`

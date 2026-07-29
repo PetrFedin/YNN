@@ -1,27 +1,23 @@
-**Обновлено:** 2026-07-29 (H85)  
-**Вердикт:** P0 = owners. H85: tax completeness — **MISSING НДС+РСВ 2026-Q2**; списки ФНС = scan/OCR.
+**Обновлено:** 2026-07-29 (H86)  
+**Вердикт:** Analytics **стоп**. Делай P0 руками: пинги → встреча → подписи / файлы.
 
 ---
 
-## Сделать сейчас (P0)
+## Сделать сейчас (ты)
 
-1. Telegram + встреча: [`16_MEETING_RUNCARD_ONEPAGE.md`](live/client_pack/sign_session_pack/16_MEETING_RUNCARD_ONEPAGE.md)  
-2. TAX soft sign: [`14_TAX_SOFT_PERIMETER_H76.csv`](live/client_pack/sign_session_pack/14_TAX_SOFT_PERIMETER_H76.csv) → **26→27**  
-3. Запросить файлы: [`24_TAX_COMPLETENESS_GAPS_H85.csv`](live/client_pack/sign_session_pack/24_TAX_COMPLETENESS_GAPS_H85.csv)  
-4. RACI / HR / Fabric async: `21_*` · `22_*` · `23_*`  
-5. Ждём: [`20_WAITING_ON_OWNERS.csv`](live/client_pack/sign_session_pack/20_WAITING_ON_OWNERS.csv)  
+1. ☐ Отправить [`18_TELEGRAM_BLAST_READY.csv`](live/client_pack/sign_session_pack/18_TELEGRAM_BLAST_READY.csv) (YES: Янина/Сливяк/Мамушкина)  
+2. ☐ Чеклист [`26_P0_SEND_NOW_CHECKLIST_H86.csv`](live/client_pack/sign_session_pack/26_P0_SEND_NOW_CHECKLIST_H86.csv)  
+3. ☐ Встреча [`16_MEETING_RUNCARD_ONEPAGE.md`](live/client_pack/sign_session_pack/16_MEETING_RUNCARD_ONEPAGE.md)  
+4. ☐ Digest [`25_P0_OWNER_NOW_DIGEST_H86.csv`](live/client_pack/sign_session_pack/25_P0_OWNER_NOW_DIGEST_H86.csv)  
+
+После подписи → [`17_POST_SIGN_ACTIVATION.csv`](live/client_pack/sign_session_pack/17_POST_SIGN_ACTIVATION.csv)
 
 ---
 
-## Сделано по приоритету
+## Почему не новый анализ
 
-- **H85** tax completeness — [`72_TAX_COMPLETENESS_H85.md`](live/client_pack/72_TAX_COMPLETENESS_H85.md)  
-- H84 fabric aging · H83 HR · H82 RACI  
-
-## Stop
-
-Новый empty forensic без подписей/файлов — нет.  
-Исключение: OCR tax_list **после** текстовой выгрузки от Сливяк.
+Intake: **0** новых файлов · Подписи: **0** · H73–H85 закрыты.  
+См. [`73_P0_EXEC_REFRESH_H86.md`](live/client_pack/73_P0_EXEC_REFRESH_H86.md) · `stop_doing_list.csv`
 
 ---
 

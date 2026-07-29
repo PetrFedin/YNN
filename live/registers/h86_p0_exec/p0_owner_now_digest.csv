@@ -1,0 +1,11 @@
+rank,priority,who,action,unlocks,sla,artifact,status
+1,P0,Янина,15 мин подписи E01/E03/E12/FRAME/E08 Path A,RACI + bank path,2026-08-01,16_MEETING_RUNCARD + 01_SIGN_CHECKBOXES,WAITING_SIGN
+2,P0,Сливяк+Мамушкина,E02 soft-slice 509351+37328 + E06 дата #REF!,gate 18→20,2026-08-04,07_E02 + 06_IM_SOFT,WAITING_SIGN
+3,P0,Сливяк+Янина,TAX perimeter Salon→УФК + TAX36k (не FORCE_CLOSE),gate 26→27,2026-08-06,14_TAX_SOFT + 11_36k,WAITING_SIGN
+4,P0,Сливяк,E07 overbank confirm,gate 20→24,2026-08-08,wave_a/20_*,WAITING_SIGN
+5,P0,Сливяк,Выгрузить НДС+РСВ 2026-Q2 (IP),tax pack completeness,2026-08-05,24_TAX_COMPLETENESS_GAPS_H85,WAITING_FILE
+6,P0,Сливяк,Feb DDS dump + Mercury + DDS June + July bank,gate 27→30,2026-08-12…15,12_GATE_TAIL,WAITING_FILE
+7,P1,Сливяк+Мамушкина,Разбор 36 UNFORMAL+paid ~11.56M ₽,HR compliance,async,22_HR_UNFORMAL_PAID_H83,ASYNC
+8,P1,Мокеева+Дендерина,DEAD_STOCK тканей ~12.9M ₽ (>365д),WC / G6,async,23_FABRIC_DEAD_STOCK_H84,ASYNC
+9,P1,Сливяк,OCR/текст списков ФНС 2024–26 + ЕНС,сверка list↔pack,async,24_TAX_COMPLETENESS_GAPS_H85,ASYNC
+10,P2,analytics,STOP новый forensic без owners/файлов,—,—,stop_doing_list,STOP
