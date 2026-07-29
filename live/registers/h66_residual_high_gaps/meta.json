@@ -1,0 +1,44 @@
+{
+  "horizon": "H66",
+  "date": "2026-07-29",
+  "title": "Residual HIGH gaps after H65 — stem/MD/quarantine pack",
+  "residual_high_n": 33,
+  "residual_sale_eur": 304141.0,
+  "stem_person_cost_n": 8,
+  "stem_person_cost_sale_eur": 74358.0,
+  "md_strong_only_n": 5,
+  "true_blank_n": 9,
+  "true_blank_sale_eur": 77761.0,
+  "quarantine_n": 3,
+  "quarantine_sale_eur": 26792.0,
+  "p0_owner_actions_n": 22,
+  "resolutions": [
+    {
+      "resolution": "TRUE_BLANK",
+      "articles_n": 9,
+      "sale_eur": 77761.0
+    },
+    {
+      "resolution": "STEM_PERSON_COST",
+      "articles_n": 8,
+      "sale_eur": 74358.0
+    },
+    {
+      "resolution": "MD_STRONG_ONLY",
+      "articles_n": 5,
+      "sale_eur": 71275.0
+    },
+    {
+      "resolution": "MD_WEAK_ONLY",
+      "articles_n": 8,
+      "sale_eur": 53955.0
+    },
+    {
+      "resolution": "QUARANTINE_LABEL",
+      "articles_n": 3,
+      "sale_eur": 26792.0
+    }
+  ],
+  "no_fake_accept": true,
+  "so_t": false
+}

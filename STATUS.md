@@ -3,11 +3,10 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H65 Person-cost → collection bridge
-Документ: `live/client_pack/52_PERSON_COST_COLLECTION_BRIDGE_H65.md`  
-Предыдущий data-слой: H64 SKU/stock/fabric — `51_SKU_STOCK_FABRIC_BRIDGE_H64.md`  
+## Сейчас: H66 Residual HIGH gaps
+Документ: `live/client_pack/53_RESIDUAL_HIGH_GAPS_H66.md`  
 Точка входа: [`NOW.md`](NOW.md)
 
-H65: **7096** workshop/emb линий → **327** закрытых collection gaps (~**3.41M €**), HIGH **157/190**.
+Остаток после H65 (**33** HIGH / ~304k€) разобран: stem-PC 8, MD STRONG 5, quarantine 3, true blank 9.
 
 Gate: **18/30** (owners). Updated: 2026-07-29
