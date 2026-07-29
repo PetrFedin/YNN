@@ -1,0 +1,9 @@
+rank,ask,type,files,unlocks,owner
+1,Подпись H51 draft (15 мин),DECISION,draft_recommended_decisions.csv,U09→U01–U03,Янина
+2,Accept soft-slices IM POS,DECISION,im_pos_slice_payments.csv,U02 gate+2,Сливяк/Мамушкина
+3,Реестр overbank 2024-08,FILE,acq_register_IP_Dekor_2024-08.xlsx,U05,Сливяк
+4,Реестр overbank 2025-01 (TBank-only),FILE,acq_register_TBank_IP_2025-01.xlsx,U05,Сливяк
+5,ЗП янв–фев без #REF!,FILE,Распределение/Карты 2026-01/02,U04,Сливяк
+6,Реестры 2026-03 и 2025-10,FILE,acq_register_*,U05,Сливяк
+7,Bank lines топ-5 surname MD,EXTRACT,bank purpose + MD order ids,U07,Сливяк
+8,26 salon cost 2026,DATA_ENTRY,md_salon_2026_missing_cost_top40.csv,U08,Мокеева

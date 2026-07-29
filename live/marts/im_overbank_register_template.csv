@@ -1,0 +1,2 @@
+period_month,settle_date,bank_le,source_channel,payment_id_or_ref,amount_rub,currency,fx_rate_if_any,maps_to_channel,im_share_rub,other_channel_share_rub,other_channel_name,timing_lag_days,evidence_file,owner_comment,status
+YYYY-MM,YYYY-MM-DD,IP|DEKOR|SALON,POS_VTB|TBANK|DEKOR_INFLOW|OTHER,bank statement id / acquiring day id,0.00,RUB,,IM|RETAIL|B2B|OWN|UNKNOWN,0.00,0.00,,0,path or bank extract name,,DRAFT|READY|ACCEPTED

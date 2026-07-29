@@ -3,15 +3,14 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H52 Gap maps (усиление недостающего)
-Документ: `live/client_pack/39_GAP_MAPS_H52.md`
+## Сейчас: H53 Priority ops (усиление исполнения)
+Документ: `live/client_pack/40_PRIORITY_OPS_H53.md`
 
-Добавлено:
-1. Ops close calendar  
-2. IM acquiring map  
-3. MD cost to-be 2026  
-4. RACI formal↔candidate  
+После H52 (карты) добавлено:
+1. 4 work orders overbank + шаблон реестра  
+2. Очередь MD↔invoice payment-level + правила R1–R6  
+3. Граф разблокировок + file intake priority  
 
-Исполнение по-прежнему: Wave A + H51 draft на подпись.
+Дальше двигают только **подписи / файлы owners** (Wave A + реестры).
 
 Updated: 2026-07-29

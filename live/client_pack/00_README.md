@@ -58,6 +58,7 @@
 | **37** | `37_EXEC_READINESS_H50.md` | **H50:** аудит артефактов 12/12 READY + Wave A checklist |
 | **38** | `38_DRAFT_DECISIONS_H51.md` | **H51:** черновик решений Wave A на подпись (не Accept) |
 | **39** | `39_GAP_MAPS_H52.md` | **H52:** недостающие карты — calendar / IM acq / MD cost to-be / RACI |
+| **40** | `40_PRIORITY_OPS_H53.md` | **H53:** WO overbank + очередь MD↔invoice + граф unlock |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |

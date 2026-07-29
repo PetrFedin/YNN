@@ -1,10 +1,11 @@
 # 19 — Полный перечень: что сделано и чего нет
 
-Updated: 2026-07-28  
+Updated: 2026-07-29 (H52/H53 gap-fill отмечен)  
 Статус: **инвентарь покрытия** · не новый «обзорный слой» · не SoT  
 Собрано с проверкой каталога 107, marts, maps, client_pack, freeze/SOT, scorecard  
 Агенты: inventory + TOR gap matrix  
-CSV: `../maps/coverage_done_vs_missing.csv`
+CSV: `../maps/coverage_done_vs_missing.csv`  
+Дополнено: H52 карты 16–19 · H53 WO/unlock/queue (`40_PRIORITY_OPS_H53.md`)
 
 ---
 
@@ -74,7 +75,10 @@ Marts (семейства): margin 10 · md 10 · recon 9 · settle 5 · bank 4 
 | Карты процессов/данных | **DONE** | P01–P12, L0–L5, crosswalk | BPMN to-be внедрение | Этап 3 |
 | Master scheme заказчику | **DONE** | `18_MASTER_SCHEME` + canvas | — | — |
 | Bank↔DDS | **PARTIAL** | 83.3%; Salon OK | 5 WIDE_GAP; DDS Jun lag | Разбор + DDS файл |
-| IM acquiring | **PARTIAL** | control 80%; impact POS | 6 OPEN; реестры | D-IM-REG-01 |
+| IM acquiring | **PARTIAL** | control 80%; H52 map; H53 4 WO + template | 6 OPEN; заполненные реестры | D-IM-REG-01 + файлы |
+| Ops close calendar | **DONE (map)** | H52 `ops_close_calendar` | ☐ done_flag owners | исполнение Wave A |
+| Unlock / intake | **DONE (ops)** | H53 dependency + file_intake | подписи/файлы | U09→U01–U05 |
+| MD payment queue | **PARTIAL+** | H53 queue+rules поверх surname 40% | line-by-line match | D-MD-INV-01 |
 | B2B settle | **PARTIAL** | open list 2.51M | Collect | D-B2B-01 |
 | OTHER_IN / POS | **PARTIAL** | 62.3M измерено | ACCEPT ACQ_POS | D-ACQ-POS-01 |
 | Invoice↔МД | **PARTIAL** | 40% surname MED | Платёж↔платёж | D-MD-INV-01 |

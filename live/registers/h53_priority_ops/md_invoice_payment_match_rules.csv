@@ -1,0 +1,7 @@
+rule_id,rule,weight,outcome
+R1,Same calendar day ±3d AND amount within 1%,40,STRONG_LINK
+R2,Order id / invoice number in bank purpose,35,STRONG_LINK
+R3,Surname only + amount within 5% same month,15,WEAK_LINK_NEED_HUMAN
+R4,FX@100 MD vs RUB bank without FX evidence,0,BLOCK_AUTO
+R5,One bank pays many MD orders (family/agent),10,SPLIT_REQUIRED
+R6,No Accept without human confirm on STRONG_LINK batch,0,POLICY

@@ -25,6 +25,9 @@ Updated: 2026-07-29
 | **17** | **IM acquiring map** | `17_IM_ACQUIRING_MAP.md` | **H52:** POS/TBank/Dekor × месяцы |
 | **18** | **MD cost to-be** | `18_MD_COST_PROCESS_TOBE.md` | **H52:** процесс unit-econ 2026+ |
 | **19** | **RACI formal vs candidate** | `19_RACI_FORMAL_VS_CANDIDATE.md` | **H52:** H23↔H27↔H51 |
+| **20** | **Unlock dependency** | `20_UNLOCK_DEPENDENCY.md` | **H53:** что разблокирует gate/cash |
+| **21** | **IM overbank WO** | `21_IM_OVERBANK_WORK_ORDERS.md` | **H53:** 4 реестра + шаблон |
+| **22** | **MD invoice payment queue** | `22_MD_INVOICE_PAYMENT_QUEUE.md` | **H53:** payment-level поверх surname |
 | EXEC | Пакет исполнения | `execution_pack/` + `../client_pack/execution_wave_a/` | Решения owners |
 | JSON | Снимки слоёв | `deep_synthesis_snapshot.json`, `depth_layer2_*.json` … | Воспроизводимость |
 | CSV | Машиночитаемые срезы | `*.csv` в этой папке | + H52 gap maps |

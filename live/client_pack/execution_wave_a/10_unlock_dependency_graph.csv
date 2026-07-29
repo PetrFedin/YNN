@@ -1,0 +1,11 @@
+node_id,waiting,unlocks,metric,impact,owner,blocked_by
+U01,E01 CONFIRM DOM-B2B,E04 B2B collect calls,cash_open_2.51M,HIGH,Янина,signature
+U02,E02 soft-slice Accept 509k+37k,Gate IM +2 months CLOSE/SOFT,gate 18→20,HIGH,Сливяк/Мамушкина,signature
+U03,E03 PRODUCT/COST/DATA CONFIRM,E05 alias + E09 MD pilot owners,margin_quality + md_forward,HIGH,Янина,signature
+U04,E06 ZP #REF! file replace,Person payroll SoT H1 2026,payroll_person_lines,MED,Сливяк,file_fix
+U05,4× overbank acq registers,IM OVERBANKED explain path (not POS),gate IM remaining 4,HIGH,Сливяк,file_intake
+U06,UNDERBANKED Accept (same as U02),path toward 24 with BANK/TSUM packs,gate path,HIGH,Wave A,U02
+U07,MD payment-level top-5 surname,Invoice↔MD from 40%→usable recon,md_inv_coverage,MED,Сливяк,manual_match
+U08,Salon 2026 26 missing cost,Pilot GM salon ≥80%,md_cost_fill_salon,MED,Мокеева,cost_entry
+U09,H51 draft → signed Decision Log,all Wave A status flips WAITING→DONE,exec_board,CRITICAL,Янина+,meeting
+U10,BPMN / audited P&L,Stage 2–3 only,out_of_scope_now,LOW_NOW,—,stage_gate
