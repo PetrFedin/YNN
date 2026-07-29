@@ -1,0 +1,5 @@
+check_id,period_month,status_now,delta_rub,hypothesis,payment_id,sim_status,owner_sign_required,forbidden,gate_effect,signature,date_signed,do_not_auto_accept,so_t
+TAX-SOFT-2024-01,2024-01,GAP,36000.0,SALON_UFK_MISSING_FROM_BANK_TAX_LIKE,56f8574ddc801765,CLOSE,Y,FORCE_CLOSE without confirming Salon UFK perimeter / trademark filter,2024-01 confirm unlocks TAX→27; other months improve recon quality,,,YES,N
+TAX-SOFT-2024-10,2024-10,SOFT_GAP,147180.0,SALON_UFK_MISSING_FROM_BANK_TAX_LIKE,0b9757804c39de25,CLOSE,Y,FORCE_CLOSE without confirming Salon UFK perimeter / trademark filter,2024-01 confirm unlocks TAX→27; other months improve recon quality,,,YES,N
+TAX-SOFT-2025-08,2025-08,SOFT_GAP,77410.0,SALON_UFK_MISSING_FROM_BANK_TAX_LIKE,67d44e4ba5bd8469,CLOSE,Y,FORCE_CLOSE without confirming Salon UFK perimeter / trademark filter,2024-01 confirm unlocks TAX→27; other months improve recon quality,,,YES,N
+TAX-SOFT-2026-06,2026-06,SOFT_GAP,-30900.0,TRADEMARK_IN_TAX_LIKE,8de4ec31f16f45c5,SOFT_GAP,Y,FORCE_CLOSE without confirming Salon UFK perimeter / trademark filter,2024-01 confirm unlocks TAX→27; other months improve recon quality,,,YES,N

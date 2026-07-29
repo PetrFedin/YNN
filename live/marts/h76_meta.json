@@ -1,0 +1,25 @@
+{
+  "horizon": "H76",
+  "date": "2026-07-29",
+  "title": "Tax cash SOFT/GAP ↔ Salon UFK perimeter + PDF anchors",
+  "recon_close_n": 26,
+  "recon_soft_n": 3,
+  "recon_gap_n": 1,
+  "soft_months_pack_n": 4,
+  "salon_ufk_explains_n": 3,
+  "sim_all_close_if_perimeter_n": 3,
+  "pdf_extract_confidence": {
+    "HIGH": 14,
+    "LOW": 5,
+    "N/A": 6
+  },
+  "pdf_amount_status": {
+    "EXTRACTED_CONF_HIGH": 14,
+    "EXTRACTED_CONF_LOW": 5,
+    "NO_STRUCTURED_EXTRACT": 5,
+    "NO_CODES": 1
+  },
+  "no_fake_accept": true,
+  "so_t": false,
+  "note": "3/4 non-CLOSE months explained by Salon→УФК outside bank_tax_like filter"
+}

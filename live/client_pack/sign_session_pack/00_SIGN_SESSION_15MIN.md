@@ -1,4 +1,4 @@
-# Пакет на подпись — 15–20 минут (H72 sync · H55–H71)
+# Пакет на подпись — 15–20 минут (H72 sync · H76 TAX perimeter)
 
 **Дата пакета:** 2026-07-29  
 **Цель:** один документ на встречу → сдвиг gate **18→30**.  
@@ -51,7 +51,7 @@
 | # | Действие | Файл | Gate |
 |---|----------|------|------|
 | A | Confirm overbank hypotheses (TBANK→IM, POS→HOLD) | `../execution_wave_a/20_im_overbank_hypothesis_prefill.csv` | →24 |
-| B | TAX 36k Salon Sber → ЕНП | [`11_TAX_36K_EVIDENCE_BRIEF.md`](11_TAX_36K_EVIDENCE_BRIEF.md) | →27 |
+| B | TAX 36k + Salon UFK perimeter (H76) | [`11_TAX_36K_EVIDENCE_BRIEF.md`](11_TAX_36K_EVIDENCE_BRIEF.md) · [`14_TAX_SOFT_PERIMETER_H76.csv`](14_TAX_SOFT_PERIMETER_H76.csv) | →27 |
 | C | DDS Feb dump (−1.5M) | `../execution_wave_c/27_feb2026_recon_work_order.csv` | →28 |
 | D | Mercury May + July bank | `../execution_wave_c/26_mercury_intake_work_orders.csv` | →29 |
 | E | DDS 2026 full June | `../execution_wave_c/01_bank_dds_work_orders.csv` | BANK_ONLY |
@@ -66,6 +66,7 @@
 - Не лить POS в **OVERBANK** / не `ADD_POS_TO_IM`  
 - Не мапить June POS/TBank в **TSUM_NET**  
 - Не FORCE_CLOSE Feb без article dump  
+- Не FORCE_CLOSE TAX без подписи Salon UFK perimeter (H76)  
 - Не смешивать контур МД и товарный P&L  
 
 ---

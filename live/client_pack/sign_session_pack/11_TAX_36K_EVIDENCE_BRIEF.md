@@ -13,4 +13,7 @@
 
 ☐ Confirm map · подпись: __________ дата: ____
 
+**H76:** тот же платёж объясняет GAP; ещё 2 SOFT (окт‑24 / авг‑25) = Salon→УФК вне `bank_tax_like`.  
+Карточка периметра: [`14_TAX_SOFT_PERIMETER_H76.csv`](14_TAX_SOFT_PERIMETER_H76.csv) · док: `../63_TAX_SOFT_PERIMETER_H76.md`
+
 CSV: [`11_TAX_36K_EVIDENCE.csv`](11_TAX_36K_EVIDENCE.csv)
