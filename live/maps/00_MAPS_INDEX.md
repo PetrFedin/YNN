@@ -35,6 +35,7 @@ Updated: 2026-07-29
 | **27** | **Stage 2 entry** | `27_STAGE2_ENTRY_CRITERIA.md` | **H55:** must / not-must |
 | **28** | **Wave C BANK/TSUM** | `28_WAVE_C_BANK_TSUM.md` | **H55:** path 24→30 |
 | **NOW** | **Command Center** | `../../NOW.md` | **H56:** что делать прямо сейчас |
+| **29** | **Overbank prefill** | `29_OVERBANK_REGISTER_PREFILL.md` | **H57:** 48 bank lines ready to fill |
 | EXEC | Пакет исполнения | `wave_a` + `wave_b` + `wave_c` + `sign_session_pack` | Решения owners |
 | JSON | Снимки слоёв | `deep_synthesis_snapshot.json`, `depth_layer2_*.json` … | Воспроизводимость |
 | CSV | Машиночитаемые срезы | `*.csv` в этой папке | + H52 gap maps |

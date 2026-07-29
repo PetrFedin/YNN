@@ -1,7 +1,9 @@
 {
-  "horizon": "H56",
+  "horizon": "H57",
   "date": "2026-07-29",
-  "title": "Command Center NOW + weekly ops + stop-doing",
+  "title": "Prefill overbank registers + MD top5 bank lines",
   "no_fake_accept": true,
-  "note": "Last high-ROI packaging layer; further text without owners is dilution"
+  "overbank_lines": 48,
+  "md_bank_hits": 11,
+  "finding": "H52 dekor_inflow amounts are INTERNAL rent Dekor→Salon, not acquiring — flagged"
 }

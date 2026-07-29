@@ -62,6 +62,7 @@
 | **41** | `41_WAVE_B_READY_H54.md` | **H54:** Wave B pack — B2B/alias/cost/BANK/TSUM + ladder |
 | **42** | `42_EXEC_ENABLE_H55.md` | **H55:** sign 15мин + пинги + SLA + Stage2 entry + Wave C |
 | **43** | `43_COMMAND_CENTER_H56.md` | **H56:** NOW / weekly ops / stop-doing — точка входа |
+| **44** | `44_PREFILL_REGISTERS_H57.md` | **H57:** prefill overbank 48 строк + MD top5 bank lines |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |

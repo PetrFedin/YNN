@@ -9,9 +9,11 @@
 
 1. Открыть и провести **15 мин подписи** → [`live/client_pack/sign_session_pack/00_SIGN_SESSION_15MIN.md`](live/client_pack/sign_session_pack/00_SIGN_SESSION_15MIN.md)  
 2. Разослать пинги → [`…/02_OWNER_PING_MESSAGES.csv`](live/client_pack/sign_session_pack/02_OWNER_PING_MESSAGES.csv)  
-3. Держать запреты: не весь POS→IM · не POS в OVERBANK · не goods −58/−74% как P&L компании  
+3. Сливяк: заполнить channel shares в **prefill реестре** (не искать выписку с нуля) → [`execution_wave_a/12_im_overbank_register_prefill_all.csv`](live/client_pack/execution_wave_a/12_im_overbank_register_prefill_all.csv)  
+4. Держать запреты: не весь POS→IM · не POS в OVERBANK · не goods −58/−74% как P&L компании  
 
-Недельная карта: [`live/marts/weekly_ops_card.csv`](live/marts/weekly_ops_card.csv)
+Недельная карта: [`live/marts/weekly_ops_card.csv`](live/marts/weekly_ops_card.csv)  
+H57 prefill: [`44_PREFILL_REGISTERS_H57.md`](live/client_pack/44_PREFILL_REGISTERS_H57.md)
 
 ---
 
