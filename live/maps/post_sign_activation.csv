@@ -1,0 +1,18 @@
+trigger_exec,gate_effect,analytics_action,owner_next,artifact,priority
+E01,RACI unlock Wave B B2B,Mark DOM-B2B in raci registry; unlock Kopteva WO,Коптева: 01_b2b_call_top3,execution_wave_b/01_b2b_call_top3.csv,P0
+E03a,PRODUCT RACI,Unlock alias top5 worksheet,Коновалова: 03_alias_top5,execution_wave_b/03_alias_top5.csv,P1
+E03b,COST RACI,Unlock salon cost WO,Мокеева: 04_md_salon_cost_wo,execution_wave_b/04_md_salon_cost_wo.csv,P1
+E03c,DATA RACI,Confirm Сливяк as data owner in packs,Сливяк owns gate tail,sign_session_pack/13_*,P0
+E12,constraint locked,Keep MD 2024-25 UE in BLOCKED; no new promises,—,05_STAGE2_ENTRY.csv,P0
+FRAME1,reporting rule,Dual contour flag in client packs,все отчёты,NOW.md,P0
+FRAME2,reporting rule,Ban goods −58/−74 as company P&L in summaries,все отчёты,NOW.md,P0
+E08,24→26,Apply Path A: rebuild bank_dds_core_ex_card; refresh gate_bank_dds_*,Сливяк confirm months,10_E08 + marts bank_dds_core_ex_card*,P0
+E02a,18→20 (with E02b),Record soft-slice 509351.08 for 2026-04; do NOT class full POS,release note in evidence,07_E02_*,P0
+E02b,18→20 (with E02a),Record soft-slice 37327.69 for 2025-08,release note in evidence,07_E02_*,P0
+E06,payroll SoT hygiene,Track #REF! fix SLA; quarantine stays until fixed,Сливяк fix file,03_SLA,P1
+E07,20→24,"Lock overbank hyp: TBANK→IM, POS→HOLD; refresh im_overbank_* status",fill shares if still blank,wave_a/20_im_overbank_*,P0
+TAX_PERIMETER,26→27,Rebuild recon_tax_cash_bank WITH Salon UFK; expect 2024-01/10 + 2025-08 CLOSE,confirm 14_* signed,h76 + w6 recon,P0
+TAX36k,supports TAX→27,Link payment 56f8574ddc801765 to ENP map; status CONFIRM,—,11_TAX_36K_*,P0
+FEB_FILE,27→28,Re-run Feb bank↔DDS recon on article dump,upload dump,wave_c/27_feb*,P0
+MERCURY_FILE,28→29,Match Mercury May vs July bank; update tracker,upload,wave_c/26_mercury*,P0
+DDS_JUNE,29→30,Re-run BANK_DDS June; close residual,upload DDS June,wave_c/01_bank_dds*,P0

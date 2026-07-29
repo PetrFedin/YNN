@@ -28,3 +28,8 @@ H55 base: `../42_EXEC_ENABLE_H55.md` · H71 tail: `../58_GATE_TAIL_H71.md`
 ## H79
 - `16_MEETING_RUNCARD_ONEPAGE.md` + `16_MEETING_MINUTE_SCRIPT.csv`
 - `01_SIGN_CHECKBOXES` includes E07 + TAX_PERIMETER + TAX36k
+
+## H80
+- `17_POST_SIGN_ACTIVATION.csv` — что делать после каждой подписи
+- `18_TELEGRAM_BLAST_READY.csv` — тексты в Telegram
+- `00_SIGN_SESSION` включает ☐ TAX/E07

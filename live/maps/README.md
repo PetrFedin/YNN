@@ -83,3 +83,4 @@ CSV в этой папке: каталог документов, crosswalk пр�
 - `48_SALES_BUDGET_SANITY_MAP.md` (H77)
 - `49_P0_GATE_SYNC_MAP.md` (H78)
 - `50_MEETING_EXEC_KIT_MAP.md` (H79)
+- `51_POST_SIGN_ACTIVATION_MAP.md` (H80)

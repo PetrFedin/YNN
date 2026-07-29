@@ -34,4 +34,8 @@ CSV-скрипт: [`16_MEETING_MINUTE_SCRIPT.csv`](16_MEETING_MINUTE_SCRIPT.csv)
 - Не принимать **весь** POS как IM  
 - Не June POS/TBank → TSUM_NET  
 - Не FORCE_CLOSE TAX без perimeter / Feb без dump  
-- Не путать «доходы−расходы» SALES с P&L компании  
+- Не путать «доходы−расходы» SALES с P&L компании
+
+---
+
+После подписи: [`17_POST_SIGN_ACTIVATION.csv`](17_POST_SIGN_ACTIVATION.csv) · отправить: [`18_TELEGRAM_BLAST_READY.csv`](18_TELEGRAM_BLAST_READY.csv)

@@ -1,0 +1,10 @@
+{
+  "horizon": "H80",
+  "date": "2026-07-29",
+  "title": "Post-sign activation + telegram blast + MD checkbox sync",
+  "activation_rows": 17,
+  "blasts": 6,
+  "no_fake_accept": true,
+  "so_t": false,
+  "note": "Closes gap between signed checkbox and next analytic/ops action"
+}

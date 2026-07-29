@@ -1,4 +1,4 @@
-# Пакет на подпись — 15–20 минут (H79 runcard · H76 TAX perimeter)
+# Пакет на подпись — 15–20 минут (H80 activation · H79 runcard)
 
 **Дата пакета:** 2026-07-29  
 **Цель:** один документ на встречу → сдвиг gate **18→30**.  
@@ -40,9 +40,12 @@
 
 9. ☐ **E02a** Soft-slice IM **2026-04 = 509 351.08 ₽** (не весь POS)  
 10. ☐ **E02b** Soft-slice IM **2025-08 = 37 327.69 ₽**  
-11. ☐ **E06** ЗП `#REF!` янв–фев до **2026-08-04**
+11. ☐ **E06** ЗП `#REF!` янв–фев до **2026-08-04**  
+12. ☐ **E07** Overbank hyp: TBANK→IM · POS→HOLD · не TSUM_NET *(можно async)*  
+13. ☐ **TAX_PERIMETER** INCLUDE Salon→УФК в TAX_CASH_BANK (H76) → **26→27**  
+14. ☐ **TAX36k** Confirm 36k Salon Sber → ЕНП ([`11_*`](11_TAX_36K_EVIDENCE_BRIEF.md) + [`14_*`](14_TAX_SOFT_PERIMETER_H76.csv))
 
-Подпись Сливяк: __________  Мамушкина: __________  дата: ______
+Подпись Сливяк: __________  Мамушкина: __________  Янина (TAX): __________  дата: ______
 
 ---
 
@@ -57,6 +60,8 @@
 | E | DDS 2026 full June | `../execution_wave_c/01_bank_dds_work_orders.csv` | BANK_ONLY |
 
 Чеклист хвоста: [`12_GATE_TAIL_CHECKLIST.csv`](12_GATE_TAIL_CHECKLIST.csv)
+
+После подписи → активация: [`17_POST_SIGN_ACTIVATION.csv`](17_POST_SIGN_ACTIVATION.csv) · пинги текстом: [`18_TELEGRAM_BLAST_READY.csv`](18_TELEGRAM_BLAST_READY.csv)
 
 ---
 
