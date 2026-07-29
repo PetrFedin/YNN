@@ -1,0 +1,12 @@
+bucket,due,exec_id,owner,action,unlocks,link,severity
+TODAY,2026-07-29,SIGN,Янина+ведущий,Открыть sign_session_pack и провести 15 мин,Wave A statuses,live/client_pack/sign_session_pack/00_SIGN_SESSION_15MIN.md,CRITICAL
+TODAY,2026-07-29,PING,ведущий,Разослать 6 пингов owners,люди в курсе SLA,live/client_pack/sign_session_pack/02_OWNER_PING_MESSAGES.csv,CRITICAL
+THIS_WEEK,2026-07-30,E02,Сливяк/Мамушкина,Soft-slice Accept 37k+509k,gate 18→20,live/client_pack/execution_wave_a/,HIGH
+THIS_WEEK,2026-08-01,H51,Янина,Дедлайн подписи H51 (SLA),весь Wave B,sign_session_pack,CRITICAL
+THIS_WEEK,2026-08-04,E06,Сливяк,ЗП #REF! fix DONE,person payroll SoT,execution_wave_a/06_zp_fix_checklist.csv,MED
+NEXT_WEEK,2026-08-05,E04,Коптева,B2B топ-3 звонки старт,cash ~2.07M focus,execution_wave_b/01_b2b_call_top3.csv,HIGH
+NEXT_WEEK,2026-08-08,E07,Сливяк,Реестр overbank 2024-08,IM surplus explain,execution_wave_a/07_im_overbank_work_orders.csv,HIGH
+NEXT_WEEK,2026-08-12,E08,Сливяк,DDS 2026 полный июнь,BANK 2026-06,execution_wave_c/,HIGH
+LATER,2026-08-12,E05,Коновалова,Alias топ-5 decisions,margin quality,execution_wave_b/03_alias_top5.csv,MED
+LATER,2026-08-15,E09,Мокеева,26 salon cost fill,pilot GM,execution_wave_b/04_md_salon_cost_wo.csv,MED
+LATER,2026-08-05+,E10,Сливяк,TSUM Mercury / wait July stmt,gate →30,execution_wave_c/02_tsum_wait_calendar.csv,MED

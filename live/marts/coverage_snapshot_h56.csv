@@ -1,0 +1,13 @@
+area,status,gap,unlock
+Stage1_diagnostics,DONE,—,—
+Maps_00_28,DONE,BPMN to-be,Stage3
+Wave_A_pack,DONE_PACK,signatures,sign_session
+Wave_B_pack,DONE_PACK,E01/E03 then calls,Янина CONFIRM
+Wave_C_pack,DONE_PACK,DDS June + Mercury,files
+Sign_enablement,DONE_PACK,meeting,15min
+Command_center,DONE,—,NOW.md
+Gate_score,18/30,E02/E07/E08/E10,owners
+B2B_open,2.51M,collect,E01+E04
+IM_OPEN,6mo,slice+registers,E02+E07
+MD_UE_2024_25,BLOCKED,cost=0%,out_of_scope
+Audited_PnL,NOT_NOW,Phase C,Stage3

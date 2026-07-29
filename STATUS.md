@@ -3,11 +3,11 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H55 Exec enablement
-Документ: `live/client_pack/42_EXEC_ENABLE_H55.md`  
-Пакеты: `sign_session_pack/` · `execution_wave_c/`
+## Сейчас: H56 Command Center
+**Точка входа:** [`NOW.md`](NOW.md)  
+Документ: `live/client_pack/43_COMMAND_CENTER_H56.md`
 
-Готово к запуску owners: one-pager на 15 мин, тексты пингов, SLA, риски затягивания, критерии Stage 2.  
-Дальше сдвиг метрик — только подписи/файлы/звонки.
+Цепочка H52→H56 закрыла карты → WO → Wave B → запуск → единый NOW.  
+Дальнейшая упаковка без owners **не усиливает** метрики (gate 18/30).
 
 Updated: 2026-07-29

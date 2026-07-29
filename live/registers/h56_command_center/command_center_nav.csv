@@ -1,0 +1,13 @@
+rank,title,path,when
+1,СЕЙЧАС — Command Center,NOW.md,всегда
+2,Подпись 15 мин,live/client_pack/sign_session_pack/00_SIGN_SESSION_15MIN.md,до 01.08
+3,Wave A,live/client_pack/execution_wave_a/,сразу после/на подписи
+4,Wave B,live/client_pack/execution_wave_b/,после E01/E03
+5,Wave C,live/client_pack/execution_wave_c/,параллельно файлам
+6,H55 Exec enable,live/client_pack/42_EXEC_ENABLE_H55.md,запуск
+7,H54 Wave B,live/client_pack/41_WAVE_B_READY_H54.md,cash/margin
+8,H53 Ops WO,live/client_pack/40_PRIORITY_OPS_H53.md,overbank/MD match
+9,Coverage inventory,live/client_pack/19_COVERAGE_DONE_VS_MISSING.md,что есть/нет
+10,Stage 1 handoff,live/client_pack/36_STAGE1_HANDOFF_H49.md,сдача
+11,Maps index,live/maps/00_MAPS_INDEX.md,навигация карт
+12,STATUS,STATUS.md,git статус

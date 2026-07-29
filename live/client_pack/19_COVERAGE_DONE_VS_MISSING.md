@@ -133,6 +133,7 @@ Marts (семейства): margin 10 · md 10 · recon 9 · settle 5 · bank 4 
 - [x] H53 priority ops (overbank WO / MD payment queue / unlock)  
 - [x] H54 Wave B ready pack  
 - [x] H55 exec enablement (sign 15мин / pings / SLA / Stage2 entry / Wave C)  
+- [x] H56 Command Center (`NOW.md` / weekly ops / stop-doing)  
 
 ### Не сделано (нужны owners / файлы / этапы 2+)
 - [ ] **Подпись H51 / sign session 15 мин** *(пакет `sign_session_pack/` готов)*  

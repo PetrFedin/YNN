@@ -12,8 +12,10 @@
 
 | Путь | Содержание |
 |------|------------|
-| [`STATUS.md`](STATUS.md) | Текущий статус |
-| [`live/client_pack/`](live/client_pack/) | **Этап 1 для заказчика** (отчёт, ограничения, резервы, KPI, финмодель-скелет) |
+| **[`NOW.md`](NOW.md)** | **Command Center — что делать прямо сейчас (H56)** |
+| [`live/client_pack/sign_session_pack/`](live/client_pack/sign_session_pack/) | Подпись 15 мин + пинги + SLA |
+| [`STATUS.md`](STATUS.md) | Текущий статус git-пакета |
+| [`live/client_pack/`](live/client_pack/) | **Этап 1 для заказчика** (отчёт + waves A/B/C) |
 | [`live/OPTIMIZATION_SCENARIOS.md`](live/OPTIMIZATION_SCENARIOS.md) | Сценарии оптимизации S1–S4 |
 | [`HANDOFF.md`](HANDOFF.md) | Навигация по артефактам |
 | [`live/marts/`](live/marts/) | Расчётные витрины |
