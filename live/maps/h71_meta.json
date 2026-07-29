@@ -1,0 +1,12 @@
+{
+  "horizon": "H71",
+  "date": "2026-07-29",
+  "title": "Gate tail pack TAX + Mercury + Feb2026",
+  "tax_gap_rub": 36000.0,
+  "feb_delta_rub": -1499972.03,
+  "mercury_may_expected_net_rub": 2579283.14,
+  "gate_now": "18/30",
+  "gate_if_full_tail": "30/30",
+  "no_fake_accept": true,
+  "so_t": false
+}

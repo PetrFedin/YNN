@@ -1,0 +1,3 @@
+work_order_id,priority,sales_month,expected_pay_month,expected_net_median_rub,status,required_action,ask_file,gate_unlock,owner,approver,do_not,check,signature,date,do_not_auto_accept,so_t
+WO-MERCURY-MAY,1,2026-05,2026-06,2579283.14,MISSING_IN_BANK,BANK_REFRESH_JULY + AR_ESCALATE_MERCURY,Bank statements through 2026-07-31 + Mercury payment proof for May sales,→29 TSUM_NET / Mercury,Сливяк,Мамушкина,Allocate June POS/TBank to TSUM_NET,☐,,,YES,N
+WO-MERCURY-JUNE,2,2026-06,2026-07,1773705.56,WINDOW_AHEAD_OR_MISSING,WAIT_JULY_STATEMENT_THEN_MATCH,July bank statement (pay window 20–30 Jul),→29/30 if May also closed,Сливяк,Мамушкина,Fake rate Accept / allocate non-Mercury inflows,☐,,,YES,N

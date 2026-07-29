@@ -37,3 +37,4 @@
 - **H68**: master P0 board + E02 evidence — `live/client_pack/55_MASTER_P0_BOARD_H68.md`
 - **H69**: overbank channel hypotheses — `live/client_pack/56_OVERBANK_HYPOTHESIS_H69.md`
 - **H70**: card→DDS hypotheses + E08 dual-path — `live/client_pack/57_CARD_DDS_HYPOTHESIS_H70.md`
+- **H71**: gate tail TAX/Feb/Mercury — `live/client_pack/58_GATE_TAIL_H71.md`

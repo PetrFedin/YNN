@@ -1,0 +1,5 @@
+order,exec,action,artifact,signer,check,signature,date,do_not_auto_accept
+1,TAX36k,"Confirm map 36k UFK → «Единый налоговый платеж, НСипЗ» (Salon Sber) OR show existing DDS line",11_TAX_36K_EVIDENCE.csv,Сливяк,☐,,,YES
+2,FEB2026,Provide DDS Feb article dump; close −1.50M vs bank core,27_feb2026_recon_work_order.csv,Сливяк,☐,,,YES
+3,MERCURY_MAY,July bank refresh + Mercury AR for May sales (~2.58M net expected),26_mercury_intake_work_orders.csv,Сливяк,☐,,,YES
+4,DDS_JUNE,Upload DDS 2026 with full June,01_bank_dds_work_orders.csv,Сливяк,☐,,,YES

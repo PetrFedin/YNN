@@ -74,3 +74,4 @@ CSV в этой папке: каталог документов, crosswalk пр�
 - `39_MASTER_P0_BOARD_MAP.md` (H68)
 - `40_OVERBANK_HYPOTHESIS_MAP.md` (H69)
 - `41_CARD_DDS_E08_MAP.md` (H70)
+- `42_GATE_TAIL_MAP.md` (H71)

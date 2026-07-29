@@ -1,10 +1,10 @@
-step,gate_from,gate_to,action,owner,artifact,status,depends
-0,18,18,AS_IS,—,release_gate_month.csv,CURRENT,—
-1,18,20,E02 soft-slice Accept 37k+509k,Сливяк/Мамушкина,execution_wave_a/16_im_soft_slice_sign_card.csv,WAITING_ACCEPT,sign
-2,20,24,E07 overbank registers ×4 fill,Сливяк,execution_wave_a/12_im_overbank_register_prefill_all.csv,WAITING_OWNER_FILL,E02 желательно
-3,24,26,E08 core−card policy OR map 89 card lines,Янина/Сливяк,execution_wave_c/04_bank_card_dds_map_prefill.csv,WAITING_POLICY_OR_MAP,—
-4,26,27,TAX 36k 2024-01 map,Сливяк,tax_cash_gap_2024_01_prefill.csv,WAITING_MAP,step3
-5,27,28,E08c 2026-02 DDS vs bank article recon,Сливяк,execution_wave_c/05_bank_dds_prefill_summary.csv,WAITING_RECON,DDS detail
-6,28,28,E08a DDS June file (needed with TSUM),Сливяк,execution_wave_c/00_WAVE_C_CHECKLIST.csv,WAITING_FILE,file
-7,28,29,E10 Mercury May ~2.58M in bank,Сливяк,execution_wave_c/07_tsum_missing_payment_tracker.csv,MISSING_IN_BANK,July stmt / AR
-8,29,30,E10 Mercury June ~1.77M OR TIMING policy,Сливяк/Янина,execution_wave_c/07_tsum_missing_payment_tracker.csv,WINDOW_AHEAD,July/Aug stmt
+step,gate_from,gate_to,action,owner,artifact,status,depends,horizon
+0,18,18,AS_IS CURRENT,—,NOW.md,CURRENT,—,H68-H71
+1,18,20,E02 soft-slice Accept 37k+509k,Сливяк/Мамушкина,sign_session_pack/07_E02_EVIDENCE_BRIEF.md,WAITING_ACCEPT,sign,H68
+2,20,24,E07 overbank confirm hypotheses ×4,Сливяк,execution_wave_a/20_im_overbank_hypothesis_prefill.csv,WAITING_CONFIRM,E02 желательно,H69
+3,24,26,E08 Path A core−card OR Path B map card→DDS,Янина/Сливяк,sign_session_pack/10_E08_DUAL_PATH_CHECKLIST.csv,WAITING_POLICY_OR_MAP,—,H70
+4,26,27,TAX 36k map to DDS ENP (Salon Sber),Сливяк,sign_session_pack/11_TAX_36K_EVIDENCE.csv,WAITING_CONFIRM,E08 for full 2024-01 CLOSE,H71
+5,27,28,Feb 2026 DDS>bank article recon (−1.50M),Сливяк,execution_wave_c/27_feb2026_recon_work_order.csv,WAITING_FILE,DDS article dump,H71
+6,28,29,Mercury May payment / July bank refresh,Сливяк,execution_wave_c/26_mercury_intake_work_orders.csv,WAITING_FILE,July statement,H71
+7,29,30,Mercury June window match + residual close,Сливяк/Мамушкина,07_tsum_missing_payment_tracker.csv,WINDOW_AHEAD,May closed,H71
+8,18,18,UPLOAD DDS 2026 full June (parallel anytime),Сливяк,01_bank_dds_work_orders.csv WO-BANK-DDS-JUNE,WAITING_FILE,file,H58/H71
