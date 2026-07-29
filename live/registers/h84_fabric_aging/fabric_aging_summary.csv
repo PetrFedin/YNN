@@ -1,0 +1,10 @@
+metric,value,note
+movement_sku_n,2227,parsed SKU headers
+movement_doc_n,7736,document lines with/without dates
+sku_with_dates,2226,aging possible
+inv_matched_n,1339,art|name
+dead_stock_n,668,amount>0 & >365д
+dead_stock_amount_rub,12868656.54,indicative from snapshot
+stale_band_amount_rub,12868656.54,365PLUS all matched
+as_of_analysis,2026-07-29,days_since base
+stock_snapshot,2026-05-31,amount source

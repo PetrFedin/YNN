@@ -1,0 +1,42 @@
+{
+  "hypothesis": "H84",
+  "title": "mat_movement_fabric_aging",
+  "do_not_auto_accept": true,
+  "not_sot": true,
+  "gate": "18/30",
+  "sources": {
+    "movement": "Движение тканей.xlsx",
+    "inventory": "Остатки ткани из 1С на 31.05.2026.xlsx"
+  },
+  "movement_stats": {
+    "sku_rows": 2227,
+    "doc_rows": 7736,
+    "warehouses": [
+      "Основной склад",
+      "Склад Жукова",
+      "Склад Меркушина",
+      "Склад Мокеева"
+    ],
+    "with_dates": 2226,
+    "with_article": 1562
+  },
+  "inventory_n": 1338,
+  "inventory_amount_rub": 29837656.49,
+  "summary": {
+    "movement_sku_n": 2227,
+    "movement_doc_n": 7736,
+    "sku_with_dates": 2226,
+    "inv_matched_n": 1339,
+    "dead_stock_n": 668,
+    "dead_stock_amount_rub": 12868656.54,
+    "stale_band_amount_rub": 12868656.54,
+    "as_of_analysis": "2026-07-29",
+    "stock_snapshot": "2026-05-31"
+  },
+  "method": {
+    "aging": "days since last document date in Движение тканей",
+    "money": "inventory snapshot amount_rub matched by warehouse+article|name",
+    "leaf_columns": "AMBIGUOUS — not used as RUB",
+    "no_double_count": "warehouse-scoped match (fix vs H84-v1 art-only)"
+  }
+}

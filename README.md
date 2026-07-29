@@ -50,3 +50,4 @@
 - **H81**: waiting-on-owners checkpoint + print index — `live/client_pack/68_WAITING_ON_OWNERS_H81.md`
 - **H82**: contracts ↔ RACI ↔ штатка (meeting evidence) — `live/client_pack/69_CONTRACTS_RACI_SHTATKA_H82.md`
 - **H83**: HR policy ↔ payroll ↔ штатка (UNFORMAL+paid) — `live/client_pack/70_HR_PAYROLL_BRIDGE_H83.md`
+- **H84**: mat_movement ↔ fabric aging (DEAD_STOCK) — `live/client_pack/71_FABRIC_AGING_H84.md`

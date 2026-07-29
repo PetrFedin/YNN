@@ -24,7 +24,8 @@ CSV-скрипт: [`16_MEETING_MINUTE_SCRIPT.csv`](16_MEETING_MINUTE_SCRIPT.csv)
 1. E07 overbank confirm  
 2. TAX perimeter (если не на встрече) — SLA **2026-08-06**  
 3. Feb dump · Mercury · DDS June
-4. HR UNFORMAL+paid (H83) — [`22_HR_UNFORMAL_PAID_H83.csv`](22_HR_UNFORMAL_PAID_H83.csv) → Сливяк/Мамушкина  
+4. HR UNFORMAL+paid (H83) — [`22_HR_UNFORMAL_PAID_H83.csv`](22_HR_UNFORMAL_PAID_H83.csv) → Сливяк/Мамушкина
+5. Fabric DEAD_STOCK (H84) — [`23_FABRIC_DEAD_STOCK_H84.csv`](23_FABRIC_DEAD_STOCK_H84.csv) → Мокеева/Дендерина  
 
 Путь: [`13_GATE_CRITICAL_PATH.csv`](13_GATE_CRITICAL_PATH.csv) · симуляция: [`15_GATE_UNLOCK_SIMULATION_H78.csv`](15_GATE_UNLOCK_SIMULATION_H78.csv)
 

@@ -1,0 +1,5 @@
+priority,action_id,what,who,evidence,why,gate_delta
+P1,H84-A1,Разбор DEAD_STOCK: 668 SKU / ~12.87M ₽ остатка при last move >365д,Мокеева + Дендерина,fabric_dead_stock_top.csv,замороженный WC; кандидаты write-off / перекрой / возврат,0 (Stage2 WC; не gate score)
+P1,H84-A2,Контроль STALE band: ~12.87M ₽ inventory в 365PLUS,Мокеева,fabric_aging_band_rollup.csv,приоритет G6 fabrics после RACI Prod Accept,0
+P2,H84-A3,ABC-A × STALE: дорогие позиции без свежего движения,Коновалова (Product cand.) + Мокеева,fabric_aging_abc_cross.csv,не резать дешёвый хвост раньше дорогого stale,0
+P2,H84-A4,Не трактовать leaf qty движения как ₽ — деньги только из Остатки 31.05,Сливяк / Data,h84_meta.json note ambiguous,H4 warning; ломает WC если смешать,0

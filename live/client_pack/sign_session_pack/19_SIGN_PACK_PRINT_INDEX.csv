@@ -19,3 +19,4 @@ print_order,file,role,when,required
 18,16_MEETING_MINUTE_SCRIPT.csv,Поминутный скрипт,meet,N
 19,09_MASTER_P0_ACTION_BOARD.csv,Полный P0 board,ops,N
 20,22_HR_UNFORMAL_PAID_H83.csv,UNFORMAL+paid 2026 (H83) — async/P1,async,N
+21,23_FABRIC_DEAD_STOCK_H84.csv,Fabric DEAD_STOCK ~12.9M (H84),async,N
