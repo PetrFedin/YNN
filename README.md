@@ -47,3 +47,4 @@
 - **H78**: P0 gate sync (today/path/TAX/simulation) — `live/client_pack/65_P0_GATE_SYNC_H78.md`
 - **H79**: meeting exec kit (checkboxes+TAX/pings/runcard) — `live/client_pack/66_MEETING_EXEC_KIT_H79.md`
 - **H80**: post-sign activation + telegram blast — `live/client_pack/67_POST_SIGN_ACTIVATION_H80.md`
+- **H81**: waiting-on-owners checkpoint + print index — `live/client_pack/68_WAITING_ON_OWNERS_H81.md`

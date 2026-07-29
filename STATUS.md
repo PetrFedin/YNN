@@ -3,10 +3,9 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H80 Post-sign activation
-Документ: `live/client_pack/67_POST_SIGN_ACTIVATION_H80.md`  
-Встреча: `sign_session_pack/16_MEETING_RUNCARD_ONEPAGE.md`  
-Пинги: `18_TELEGRAM_BLAST_READY.csv`  
+## Сейчас: H81 Waiting on owners
+Документ: `live/client_pack/68_WAITING_ON_OWNERS_H81.md`  
+Индекс печати: `sign_session_pack/19_SIGN_PACK_PRINT_INDEX.csv`  
 Точка входа: [`NOW.md`](NOW.md)
 
-Gate: **18/30**. Updated: 2026-07-29 · **ждём встречу/подписи**
+Gate: **18/30**. Analytics: **EXHAUSTED_PENDING_OWNERS**. Updated: 2026-07-29

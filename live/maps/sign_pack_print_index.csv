@@ -1,0 +1,19 @@
+print_order,file,role,when,required
+1,16_MEETING_RUNCARD_ONEPAGE.md,На стол — one-pager,meet,Y
+2,00_SIGN_SESSION_15MIN.md,Сценарий 15–20 мин,meet,Y
+3,01_SIGN_CHECKBOXES.csv,Галочки (вкл. TAX/E07),meet,Y
+4,07_E02_EVIDENCE_BRIEF.md,E02 soft-slice evidence,meet,Y
+5,06_IM_SOFT_SLICE_SIGN_CARD.csv,E02 карточка подписи,meet,Y
+6,10_E08_DUAL_PATH_CHECKLIST.csv,E08 Path A/B,meet,Y
+7,14_TAX_SOFT_PERIMETER_H76.csv,TAX perimeter (26→27),meet_or_async,Y
+8,11_TAX_36K_EVIDENCE_BRIEF.md,TAX 36k brief,meet_or_async,Y
+9,15_GATE_UNLOCK_SIMULATION_H78.csv,Лестница 18→30,meet,N
+10,13_GATE_CRITICAL_PATH.csv,Полный путь,meet,Y
+11,18_TELEGRAM_BLAST_READY.csv,Отправить до/после,pre_meet,Y
+12,02_OWNER_PING_MESSAGES.csv,Пинги (детальные),post_meet,Y
+13,17_POST_SIGN_ACTIVATION.csv,После каждой подписи,post_sign,Y
+14,12_GATE_TAIL_CHECKLIST.csv,Async хвост файлов,async,Y
+15,08_TODAY_TOP5_P0.csv,Today P0,ops,N
+16,03_SLA_ESCALATION.csv,SLA/эскалации,ops,N
+17,16_MEETING_MINUTE_SCRIPT.csv,Поминутный скрипт,meet,N
+18,09_MASTER_P0_ACTION_BOARD.csv,Полный P0 board,ops,N

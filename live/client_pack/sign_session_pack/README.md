@@ -1,35 +1,25 @@
 # Sign session pack — README
 
-**Обновлено:** 2026-07-29 (H72) — синхрон с gate path H68–H71.
+**Обновлено:** 2026-07-29 (H81) — waiting-on-owners checkpoint.
 
-## На встречу (распечатать)
+## Порядок на встречу
 
-1. `00_SIGN_SESSION_15MIN.md` — сценарий 15–20 мин  
-2. `01_SIGN_CHECKBOXES.csv` — галочки RACI/FRAME  
-3. `07_E02_EVIDENCE_BRIEF.md` + `06_IM_SOFT_SLICE_SIGN_CARD.csv` — soft-slice  
-4. `10_E08_DUAL_PATH_CHECKLIST.csv` — card/DDS (Path A быстрее)  
-5. `13_GATE_CRITICAL_PATH.csv` — весь путь 18→30  
+См. **[`19_SIGN_PACK_PRINT_INDEX.csv`](19_SIGN_PACK_PRINT_INDEX.csv)** (канон).
 
-## После встречи / async
+Кратко:
+1. `16_MEETING_RUNCARD_ONEPAGE.md` — на стол  
+2. `00_SIGN_SESSION_15MIN.md` + `01_SIGN_CHECKBOXES.csv`  
+3. `07_E02_*` + `06_*` + `10_E08_*`  
+4. `14_TAX_SOFT_*` + `11_TAX_36K_*`  
+5. `15_GATE_UNLOCK_SIMULATION` + `13_GATE_CRITICAL_PATH`  
 
-6. `12_GATE_TAIL_CHECKLIST.csv` — TAX / Feb / Mercury / DDS June  
-7. `11_TAX_36K_EVIDENCE_BRIEF.md`  
-8. `02_OWNER_PING_MESSAGES.csv` — разослать  
-9. `08_TODAY_TOP5_P0.csv` · `09_MASTER_P0_ACTION_BOARD.csv`  
+## До / после
 
-## Связанные волны
+- До: `18_TELEGRAM_BLAST_READY.csv`  
+- После подписи: `17_POST_SIGN_ACTIVATION.csv`  
+- Async файлы: `12_GATE_TAIL_CHECKLIST.csv`  
+- Кто должен: `20_WAITING_ON_OWNERS.csv`  
 
-- Wave A: `../execution_wave_a/20_*` overbank hypotheses  
-- Wave C: `../execution_wave_c/26–29_*` Mercury/Feb/TAX  
-- Command center: `../../../NOW.md`  
+## Command center
 
-H55 base: `../42_EXEC_ENABLE_H55.md` · H71 tail: `../58_GATE_TAIL_H71.md`
-
-## H79
-- `16_MEETING_RUNCARD_ONEPAGE.md` + `16_MEETING_MINUTE_SCRIPT.csv`
-- `01_SIGN_CHECKBOXES` includes E07 + TAX_PERIMETER + TAX36k
-
-## H80
-- `17_POST_SIGN_ACTIVATION.csv` — что делать после каждой подписи
-- `18_TELEGRAM_BLAST_READY.csv` — тексты в Telegram
-- `00_SIGN_SESSION` включает ☐ TAX/E07
+[`../../../NOW.md`](../../../NOW.md) · статус analytics: **EXHAUSTED_PENDING_OWNERS** (H81)
