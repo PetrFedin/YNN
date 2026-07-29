@@ -40,6 +40,7 @@ Updated: 2026-07-29
 | **31** | **Alias/TSUM/ZP** | `31_ALIAS_TSUM_ZP.md` | **H59:** evidence + Mercury missing + P0 ZP |
 | **32** | **Gate path + TAX** | `32_GATE_PATH_TAX.md` | **H60:** 18→30 + TAX 36k prefill + board sync |
 | **33** | **Collections margin** | `33_COLLECTIONS_MARGIN.md` | **H62:** 12 showroom files → 1.7k lines / 4.0M€ |
+| **34** | **Budget vs fact** | `34_BUDGET_VS_FACT.md` | **H63:** plan/fact 497 lines + opex bridge |
 | EXEC | Пакет исполнения | `wave_a` + `wave_b` + `wave_c` + `sign_session_pack` | Решения owners |
 | JSON | Снимки слоёв | `deep_synthesis_snapshot.json`, `depth_layer2_*.json` … | Воспроизводимость |
 | CSV | Машиночитаемые срезы | `*.csv` в этой папке | + H52 gap maps |

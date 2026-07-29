@@ -1,0 +1,14 @@
+{
+  "horizon": "H63",
+  "date": "2026-07-29",
+  "title": "Budget plan/fact normalize + opex bridge",
+  "lines_n": 497,
+  "months_n": 18,
+  "top_variance_n": 40,
+  "bridge_rows": 174,
+  "plan_without_fact_n": 224,
+  "fx_view": 100.0,
+  "no_fake_accept": true,
+  "so_t": false,
+  "june_2026_income_fact_missing": true
+}

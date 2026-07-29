@@ -14,7 +14,7 @@
 
 Полный список owner-only: [`only_owner_moves_metrics.csv`](live/marts/only_owner_moves_metrics.csv)  
 Verify источников: [`48_SOURCE_FREEZE_VERIFY_H61.md`](live/client_pack/48_SOURCE_FREEZE_VERIFY_H61.md)  
-Новый анализ документов: [`49_COLLECTIONS_MARGIN_H62.md`](live/client_pack/49_COLLECTIONS_MARGIN_H62.md) (12 коллекций → маржа)
+Новый анализ документов: [`49_COLLECTIONS_MARGIN_H62.md`](live/client_pack/49_COLLECTIONS_MARGIN_H62.md) · [`50_BUDGET_VS_FACT_H63.md`](live/client_pack/50_BUDGET_VS_FACT_H63.md)
 
 ---
 
