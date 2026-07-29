@@ -9,3 +9,4 @@ order,exec_id,decision,signer,options,recommended,check,signature,date
 8,E02a,ACCEPT soft-slice IM 2026-04 = 509351.08,Сливяк+Мамушкина,ACCEPT_SOFT_SLICE|REJECT|DEFER,ACCEPT_SOFT_SLICE,☐,,
 9,E02b,ACCEPT soft-slice IM 2025-08 = 37327.69,Сливяк+Мамушкина,ACCEPT_SOFT_SLICE|REJECT|DEFER,ACCEPT_SOFT_SLICE,☐,,
 10,E06,ZP #REF! fix by 2026-08-04,Сливяк,YES_WITH_DATE|DEFER,YES_WITH_DATE,☐,,
+11,E08,ACCEPT core−card policy D-H58-BANK-01 (Path A) OR defer to card→DDS map,Янина + Сливяк,PATH_A_CORE_CARD|PATH_B_MAP|DEFER,PATH_A_CORE_CARD,☐,,

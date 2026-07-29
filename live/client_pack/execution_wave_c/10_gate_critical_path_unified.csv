@@ -1,10 +1,10 @@
 step,gate_from,gate_to,action,owner,artifact,status,depends,horizon
-0,18,18,AS_IS CURRENT,—,NOW.md,CURRENT,—,H68-H71
+0,18,18,AS_IS CURRENT,—,NOW.md / sign_session_pack/00_SIGN_SESSION_15MIN.md,CURRENT,—,H68-H71
 1,18,20,E02 soft-slice Accept 37k+509k,Сливяк/Мамушкина,sign_session_pack/07_E02_EVIDENCE_BRIEF.md,WAITING_ACCEPT,sign,H68
 2,20,24,E07 overbank confirm hypotheses ×4,Сливяк,execution_wave_a/20_im_overbank_hypothesis_prefill.csv,WAITING_CONFIRM,E02 желательно,H69
 3,24,26,E08 Path A core−card OR Path B map card→DDS,Янина/Сливяк,sign_session_pack/10_E08_DUAL_PATH_CHECKLIST.csv,WAITING_POLICY_OR_MAP,—,H70
 4,26,27,TAX 36k map to DDS ENP (Salon Sber),Сливяк,sign_session_pack/11_TAX_36K_EVIDENCE.csv,WAITING_CONFIRM,E08 for full 2024-01 CLOSE,H71
 5,27,28,Feb 2026 DDS>bank article recon (−1.50M),Сливяк,execution_wave_c/27_feb2026_recon_work_order.csv,WAITING_FILE,DDS article dump,H71
 6,28,29,Mercury May payment / July bank refresh,Сливяк,execution_wave_c/26_mercury_intake_work_orders.csv,WAITING_FILE,July statement,H71
-7,29,30,Mercury June window match + residual close,Сливяк/Мамушкина,07_tsum_missing_payment_tracker.csv,WINDOW_AHEAD,May closed,H71
-8,18,18,UPLOAD DDS 2026 full June (parallel anytime),Сливяк,01_bank_dds_work_orders.csv WO-BANK-DDS-JUNE,WAITING_FILE,file,H58/H71
+7,29,30,Mercury June window match + residual close,Сливяк/Мамушкина,execution_wave_c/07_tsum_missing_payment_tracker.csv,WINDOW_AHEAD,May closed,H71
+8,18,18,UPLOAD DDS 2026 full June (parallel anytime),Сливяк,execution_wave_c/01_bank_dds_work_orders.csv,WAITING_FILE,file,H58/H71

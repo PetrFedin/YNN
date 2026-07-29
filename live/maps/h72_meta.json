@@ -1,0 +1,9 @@
+{
+  "horizon": "H72",
+  "date": "2026-07-29",
+  "title": "Sign pack sync with H68–H71 gate path",
+  "board_n": 42,
+  "why": "00_SIGN_SESSION was stale at H55; owners missed E07–Mercury",
+  "no_fake_accept": true,
+  "so_t": false
+}

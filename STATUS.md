@@ -3,10 +3,8 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H71 Gate tail pack
-Документ: `live/client_pack/58_GATE_TAIL_H71.md`  
-Точка входа: [`NOW.md`](NOW.md)
+## Сейчас: H72 Sign pack sync
+Документ: `live/client_pack/59_SIGN_PACK_SYNC_H72.md`  
+Точка входа: [`NOW.md`](NOW.md) · встреча: `sign_session_pack/00_SIGN_SESSION_15MIN.md`
 
-TAX 36k + Feb −1.5M + Mercury intake упакованы. Gate: **18/30** (owners/files).
-
-Updated: 2026-07-29
+Gate: **18/30**. Updated: 2026-07-29
