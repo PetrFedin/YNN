@@ -1,0 +1,8 @@
+warehouse,shop_line_hits_n,note,so_t
+Склад ИМ (Основное подразделение),41,frequency of цех lines that also appear in stock_cost warehouses,N
+Склад оптовых продаж (Основное подразделение),37,frequency of цех lines that also appear in stock_cost warehouses,N
+ДЕМИ (Основное подразделение),18,frequency of цех lines that also appear in stock_cost warehouses,N
+Салон (Лена М.) (Основное подразделение),10,frequency of цех lines that also appear in stock_cost warehouses,N
+Подарки (Основное подразделение),5,frequency of цех lines that also appear in stock_cost warehouses,N
+Остатки ЦУМ (Основное подразделение),5,frequency of цех lines that also appear in stock_cost warehouses,N
+Aldo Coppola (Основное подразделение),2,frequency of цех lines that also appear in stock_cost warehouses,N

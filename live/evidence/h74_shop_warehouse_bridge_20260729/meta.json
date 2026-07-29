@@ -1,0 +1,19 @@
+{
+  "horizon": "H74",
+  "date": "2026-07-29",
+  "title": "Цех ЗП ↔ collections / person-cost / stock warehouses",
+  "files_n": 5,
+  "lines_n": 991,
+  "lines_with_art_n": 681,
+  "unique_articles_n": 186,
+  "collection_lines_n": 453,
+  "person_cost_lines_n": 656,
+  "stock_lines_n": 42,
+  "unique_arts_collection_n": 91,
+  "unique_arts_stock_n": 19,
+  "portn_pay_sum_rub": 2513861.13,
+  "collection_sale_eur_touched": 1388488.0,
+  "no_fake_accept": true,
+  "so_t": false,
+  "note": "Stock hit rare by design (H64): collection-style arts rarely = goods SKU warehouses"
+}

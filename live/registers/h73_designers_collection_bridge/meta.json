@@ -1,0 +1,18 @@
+{
+  "horizon": "H73",
+  "date": "2026-07-29",
+  "title": "Designers payroll KPI/smetka ↔ collections/person-cost",
+  "files_n": 5,
+  "smetka_lines_n": 17,
+  "smetka_unique_articles_n": 15,
+  "kpi_rows_n": 31,
+  "constructors_n": 7,
+  "smetka_links_collection_n": 13,
+  "smetka_links_person_cost_n": 15,
+  "smetka_links_both_n": 12,
+  "collection_sale_eur_touched": 507427.0,
+  "kpi_pay_total_rub": 4283350.0,
+  "no_fake_accept": true,
+  "so_t": false,
+  "note": "Five monthly xlsx share identical smetka; KPI Лист1 differs 2026-01..05"
+}

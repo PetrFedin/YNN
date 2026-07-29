@@ -1,0 +1,8 @@
+constructor_surname,smetka_lines_n,smetka_hours,smetka_cost_rub,unique_articles_n,collection_articles_n,kpi_months_n,pay_net_sum_rub,kpi_score_avg,so_t,note
+Лунева,1,5.0,2250.0,1,1,5,830000.0,1.062,N,smetka deduped once; KPI from monthly Лист1
+Романцова,7,38.5,17325.0,7,5,5,800000.0,0.992,N,smetka deduped once; KPI from monthly Лист1
+Скитёва,0,0.0,0.0,0,0,5,690000.0,0.901,N,smetka deduped once; KPI from monthly Лист1
+Добренькова,4,17.0,7650.0,2,1,5,680000.0,0.873,N,smetka deduped once; KPI from monthly Лист1
+Салигина,1,3.0,1350.0,1,1,5,675455.0,0.855,N,smetka deduped once; KPI from monthly Лист1
+Голубинская,4,15.5,6975.0,4,3,5,544737.0,0.653,N,smetka deduped once; KPI from monthly Лист1
+Чихун,0,0.0,0.0,0,0,1,63158.0,0.905,N,smetka deduped once; KPI from monthly Лист1

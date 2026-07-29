@@ -1,8 +1,8 @@
 # NOW — Command Center YANINA / YNN
 
-**Обновлено:** 2026-07-29 (H72)  
-**Вердикт:** Gate 18→30 упакован (H68–H71). H72 синхронизировал **сценарий встречи** — раньше был H55.  
-**Стоп:** новый forensic. Нужна встреча/подписи/файлы.
+**Обновлено:** 2026-07-29 (H74)  
+**Вердикт:** Gate-pack готов. H73–H74 закрыли G7 payroll bridges (конструкторы + цех ↔ коллекции/склады).  
+**Стоп:** empty forensic. Нужна встреча/подписи/файлы. Next P2: goods stock × IM/TSUM sales **или** tax PDF ↔ bank SOFT.
 
 ---
 
@@ -16,10 +16,18 @@
 
 ---
 
+## Свежий data-ops (P2)
+
+- **H73:** [`60_DESIGNERS_COLLECTION_BRIDGE_H73.md`](live/client_pack/60_DESIGNERS_COLLECTION_BRIDGE_H73.md) — ~4.28M ₽ KPI · ~507k €  
+- **H74:** [`61_SHOP_WAREHOUSE_BRIDGE_H74.md`](live/client_pack/61_SHOP_WAREHOUSE_BRIDGE_H74.md) — цех ~2.51M ₽ · 91 арт→коллекция · stock hits редкие (ожидаемо)  
+- **Next P2:** goods stock end-qty × IM/TSUM **или** tax PDF ↔ bank SOFT months
+
+---
+
 ## Gate
 
 ```
 18 →20 E02 →24 E07 →26 E08 →27 TAX →28 Feb →29 Mercury →30
 ```
 
-**18/30** · Док H72: [`59_SIGN_PACK_SYNC_H72.md`](live/client_pack/59_SIGN_PACK_SYNC_H72.md)
+**18/30** · Sign: [`59_SIGN_PACK_SYNC_H72.md`](live/client_pack/59_SIGN_PACK_SYNC_H72.md) · Data: H73–H74
