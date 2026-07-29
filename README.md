@@ -33,3 +33,4 @@
 - **H64**: SKU↔stock↔fabric ABC + collection bridge — `live/docs/51_SKU_STOCK_FABRIC_BRIDGE_H64.md`
 - **H65**: person-cost/embroidery → collection gaps — `live/client_pack/52_PERSON_COST_COLLECTION_BRIDGE_H65.md`
 - **H66**: residual HIGH gaps stem/MD/quarantine — `live/client_pack/53_RESIDUAL_HIGH_GAPS_H66.md`
+- **H67**: fabric/procurement cash ABC — `live/client_pack/54_FABRIC_PROCUREMENT_CASH_H67.md`

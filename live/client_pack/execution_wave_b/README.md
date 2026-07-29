@@ -16,3 +16,4 @@ H54: `../41_WAVE_B_READY_H54.md`
 - `15–18_*` SKU/stock/fabric/family
 - `19–21_*` person-cost bridge + owner worksheet
 - `22–25_*` residual HIGH gaps (H66)
+- `26–30_*` fabric/procurement cash (H67)

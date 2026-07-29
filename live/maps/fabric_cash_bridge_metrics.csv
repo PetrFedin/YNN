@@ -1,0 +1,13 @@
+metric,value,unit,note
+procurement_list_n,63,count,Список контрагентов по закупке
+procurement_with_bank_edge_n,30,count,Name-matched to H1 supplier↔bank edges
+procurement_list_only_n,15,count,Need payment path check
+procurement_foreign_or_no_inn_n,18,count,Import contour — expected no RF bank edge
+bank_matched_suppliers_n,27,count,Unique suppliers in bank edges
+bank_matched_suppliers_rub,54740292.94,RUB,All matched supplier payments (not fabric-only)
+bank_fabric_like_rub,9233485.97,RUB,Purpose/name heuristic fabric|textile|fur|materials
+expense_fabric_articles_rub,14194395.63,RUB,"Расходы articles matching ткань/фурнитура (mgmt class, not invoices)"
+expense_vs_bank_fabric_delta_rub,4960909.66,RUB,"Positive ⇒ opex class > fabric-tagged bank; expected (cash vs class, FX, card)"
+fabric_inventory_total_rub,29837656.49,RUB,H64 snapshot 2026-05-31 filtered
+fabric_inventory_A_band_rub,23869120.55,RUB,A-band n=498 — WC watch
+do_not_mix_contours,1,flag,Inventory ₽ ≠ goods stock qty ≠ company P&L

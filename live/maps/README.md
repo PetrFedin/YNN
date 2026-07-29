@@ -70,3 +70,4 @@ CSV в этой папке: каталог документов, crosswalk пр�
 - `35_SKU_STOCK_FABRIC_BRIDGE_MAP.md` (H64)
 - `36_PERSON_COST_COLLECTION_BRIDGE_MAP.md` (H65)
 - `37_RESIDUAL_HIGH_GAPS_MAP.md` (H66)
+- `38_FABRIC_PROCUREMENT_CASH_MAP.md` (H67)

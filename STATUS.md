@@ -3,10 +3,10 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H66 Residual HIGH gaps
-Документ: `live/client_pack/53_RESIDUAL_HIGH_GAPS_H66.md`  
+## Сейчас: H67 Fabric/procurement cash
+Документ: `live/client_pack/54_FABRIC_PROCUREMENT_CASH_H67.md`  
 Точка входа: [`NOW.md`](NOW.md)
 
-Остаток после H65 (**33** HIGH / ~304k€) разобран: stem-PC 8, MD STRONG 5, quarantine 3, true blank 9.
+Bank fabric-like **9,233,486** ₽ · expense ткани **14,194,396** ₽ · inventory A **23,869,121** ₽.
 
 Gate: **18/30** (owners). Updated: 2026-07-29

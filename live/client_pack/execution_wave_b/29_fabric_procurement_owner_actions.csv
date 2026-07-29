@@ -1,0 +1,21 @@
+priority_band,action_type,subject,amount_rub,action,artifact,so_t
+P1_WATCH,FABRIC_SUPPLIER_A_BAND,Солстудио Индастри ООО,3166969.0,Держать в WC-watch: A-band тканевый payee по банку,26_fabric_supplier_bank_abc.csv,N
+P1_WATCH,FABRIC_SUPPLIER_A_BAND,ИП Овчинникова Марина Сазагадовна,1396885.0,Держать в WC-watch: A-band тканевый payee по банку,26_fabric_supplier_bank_abc.csv,N
+P1_WATCH,FABRIC_SUPPLIER_A_BAND,"ООО ""РОСТ ТЕКСТИЛЬ""",1189091.7,Держать в WC-watch: A-band тканевый payee по банку,26_fabric_supplier_bank_abc.csv,N
+P1_WATCH,FABRIC_SUPPLIER_A_BAND,ИП Макухина Полина Геннадиевна TEXTILE AVENUE,906588.47,Держать в WC-watch: A-band тканевый payee по банку,26_fabric_supplier_bank_abc.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,"Андреева Елена Николаевна ""Другие ткани ИП",,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,ИМАНГО ООО,,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,ИП Бачигов Тимур Салманович,,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,"ИП Василова Лилия Равилевна ИМ ""Сезон""",,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,ИП Калиниченко Андрей Валерьевич Итали Текс (Italy Tex),,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,"ИП Никитина Светлана Михайловна ""Тессутидея""",,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,ИП Саратова Малика Магомедовна,,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,ИП Солнцева Нина Николаевна,,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,ИП Хамиев Тимур Ильдарович Магазин ФЕЯ,,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,"ИП Чумакова Людмила Олеговна ""Фурнатур""",,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,КАРУНА ТЕКС ООО,,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,Маталина Октябрина Григорьевна (АЙСЕДОРА) ИП,,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,"ООО ""ВАНШИ-ТЕКС""",,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,"ООО ""ОЛМАТЕКС""",,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P1_CHECK,SUPPLIER_NO_BANK,"ООО ""ТКАНИПРО""",,"Есть в списке закупок, нет в bank edges — проверить оплату наличными/картой/другим юрлицом",28_procurement_bank_coverage.csv,N
+P0_CONTEXT,DELTA_EXPENSE_VS_BANK,ткани/фурнитура,4960909.66,"Не закрывать delta как ошибку — разные контуры (класс расходов vs bank purpose). Использовать для запросов, не для P&L.",27_fabric_cash_bridge_metrics.csv,N

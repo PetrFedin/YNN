@@ -1,0 +1,30 @@
+expense_article,lines_n,months_n,so_t,note,abc_rank,abc_value_rub,abc_cum_share_pct,abc_band
+"ткани, фурнитура МД",36,21,N,Opex article from Расходы — not invoice-level supplier,1,7166969.85,50.49,A
+"ткани, фурнитура Площадки",22,16,N,Opex article from Расходы — not invoice-level supplier,2,2310132.33,66.77,A
+Ткани МД,6,5,N,Opex article from Расходы — not invoice-level supplier,3,1579607.88,77.89,A
+"фурнитура, мел, булавки",2,1,N,Opex article from Расходы — not invoice-level supplier,4,779700.9,83.39,B
+"фурнитура, бязь",2,1,N,Opex article from Расходы — not invoice-level supplier,5,769033.43,88.81,B
+"ткани, фурнитура ИМ",13,12,N,Opex article from Расходы — not invoice-level supplier,6,404228.41,91.65,B
+Фурнитура МД,6,5,N,Opex article from Расходы — not invoice-level supplier,7,188375.2,92.98,B
+Ткани Площадки,3,3,N,Opex article from Расходы — not invoice-level supplier,8,164460.3,94.14,B
+"ткани, фурнитура Общие",1,1,N,Opex article from Расходы — not invoice-level supplier,9,132654.13,95.07,C
+Фурнитура Площадки,3,3,N,Opex article from Расходы — not invoice-level supplier,10,117326.9,95.9,C
+"ткани, фурнитура Общее",6,5,N,Opex article from Расходы — not invoice-level supplier,11,105409.55,96.64,C
+Ткани МД/ИМ,1,1,N,Opex article from Расходы — not invoice-level supplier,12,82625.39,97.23,C
+фурнитура,5,4,N,Opex article from Расходы — not invoice-level supplier,13,66530.67,97.69,C
+шв.фурнитура,3,3,N,Opex article from Расходы — not invoice-level supplier,14,62542.52,98.13,C
+Ткани ИМ/Площадки,2,1,N,Opex article from Расходы — not invoice-level supplier,15,39490.0,98.41,C
+Фурнитура МД/ИМ,2,1,N,Opex article from Расходы — not invoice-level supplier,16,31692.82,98.64,C
+Ткани (бязь) Общие,1,1,N,Opex article from Расходы — not invoice-level supplier,17,26850.0,98.83,C
+Ткани ИМ,2,2,N,Opex article from Расходы — not invoice-level supplier,18,23800.0,98.99,C
+"Печать ткани (Ходина, Дендерина)",1,1,N,Opex article from Расходы — not invoice-level supplier,19,23760.0,99.16,C
+Ткани Общие,1,1,N,Opex article from Расходы — not invoice-level supplier,20,23294.0,99.32,C
+Фурнитура ИМ,3,3,N,Opex article from Расходы — not invoice-level supplier,21,16680.06,99.44,C
+шв. Фурнитура,1,1,N,Opex article from Расходы — not invoice-level supplier,22,15885.3,99.55,C
+"ткань, фурнитура",1,1,N,Opex article from Расходы — not invoice-level supplier,23,15330.4,99.66,C
+"фурнитура, пакеты, уп",1,1,N,Opex article from Расходы — not invoice-level supplier,24,13537.0,99.76,C
+Фурнитура ИМ/Площадки,1,1,N,Opex article from Расходы — not invoice-level supplier,25,11957.99,99.84,C
+Фурнитура,1,1,N,Opex article from Расходы — not invoice-level supplier,26,11344.6,99.92,C
+Кружево (Дендерина),1,1,N,Opex article from Расходы — not invoice-level supplier,27,5400.0,99.96,C
+рукав для ткани,1,1,N,Opex article from Расходы — not invoice-level supplier,28,3570.0,99.98,C
+Материалы фильтры (Кропачев),1,1,N,Opex article from Расходы — not invoice-level supplier,29,2206.0,100.0,C

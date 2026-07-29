@@ -5,3 +5,4 @@ person,minutes,wave,actions,artifact,blocks_if_skip
 Коптева,60,B,После E01: 3 звонка Бекеева/Нурова/Чухонцева по script,wave_b_b2b_call_top3.csv,2.07M collect idle
 Коновалова,45,B,После E03: ACCEPT/REJECT топ-5 alias SKU,wave_b_alias_top5.csv,~3.04M rev margin quality
 Мокеева,90,B,После E03 (или draft): заполнить 26 salon cost lines,wave_b_md_salon_cost_wo.csv,salon pilot GM <80%
+Янина / закупки,20,B,H67: сверить LIST_ONLY_NO_BANK поставщиков + A-band тканевых payees; не смешивать с goods P&L,execution_wave_b/29_fabric_procurement_owner_actions.csv,WC тканей без cash-owner

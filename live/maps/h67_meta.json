@@ -1,0 +1,18 @@
+{
+  "horizon": "H67",
+  "date": "2026-07-29",
+  "title": "Fabric/procurement cash ABC + coverage",
+  "suppliers_list_n": 63,
+  "bank_edges_n": 304,
+  "bank_suppliers_n": 27,
+  "bank_fabric_suppliers_n": 22,
+  "bank_fabric_rub": 9233485.97,
+  "expense_fabric_rub": 14194395.63,
+  "inventory_total_rub": 29837656.49,
+  "inventory_A_rub": 23869120.55,
+  "coverage_matched_n": 30,
+  "coverage_list_only_n": 15,
+  "coverage_foreign_n": 18,
+  "no_fake_accept": true,
+  "so_t": false
+}
