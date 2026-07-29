@@ -1,0 +1,14 @@
+{
+  "horizon": "H79",
+  "date": "2026-07-29",
+  "title": "Meeting execution kit — checkboxes/pings/SLA/script with TAX",
+  "checkboxes_n": 14,
+  "added_exec": [
+    "E07",
+    "TAX_PERIMETER",
+    "TAX36k"
+  ],
+  "no_fake_accept": true,
+  "so_t": false,
+  "note": "Closes gap: TAX/E07 missing from 01_SIGN_CHECKBOXES"
+}

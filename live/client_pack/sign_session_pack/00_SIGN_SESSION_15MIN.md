@@ -1,4 +1,4 @@
-# Пакет на подпись — 15–20 минут (H78 sync · H76 TAX perimeter)
+# Пакет на подпись — 15–20 минут (H79 runcard · H76 TAX perimeter)
 
 **Дата пакета:** 2026-07-29  
 **Цель:** один документ на встречу → сдвиг gate **18→30**.  
@@ -17,7 +17,7 @@
 | 7–14 | Сливяк + Мамушкина | **E02** soft-slice · дата E06 ЗП · next: E07/TAX/Mercury файлы |
 | 14–20 | все | фото листа · разослать пинги `02_*` |
 
-Чекбоксы: [`01_SIGN_CHECKBOXES.csv`](01_SIGN_CHECKBOXES.csv) · E02 evidence: [`07_E02_EVIDENCE_BRIEF.md`](07_E02_EVIDENCE_BRIEF.md)
+На стол: [`16_MEETING_RUNCARD_ONEPAGE.md`](16_MEETING_RUNCARD_ONEPAGE.md) · Чекбоксы: [`01_SIGN_CHECKBOXES.csv`](01_SIGN_CHECKBOXES.csv) (+TAX/E07) · E02: [`07_E02_EVIDENCE_BRIEF.md`](07_E02_EVIDENCE_BRIEF.md)
 
 ---
 

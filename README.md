@@ -45,3 +45,4 @@
 - **H76**: tax SOFT/GAP ↔ Salon UFK perimeter — `live/client_pack/63_TAX_SOFT_PERIMETER_H76.md`
 - **H77**: SALES ДДС-доход ↔ budget sanity — `live/client_pack/64_SALES_BUDGET_SANITY_H77.md`
 - **H78**: P0 gate sync (today/path/TAX/simulation) — `live/client_pack/65_P0_GATE_SYNC_H78.md`
+- **H79**: meeting exec kit (checkboxes+TAX/pings/runcard) — `live/client_pack/66_MEETING_EXEC_KIT_H79.md`

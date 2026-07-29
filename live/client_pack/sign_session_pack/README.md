@@ -24,3 +24,7 @@
 - Command center: `../../../NOW.md`  
 
 H55 base: `../42_EXEC_ENABLE_H55.md` · H71 tail: `../58_GATE_TAIL_H71.md`
+
+## H79
+- `16_MEETING_RUNCARD_ONEPAGE.md` + `16_MEETING_MINUTE_SCRIPT.csv`
+- `01_SIGN_CHECKBOXES` includes E07 + TAX_PERIMETER + TAX36k

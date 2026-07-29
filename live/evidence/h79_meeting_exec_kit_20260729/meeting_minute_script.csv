@@ -1,0 +1,6 @@
+min_from,min_to,who,say_ru,artifact
+0,2,ведущий,"Stage1 упакован; gate 18/30; data H73–H77 закрыты; сегодня только подписи/файлы. Запреты: не весь POS, не goods как P&L, не FORCE_CLOSE TAX/Feb.",00_SIGN_SESSION_15MIN
+2,7,Янина,"Подписать E01, E03a–c, E12, FRAME1–2, E08 Path A (рекомендуем).",01_SIGN_CHECKBOXES rows 1–8
+7,12,Сливяк+Мамушкина,E02a/b soft-slice (509k+37k). E06 дата #REF!. При наличии времени — TAX perimeter INCLUDE.,07_E02 + 14_TAX_SOFT
+12,15,все,"Фото листа. Разослать пинги 02_*. Async: E07, TAX, Feb, Mercury, DDS June по 12/13/15.",02_OWNER_PING + 15_SIM
+15,20,буфер,Если успели TAX perimeter — зафиксировать подпись на 14_* (26→27). Иначе async до 2026-08-06.,14_TAX_SOFT_PERIMETER_H76
