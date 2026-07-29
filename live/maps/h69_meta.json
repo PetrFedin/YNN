@@ -1,0 +1,15 @@
+{
+  "horizon": "H69",
+  "date": "2026-07-29",
+  "title": "Overbank channel-share hypothesis prefill + ping refresh",
+  "lines_n": 48,
+  "months_n": 4,
+  "hyp_by_confidence": {
+    "HIGH": 35,
+    "HIGH_FOR_EXCLUSION": 13
+  },
+  "gate_now": "18/30",
+  "gate_if_e02_and_e07": "24/30",
+  "no_fake_accept": true,
+  "so_t": false
+}

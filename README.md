@@ -35,3 +35,4 @@
 - **H66**: residual HIGH gaps stem/MD/quarantine — `live/client_pack/53_RESIDUAL_HIGH_GAPS_H66.md`
 - **H67**: fabric/procurement cash ABC — `live/client_pack/54_FABRIC_PROCUREMENT_CASH_H67.md`
 - **H68**: master P0 board + E02 evidence — `live/client_pack/55_MASTER_P0_BOARD_H68.md`
+- **H69**: overbank channel hypotheses — `live/client_pack/56_OVERBANK_HYPOTHESIS_H69.md`

@@ -1,0 +1,5 @@
+period_month,lines_n,hyp_im_share_sum_rub,hyp_not_im_sum_rub,hyp_pos_hold_rub,hyp_tbank_im_rub,hyp_dekor_rent_rub,surplus_rub,owner_next,gate_effect,do_not_auto_accept,so_t
+2024-08,8,1999329.53,642756.05,462756.05,1999329.53,180000.0,724695.42,CONFIRM hypotheses; POS_HOLD stays out of IM; never ADD_POS_TO_IM,→24 after owner confirm (E07),YES,N
+2025-01,11,2074733.18,0.0,0.0,1197045.18,0.0,420515.18,CONFIRM hypotheses; POS_HOLD stays out of IM; never ADD_POS_TO_IM,→24 after owner confirm (E07),YES,N
+2025-10,14,1772878.43,4056620.0,3966620.0,920964.43,90000.0,244872.43,CONFIRM hypotheses; POS_HOLD stays out of IM; never ADD_POS_TO_IM,→24 after owner confirm (E07),YES,N
+2026-03,15,672194.72,4549174.89,4549174.89,672194.72,0.0,264104.72,CONFIRM hypotheses; POS_HOLD stays out of IM; never ADD_POS_TO_IM,→24 after owner confirm (E07),YES,N

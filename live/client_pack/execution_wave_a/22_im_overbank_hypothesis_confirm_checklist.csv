@@ -1,0 +1,5 @@
+period_month,check_tbank_im,check_pos_hold_not_im,check_rent_internal,check_surplus_explained,signer,forbidden,artifact,signature,date,do_not_auto_accept
+2024-08,☐,☐,☐,☐,Сливяк / Мамушкина,ADD_POS_TO_IM on overbank months,20_im_overbank_hypothesis_prefill.csv,,,YES
+2025-01,☐,☐,☐,☐,Сливяк / Мамушкина,ADD_POS_TO_IM on overbank months,20_im_overbank_hypothesis_prefill.csv,,,YES
+2025-10,☐,☐,☐,☐,Сливяк / Мамушкина,ADD_POS_TO_IM on overbank months,20_im_overbank_hypothesis_prefill.csv,,,YES
+2026-03,☐,☐,☐,☐,Сливяк / Мамушкина,ADD_POS_TO_IM on overbank months,20_im_overbank_hypothesis_prefill.csv,,,YES
