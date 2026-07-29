@@ -1,0 +1,8 @@
+step,phase,role,action,system,kpi,sla
+1,ORDER_OPEN,Мастер / администратор,Создать salon/shop строку с article+client+price,МД workbook,100% строк с price,день заказа
+2,COST_CAPTURE,Мокеева / мастер,Внести cost_amount до fitting close (материалы+труд proxy),МД workbook cost field,cost fill ≥80% salon / ≥90% shop,до fitting_date
+3,FITTING,Мастер,Обновить redo/fitting; cost корректировка если переделка,МД workbook,redo_rate tracked,в день fitting
+4,DELIVERY,Админ,delivery_date; запрет close месяца без cost на delivered,МД + checklist,delivered without cost = 0,день выдачи
+5,MONTH_CLOSE,Мокеева + Сливяк,Сверить payments↔DDS; список missing cost (как top40),recon_md + missing_cost CSV,payments↔DDS CLOSE/SOFT,T+5 после месяца
+6,PILOT_GM,DOM-COST / DATA,Считать indicative GM только both-only; лейбл PILOT не SoT,mart export,не попадает в company P&L,monthly
+7,OUT_OF_SCOPE,Янина policy,2024–25 unit-econ не восстанавливать задним числом без ACCEPT,SOT_POLICY,constraint holds,permanent

@@ -3,12 +3,15 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H51 draft решений на подпись
-`live/client_pack/38_DRAFT_DECISIONS_H51.md`  
-CSV: `live/marts/draft_recommended_decisions.csv`
+## Сейчас: H52 Gap maps (усиление недостающего)
+Документ: `live/client_pack/39_GAP_MAPS_H52.md`
 
-**Не Accept** — нужные подписи Янина / Сливяк / Мамушкина.
+Добавлено:
+1. Ops close calendar  
+2. IM acquiring map  
+3. MD cost to-be 2026  
+4. RACI formal↔candidate  
 
-Wave A: `live/client_pack/execution_wave_a/`
+Исполнение по-прежнему: Wave A + H51 draft на подпись.
 
-Updated: 2026-07-28
+Updated: 2026-07-29

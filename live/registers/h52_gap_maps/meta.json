@@ -1,0 +1,12 @@
+{
+  "horizon": "H52",
+  "title": "Gap maps: calendar, IM acq, MD cost to-be, RACI dual",
+  "created": "2026-07-29",
+  "fills": [
+    "close calendar",
+    "IM acquiring map",
+    "MD cost to-be",
+    "RACI formal vs candidate"
+  ],
+  "not_accept": true
+}

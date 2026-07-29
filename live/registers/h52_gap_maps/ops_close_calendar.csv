@@ -1,0 +1,19 @@
+due_date,exec_id,owner,task,track,status,depends_on,artifact,done_flag
+2026-07-29,E01,Янина,CONFIRM DOM-B2B,governance,PLANNED,—,live/marts/raci_yanina_signoff_sheet.csv,☐
+2026-07-29,E03,Янина,CONFIRM PRODUCT/COST/DATA,governance,PLANNED,—,live/marts/raci_yanina_signoff_sheet.csv,☐
+2026-07-29,FRAME,Янина,Dual contour + ban −58% as P&L,policy,PLANNED,—,,☐
+2026-07-30,E02,Сливяк/Мамушкина,POS soft slices Accept,gate,PLANNED,—,live/marts/im_pos_slice_payments.csv + im_pos_yanina_signoff.csv,☐
+2026-07-30,E12,Янина,No MD UE 2024–25 promise,policy,PLANNED,—,live/marts/md_unit_econ_can_cannot_say.csv,☐
+2026-07-31,E06,Сливяк,Start ZP #REF! fix,data_quality,PLANNED,—,live/marts/payroll_quarantine_fix_checklist.csv,☐
+2026-08-01,E11,Янина,RACI SRC-CTRL remainder,governance,PLANNED,E01+E03,live/marts/raci_yanina_signoff_sheet.csv,☐
+2026-08-04,E06,Сливяк,ZP #REF! fix DONE target,data_quality,PLANNED,—,live/marts/payroll_quarantine_fix_checklist.csv,☐
+2026-08-04,E06r,Мамушкина,ZP quarantine release if criteria,data_quality,PLANNED,—,,☐
+2026-08-05,E05,Коновалова,Alias top-5 review start,margin,PLANNED,E03 (DOM-PRODUCT),live/marts/alias_konovalova_decision_sheet.csv,☐
+2026-08-05,E04,Коптева,B2B top-3 calls start,cash,PLANNED,E01,live/marts/b2b_call_script.csv,☐
+2026-08-08,E07,Сливяк,Request IM overbank registers ×4,gate,PLANNED,E02 желательно сначала,live/marts/im_overbank_register_asks.csv,☐
+2026-08-11,E09,Мокеева,Fill salon 2026 missing cost (26),unit_econ,PLANNED,E03 (DOM-COST) желательно,live/marts/md_salon_2026_missing_cost_top40.csv,☐
+2026-08-15,E05,Коновалова,Alias top-5 decisions done,margin,PLANNED,E03 (DOM-PRODUCT),live/marts/alias_konovalova_decision_sheet.csv,☐
+2026-08-18,E08,Сливяк,DDS June upload + core−card policy,gate,PLANNED,E02+E07 для max gate path,live/client_pack/27_PRIORITY_GATE_BANK_DDS_H40.md,☐
+2026-08-22,E04,Коптева,B2B collect checkpoint,cash,PLANNED,E01,live/marts/b2b_call_script.csv,☐
+2026-08-29,E10,Сливяк/Cash,TSUM Mercury May/Jun check,gate,PLANNED,E08 path,live/client_pack/28_PRIORITY_GATE_TSUM_NET_H41.md,☐
+2026-09-05,CLOSE,все,Gate/scorecard review vs 30 path,review,PLANNED,—,,☐

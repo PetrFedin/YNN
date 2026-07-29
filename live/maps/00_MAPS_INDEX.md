@@ -1,7 +1,7 @@
 # Карты YANINA / YNN — индекс
 
-Updated: 2026-07-27  
-Назначение: полный комплект карт поверх уже сделанной аналитики + сопоставление + единый алгоритм + проблемы ±.
+Updated: 2026-07-29  
+Назначение: полный комплект карт поверх уже сделанной аналитики + сопоставление + единый алгоритм + проблемы ± + gap-fill H52.
 
 | # | Карта | Файл | Зачем |
 |---|-------|------|-------|
@@ -21,9 +21,13 @@ Updated: 2026-07-27
 | 13 | Layer 3: касса/классы | `13_LAYER3_CASH_CLASSIFICATION.md` | OTHER_IN 62M POS-like, payroll lines, TSUM≠IM |
 | 14 | Layer 4: impact reclass | `14_LAYER4_RECLASS_IMPACT.md` | Кандидаты + эффект на IM OPEN (1/6) |
 | 15 | Layer 5: scorecard + links | `15_LAYER5_SCORECARD_LINKS.md` | Статус системы; POS=IP; invoice↔МД 40% |
-| EXEC | Пакет исполнения | `execution_pack/` | Решения owners · CSV · стоп narrative |
-| JSON | Снимки слоёв | `deep_synthesis_snapshot.json`, `depth_layer2_*.json` … `depth_layer5_*.json` | Воспроизводимость |
-| CSV | Машиночитаемые срезы | `*.csv` в этой папке | Каталог, crosswalk, scorecard, links |
+| **16** | **Ops close calendar** | `16_OPS_CLOSE_CALENDAR.md` | **H52:** даты E01–E12 до 05.09 |
+| **17** | **IM acquiring map** | `17_IM_ACQUIRING_MAP.md` | **H52:** POS/TBank/Dekor × месяцы |
+| **18** | **MD cost to-be** | `18_MD_COST_PROCESS_TOBE.md` | **H52:** процесс unit-econ 2026+ |
+| **19** | **RACI formal vs candidate** | `19_RACI_FORMAL_VS_CANDIDATE.md` | **H52:** H23↔H27↔H51 |
+| EXEC | Пакет исполнения | `execution_pack/` + `../client_pack/execution_wave_a/` | Решения owners |
+| JSON | Снимки слоёв | `deep_synthesis_snapshot.json`, `depth_layer2_*.json` … | Воспроизводимость |
+| CSV | Машиночитаемые срезы | `*.csv` в этой папке | + H52 gap maps |
 
 ## Как пользоваться (30 секунд)
 

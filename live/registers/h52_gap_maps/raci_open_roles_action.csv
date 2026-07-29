@@ -1,0 +1,11 @@
+role_id,domain,priority,blocks,h51_linked,action
+SRC-CTRL-01 / Approver,Payroll control,P1,-,Y,CONFIRM via draft_recommended_decisions.csv
+SRC-CTRL-02 / Owner,Control-02,P1,-,Y,CONFIRM via draft_recommended_decisions.csv
+SRC-CTRL-02 / Approver,Control-02,P1,-,Y,CONFIRM via draft_recommended_decisions.csv
+SRC-CTRL-03 / Owner,Control-03,P1,-,Y,CONFIRM via draft_recommended_decisions.csv
+SRC-CTRL-03 / Approver,Control-03,P1,-,Y,CONFIRM via draft_recommended_decisions.csv
+DOM-PRODUCT / Owner,Product/SKU alias,P0,alias Accept G5,Y,CONFIRM via draft_recommended_decisions.csv
+DOM-COST / Owner,Cost versions,P0,cost policy G4,Y,CONFIRM via draft_recommended_decisions.csv
+DOM-PROD / Owner,Production,P1,fabrics WC,Y,CONFIRM via draft_recommended_decisions.csv
+DOM-B2B / Owner,B2B settle,P0,collect 2.51M,Y,CONFIRM via draft_recommended_decisions.csv
+DOM-DATA / Owner,Data steward,P0,release gate harden,Y,CONFIRM via draft_recommended_decisions.csv

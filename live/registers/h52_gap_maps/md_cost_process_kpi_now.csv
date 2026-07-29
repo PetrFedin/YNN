@@ -1,0 +1,4 @@
+metric,value,target,gap_lines
+salon_2026_cost_fill_pct,78.2,≥80,26
+shop_2026_cost_fill_pct,90.5,≥90,hold
+salon_2024_25_cost_fill_pct,0,N/A BLOCKED,do not backfill

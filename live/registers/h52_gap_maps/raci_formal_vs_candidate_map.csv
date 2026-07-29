@@ -1,0 +1,11 @@
+domain,item_id,h23_formal_status,h23_owner,h27_candidate_owner,h51_draft_recommend,gap,blocks,action_now
+CASH,DOM-CASH,ACCEPTED,Мамушкина Елена,Мамушкина Елена,Мамушкина Елена,FORMAL_OK,—,Keep
+BANK,SRC-CTRL-04,ACCEPTED,Сливяк Галина,Сливяк Галина,Сливяк Галина,FORMAL_OK,—,Keep
+TAX,DOM-TAX,ACCEPTED,Сливяк Галина,Сливяк Галина,Сливяк Галина,FORMAL_OK,—,Keep
+TAX_APPROVER,SRC-CTRL-05,ACCEPTED,ЯНИНА ЮЛИЯ ФЕДОРОВНА,ЯНИНА ЮЛИЯ ФЕДОРОВНА,ЯНИНА ЮЛИЯ ФЕДОРОВНА,FORMAL_OK,—,Keep
+PAYROLL,DOM-PAYROLL,ACCEPTED,Сливяк Галина,Сливяк Галина,Сливяк Галина,FORMAL_OK,—,Keep
+PRODUCT,DOM-PRODUCT,OPEN_NEEDS_OWNER,,Коновалова Анна,Коновалова Анна,NEED_YANINA_CONFIRM,E05 alias,Подписать H51 draft
+COST,DOM-COST,OPEN_NEEDS_OWNER,,Мокеева Анна,Мокеева Анна,NEED_YANINA_CONFIRM,E09 MD cost + G4,Подписать H51 draft
+PRODUCTION,DOM-PROD,OPEN_NEEDS_OWNER,,Мокеева Анна,Мокеева Анна,NEED_YANINA_CONFIRM,fabrics WC ownership,Подписать H51 draft
+B2B,DOM-B2B,OPEN_NEEDS_OWNER,,Коптева Марина,Коптева Марина,NEED_YANINA_CONFIRM,E04 collect 2.51M,Подписать H51 draft
+DATA_STEWARD,DOM-DATA,OPEN_NEEDS_OWNER,,Сливяк Галина,Сливяк Галина,NEED_YANINA_CONFIRM,gate harden / apply,Подписать H51 draft
