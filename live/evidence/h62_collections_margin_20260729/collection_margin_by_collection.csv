@@ -1,0 +1,13 @@
+collection_id,collection_type,season_hint,source_file,order_lines_n,sale_eur,sale_rub_fx100ish,fx_rate_used,lines_with_cost_n,cost_eur_on_costed_lines,gm_eur_on_costed_lines,gm_pct_on_costed_lines,md_strong_links_n,md_article_only_links_n,md_no_link_n,md_strong_link_pct,lifecycle_status,so_t,contour
+CAP2024,capsule,2024,результат капсула 2024.xlsx,130,244647.0,24464700.0,100,125,32101.2,210088.8,85.9,3,40,63,2.3,Active source candidate,N,SHOWROOM_MD — not goods company P&L
+CAP2025,capsule,2025,результат капсула 2025.xlsx,175,344761.0,34476100.0,100,164,46609.0,285826.0,82.9,7,71,43,4.0,Active source candidate,N,SHOWROOM_MD — not goods company P&L
+COL43,collection,2024-01,результат кол-я 43 (янв 2024).xlsx,147,674151.0,64044345.0,95,147,66859.13,607800.29,90.2,116,30,1,78.9,Controlled working — устранить внешние ссылки,N,SHOWROOM_MD — not goods company P&L
+COL44,collection,2024-06,результат кол-я 44 (июнь 2024).xlsx,64,424135.0,40292825.0,95,64,33616.24,391915.46,92.4,51,12,1,79.7,Controlled working — устранить внешние ссылки,N,SHOWROOM_MD — not goods company P&L
+COL45,collection,2025-01,результат кол-я 45 (янв 2025).xlsx,61,256187.0,25618700.0,100,61,57055.0,193352.0,75.5,44,12,5,72.1,Controlled working — устранить внешние ссылки,N,SHOWROOM_MD — not goods company P&L
+COL46,collection,2025-07,результат кол-я 46 (июль 2025).xlsx,41,329633.0,32963300.0,100,41,45023.0,288289.0,87.5,33,7,1,80.5,Controlled working — устранить внешние ссылки,N,SHOWROOM_MD — not goods company P&L
+COL47,collection,2026-01,результат кол-я 47 (янв 2026).xlsx,71,638390.0,63839000.0,100,71,72549.0,563773.0,88.3,46,23,2,64.8,Controlled working — устранить внешние ссылки,N,SHOWROOM_MD — not goods company P&L
+CRUISE2024,cruise,2024-04,результат круиз 22.04.24.xlsx,328,248529.0,24852900.0,100,328,29309.61,219437.49,88.3,5,131,98,1.5,Active source candidate,N,SHOWROOM_MD — not goods company P&L
+CRUISE2025,cruise,2025-04,результат круиз 09.04.25.xlsx,293,319612.0,31961200.0,100,293,229627.5,89948.54,28.1,3,174,34,1.0,Active source candidate,N,SHOWROOM_MD — not goods company P&L
+CRUISE2026,cruise,2026-04,результат круиз 14.04.26.xlsx,204,198154.0,19815400.0,100,195,32444.12,156582.0,79.0,1,63,68,0.5,Active source candidate,N,SHOWROOM_MD — not goods company P&L
+NY2024,nye,2024,результат НГ 2024.xlsx,122,245731.0,27030410.0,110,122,25402.53,220694.34,89.8,2,86,4,1.6,Active source candidate,N,SHOWROOM_MD — not goods company P&L
+NY2025,nye,2025,результат НГ 24.11.25.xlsx,122,113845.0,10815275.0,95,122,18450.78,95933.68,84.3,2,38,2,1.6,Active source candidate,N,SHOWROOM_MD — not goods company P&L

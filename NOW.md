@@ -13,7 +13,8 @@
 3. Или прислать файл: **DDS июнь** / **Mercury** / заполненный overbank prefill  
 
 Полный список owner-only: [`only_owner_moves_metrics.csv`](live/marts/only_owner_moves_metrics.csv)  
-Verify источников: [`48_SOURCE_FREEZE_VERIFY_H61.md`](live/client_pack/48_SOURCE_FREEZE_VERIFY_H61.md)
+Verify источников: [`48_SOURCE_FREEZE_VERIFY_H61.md`](live/client_pack/48_SOURCE_FREEZE_VERIFY_H61.md)  
+Новый анализ документов: [`49_COLLECTIONS_MARGIN_H62.md`](live/client_pack/49_COLLECTIONS_MARGIN_H62.md) (12 коллекций → маржа)
 
 ---
 

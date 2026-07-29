@@ -3,11 +3,11 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H61 Source freeze verify — STOP packaging
-Документ: `live/client_pack/48_SOURCE_FREEZE_VERIFY_H61.md`  
+## Сейчас: H62 Collections margin (document integration)
+Документ: `live/client_pack/49_COLLECTIONS_MARGIN_H62.md`  
 Точка входа: [`NOW.md`](NOW.md)
 
-**107/107 исходников OK** (0 changed / 0 missing).  
-Дальше без подписи/файлов owners упаковка не усиливает gate (18/30).
+Встроили 12 showroom-файлов: **1758** заказов, **~4.04M €**, COL43–47 → МД strong 65–80%.  
+Контур showroom/MD — не company P&L.
 
 Updated: 2026-07-29

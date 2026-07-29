@@ -1,0 +1,12 @@
+{
+  "horizon": "H62",
+  "date": "2026-07-29",
+  "title": "Collections/showroom → margin lines + MD crosswalk",
+  "files_n": 12,
+  "order_lines_n": 1758,
+  "sale_eur_total": 4037775.0,
+  "md_strong_links": 313,
+  "no_fake_accept": true,
+  "so_t": false,
+  "note": "Closes layer2-optional gap for 12 collection_result files"
+}

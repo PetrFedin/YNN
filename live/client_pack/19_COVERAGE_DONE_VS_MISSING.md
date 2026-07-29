@@ -88,6 +88,7 @@ Marts (семейства): margin 10 · md 10 · recon 9 · settle 5 · bank 4 
 | Payroll totals | **PARTIAL** | multi CLOSE | 19 NO_LINES; split | D-PAY-LINES-01 |
 | Tax cash | **PARTIAL→лучше** | ~97% bank + **H37 HIGH extract 14 PDF** | RSV LOW; ЕНС без сумм | Бухгалтер verify НДС 030/040 |
 | Ткани WC | **PARTIAL** | ~28.6M видно | ABC-aging | Этап 2 I11 |
+| **Коллекции/showroom** | **PARTIAL→DONE ingest** | **H62:** 1758 lines / ~4.04M€; COL43–47 strong→MD 65–80% | capsule/cruise alias; Accept links | D-COL-01 |
 | Decor wind-down | **PARTIAL** | статус ясен | tags periметра | I06 ACCEPT |
 | Дашборд/KPI/SOP | **PARTIAL** | drafts в pack | Внедрение в бою | Этап 3 |
 | **МД unit-econ** | **BLOCKED** | payments/DDS | cost/WIP 2024–25 =0% | D-MD-COST-01 + пилот |
