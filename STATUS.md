@@ -3,11 +3,10 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H59 Alias / TSUM missing / ZP
-Документ: `live/client_pack/46_ALIAS_TSUM_ZP_H59.md`  
+## Сейчас: H60 Board sync + TAX 36k
+Документ: `live/client_pack/47_BOARD_SYNC_TAX_H60.md`  
 Точка входа: [`NOW.md`](NOW.md)
 
-Факт: Mercury за продажи 2026-05 в июньской выписке **отсутствует** (ожид. ~2.58M).  
-Alias top-5 evidence + soft-slice card + ZP P0 runbook готовы.
+E01–E12 → актуальные packs · gate path 18→30 · TAX 36k payment `56f8574ddc801765` · integrity 0 fails · **12/12 READY**.
 
 Updated: 2026-07-29

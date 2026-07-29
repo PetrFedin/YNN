@@ -1,0 +1,10 @@
+step,gate_from,gate_to,action,owner,artifact,status,depends
+0,18,18,AS_IS,—,release_gate_month.csv,CURRENT,—
+1,18,20,E02 soft-slice Accept 37k+509k,Сливяк/Мамушкина,execution_wave_a/16_im_soft_slice_sign_card.csv,WAITING_ACCEPT,sign
+2,20,24,E07 overbank registers ×4 fill,Сливяк,execution_wave_a/12_im_overbank_register_prefill_all.csv,WAITING_OWNER_FILL,E02 желательно
+3,24,26,E08 core−card policy OR map 89 card lines,Янина/Сливяк,execution_wave_c/04_bank_card_dds_map_prefill.csv,WAITING_POLICY_OR_MAP,—
+4,26,27,TAX 36k 2024-01 map,Сливяк,tax_cash_gap_2024_01_prefill.csv,WAITING_MAP,step3
+5,27,28,E08c 2026-02 DDS vs bank article recon,Сливяк,execution_wave_c/05_bank_dds_prefill_summary.csv,WAITING_RECON,DDS detail
+6,28,28,E08a DDS June file (needed with TSUM),Сливяк,execution_wave_c/00_WAVE_C_CHECKLIST.csv,WAITING_FILE,file
+7,28,29,E10 Mercury May ~2.58M in bank,Сливяк,execution_wave_c/07_tsum_missing_payment_tracker.csv,MISSING_IN_BANK,July stmt / AR
+8,29,30,E10 Mercury June ~1.77M OR TIMING policy,Сливяк/Янина,execution_wave_c/07_tsum_missing_payment_tracker.csv,WINDOW_AHEAD,July/Aug stmt

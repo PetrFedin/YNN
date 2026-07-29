@@ -1,0 +1,8 @@
+{
+  "horizon": "H60",
+  "date": "2026-07-29",
+  "title": "Board sync + TAX 36k prefill + unified gate path + integrity",
+  "no_fake_accept": true,
+  "integrity_failures": 0,
+  "tax_payment_id": "56f8574ddc801765"
+}

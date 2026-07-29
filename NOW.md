@@ -21,10 +21,13 @@ H58/H57: prefill BANK/overbank · точка входа: этот файл + `we
 ## Gate path
 
 ```
-18 ──soft-slice──► 20 ──overbank regs──► 24 ──BANK/DDS──► 28 ──TSUM──► 30
+18 ──E02──► 20 ──E07──► 24 ──E08 card──► 26 ──TAX36k──► 27 ──Feb recon──► 28 ──Mercury──► 30
 ```
 
-Сейчас: **18/30**. Без E02 остаёмся здесь.
+Сейчас: **18/30**. Детали: [`gate_critical_path_unified.csv`](live/marts/gate_critical_path_unified.csv)  
+Board (актуальные файлы): [`master_execution_board.csv`](live/marts/master_execution_board.csv) · audit **12/12 READY**
+
+H60: [`47_BOARD_SYNC_TAX_H60.md`](live/client_pack/47_BOARD_SYNC_TAX_H60.md)
 
 ---
 
