@@ -1,0 +1,9 @@
+rank,action,type,unlocks,artifact
+1,Sign H51 / sign_session 15min,DECISION,Wave A+B,sign_session_pack/
+2,Soft-slice Accept E02,DECISION,gate 18→20,06_IM_SOFT_SLICE_SIGN_CARD.csv
+3,Fill overbank prefill channel shares,OWNER_FILL,gate →24,12_im_overbank_register_prefill_all.csv
+4,Card→DDS map OR core−card policy,DECISION/FILE,gate →26,wave_c/04+06
+5,TAX 36k map to DDS,OWNER_FILL,gate →27,09_tax_cash_gap_2024_01_prefill.csv
+6,Upload DDS June 2026,FILE,BANK 2026-06,wave_c checklist
+7,Mercury May payment / July bank refresh,FILE/AR,gate →29,07_tsum_missing_payment_tracker.csv
+8,B2B calls + alias + ZP fix + salon cost,OPS,cash/margin/SoT person,wave_b + 17_zp

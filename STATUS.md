@@ -3,10 +3,11 @@
 ## GitHub
 https://github.com/PetrFedin/YNN · `main`
 
-## Сейчас: H60 Board sync + TAX 36k
-Документ: `live/client_pack/47_BOARD_SYNC_TAX_H60.md`  
+## Сейчас: H61 Source freeze verify — STOP packaging
+Документ: `live/client_pack/48_SOURCE_FREEZE_VERIFY_H61.md`  
 Точка входа: [`NOW.md`](NOW.md)
 
-E01–E12 → актуальные packs · gate path 18→30 · TAX 36k payment `56f8574ddc801765` · integrity 0 fails · **12/12 READY**.
+**107/107 исходников OK** (0 changed / 0 missing).  
+Дальше без подписи/файлов owners упаковка не усиливает gate (18/30).
 
 Updated: 2026-07-29

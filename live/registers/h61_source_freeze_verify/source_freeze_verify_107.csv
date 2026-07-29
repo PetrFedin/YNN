@@ -1,0 +1,108 @@
+master_file_id,source_file_id,file_name,category,status_verify,catalog_sha12,disk_sha12,catalog_size,disk_size
+FILE-001,SRC-F5301BBAE5D8,6-НДФЛ (с 2021 года) за 2024 г. (ДЕКОР ООО).pdf,tax_6ndfl,OK,f5301bbae5d8,f5301bbae5d8,2258934,2258934
+FILE-002,SRC-4F39B4966345,6-НДФЛ (с 2021 года) за 2024 г. (Янина Ю. Ф. ИП).pdf,tax_6ndfl,OK,4f39b4966345,4f39b4966345,2278034,2278034
+FILE-003,SRC-99A04FDE09F3,6-НДФЛ (с 2021 года) за 2025 г. (ДЕКОР ООО).pdf,tax_6ndfl,OK,99a04fde09f3,99a04fde09f3,1586045,1586045
+FILE-004,SRC-A8FCDD6B6090,6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП)(1).pdf,tax_6ndfl,OK,a8fcdd6b6090,a8fcdd6b6090,2174035,2174035
+FILE-005,SRC-A8FCDD6B6090,6-НДФЛ (с 2021 года) за 2025 г. (Янина Ю. Ф. ИП).pdf,tax_6ndfl,OK,a8fcdd6b6090,a8fcdd6b6090,2174035,2174035
+FILE-006,SRC-C83DF869483D,NDA_ИП_Янина + паспорт.docx,contracts,OK,c83df869483d,c83df869483d,2843550,2843550
+FILE-007,SRC-FC6C0194884C,SALES 2024-2026.xlsx,sales_general,OK,fc6c0194884c,fc6c0194884c,77312,77312
+FILE-008,SRC-231BEC51ED7E,VTB_BankStatement_40702810804000008482_01.01.2024-22.06.2026_376277.pdf,bank,OK,231bec51ed7e,231bec51ed7e,346529,346529
+FILE-009,SRC-CF1A608847CB,VTB_BankStatement_40802810404000000049_01.01.2024-22.06.2026_417016.pdf,bank,OK,cf1a608847cb,cf1a608847cb,228542,228542
+FILE-010,SRC-4E7A03BAE008,VTB_BankStatement_40802810500000006196_01.01.2024-22.06.2026_417014.pdf,bank,OK,4e7a03bae008,4e7a03bae008,901464,901464
+FILE-011,SRC-47B23059C048,Бюджет 2-е полугодие 2025(1).xlsx,budget,OK,47b23059c048,47b23059c048,15491,15491
+FILE-012,SRC-7B59F03FC58C,Бюджет 2026.xlsx,budget,OK,7b59f03fc58c,7b59f03fc58c,28428,28428
+FILE-013,SRC-3BB52EE0AFF1,Выписка_40802810202620002686_01.01.2024–31.12.2024.xlsx,bank,OK,3bb52ee0aff1,3bb52ee0aff1,89554,89554
+FILE-014,SRC-E56D76D98C01,Выписка_40802810202620002686_01.01.2025–31.12.2025.xlsx,bank,OK,e56d76d98c01,e56d76d98c01,101689,101689
+FILE-015,SRC-F7E9F79D4112,Выписка_40802810202620002686_01.01.2026–23.06.2026.xlsx,bank,OK,f7e9f79d4112,f7e9f79d4112,38011,38011
+FILE-016,SRC-627DAA533FFD,Вышивка себестоимость 2024-2026.xlsx,cost_embroidery,OK,627daa533ffd,627daa533ffd,2327497,2327497
+FILE-017,SRC-CC92902423D3,ДДС 2024.xlsx,cashflow_dds,OK,cc92902423d3,cc92902423d3,323508,323508
+FILE-018,SRC-A4FF290ABA3F,ДДС 2025.xlsx,cashflow_dds,OK,a4ff290aba3f,a4ff290aba3f,383767,383767
+FILE-019,SRC-EBE873A7CE95,ДДС 2026.xlxs.xlsx,cashflow_dds,OK,ebe873a7ce95,ebe873a7ce95,198037,198037
+FILE-020,SRC-F74A077718EA,Декларация по НДС за 1 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,tax_nds,OK,f74a077718ea,f74a077718ea,2046077,2046077
+FILE-021,SRC-58E7C0A3C0A6,Декларация по НДС за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf,tax_nds,OK,58e7c0a3c0a6,58e7c0a3c0a6,1946232,1946232
+FILE-022,SRC-751E72CC84B8,Декларация по НДС за 2 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,tax_nds,OK,751e72cc84b8,751e72cc84b8,2002663,2002663
+FILE-023,SRC-4189B4529037,Декларация по НДС за 3 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,tax_nds,OK,4189b4529037,4189b4529037,1707882,1707882
+FILE-024,SRC-FD5D253E7EE2,Декларация по НДС за 4 квартал 2025 г. (Янина Ю. Ф. ИП).pdf,tax_nds,OK,fd5d253e7ee2,fd5d253e7ee2,1999226,1999226
+FILE-025,SRC-3C28C9E1DE55,Декларация по УСН за 2024 г. (ДЕКОР ООО).pdf,tax_usn,OK,3c28c9e1de55,3c28c9e1de55,247364,247364
+FILE-026,SRC-384293B40F8C,Декларация по УСН за 2024 г. (Янина Ю. Ф. ИП).pdf,tax_usn,OK,384293b40f8c,384293b40f8c,224716,224716
+FILE-027,SRC-12D1111A4489,Декларация по УСН за 2025 г. (ДЕКОР ООО)(1).pdf,tax_usn,OK,12d1111a4489,12d1111a4489,247398,247398
+FILE-028,SRC-6F9B905DECFD,Декларация по УСН за 2025 г. (Янина Ю. Ф. ИП)(1).pdf,tax_usn,OK,6f9b905decfd,6f9b905decfd,216198,216198
+FILE-029,SRC-0E9A2E8AA89B,Договор_комплексной_диагностики_ИП_Янина_+_паспорт.docx,contracts,OK,0e9a2e8aa89b,0e9a2e8aa89b,44561,44561
+FILE-030,SRC-BD6B213893F2,ЗП за апрель 2025.xlsx,payroll_monthly,OK,bd6b213893f2,bd6b213893f2,430951,430951
+FILE-031,SRC-A3D0BA92FB36,ЗП за апрель 2026.xlsx,payroll_monthly,OK,a3d0ba92fb36,a3d0ba92fb36,82346,82346
+FILE-032,SRC-FB5CFE41ED03,ЗП за июнь 2025.xlsx,payroll_monthly,OK,fb5cfe41ed03,fb5cfe41ed03,73014,73014
+FILE-033,SRC-5CDDA43EB163,ЗП за май 2025.xlsx,payroll_monthly,OK,5cdda43eb163,5cdda43eb163,68607,68607
+FILE-034,SRC-3DE974947BCA,ЗП за май 2026.xlsx,payroll_monthly,OK,3de974947bca,3de974947bca,82869,82869
+FILE-035,SRC-BBDDE3BD1FDF,ЗП за март 2025.xlsx,payroll_monthly,OK,bbdde3bd1fdf,bbdde3bd1fdf,617574,617574
+FILE-036,SRC-0BB9EE764409,ЗП за март 2026.xlsx,payroll_monthly,OK,0bb9ee764409,0bb9ee764409,74031,74031
+FILE-037,SRC-2FD7298151E1,ЗП за февраль 2025.xlsx,payroll_monthly,OK,2fd7298151e1,2fd7298151e1,130809,130809
+FILE-038,SRC-CB8E8DD59181,ЗП за февраль 2026.xlsx,payroll_monthly,OK,cb8e8dd59181,cb8e8dd59181,76402,76402
+FILE-039,SRC-9B9FB12C59E9,ЗП за январь 2025.xlsx,payroll_monthly,OK,9b9fb12c59e9,9b9fb12c59e9,345218,345218
+FILE-040,SRC-B4ED2A1BE490,ЗП за январь 2026.xlsx,payroll_monthly,OK,b4ed2a1be490,b4ed2a1be490,80344,80344
+FILE-046,SRC-BAF7BFF99489,ЗП_ЦЕХ 01.26.xlsx,payroll_shop,OK,baf7bff99489,baf7bff99489,93885,93885
+FILE-047,SRC-BD500A7BC88C,ЗП_ЦЕХ 02.26.xlsx,payroll_shop,OK,bd500a7bc88c,bd500a7bc88c,90634,90634
+FILE-048,SRC-DC5E6177775F,ЗП_ЦЕХ 03.26.xlsx,payroll_shop,OK,dc5e6177775f,dc5e6177775f,101182,101182
+FILE-049,SRC-400D80F1258C,ЗП_ЦЕХ 04.26.xlsx,payroll_shop,OK,400d80f1258c,400d80f1258c,98359,98359
+FILE-050,SRC-83E3DE587848,ЗП_ЦЕХ 05.26.xlsx,payroll_shop,OK,83e3de587848,83e3de587848,95406,95406
+FILE-051,SRC-47D5B18B8E3A,МД — копия.xlsx,md,OK,47d5b18b8e3a,47d5b18b8e3a,2282813,2282813
+FILE-052,SRC-6FF053438E32,Орг. структура на 28.05.2026.pdf,org,OK,6ff053438e32,6ff053438e32,407387,407387
+FILE-053,SRC-7348EDC937A6,Остатки ткани из 1С на 31.05.2026.xlsx,inventory,OK,7348edc937a6,7348edc937a6,50927,50927
+FILE-055,SRC-270AEFF96E0F,Положение об оплате труда и премировании в ИП Янина.doc,hr_policy,OK,270aeff96e0f,270aeff96e0f,125440,125440
+FILE-056,SRC-A594E1F3E73E,Приложение 1 к положению.docx,hr_policy,OK,a594e1f3e73e,a594e1f3e73e,774669,774669
+FILE-057,SRC-CC75592DAF41,Продажи ЦУМ 2024.xlsx,sales_tsum,OK,cc75592daf41,cc75592daf41,94536,94536
+FILE-058,SRC-A2B1D2B1ED4E,Продажи ЦУМ 2025.xlsx,sales_tsum,OK,a2b1d2b1ed4e,a2b1d2b1ed4e,96204,96204
+FILE-059,SRC-463526E0FBB4,Продажи ЦУМ 2026.xlsx,sales_tsum,OK,463526e0fbb4,463526e0fbb4,76112,76112
+FILE-060,SRC-2CAA0ACFD98B,Расходы 2024.xlsx,expenses,OK,2caa0acfd98b,2caa0acfd98b,148227,148227
+FILE-061,SRC-9838A6CF583E,Расходы 2025.xlsx,expenses,OK,9838a6cf583e,9838a6cf583e,107375,107375
+FILE-062,SRC-ED89CA0F5ABF,Расходы 2026.xlsx,expenses,OK,ed89ca0f5abf,ed89ca0f5abf,61080,61080
+FILE-063,SRC-65DECAD2CB32,Расчет по страховым взносам за 1 квартал 2026 г. (Янина Ю. Ф. ИП).pdf,tax_insurance,OK,65decad2cb32,65decad2cb32,2770678,2770678
+FILE-064,SRC-8B2E6E29F3B1,Расчет по страховым взносам за 2024 г. (ДЕКОР ООО).pdf,tax_insurance,OK,8b2e6e29f3b1,8b2e6e29f3b1,1517599,1517599
+FILE-065,SRC-DB643E47A4E7,Расчет по страховым взносам за 2024 г. (Янина Ю. Ф. ИП).pdf,tax_insurance,OK,db643e47a4e7,db643e47a4e7,1031068,1031068
+FILE-066,SRC-011873CC74E2,Расчет по страховым взносам за 2025 г. (ДЕКОР ООО).pdf,tax_insurance,OK,011873cc74e2,011873cc74e2,1407031,1407031
+FILE-067,SRC-8DBBD4BE38B0,Расчет по страховым взносам за 2025 г. (Янина Ю. Ф. ИП).pdf,tax_insurance,OK,8dbbd4be38b0,8dbbd4be38b0,1990116,1990116
+FILE-080,SRC-74B267159F90,Сведения о наличии отрицательного сальдо ЕНС.pdf,tax_ens,OK,74b267159f90,74b267159f90,142911,142911
+FILE-081,SRC-CCFA8B9574EB,Себестоимость Жукова.xlsx,cost_person,OK,ccfa8b9574eb,ccfa8b9574eb,2266580,2266580
+FILE-082,SRC-823CE027153E,Себестоимость Меркушина.xlsx,cost_person,OK,823ce027153e,823ce027153e,316344,316344
+FILE-085,SRC-11F7B2D33F44,Список контрагентов по закупке.xlsx,procurement,OK,11f7b2d33f44,11f7b2d33f44,14275,14275
+FILE-086,SRC-0A59904DD2D1,Список представленной отчетности за 2024.pdf,tax_list,OK,0a59904dd2d1,0a59904dd2d1,1420603,1420603
+FILE-087,SRC-446E4DDA8AA4,Список представленной отчетности за 2025.pdf,tax_list,OK,446e4dda8aa4,446e4dda8aa4,1563806,1563806
+FILE-088,SRC-48B008B303E0,Список представленной отчетности за 2026.pdf,tax_list,OK,48b008b303e0,48b008b303e0,847736,847736
+FILE-089,SRC-52671EB999E4,Справка о расчетах по взносам на несч.сл на 25.06.2026.pdf,tax_insurance,OK,52671eb999e4,52671eb999e4,633438,633438
+FILE-090,SRC-90040AE0AF41,Справка об исполнении обязанности по налогам.pdf,tax_ens,OK,90040ae0af41,90040ae0af41,163946,163946
+FILE-091,SRC-758F1723B3D6,Факт анализ продаж B2B 2025.xlsx,sales_b2b,OK,758f1723b3d6,758f1723b3d6,36296,36296
+FILE-092,SRC-8CD1B3A3570F,Факт анализ продаж B2B 2026.xlsx,sales_b2b,OK,8cd1b3a3570f,8cd1b3a3570f,34098,34098
+FILE-093,SRC-500393DD127F,Штатка ИП.xlsx,org,OK,500393dd127f,500393dd127f,15191,15191
+FILE-041,SRC-D0AA6A1A6383,зп_конструкторы_01.26.xlsx,payroll_designers,OK,d0aa6a1a6383,d0aa6a1a6383,44636,44636
+FILE-042,SRC-1D6289FEF8A4,зп_конструкторы_02.26.xlsx,payroll_designers,OK,1d6289fef8a4,1d6289fef8a4,44552,44552
+FILE-043,SRC-17CBBBF54CF2,зп_конструкторы_03.26.xlsx,payroll_designers,OK,17cbbbf54cf2,17cbbbf54cf2,44801,44801
+FILE-044,SRC-098D5B89E567,зп_конструкторы_04.26.xlsx,payroll_designers,OK,098d5b89e567,098d5b89e567,44652,44652
+FILE-045,SRC-D2207EE54FBE,зп_конструкторы_05.26.xlsx,payroll_designers,OK,d2207ee54fbe,d2207ee54fbe,45665,45665
+FILE-054,SRC-F5394740B494,план работы.docx,contracts,OK,f5394740b494,f5394740b494,17851,17851
+FILE-078,SRC-A7421E474C22,результат НГ 2024.xlsx,collection_result,OK,a7421e474c22,a7421e474c22,2152420,2152420
+FILE-079,SRC-FF307568DB94,результат НГ 24.11.25.xlsx,collection_result,OK,ff307568db94,ff307568db94,1135062,1135062
+FILE-068,SRC-0DB64A857C29,результат капсула 2024.xlsx,collection_result,OK,0db64a857c29,0db64a857c29,1246940,1246940
+FILE-069,SRC-2E85F06F7FA4,результат капсула 2025.xlsx,collection_result,OK,2e85f06f7fa4,2e85f06f7fa4,1907651,1907651
+FILE-070,SRC-E677B0690075,результат кол-я 43 (янв 2024).xlsx,collection_result,OK,e677b0690075,e677b0690075,1051093,1051093
+FILE-071,SRC-7E1258EE5D2D,результат кол-я 44 (июнь 2024).xlsx,collection_result,OK,7e1258ee5d2d,7e1258ee5d2d,878335,878335
+FILE-072,SRC-A05546F621AB,результат кол-я 45 (янв 2025).xlsx,collection_result,OK,a05546f621ab,a05546f621ab,735414,735414
+FILE-073,SRC-975A4D4C055D,результат кол-я 46 (июль 2025).xlsx,collection_result,OK,975a4d4c055d,975a4d4c055d,468499,468499
+FILE-074,SRC-D215DA62070C,результат кол-я 47 (янв 2026).xlsx,collection_result,OK,d215da62070c,d215da62070c,1471480,1471480
+FILE-075,SRC-25BCD1E70D4C,результат круиз 09.04.25.xlsx,collection_result,OK,25bcd1e70d4c,25bcd1e70d4c,5269169,5269169
+FILE-076,SRC-964463AEE601,результат круиз 14.04.26.xlsx,collection_result,OK,964463aee601,964463aee601,10130513,10130513
+FILE-077,SRC-655D54FE7533,результат круиз 22.04.24.xlsx,collection_result,OK,655d54fe7533,655d54fe7533,6592398,6592398
+FILE-083,SRC-5AE5AEA8B202,себестоимость Мокеева 2025.xlsx,cost_person,OK,5ae5aea8b202,5ae5aea8b202,196768,196768
+FILE-084,SRC-064CDEDD5BF7,себестоимость Мокеева 2026.xlsx,cost_person,OK,064cdedd5bf7,064cdedd5bf7,84754,84754
+FILE-094,SRC-3A0BA373AE81,StatementFull_0400-C-869430_2024-01-01_2024-12-31_2026-07-24_09-31-20.xls,bank_card,OK,3a0ba373ae81,3a0ba373ae81,23420,23420
+FILE-095,SRC-5F69DD138914,StatementFull_0400-C-869430_2025-01-01_2025-12-31_2026-07-24_09-30-49.xls,bank_card,OK,5f69dd138914,5f69dd138914,15232,15232
+FILE-096,SRC-63E52A02A16E,StatementFull_0400-C-869430_2026-01-01_2026-06-30_2026-07-24_09-31-18.xls,bank_card,OK,63e52a02a16e,63e52a02a16e,12407,12407
+FILE-097,SRC-503171CC87B0,Движение тканей.xlsx,mat_movement,OK,503171cc87b0,503171cc87b0,607648,607648
+FILE-098,SRC-764CA2B82D8F,Движение товара по складам.xlsx,stock_movement,OK,764ca2b82d8f,764ca2b82d8f,950674,950674
+FILE-099,SRC-CF84AB121369,Движение товаров с себестоимостью.xlsx,stock_cost_movement,OK,cf84ab121369,cf84ab121369,1135399,1135399
+FILE-100,SRC-72223003EB59,Продажи B2B 2024-06.2026.xlsx,sales_b2b,OK,72223003eb59,72223003eb59,52232,52232
+FILE-101,SRC-211EE1D5C5C3,Продажи ИМ 2024-06.2026.xlsx,sales_im,OK,211ee1d5c5c3,211ee1d5c5c3,237572,237572
+FILE-102,SRC-A82BC039C07C,Продажи ЦУМ 2024-06.2026.xlsx,sales_tsum,OK,a82bc039c07c,a82bc039c07c,95745,95745
+FILE-103,SRC-373EC9658D44,СберБизнес. Выписка за 2024.01.01-2024.12.31 счёт 40702810638040103938.xlsx,bank_sber,OK,373ec9658d44,373ec9658d44,46992,46992
+FILE-104,SRC-454CD0923D1B,СберБизнес. Выписка за 2025.01.01-2025.12.31 счёт 40702810638040103938.xlsx,bank_sber,OK,454cd0923d1b,454cd0923d1b,42389,42389
+FILE-105,SRC-777ADAFAAF01,СберБизнес. Выписка за 2026.01.01-2026.06.30 счёт 40702810638040103938.xlsx,bank_sber,OK,777adafaaf01,777adafaaf01,26822,26822
+FILE-106,SRC-9FC954AF42A9,Справочник номенклатуры товара.xls,sku_master,OK,9fc954af42a9,9fc954af42a9,606720,606720
+FILE-107,SRC-06A2CA72E604,Финансы и платежи.docx,org_raci,OK,06a2ca72e604,06a2ca72e604,14559,14559

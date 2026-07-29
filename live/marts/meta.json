@@ -1,7 +1,8 @@
 {
-  "horizon": "H59",
+  "horizon": "H61",
   "date": "2026-07-29",
-  "title": "Alias evidence + TSUM missing tracker + soft-slice card + ZP P0 runbook",
-  "no_fake_accept": true,
-  "tsum_finding": "No Mercury payment in 2026-06 for May sales; bank max Mercury 2026-05-28 (April sales)"
+  "ok": 107,
+  "changed": 0,
+  "missing": 0,
+  "stop_packaging": true
 }

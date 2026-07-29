@@ -66,6 +66,7 @@
 | **45** | `45_BANK_B2B_PREFILL_H58.md` | **H58:** card→DDS 89 строк + B2B worksheet + dekor fix |
 | **46** | `46_ALIAS_TSUM_ZP_H59.md` | **H59:** alias evidence + Mercury missing + soft-slice/ZP |
 | **47** | `47_BOARD_SYNC_TAX_H60.md` | **H60:** board sync + TAX 36k + unified gate 18→30 |
+| **48** | `48_SOURCE_FREEZE_VERIFY_H61.md` | **H61:** 107/107 SHA OK — stop packaging, owners only |
 | 06 | `06_FIN_MODEL_SKELETON_2025.md` | Скелет финмодели multi-year (обновлён) |
 | — | `_data_snapshot.json` | Машиночитаемый снимок расчётов |
 | A1 | `../OPTIMIZATION_SCENARIOS.md` | Приложение: сценарии S1–S4 |
