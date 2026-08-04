@@ -1,7 +1,7 @@
 # Финальный пакет Этапа 1 — комплексная диагностика бизнеса YANINA
 
 Updated: 2026-08-05  
-Статус: **содержательная клиентская редакция сформирована; финальный freeze после закрытия P0**  
+Статус: **содержательная клиентская редакция сформирована; QA-1 завершён; финальный freeze после закрытия P0**  
 Периметр: Этап 1 — диагностика, без внедрения и без юридического/налогового аудита
 
 ---
@@ -44,6 +44,7 @@ Updated: 2026-08-05
 | 5 | [`05_WORKING_CAPITAL_AND_INVENTORY.md`](05_WORKING_CAPITAL_AND_INVENTORY.md) | запасы и оборотный капитал | CLIENT DRAFT READY |
 | 6 | [`06_CASH_FLOW_AND_LIQUIDITY.md`](06_CASH_FLOW_AND_LIQUIDITY.md) | денежный поток и ликвидность | CLIENT DRAFT READY |
 | 7 | [`07_TAX_DIAGNOSTIC.md`](07_TAX_DIAGNOSTIC.md) | налоговая диагностика | CLIENT DRAFT READY |
+| 7A | [`07A_TAX_LEGISLATION_UPDATE_2026-07.md`](07A_TAX_LEGISLATION_UPDATE_2026-07.md) | актуализация законодательства после июля 2026 | READY |
 | 8 | [`08_PROCESSES_MANAGEMENT_REPORTING.md`](08_PROCESSES_MANAGEMENT_REPORTING.md) | процессы, управление и отчётность | CLIENT DRAFT READY |
 | 9 | [`09_STAGE2_PRIORITY_MAP.md`](09_STAGE2_PRIORITY_MAP.md) | программа дальнейшей работы | CLIENT DRAFT READY |
 | 10 | [`10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md`](10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md) | финансовая модель и структура затрат | CLIENT DRAFT READY |
@@ -51,6 +52,7 @@ Updated: 2026-08-05
 | 12 | [`12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md`](12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md) | методология, качество данных и ограничения | CLIENT DRAFT READY |
 | 13 | [`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md) | P0/P1/P2 перед фиксацией версии | READY |
 | 14 | [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md) | решения для итоговой встречи | CLIENT DRAFT READY |
+| 15 | [`15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md`](15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md) | контроль непротиворечивости пакета | QA-1 READY |
 | A | [`appendices/00_APPENDICES_INDEX.md`](appendices/00_APPENDICES_INDEX.md) | индекс приложений | READY |
 | A1 | [`appendices/01_FINAL_METRICS_REGISTER.csv`](appendices/01_FINAL_METRICS_REGISTER.csv) | единый регистр ключевых цифр | FIRST DRAFT READY |
 
@@ -71,7 +73,7 @@ Updated: 2026-08-05
 1. `02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md`.
 2. `10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md`.
 3. `06_CASH_FLOW_AND_LIQUIDITY.md`.
-4. `07_TAX_DIAGNOSTIC.md`.
+4. `07_TAX_DIAGNOSTIC.md` и `07A_TAX_LEGISLATION_UPDATE_2026-07.md`.
 5. `03_EVIDENCE_REGISTER.md`.
 6. `12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md`.
 
@@ -195,12 +197,14 @@ P1 может остаться ограничением отчёта. P2 пер�
 
 ## 9. Статус готовности
 
-Содержательная часть клиентского пакета сформирована. Дальнейшая работа направлена на:
+Содержательная часть клиентского пакета сформирована, первый QA-проход завершён. Дальнейшая работа направлена на:
 
 1. закрытие P0;
 2. freeze цифр;
-3. устранение повторов;
-4. сборку доказательных приложений;
-5. подготовку DOCX/PDF;
-6. подготовку презентации;
-7. проведение итоговой управленческой встречи.
+3. интеграцию налоговой актуализации в итоговую редакцию;
+4. устранение повторов;
+5. privacy review;
+6. сборку доказательных приложений;
+7. подготовку DOCX/PDF;
+8. подготовку презентации;
+9. проведение итоговой управленческой встречи.
