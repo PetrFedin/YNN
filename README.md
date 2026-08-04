@@ -1,111 +1,151 @@
-# YNN — YANINA Analytics Workspace
+# YNN — YANINA Business Diagnostic Workspace
 
-Репозиторий управленческой аналитики и комплексной диагностики бизнеса **YANINA** — ИП Янина / Салон / Декор.
+Репозиторий комплексной управленческой диагностики бизнеса **YANINA**.
 
-## Главная точка входа
+Статус: **консалтинговая редакция Этапа 1 сформирована; final freeze после закрытия P0**.
 
-**Финальный клиентский пакет Этапа 1:**  
-[`live/client_pack/final_stage1/00_FINAL_PACKAGE_STRUCTURE.md`](live/client_pack/final_stage1/00_FINAL_PACKAGE_STRUCTURE.md)
+> Репозиторий содержит управленческую диагностику и доказательную базу. Это не аудиторское заключение, не бухгалтерский P&L и не юридический налоговый аудит.
 
-Пакет включает:
+---
 
-- Executive Summary для собственников;
-- полный диагностический отчёт;
-- финансовую модель и структуру затрат;
+# Основная точка входа
+
+## [`live/client_pack/final_stage1/`](live/client_pack/final_stage1/)
+
+Официальный клиентский пакет Этапа 1.
+
+Начать с:
+
+1. [`00_FINAL_PACKAGE_STRUCTURE.md`](live/client_pack/final_stage1/00_FINAL_PACKAGE_STRUCTURE.md) — навигация по пакету.
+2. [`01_EXECUTIVE_SUMMARY_FOR_OWNERS.md`](live/client_pack/final_stage1/01_EXECUTIVE_SUMMARY_FOR_OWNERS.md) — выводы для собственника.
+3. [`02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md`](live/client_pack/final_stage1/02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md) — полный интегрированный отчёт.
+4. [`16_INTEGRATED_CONSULTING_DIAGNOSIS.md`](live/client_pack/final_stage1/16_INTEGRATED_CONSULTING_DIAGNOSIS.md) — причинно-следственный диагноз.
+5. [`18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md`](live/client_pack/final_stage1/18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md) — механизмы создания стоимости.
+6. [`14_MANAGEMENT_DECISION_AGENDA.md`](live/client_pack/final_stage1/14_MANAGEMENT_DECISION_AGENDA.md) — board decision memo.
+7. [`19_TARGET_OPERATING_MODEL.md`](live/client_pack/final_stage1/19_TARGET_OPERATING_MODEL.md) — целевая operating model.
+
+---
+
+# Главный диагностический вывод
+
+> **YANINA создаёт высокую клиентскую и продуктовую ценность, но действующая управленческая модель не обеспечивает её системного преобразования в подтверждённую прибыль, свободный денежный поток и воспроизводимый рост.**
+
+Основной разрыв находится между:
+
+- высокой продуктовой зрелостью;
+- подтверждённой способностью формировать спрос и поступления;
+- недостаточной зрелостью unit-экономики, управления капиталом, ответственности и отчётности.
+
+---
+
+# Периметр Этапа 1
+
+Диагностика охватывает:
+
+- финансовую модель;
+- доходы и структуру затрат;
 - денежный поток и ликвидность;
-- запасы и оборотный капитал;
-- налоговую диагностику;
-- процессы и управленческую отчётность;
-- реестр доказательств;
-- матрицу рисков и резервов;
-- карту приоритетов Этапа 2;
-- повестку управленческих решений;
-- методологию и ограничения;
-- checklist перед финальным freeze;
-- регистр ключевых метрик.
+- поток собственника;
+- себестоимость индивидуального пошива и товара;
+- запасы, WIP и оборотный капитал;
+- закупки и поставщиков;
+- производство и планирование мощности;
+- коммерческие каналы;
+- ФОТ и кадровый контур;
+- систему управления и RACI;
+- управленческую отчётность и качество данных;
+- налоговую нагрузку и юридические контуры.
 
-## Важно
+Этап 1 формирует:
 
-- Это **controlled staging / управленческая диагностика**, не audited Source of Truth и не бухгалтерский P&L.
-- Налоговый блок не является юридическим налоговым аудитом.
-- Потенциальные резервы не равны гарантированному эффекту до отдельного расчёта и реализации.
-- Сырые исходники (`documents/`, `sources/`, `processed/` → Downloads) не публикуются.
-- Секреты, персональные исходники и `.venv` в git не входят.
+- диагноз;
+- корневые причины;
+- карту утечки стоимости;
+- карту рисков и резервов;
+- value creation logic;
+- target operating model;
+- решения собственника;
+- программу Этапа 2.
 
-## С чего начать
+Этап 1 не является фактическим внедрением управленческого учёта, ERP/PLM, налоговой реструктуризацией или постоянным сопровождением изменений.
+
+---
+
+# Структура репозитория
 
 | Путь | Содержание |
 |---|---|
-| **[`live/client_pack/final_stage1/`](live/client_pack/final_stage1/)** | **Финальная клиентская редакция комплексной диагностики Этапа 1** |
-| [`live/client_pack/final_stage1/01_EXECUTIVE_SUMMARY_FOR_OWNERS.md`](live/client_pack/final_stage1/01_EXECUTIVE_SUMMARY_FOR_OWNERS.md) | Краткий итог для собственников |
-| [`live/client_pack/final_stage1/02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md`](live/client_pack/final_stage1/02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md) | Основной полный отчёт |
-| [`live/client_pack/final_stage1/14_MANAGEMENT_DECISION_AGENDA.md`](live/client_pack/final_stage1/14_MANAGEMENT_DECISION_AGENDA.md) | Решения для итоговой встречи |
-| [`live/client_pack/final_stage1/13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](live/client_pack/final_stage1/13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md) | Что необходимо закрыть перед freeze |
-| [`NOW.md`](NOW.md) | Операционный command center |
-| [`STATUS.md`](STATUS.md) | Текущий статус рабочей среды |
-| [`HANDOFF.md`](HANDOFF.md) | Навигация по техническим артефактам |
-| [`live/marts/`](live/marts/) | Расчётные витрины |
-| [`live/registers/`](live/registers/) | Регистры и reconciliation layers |
+| [`live/client_pack/final_stage1/`](live/client_pack/final_stage1/) | официальный клиентский пакет |
+| [`live/client_pack/`](live/client_pack/) | тематические диагностические записки H-серии |
+| [`live/marts/`](live/marts/) | расчётные витрины |
+| [`live/registers/`](live/registers/) | регистры, builders и контрольные слои |
+| [`live/maps/`](live/maps/) | карты данных и процессов |
+| [`live/client_pack/sign_session_pack/`](live/client_pack/sign_session_pack/) | подтверждения owners и контрольные карточки |
+| [`live/OPTIMIZATION_SCENARIOS.md`](live/OPTIMIZATION_SCENARIOS.md) | сценарии оптимизации |
+| [`STATUS.md`](STATUS.md) | технический статус проекта |
+| [`HANDOFF.md`](HANDOFF.md) | навигация для передачи контура |
 
-## Главный диагностический вывод
+---
 
-YANINA обладает сильным продуктом, профессиональной экспертизой и реальной способностью формировать значительный денежный поток. Основное ограничение находится в разрыве между сложностью бизнеса и зрелостью системы управления экономикой.
+# Доказательность
 
-В текущей модели отсутствует единый сквозной механизм:
+Каждый существенный вывод получает статус:
 
-`заказ → материалы → труд → производство → склад → продажа → деньги → налоги → прибыль`.
+- `CONFIRMED`;
+- `STRONG INDICATION`;
+- `PARTIAL`;
+- `NOT PROVEN`;
+- `REFUTED`;
+- `QUARANTINE`.
 
-Из-за этого денежный поток смешивается с прибылью, два разных бизнес-контура оцениваются одной моделью, а часть капитала и обязательств становится видна слишком поздно.
+Ключевые документы:
 
-## Граница Этапа 1
+- [`03_EVIDENCE_REGISTER.md`](live/client_pack/final_stage1/03_EVIDENCE_REGISTER.md);
+- [`12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md`](live/client_pack/final_stage1/12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md);
+- [`15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md`](live/client_pack/final_stage1/15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md);
+- [`appendices/01_FINAL_METRICS_REGISTER.csv`](live/client_pack/final_stage1/appendices/01_FINAL_METRICS_REGISTER.csv).
 
-### Входит
+---
 
-- диагностика финансовой модели;
-- денежный поток и ликвидность;
-- структура затрат;
-- запасы и оборотный капитал;
-- закупки, производство и планирование;
-- управленческая отчётность;
-- налоговая нагрузка и риски;
-- карта ограничений и резервов;
-- рекомендации и приоритеты Этапа 2.
+# Headline facts
 
-### Не входит как выполненное внедрение
+По текущей диагностической базе:
 
-- промышленный управленческий учёт;
-- регулярный P&L и баланс;
-- unit-экономика всех заказов;
-- ERP/PLM;
-- налоговая реструктуризация;
-- кадровое переоформление;
-- полный набор регламентов;
-- сопровождение изменений.
+- индивидуальный пошив является главным доходным контуром;
+- бизнес объединяет как минимум две экономически разные модели;
+- нет подтверждённой полной unit-экономики индивидуального заказа;
+- около **29,9 млн ₽** находится в сопоставленном остатке тканей;
+- около **12,87 млн ₽** относится к материалам без подтверждённого движения более 365 дней;
+- около **2,51 млн ₽** находится в открытом B2B-контуре;
+- собственник как получал средства из бизнеса, так и вносил их обратно;
+- штатный, договорной и платёжный контуры расходятся;
+- значительная часть управления зависит от ручной координации и персонального знания.
 
-## Последние аналитические сессии
+Эти показатели сопровождаются методологическими ограничениями и не должны интерпретироваться вне соответствующих документов.
 
-- **H64**: SKU ↔ stock ↔ fabric ABC + collection bridge — `live/docs/51_SKU_STOCK_FABRIC_BRIDGE_H64.md`
-- **H65**: person-cost/embroidery → collection gaps — `live/client_pack/52_PERSON_COST_COLLECTION_BRIDGE_H65.md`
-- **H66**: residual HIGH gaps stem/MD/quarantine — `live/client_pack/53_RESIDUAL_HIGH_GAPS_H66.md`
-- **H67**: fabric/procurement cash ABC — `live/client_pack/54_FABRIC_PROCUREMENT_CASH_H67.md`
-- **H68**: master P0 board + E02 evidence — `live/client_pack/55_MASTER_P0_BOARD_H68.md`
-- **H69**: overbank channel hypotheses — `live/client_pack/56_OVERBANK_HYPOTHESIS_H69.md`
-- **H70**: card → DDS hypotheses + E08 dual-path — `live/client_pack/57_CARD_DDS_HYPOTHESIS_H70.md`
-- **H71**: gate tail TAX/Feb/Mercury — `live/client_pack/58_GATE_TAIL_H71.md`
-- **H72**: sign pack sync to gate path — `live/client_pack/59_SIGN_PACK_SYNC_H72.md`
-- **H73**: designers KPI/smetka ↔ collections/person-cost — `live/client_pack/60_DESIGNERS_COLLECTION_BRIDGE_H73.md`
-- **H74**: цех ЗП ↔ collections/person-cost/warehouses — `live/client_pack/61_SHOP_WAREHOUSE_BRIDGE_H74.md`
-- **H75**: stock end-qty ↔ IM/TSUM sell-through — `live/client_pack/62_STOCK_CHANNEL_SELLTHROUGH_H75.md`
-- **H76**: tax SOFT/GAP ↔ Salon UFK perimeter — `live/client_pack/63_TAX_SOFT_PERIMETER_H76.md`
-- **H77**: SALES ДДС-доход ↔ budget sanity — `live/client_pack/64_SALES_BUDGET_SANITY_H77.md`
-- **H78**: P0 gate sync — `live/client_pack/65_P0_GATE_SYNC_H78.md`
-- **H79**: meeting exec kit — `live/client_pack/66_MEETING_EXEC_KIT_H79.md`
-- **H80**: post-sign activation — `live/client_pack/67_POST_SIGN_ACTIVATION_H80.md`
-- **H81**: waiting-on-owners checkpoint — `live/client_pack/68_WAITING_ON_OWNERS_H81.md`
-- **H82**: contracts ↔ RACI ↔ штатка — `live/client_pack/69_CONTRACTS_RACI_SHTATKA_H82.md`
-- **H83**: HR policy ↔ payroll ↔ штатка — `live/client_pack/70_HR_PAYROLL_BRIDGE_H83.md`
-- **H84**: fabric aging — `live/client_pack/71_FABRIC_AGING_H84.md`
-- **H85**: tax filing completeness — `live/client_pack/72_TAX_COMPLETENESS_H85.md`
-- **H86**: P0 executive refresh — `live/client_pack/73_P0_EXEC_REFRESH_H86.md`
-- **H87**: client meeting brief — `live/client_pack/74_CLIENT_MEETING_BRIEF_H87.md`
-- **H88**: new bank statements and owner cash-flow reassessment — `live/client_pack/76_BANK_STATEMENTS_INTAKE_H88.md`
+---
+
+# P0 перед final freeze
+
+1. Интеграция и дедупликация новых банковских выписок.
+2. Transaction-level расчёт net owner cash flow.
+3. Единая дата среза headline figures.
+4. Подтверждение НДС и РСВ 2026-Q2 либо оговорка.
+5. Проверка ЕНС.
+6. Междокументная сверка ключевых цифр.
+7. Согласование формы кадровых и персональных выводов.
+8. Финальный metrics freeze.
+
+---
+
+# Принцип дальнейшей работы
+
+Следующая работа должна быть направлена не на создание новых параллельных отчётов, а на:
+
+- закрытие P0;
+- обновление headline figures;
+- сокращение повторов;
+- фиксацию единой клиентской версии;
+- подготовку приложений;
+- сборку DOCX/PDF;
+- подготовку презентации и протокола решений Этапа 2.
