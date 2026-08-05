@@ -1,131 +1,151 @@
 # Финальный пакет Этапа 1 — комплексная диагностика бизнеса YANINA
 
 Updated: 2026-08-05  
-Статус: **консалтинговая клиентская редакция сформирована; основной отчёт переписан; финальный freeze после закрытия P0**  
+Статус: **консалтинговая клиентская редакция сформирована; стратегический и resilience-слой добавлен; final freeze после закрытия P0**  
 Периметр: комплексная управленческая диагностика без аудиторского заключения, юридической налоговой экспертизы и фактического внедрения изменений
 
 ---
 
-# 1. Назначение пакета
-
-Пакет даёт собственнику и руководству не набор цифр, а целостную управленческую картину:
-
-1. как бизнес создаёт клиентскую и продуктовую ценность;
-2. где эта ценность теряется до превращения в маржу и cash;
-3. какие проблемы являются симптомами, а какие — системными причинами;
-4. как текущая модель влияет на прибыль, ликвидность, капитал и масштабируемость;
-5. какие решения необходимо принять;
-6. какой должна стать целевая operating model;
-7. через какие механизмы может быть создан экономический эффект;
-8. какие работы должны перейти в Этап 2.
-
-Главный диагноз:
+# 1. Главный диагноз
 
 > **YANINA создаёт высокую клиентскую и продуктовую ценность, но действующая управленческая модель не обеспечивает её системного преобразования в подтверждённую прибыль, свободный денежный поток и воспроизводимый рост.**
 
+Ключевое ограничение — не отсутствие спроса и не одна завышенная статья расходов. Ограничение находится в разрыве между:
+
+- продуктовой сложностью;
+- коммерческим обещанием;
+- производственной мощностью;
+- стоимостью исполнения;
+- оборотным капиталом;
+- ликвидностью;
+- скоростью управленческой реакции.
+
 ---
 
-# 2. Рекомендуемый пакет для собственника
+# 2. Что должен получить заказчик
 
-## Основной маршрут чтения
+Пакет должен дать ответы на семь вопросов:
 
-1. [`01_EXECUTIVE_SUMMARY_FOR_OWNERS.md`](01_EXECUTIVE_SUMMARY_FOR_OWNERS.md) — board-level выводы.
-2. [`02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md`](02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md) — единый полный консалтинговый отчёт.
-3. [`16_INTEGRATED_CONSULTING_DIAGNOSIS.md`](16_INTEGRATED_CONSULTING_DIAGNOSIS.md) — причинно-следственный диагноз бизнеса.
-4. [`18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md`](18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md) — механизмы создания стоимости.
-5. [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md) — board decision memo с trade-offs.
+1. Где бизнес создаёт экономическую ценность?
+2. Где эта ценность теряется до превращения в contribution и cash?
+3. Какие проблемы являются симптомами, а какие — корневыми причинами?
+4. Насколько устойчив текущий результат?
+5. Какой рост создаёт стоимость, а какой увеличивает сложность и потребность в капитале?
+6. Какие решения обязан принять собственник?
+7. Какой должна стать целевая operating model и система контроля?
+
+---
+
+# 3. Рекомендуемый маршрут собственника
+
+1. [`01_EXECUTIVE_SUMMARY_FOR_OWNERS.md`](01_EXECUTIVE_SUMMARY_FOR_OWNERS.md) — итоговый board-level диагноз.
+2. [`20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md`](20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md) — неочевидные стратегические выводы.
+3. [`24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md`](24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md) — варианты развития и growth gates.
+4. [`21_PROBLEM_TREE_AND_TRANSFORMATION_PRIORITIZATION.md`](21_PROBLEM_TREE_AND_TRANSFORMATION_PRIORITIZATION.md) — причинное дерево и критический путь.
+5. [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md) — решения, trade-offs и цена бездействия.
 6. [`19_TARGET_OPERATING_MODEL.md`](19_TARGET_OPERATING_MODEL.md) — целевая система управления.
-7. [`09_STAGE2_PRIORITY_MAP.md`](09_STAGE2_PRIORITY_MAP.md) — последовательность дальнейшей работы.
+7. [`25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md`](25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md) — ранние сигналы и контроль.
+8. [`09_STAGE2_PRIORITY_MAP.md`](09_STAGE2_PRIORITY_MAP.md) — программа дальнейшей работы.
+
+Полный аналитический документ:
+
+- [`02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md`](02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md).
+
+Навигация клиентской передачи:
+
+- [`23_CLIENT_BOARD_PACKAGE_INDEX.md`](23_CLIENT_BOARD_PACKAGE_INDEX.md).
 
 ---
 
-# 3. Полный состав документов
+# 4. Состав пакета
 
-## Уровень I. Board-level и интегрированные выводы
-
-| № | Документ | Назначение | Статус |
-|---:|---|---|---|
-| 1 | [`01_EXECUTIVE_SUMMARY_FOR_OWNERS.md`](01_EXECUTIVE_SUMMARY_FOR_OWNERS.md) | итог для собственника: качество прибыли, капитал, риски, решения | CONSULTING EDITION READY |
-| 2 | [`02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md`](02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md) | основной полный отчёт Этапа 1 | CONSULTING EDITION READY |
-| 16 | [`16_INTEGRATED_CONSULTING_DIAGNOSIS.md`](16_INTEGRATED_CONSULTING_DIAGNOSIS.md) | интегрированная причинно-следственная модель | READY |
-| 18 | [`18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md`](18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md) | value levers, benefit logic и правила подтверждения эффекта | READY |
-| 14 | [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md) | решения, альтернативы, trade-offs и цена бездействия | BOARD MEMO READY |
-| 19 | [`19_TARGET_OPERATING_MODEL.md`](19_TARGET_OPERATING_MODEL.md) | целевая operating model, governance и управленческий ритм | READY |
-| 9 | [`09_STAGE2_PRIORITY_MAP.md`](09_STAGE2_PRIORITY_MAP.md) | программа дальнейшей проработки | CLIENT DRAFT READY |
-
-## Уровень II. Глубокие выводы по диагностическим блокам
+## Уровень I. Board-level и стратегия
 
 | № | Документ | Назначение | Статус |
 |---:|---|---|---|
-| 4 | [`04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md`](04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md) | корневые причины финансового давления | READY |
-| 5 | [`05_WORKING_CAPITAL_AND_INVENTORY.md`](05_WORKING_CAPITAL_AND_INVENTORY.md) | запасы, WIP и оборотный капитал | READY |
-| 6 | [`06_CASH_FLOW_AND_LIQUIDITY.md`](06_CASH_FLOW_AND_LIQUIDITY.md) | денежный поток, owner flows и ликвидность | READY |
-| 7 | [`07_TAX_DIAGNOSTIC.md`](07_TAX_DIAGNOSTIC.md) | налоговая модель и зоны проверки | READY |
-| 7A | [`07A_TAX_LEGISLATION_UPDATE_2026-07.md`](07A_TAX_LEGISLATION_UPDATE_2026-07.md) | актуализация налоговой рамки | READY |
-| 8 | [`08_PROCESSES_MANAGEMENT_REPORTING.md`](08_PROCESSES_MANAGEMENT_REPORTING.md) | процессы, управление и отчётность | READY |
-| 10 | [`10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md`](10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md) | финансовая модель и затраты | READY |
-| 11 | [`11_RISK_AND_RESERVE_MATRIX.md`](11_RISK_AND_RESERVE_MATRIX.md) | сводная карта рисков и резервов | READY |
-| 17 | [`17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md`](17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md) | механизм → доказательство → последствие → решение по каждому блоку | READY |
+| 1 | `01_EXECUTIVE_SUMMARY_FOR_OWNERS.md` | итог для собственника | CONSULTING EDITION READY |
+| 14 | `14_MANAGEMENT_DECISION_AGENDA.md` | board decision memo | READY |
+| 19 | `19_TARGET_OPERATING_MODEL.md` | target operating model | READY |
+| 20 | `20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md` | стратегические выводы | READY |
+| 21 | `21_PROBLEM_TREE_AND_TRANSFORMATION_PRIORITIZATION.md` | root causes and critical path | READY |
+| 23 | `23_CLIENT_BOARD_PACKAGE_INDEX.md` | структура клиентской передачи | READY |
+| 24 | `24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md` | стратегические варианты и growth readiness | READY |
+| 25 | `25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md` | leading indicators and escalation | READY |
+| 26 | `26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md` | stress test and resilience | READY |
+
+## Уровень II. Интегрированная диагностика
+
+| № | Документ | Назначение | Статус |
+|---:|---|---|---|
+| 2 | `02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md` | основной полный отчёт | CONSULTING EDITION READY |
+| 4 | `04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md` | финансовые ограничения и причины | READY |
+| 5 | `05_WORKING_CAPITAL_AND_INVENTORY.md` | оборотный капитал и запасы | READY |
+| 6 | `06_CASH_FLOW_AND_LIQUIDITY.md` | cash, liquidity and owner flows | READY |
+| 7 | `07_TAX_DIAGNOSTIC.md` | налоговая диагностика | READY |
+| 7A | `07A_TAX_LEGISLATION_UPDATE_2026-07.md` | актуализация налоговой рамки | READY |
+| 8 | `08_PROCESSES_MANAGEMENT_REPORTING.md` | процессы и отчётность | READY |
+| 9 | `09_STAGE2_PRIORITY_MAP.md` | программа Этапа 2 | READY |
+| 10 | `10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md` | финансовая модель и затраты | READY |
+| 11 | `11_RISK_AND_RESERVE_MATRIX.md` | риски и резервы | READY |
+| 16 | `16_INTEGRATED_CONSULTING_DIAGNOSIS.md` | единая причинно-следственная модель | READY |
+| 17 | `17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md` | глубокие выводы по блокам | READY |
+| 18 | `18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md` | value creation logic | READY |
+| 22 | `22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md` | качество прибыли и cash conversion | READY |
 
 ## Уровень III. Доказательность и контроль качества
 
 | № | Документ | Назначение | Статус |
 |---:|---|---|---|
-| 3 | [`03_EVIDENCE_REGISTER.md`](03_EVIDENCE_REGISTER.md) | реестр выводов и доказательств | READY |
-| 12 | [`12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md`](12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md) | методология, качество и ограничения | READY |
-| 13 | [`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md) | P0/P1/P2 перед фиксацией версии | READY |
-| 15 | [`15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md`](15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md) | контроль непротиворечивости | QA-1 READY |
-| A | [`appendices/00_APPENDICES_INDEX.md`](appendices/00_APPENDICES_INDEX.md) | индекс приложений | READY |
-| A1 | [`appendices/01_FINAL_METRICS_REGISTER.csv`](appendices/01_FINAL_METRICS_REGISTER.csv) | единый реестр headline figures | FIRST DRAFT READY |
+| 3 | `03_EVIDENCE_REGISTER.md` | реестр доказательств | READY |
+| 12 | `12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md` | методология и ограничения | READY |
+| 13 | `13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md` | P0/P1/P2 до freeze | READY |
+| 15 | `15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md` | QA и непротиворечивость | QA-1 READY |
+| A | `appendices/00_APPENDICES_INDEX.md` | индекс приложений | READY |
+| A1 | `appendices/01_FINAL_METRICS_REGISTER.csv` | единый реестр headline figures | FIRST DRAFT READY |
 
 ---
 
-# 4. Главные профессиональные выводы
+# 5. Главные профессиональные выводы
 
-## 4.1. Продуктовая зрелость опережает экономическую
+## 5.1. Продуктовая зрелость опережает экономическую
 
-Компания умеет создавать и продавать сложный продукт, но не обладает столь же зрелой системой измерения себестоимости, маржи, капитала и производительности.
+Компания умеет создавать и продавать сложный продукт, но не обладает сопоставимой зрелостью в измерении себестоимости, маржи, капитала и производительности.
 
-## 4.2. Основной доходный контур не является полноценной единицей финансового управления
+## 5.2. Основной доходный контур не является полноценной единицей финансового управления
 
 Индивидуальный заказ не имеет стабильной expected и actual unit-экономики.
 
-## 4.3. Рост может усиливать потребность в финансировании
+## 5.3. Рост может ухудшать cash
 
-Дополнительный заказ увеличивает материалы, WIP, срочность, нагрузку на узкие роли и ручную координацию. Без growth gate оборот способен расти быстрее contribution и free cash flow.
+Дополнительный заказ увеличивает WIP, потребность в материалах, нагрузку на bottleneck roles и coordination cost. Без growth gate оборот может расти быстрее contribution и free cash flow.
 
-## 4.4. Собственник является неформальным казначеем
+## 5.4. Собственник остаётся неформальным казначеем
 
-Личные внесения и операционные решения частично компенсируют отсутствие формальной cash architecture.
+Личные внесения и ручные решения частично компенсируют отсутствие формальной cash architecture.
 
-## 4.5. Запасы отражают качество capital allocation
+## 5.5. Запасы отражают качество capital allocation
 
 Проблема не ограничивается возрастом ткани. Капитал не всегда получает формальное назначение и решение по возврату стоимости.
 
-## 4.6. ФОТ должен оцениваться через производительность сложного труда
+## 5.6. ФОТ нельзя оценивать без разделения труда
 
-Нельзя корректно сокращать профессиональную мощность, пока не отделены value-creating labor, complexity cost и failure cost.
+Необходимо отличать:
 
-## 4.7. Отчётность преимущественно объясняет прошлое
+- value-creating labor;
+- complexity labor;
+- failure labor.
 
-Целевая модель должна предотвращать слабые решения до возникновения расхода, а не только восстанавливать факт после периода.
+## 5.7. Отчётность преимущественно объясняет прошлое
 
-## 4.8. Налоговая эффективность определяется полной экономической стоимостью
+Целевая модель должна предотвращать слабые решения до возникновения расхода и обязательства.
 
-Номинальная ставка не учитывает входной НДС, импорт, B2C/B2B, timing и административную нагрузку.
+## 5.8. Устойчивость определяется комбинацией шоков
 
----
+Наиболее опасна комбинация:
 
-# 5. Архитектура утечки стоимости
+`задержка оплаты + рост стоимости материала + перегрузка мощности`.
 
-Созданная ценность может теряться в шести точках:
-
-1. **коммерческое обещание** — сложность, срочность и изменения не полностью монетизированы;
-2. **разработка и производство** — rework, ожидание и bottleneck capacity;
-3. **закупка и склад** — покупка при наличии аналога и отсутствие exit decision;
-4. **продажа и расчёты** — B2B open, эквайринг и задержка финальной оплаты;
-5. **распределение денег** — аванс смешивается со свободным cash;
-6. **управленческая реакция** — отклонение выявляется постфактум.
+Она одновременно снижает маржу, увеличивает WIP, задерживает финальную оплату и повышает потребность в owner funding.
 
 ---
 
@@ -168,9 +188,14 @@ Updated: 2026-08-05
 - интегрированный диагноз;
 - карту корневых причин;
 - карту утечки стоимости;
+- оценку quality of earnings;
+- стратегические варианты;
+- growth readiness;
+- stress test;
 - карту рисков и резервов;
 - value creation logic;
 - target operating model;
+- early warning architecture;
 - board decision agenda;
 - программу Этапа 2;
 - доказательную базу и ограничения.
@@ -192,22 +217,13 @@ Updated: 2026-08-05
 1. Дедупликация и интеграция новых банковских выписок.
 2. Transaction-level расчёт net owner cash flow.
 3. Единая дата среза и период headline figures.
-4. Подтверждение НДС и РСВ за 2026-Q2 либо оговорка.
-5. Проверка ЕНС.
-6. Междокументная сверка всех ключевых цифр.
-7. Согласование формы персональных и кадровых выводов.
-8. Финальный metrics freeze.
+4. Подтверждение НДС и РСВ за 2026-Q2 либо чёткая оговорка.
+5. Обновление Final Metrics Register.
+6. Междокументная проверка всех headline figures.
+7. Редакционная очистка персональных и чувствительных данных.
 
 ---
 
-# 10. Следующий рабочий этап
+# 10. Итоговый принцип
 
-После закрытия P0:
-
-1. обновить headline figures;
-2. сократить повторы между тематическими документами;
-3. зафиксировать единую клиентскую редакцию;
-4. сформировать приложения;
-5. подготовить DOCX/PDF;
-6. подготовить презентацию для итоговой встречи;
-7. зафиксировать протокол решений и scope Этапа 2.
+> Финальный пакет должен показать не объём выполненной аналитической работы, а качество управленческого вывода: **где бизнес теряет стоимость, какой рост допустим, какой риск должен быть остановлен и какие решения изменят экономическую траекторию компании.**
