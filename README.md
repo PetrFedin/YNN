@@ -2,7 +2,7 @@
 
 Репозиторий комплексной управленческой диагностики бизнеса **YANINA**.
 
-Статус: **QA-2 завершён; Board Report, Master Report, maturity heatmap и tax economics assessment сформированы; numerical freeze, privacy review и copyedit остаются P0**.
+Статус: **Board Report и Master Report консолидированы; order economics и target financial architecture добавлены; numerical freeze и privacy review остаются P0**.
 
 > Репозиторий содержит управленческую диагностику и доказательную базу. Это не аудиторское заключение, не бухгалтерский P&L и не юридический налоговый аудит.
 
@@ -16,15 +16,16 @@
 
 Начать с:
 
-1. [`00_FINAL_PACKAGE_STRUCTURE.md`](live/client_pack/final_stage1/00_FINAL_PACKAGE_STRUCTURE.md) — официальный состав и статус пакета.
+1. [`00_FINAL_PACKAGE_STRUCTURE.md`](live/client_pack/final_stage1/00_FINAL_PACKAGE_STRUCTURE.md) — состав и статус пакета.
 2. [`29_CLIENT_BOARD_REPORT.md`](live/client_pack/final_stage1/29_CLIENT_BOARD_REPORT.md) — основной отчёт для собственника.
-3. [`35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md`](live/client_pack/final_stage1/35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md) — зрелость, ограничения и приоритеты.
-4. [`28_CLIENT_DELIVERABLE_MASTER_REPORT.md`](live/client_pack/final_stage1/28_CLIENT_DELIVERABLE_MASTER_REPORT.md) — полный клиентский master report.
-5. [`36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md`](live/client_pack/final_stage1/36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md) — налоговая экономика и юридическая структура.
-6. [`30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md`](live/client_pack/final_stage1/30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md) — scope и критерии приёмки Этапа 2.
-7. [`31_FINDINGS_TO_ACTIONS_AND_STAGE2_TRACEABILITY_MATRIX.md`](live/client_pack/final_stage1/31_FINDINGS_TO_ACTIONS_AND_STAGE2_TRACEABILITY_MATRIX.md) — связь выводов с действиями.
-8. [`23_CLIENT_BOARD_PACKAGE_INDEX.md`](live/client_pack/final_stage1/23_CLIENT_BOARD_PACKAGE_INDEX.md) — структура передачи и итоговой встречи.
-9. [`34_FINAL_FREEZE_AND_CLIENT_RELEASE_PROTOCOL.md`](live/client_pack/final_stage1/34_FINAL_FREEZE_AND_CLIENT_RELEASE_PROTOCOL.md) — правила final freeze and release.
+3. [`28_CLIENT_DELIVERABLE_MASTER_REPORT.md`](live/client_pack/final_stage1/28_CLIENT_DELIVERABLE_MASTER_REPORT.md) — полный клиентский отчёт.
+4. [`35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md`](live/client_pack/final_stage1/35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md) — maturity heatmap.
+5. [`37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md`](live/client_pack/final_stage1/37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md) — экономика сложности индивидуального заказа.
+6. [`38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md`](live/client_pack/final_stage1/38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md) — целевая финансовая архитектура.
+7. [`36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md`](live/client_pack/final_stage1/36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md) — налоговая экономика.
+8. [`30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md`](live/client_pack/final_stage1/30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md) — scope Этапа 2.
+9. [`31_FINDINGS_TO_ACTIONS_AND_STAGE2_TRACEABILITY_MATRIX.md`](live/client_pack/final_stage1/31_FINDINGS_TO_ACTIONS_AND_STAGE2_TRACEABILITY_MATRIX.md) — связь выводов и действий.
+10. [`23_CLIENT_BOARD_PACKAGE_INDEX.md`](live/client_pack/final_stage1/23_CLIENT_BOARD_PACKAGE_INDEX.md) — клиентская навигация и сценарий итоговой встречи.
 
 ---
 
@@ -35,70 +36,54 @@
 Основной разрыв находится между:
 
 - высокой продуктовой зрелостью;
-- доказанной способностью формировать спрос и поступления;
-- недостаточной зрелостью unit-экономики, cash architecture, управления мощностью, оборотным капиталом, ответственностью, отчётностью и налогово-юридической моделью.
+- доказанной коммерческой способностью;
+- недостаточной зрелостью unit-экономики, monetization of complexity, cash architecture, управления мощностью, оборотным капиталом, ответственностью и отчётностью.
 
 ---
 
-# Интегрированная оценка зрелости
+# Новые ключевые выводы
 
-| Контур | Оценка | Главный разрыв |
-|---|---:|---|
-| Финансовая модель и качество прибыли | 1,5 / 5 | нет полного P&L главного доходного контура и management balance |
-| Денежный поток и ликвидность | 2,0 / 5 | cash виден лучше, чем обязательства и свободный поток |
-| Затраты и производительность | 2,0 / 5 | расходы не связаны полностью с заказом, мощностью и результатом |
-| Запасы и оборотный капитал | 2,0 / 5 | стоимость видна лучше, чем назначение и возврат капитала |
-| Закупки, производство и планирование | 2,0 / 5 | отсутствуют единые economic/capacity/material gates |
-| Управление и ответственность | 2,5 / 5 | end-to-end accountability неполна |
-| Отчётность и data governance | 2,0 / 5 | решения запаздывают из-за ручной сверки и конфликтов версий |
-| Налоговая и юридическая модель | 2,5 / 5 | платежи видны лучше, чем начисления и полная экономическая стоимость |
-| Кадровый и платёжный контур | 2,0 / 5 | roster, договоры и выплаты не объединены |
-| Готовность к масштабированию | 2,0 / 5 | продукт масштабируется быстрее системы управления |
+## Экономика сложности
 
-Подробно:
+Высокий чек индивидуального заказа не гарантирует высокую прибыль.
 
-- [`35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md`](live/client_pack/final_stage1/35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md).
+Маржа может снижаться через:
 
----
+- конструктивную новизну;
+- редкие материалы;
+- дополнительные примерки;
+- неоплаченные изменения;
+- ручной декор;
+- срочность;
+- rework;
+- дефицитную мощность;
+- слабый график оплат.
 
-# Профессиональная причинная модель
+Главный принцип:
 
-Финансовое давление воспроизводится через семь циклов:
+> **Сложность создаёт премиальную маржу только тогда, когда управляется как источник цены, затрат, мощности и капитала.**
 
-1. сложность заказа не полностью монетизируется;
-2. аванс воспринимается как свободный cash;
-3. потребность повторно финансируется через старый запас и новую закупку;
-4. собственник заменяет формальное казначейство;
-5. отчётность поздно выявляет отклонение;
-6. кадровый и налоговый formalization догоняет фактическую деятельность;
-7. смешение экономических контуров искажает прибыльность.
+## Финансовая архитектура
 
-Подробно:
+Текущая система лучше показывает движение денег, чем:
 
-- [`32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md`](live/client_pack/final_stage1/32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md).
+- где создана прибыль;
+- где связан капитал;
+- какие обязательства уже приняты;
+- какой cash свободен;
+- почему факт отличается от плана.
 
----
+Целевая архитектура включает:
 
-# Налоговый вывод
-
-Налоговая модель оценивается не по минимальной ставке, а по полной экономической стоимости:
-
-- налог с реализации;
-- невозмещаемый входной и ввозной НДС;
-- влияние на B2C/B2B цену;
-- стоимость импорта;
-- timing авансов и обязательств;
-- влияние на запас и WIP;
-- стоимость нескольких юридических контуров;
-- кадровые начисления;
-- административная нагрузка;
-- юридическая защищённость.
-
-Подробно:
-
-- [`07_TAX_DIAGNOSTIC.md`](live/client_pack/final_stage1/07_TAX_DIAGNOSTIC.md);
-- [`07A_TAX_LEGISLATION_UPDATE_2026-07.md`](live/client_pack/final_stage1/07A_TAX_LEGISLATION_UPDATE_2026-07.md);
-- [`36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md`](live/client_pack/final_stage1/36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md).
+1. source and transaction layer;
+2. master data;
+3. economic classification;
+4. order and product economics;
+5. inventory, WIP and working capital;
+6. two-contour P&L and shared costs;
+7. management balance;
+8. cash flow and treasury;
+9. tax, controls and management reporting.
 
 ---
 
@@ -107,62 +92,40 @@
 Диагностика охватывает:
 
 - финансовую модель;
-- денежный поток и ликвидность;
+- качество прибыли;
+- cash flow and liquidity;
 - owner flows;
-- качество прибыли и cash conversion;
-- структуру затрат и производительность;
-- себестоимость индивидуального пошива и товара;
-- запасы, WIP и оборотный капитал;
+- экономику сложности и заказа;
+- затраты и производительность;
+- запасы, WIP and working capital;
 - закупки и поставщиков;
-- производство и планирование мощности;
+- производство и capacity planning;
 - коммерческие каналы;
-- ФОТ и кадровый контур;
-- управление и RACI;
-- управленческую отчётность и data governance;
-- налоговую нагрузку и юридические контуры;
-- strategic options and growth readiness;
+- management reporting and data governance;
+- people and payments;
+- tax economics and legal entities;
+- strategic options;
 - stress test;
-- early warning architecture;
-- value realization and benefit governance.
+- early warning;
+- value realization.
 
-Этап 1 не является внедрённой системой управленческого учёта, ERP/PLM, налоговой реструктуризацией или постоянным сопровождением изменений.
+Этап 1 формирует:
 
----
+- интегрированный диагноз;
+- root causes;
+- maturity heatmap;
+- economics of complexity;
+- target financial architecture;
+- Quality of Earnings;
+- strategic options;
+- target operating model;
+- board decisions;
+- Stage 2 scope;
+- acceptance criteria;
+- benefit governance;
+- evidence and limitations.
 
-# Ключевые client-facing документы
-
-## Board and strategy
-
-- [`29_CLIENT_BOARD_REPORT.md`](live/client_pack/final_stage1/29_CLIENT_BOARD_REPORT.md);
-- [`35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md`](live/client_pack/final_stage1/35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md);
-- [`27_FINAL_CONSULTING_CONCLUSIONS_AND_RECOMMENDATIONS.md`](live/client_pack/final_stage1/27_FINAL_CONSULTING_CONCLUSIONS_AND_RECOMMENDATIONS.md);
-- [`20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md`](live/client_pack/final_stage1/20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md);
-- [`24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md`](live/client_pack/final_stage1/24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md);
-- [`14_MANAGEMENT_DECISION_AGENDA.md`](live/client_pack/final_stage1/14_MANAGEMENT_DECISION_AGENDA.md);
-- [`19_TARGET_OPERATING_MODEL.md`](live/client_pack/final_stage1/19_TARGET_OPERATING_MODEL.md).
-
-## Diagnostic depth
-
-- [`28_CLIENT_DELIVERABLE_MASTER_REPORT.md`](live/client_pack/final_stage1/28_CLIENT_DELIVERABLE_MASTER_REPORT.md);
-- [`22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md`](live/client_pack/final_stage1/22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md);
-- [`32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md`](live/client_pack/final_stage1/32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md);
-- [`36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md`](live/client_pack/final_stage1/36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md);
-- [`26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md`](live/client_pack/final_stage1/26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md);
-- [`25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md`](live/client_pack/final_stage1/25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md);
-- [`33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md`](live/client_pack/final_stage1/33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md).
-
-## Stage 2
-
-- [`30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md`](live/client_pack/final_stage1/30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md);
-- [`31_FINDINGS_TO_ACTIONS_AND_STAGE2_TRACEABILITY_MATRIX.md`](live/client_pack/final_stage1/31_FINDINGS_TO_ACTIONS_AND_STAGE2_TRACEABILITY_MATRIX.md).
-
-## Evidence and QA
-
-- [`03_EVIDENCE_REGISTER.md`](live/client_pack/final_stage1/03_EVIDENCE_REGISTER.md);
-- [`12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md`](live/client_pack/final_stage1/12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md);
-- [`15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md`](live/client_pack/final_stage1/15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md);
-- [`34_FINAL_FREEZE_AND_CLIENT_RELEASE_PROTOCOL.md`](live/client_pack/final_stage1/34_FINAL_FREEZE_AND_CLIENT_RELEASE_PROTOCOL.md);
-- [`appendices/01_FINAL_METRICS_REGISTER.csv`](live/client_pack/final_stage1/appendices/01_FINAL_METRICS_REGISTER.csv).
+Этап 1 не является фактическим внедрением системы учёта, ERP/PLM, налоговой реструктуризацией или программой постоянного сопровождения.
 
 ---
 
@@ -170,33 +133,48 @@
 
 - индивидуальный пошив формирует около 83–84% используемого доходного периметра;
 - полного P&L компании пока нет;
-- товарная выручка с подтверждённой себестоимостью за 2025 год составляет около 72,9 млн ₽;
-- 1 339 SKU сопоставлены со складским остатком около 29,9 млн ₽;
-- 668 положительных сопоставленных остатков на сумму около 12,87 млн ₽ не показывают движения более 365 дней;
+- полной unit-экономики заказа нет;
+- товарная выручка с подтверждённой себестоимостью за 2025 год — около 72,9 млн ₽;
+- 1 339 SKU сопоставлены с остатком около 29,9 млн ₽;
+- 668 положительных остатков на сумму около 12,87 млн ₽ не показывают движения более 365 дней;
 - около 2,51 млн ₽ находится в открытом B2B-контуре;
-- базовый банковский регистр включает около 4 933 операций;
-- налоговый cash в диагностическом 30-месячном периметре составляет около 45,4 млн ₽;
-- собственник как получал средства из бизнеса, так и вносил их обратно;
-- roster, договорной и платёжный контуры расходятся.
+- базовый bank register — около 4 933 операций;
+- owner flows являются встречными;
+- roster, договорные основания и выплаты расходятся;
+- налоговый cash виден лучше, чем начисленная налоговая нагрузка.
 
-Эти показатели сопровождаются методологическими ограничениями и не должны интерпретироваться вне соответствующих документов.
+Показатели сопровождаются методологическими ограничениями.
 
 ---
 
 # P0 перед FINAL CONTENT
 
-1. Интеграция и дедупликация нового банковского intake.
-2. Transaction-level расчёт net owner cash flow.
-3. Единая дата среза и периоды headline figures.
+1. Интеграция и дедупликация банковского intake.
+2. Transaction-level net owner cash flow.
+3. Единая дата среза и periods freeze.
 4. Подтверждение denominator доли 83–84%.
-5. Подтверждение единиц исторической управленческой модели.
+5. Подтверждение единиц исторической модели.
 6. НДС Q2 2026, РСВ Q2 2026 и ЕНС — получить либо раскрыть limitation.
-7. Document-level closure B2B open.
+7. B2B document closure.
 8. Проверка оснований HR/payments.
 9. Обновление Final Metrics Register.
 10. Privacy review.
 11. Copyedit.
-12. Финальный cross-document number scan.
+12. Cross-document number scan.
+
+---
+
+# Структура репозитория
+
+| Путь | Содержание |
+|---|---|
+| [`live/client_pack/final_stage1/`](live/client_pack/final_stage1/) | официальный клиентский пакет |
+| [`live/client_pack/`](live/client_pack/) | рабочие тематические материалы |
+| [`live/marts/`](live/marts/) | расчётные витрины |
+| [`live/registers/`](live/registers/) | регистры и контрольные слои |
+| [`live/maps/`](live/maps/) | карты данных и процессов |
+| [`STATUS.md`](STATUS.md) | технический статус |
+| [`HANDOFF.md`](HANDOFF.md) | передача рабочего контура |
 
 ---
 
