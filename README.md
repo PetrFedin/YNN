@@ -2,7 +2,7 @@
 
 Репозиторий комплексной управленческой диагностики бизнеса **YANINA**.
 
-Статус: **консалтинговая редакция Этапа 1 сформирована; final freeze после закрытия P0**.
+Статус: **консалтинговая редакция Этапа 1 сформирована; strategic options, early warning и stress-test добавлены; final freeze после закрытия P0**.
 
 > Репозиторий содержит управленческую диагностику и доказательную базу. Это не аудиторское заключение, не бухгалтерский P&L и не юридический налоговый аудит.
 
@@ -17,12 +17,15 @@
 Начать с:
 
 1. [`00_FINAL_PACKAGE_STRUCTURE.md`](live/client_pack/final_stage1/00_FINAL_PACKAGE_STRUCTURE.md) — навигация по пакету.
-2. [`01_EXECUTIVE_SUMMARY_FOR_OWNERS.md`](live/client_pack/final_stage1/01_EXECUTIVE_SUMMARY_FOR_OWNERS.md) — выводы для собственника.
-3. [`02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md`](live/client_pack/final_stage1/02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md) — полный интегрированный отчёт.
-4. [`16_INTEGRATED_CONSULTING_DIAGNOSIS.md`](live/client_pack/final_stage1/16_INTEGRATED_CONSULTING_DIAGNOSIS.md) — причинно-следственный диагноз.
-5. [`18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md`](live/client_pack/final_stage1/18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md) — механизмы создания стоимости.
-6. [`14_MANAGEMENT_DECISION_AGENDA.md`](live/client_pack/final_stage1/14_MANAGEMENT_DECISION_AGENDA.md) — board decision memo.
-7. [`19_TARGET_OPERATING_MODEL.md`](live/client_pack/final_stage1/19_TARGET_OPERATING_MODEL.md) — целевая operating model.
+2. [`23_CLIENT_BOARD_PACKAGE_INDEX.md`](live/client_pack/final_stage1/23_CLIENT_BOARD_PACKAGE_INDEX.md) — рекомендуемая структура передачи заказчику.
+3. [`01_EXECUTIVE_SUMMARY_FOR_OWNERS.md`](live/client_pack/final_stage1/01_EXECUTIVE_SUMMARY_FOR_OWNERS.md) — выводы для собственника.
+4. [`20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md`](live/client_pack/final_stage1/20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md) — стратегический синтез.
+5. [`24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md`](live/client_pack/final_stage1/24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md) — варианты развития и готовность к росту.
+6. [`02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md`](live/client_pack/final_stage1/02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md) — полный интегрированный отчёт.
+7. [`14_MANAGEMENT_DECISION_AGENDA.md`](live/client_pack/final_stage1/14_MANAGEMENT_DECISION_AGENDA.md) — board decision memo.
+8. [`19_TARGET_OPERATING_MODEL.md`](live/client_pack/final_stage1/19_TARGET_OPERATING_MODEL.md) — целевая operating model.
+9. [`25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md`](live/client_pack/final_stage1/25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md) — система ранних сигналов.
+10. [`26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md`](live/client_pack/final_stage1/26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md) — стресс-тест и устойчивость.
 
 ---
 
@@ -38,6 +41,20 @@
 
 ---
 
+# Главные профессиональные выводы
+
+- Продуктовая зрелость опережает экономическую.
+- Основной доходный контур не имеет устойчивой expected/actual unit-экономики.
+- Рост может увеличивать потребность в финансировании быстрее, чем contribution.
+- Собственник остаётся неформальным казначеем и стабилизатором ликвидности.
+- Запасы отражают качество capital allocation, а не только работу склада.
+- ФОТ необходимо разделять на value-creating, complexity и failure labor.
+- Управленческая отчётность преимущественно объясняет прошлое, а не предотвращает слабые решения.
+- Налоговая эффективность определяется полной экономической стоимостью, а не минимальной номинальной ставкой.
+- Наиболее опасна комбинация задержки оплаты, роста стоимости материалов и перегрузки мощности.
+
+---
+
 # Периметр Этапа 1
 
 Диагностика охватывает:
@@ -46,6 +63,7 @@
 - доходы и структуру затрат;
 - денежный поток и ликвидность;
 - поток собственника;
+- качество прибыли и cash conversion;
 - себестоимость индивидуального пошива и товара;
 - запасы, WIP и оборотный капитал;
 - закупки и поставщиков;
@@ -54,16 +72,24 @@
 - ФОТ и кадровый контур;
 - систему управления и RACI;
 - управленческую отчётность и качество данных;
-- налоговую нагрузку и юридические контуры.
+- налоговую нагрузку и юридические контуры;
+- стратегические варианты;
+- готовность к росту;
+- стрессоустойчивость;
+- систему раннего предупреждения.
 
 Этап 1 формирует:
 
-- диагноз;
+- интегрированный диагноз;
 - корневые причины;
 - карту утечки стоимости;
+- Quality of Earnings;
+- стратегические варианты и growth gates;
+- stress test;
 - карту рисков и резервов;
 - value creation logic;
 - target operating model;
+- early warning architecture;
 - решения собственника;
 - программу Этапа 2.
 
