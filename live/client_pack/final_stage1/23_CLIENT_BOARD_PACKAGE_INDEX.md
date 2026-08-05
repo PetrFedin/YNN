@@ -13,9 +13,13 @@ Updated: 2026-08-05
 
 Финальный пакет должен состоять из трёх уровней:
 
-1. **Board Pack** — выводы, решения и стратегические последствия;
+1. **Board Pack** — выводы, решения, стратегические варианты и последствия;
 2. **Diagnostic Report** — полный профессиональный анализ;
 3. **Evidence and Appendices** — доказательная база, методология и ограничения.
+
+Документы должны вести собственника по логике:
+
+`диагноз → корневые причины → стратегические варианты → решения → target state → программа изменений → контроль результата`.
 
 ---
 
@@ -38,7 +42,7 @@ Updated: 2026-08-05
 
 [`20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md`](20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md)
 
-Содержит десять неочевидных стратегических выводов:
+Содержит неочевидные стратегические выводы:
 
 - decision gap;
 - риск некачественного роста;
@@ -51,26 +55,40 @@ Updated: 2026-08-05
 - capital-adjusted contribution;
 - отрицательный operating leverage по сложности.
 
-## 2.3. Board Decision Memo
+## 2.3. Strategic Options and Growth Readiness
+
+[`24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md`](24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md)
+
+Показывает:
+
+- готовность бизнеса к росту;
+- четыре стратегических варианта;
+- требования к капиталу и данным;
+- growth gates;
+- stop conditions;
+- рекомендуемую последовательность роста.
+
+## 2.4. Board Decision Memo
 
 [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md)
 
-Используется непосредственно на итоговой встрече для фиксации:
+Используется на итоговой встрече для фиксации:
 
 - решений;
 - альтернатив;
 - trade-offs;
 - владельцев;
 - сроков;
-- критериев принятия.
+- критериев принятия;
+- цены бездействия.
 
-## 2.4. Target Operating Model
+## 2.5. Target Operating Model
 
 [`19_TARGET_OPERATING_MODEL.md`](19_TARGET_OPERATING_MODEL.md)
 
 Показывает, какой должна стать система управления после устранения диагностированных ограничений.
 
-## 2.5. Problem Tree and Prioritization
+## 2.6. Problem Tree and Prioritization
 
 [`21_PROBLEM_TREE_AND_TRANSFORMATION_PRIORITIZATION.md`](21_PROBLEM_TREE_AND_TRANSFORMATION_PRIORITIZATION.md)
 
@@ -82,6 +100,18 @@ Updated: 2026-08-05
 - зависимости;
 - критический путь;
 - приоритеты первых 30, 90 и 180 дней.
+
+## 2.7. Early Warning and Management Control
+
+[`25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md`](25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md)
+
+Определяет:
+
+- leading indicators;
+- пороги эскалации;
+- management cockpit;
+- weekly/monthly/quarterly rhythm;
+- момент, когда рост перестаёт создавать экономическую стоимость.
 
 ---
 
@@ -142,6 +172,21 @@ Updated: 2026-08-05
 [`18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md`](18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md)
 
 Определяет механизмы будущего эффекта и правила его подтверждения.
+
+## 3.6. Scenario Stress Test and Business Resilience
+
+[`26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md`](26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md)
+
+Показывает влияние:
+
+- снижения поступлений;
+- задержки оплат;
+- роста стоимости материалов и FX;
+- перегрузки мощности;
+- накопления товарного остатка;
+- прекращения owner funding;
+- роста налоговой нагрузки;
+- потери key person.
 
 ---
 
@@ -238,7 +283,20 @@ Updated: 2026-08-05
 - отделить симптомы от причин;
 - показать взаимозависимость ликвидности, unit-economics, запасов и governance.
 
-## Блок 3. Board decisions — 20 минут
+## Блок 3. Strategic options and resilience — 15 минут
+
+Документы:
+
+- Strategic Options and Growth Readiness;
+- Scenario Stress Test.
+
+Цель:
+
+- определить допустимый тип роста;
+- согласовать риск-аппетит;
+- установить growth gates и stop conditions.
+
+## Блок 4. Board decisions — 20 минут
 
 Документ:
 
@@ -248,18 +306,19 @@ Updated: 2026-08-05
 
 - принять решения по capital policy, unit-economics, owner flows, inventory и owners.
 
-## Блок 4. Target state and Stage 2 — 15 минут
+## Блок 5. Target state and Stage 2 — 15 минут
 
 Документы:
 
 - Target Operating Model;
 - Stage 2 Priority Map;
-- Value Creation Case.
+- Value Creation Case;
+- Early Warning System.
 
 Цель:
 
 - согласовать программу дальнейшей работы;
-- определить ожидаемые управленческие результаты.
+- определить ожидаемые управленческие результаты и систему контроля.
 
 ---
 
@@ -275,7 +334,7 @@ Updated: 2026-08-05
 - неутверждённых сценариев экономии;
 - автоматических классификаций без пояснения.
 
-Эти материалы должны использоваться только как доказательная база при углублении в конкретный вопрос.
+Эти материалы используются только как доказательная база при углублении в конкретный вопрос.
 
 ---
 
@@ -287,9 +346,11 @@ Updated: 2026-08-05
 
 - Executive Summary;
 - Board-level Strategic Synthesis;
+- Strategic Options and Growth Readiness;
 - Board Decision Memo;
 - Target Operating Model;
-- Problem Tree.
+- Problem Tree;
+- Early Warning System.
 
 ## Документ 2. Full Diagnostic Report
 
@@ -299,6 +360,7 @@ Updated: 2026-08-05
 - domain conclusions;
 - Quality of Earnings;
 - Value Creation Case;
+- Scenario Stress Test;
 - тематические приложения.
 
 ## Документ 3. Evidence Appendix
@@ -320,9 +382,12 @@ Updated: 2026-08-05
 |---|---|
 | Board-level content | READY |
 | Integrated full report | READY |
+| Strategic options and growth readiness | READY |
 | Root-cause and prioritization | READY |
 | Target Operating Model | READY |
+| Early Warning System | READY |
 | Quality of Earnings | READY |
+| Scenario Stress Test | READY |
 | Value Creation Case | READY |
 | Evidence structure | READY |
 | Final numerical freeze | P0 OPEN |
@@ -333,4 +398,4 @@ Updated: 2026-08-05
 
 # 10. Итоговый принцип
 
-> Заказчик должен получить не доказательство того, что консультант обработал много файлов, а ясную картину того, **какие решения определяют экономическое будущее бизнеса, почему они необходимы и как будет измеряться результат**.
+> Заказчик должен получить не доказательство того, что консультант обработал много файлов, а ясную картину того, **какие решения определяют экономическое будущее бизнеса, почему они необходимы, какие риски имеет каждый вариант и как будет измеряться результат**.
