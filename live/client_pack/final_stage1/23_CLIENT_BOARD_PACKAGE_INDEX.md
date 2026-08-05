@@ -9,109 +9,84 @@ Updated: 2026-08-05
 
 # 1. Принцип комплектации
 
-Заказчику не следует передавать все рабочие и технические документы как единый неструктурированный архив.
+Заказчику не следует передавать все рабочие и технические документы как единый архив.
 
 Финальный пакет должен состоять из трёх уровней:
 
-1. **Board Pack** — выводы, решения, стратегические варианты и последствия;
+1. **Board Pack** — диагноз, стратегические варианты, решения и последствия;
 2. **Diagnostic Report** — полный профессиональный анализ;
 3. **Evidence and Appendices** — доказательная база, методология и ограничения.
 
-Документы должны вести собственника по логике:
+Логика клиентского маршрута:
 
-`диагноз → корневые причины → стратегические варианты → решения → target state → программа изменений → контроль результата`.
+`диагноз → выводы → стратегические варианты → решения → target state → система контроля → программа Этапа 2`.
 
 ---
 
 # 2. Board Pack
 
-Эти документы рекомендуется направлять собственнику до итоговой встречи.
-
 ## 2.1. Executive Summary
 
 [`01_EXECUTIVE_SUMMARY_FOR_OWNERS.md`](01_EXECUTIVE_SUMMARY_FOR_OWNERS.md)
 
-Отвечает на вопросы:
+Краткая board-level оценка состояния бизнеса.
 
-- каково реальное состояние бизнеса;
-- почему сильный продукт не гарантирует сильный cash;
-- какие риски являются системными;
-- какие решения должен принять собственник.
+## 2.2. Финальное консалтинговое заключение
 
-## 2.2. Board-level Strategic Synthesis
+[`27_FINAL_CONSULTING_CONCLUSIONS_AND_RECOMMENDATIONS.md`](27_FINAL_CONSULTING_CONCLUSIONS_AND_RECOMMENDATIONS.md)
+
+Содержит:
+
+- итоговый диагноз;
+- двенадцать ключевых выводов;
+- экономические последствия;
+- рекомендации;
+- решения собственника;
+- границу Этапа 1 и Этапа 2.
+
+## 2.3. Board-level Strategic Synthesis
 
 [`20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md`](20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md)
 
-Содержит неочевидные стратегические выводы:
+Содержит неочевидные выводы о:
 
 - decision gap;
-- риск некачественного роста;
-- собственник как часть operating model;
-- запасы как портфель капитала;
-- value/complexity/failure labor;
-- налоговая модель как следствие бизнес-архитектуры;
+- риске некачественного роста;
+- собственнике как части operating model;
+- запасах как портфеле капитала;
+- стоимости сложности;
 - management latency;
-- end-to-end accountability;
-- capital-adjusted contribution;
-- отрицательный operating leverage по сложности.
+- capital-adjusted contribution.
 
-## 2.3. Strategic Options and Growth Readiness
+## 2.4. Strategic Options and Growth Readiness
 
 [`24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md`](24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md)
 
-Показывает:
+Показывает четыре стратегических варианта, growth gates и stop conditions.
 
-- готовность бизнеса к росту;
-- четыре стратегических варианта;
-- требования к капиталу и данным;
-- growth gates;
-- stop conditions;
-- рекомендуемую последовательность роста.
-
-## 2.4. Board Decision Memo
+## 2.5. Board Decision Memo
 
 [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md)
 
-Используется на итоговой встрече для фиксации:
+Используется для фиксации решений, trade-offs, owners и сроков.
 
-- решений;
-- альтернатив;
-- trade-offs;
-- владельцев;
-- сроков;
-- критериев принятия;
-- цены бездействия.
-
-## 2.5. Target Operating Model
+## 2.6. Target Operating Model
 
 [`19_TARGET_OPERATING_MODEL.md`](19_TARGET_OPERATING_MODEL.md)
 
-Показывает, какой должна стать система управления после устранения диагностированных ограничений.
+Показывает целевую систему управления.
 
-## 2.6. Problem Tree and Prioritization
+## 2.7. Problem Tree and Prioritization
 
 [`21_PROBLEM_TREE_AND_TRANSFORMATION_PRIORITIZATION.md`](21_PROBLEM_TREE_AND_TRANSFORMATION_PRIORITIZATION.md)
 
-Показывает:
+Показывает симптомы, механизмы, root causes и critical path.
 
-- симптомы;
-- механизмы;
-- корневые причины;
-- зависимости;
-- критический путь;
-- приоритеты первых 30, 90 и 180 дней.
-
-## 2.7. Early Warning and Management Control
+## 2.8. Early Warning and Management Control
 
 [`25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md`](25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md)
 
-Определяет:
-
-- leading indicators;
-- пороги эскалации;
-- management cockpit;
-- weekly/monthly/quarterly rhythm;
-- момент, когда рост перестаёт создавать экономическую стоимость.
+Определяет leading indicators, thresholds, escalation and management cockpit.
 
 ---
 
@@ -121,37 +96,19 @@ Updated: 2026-08-05
 
 [`02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md`](02_FULL_BUSINESS_DIAGNOSTIC_REPORT.md)
 
-Основной документ передачи заказчику.
+Основной полный документ передачи заказчику.
 
-Он включает:
-
-- качество бизнес-модели;
-- quality of profit;
-- liquidity and capital architecture;
-- structure of costs;
-- working capital;
-- procurement and production;
-- channels;
-- reporting;
-- governance;
-- tax model;
-- value leakage;
-- risks;
-- value levers;
-- target state;
-- Stage 2 program.
-
-## 3.2. Интегрированный консалтинговый диагноз
+## 3.2. Интегрированный диагноз
 
 [`16_INTEGRATED_CONSULTING_DIAGNOSIS.md`](16_INTEGRATED_CONSULTING_DIAGNOSIS.md)
 
-Раскрывает общую причинно-следственную модель бизнеса.
+Общая причинно-следственная модель бизнеса.
 
 ## 3.3. Профессиональные выводы по блокам
 
 [`17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md`](17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md)
 
-По каждому блоку:
+Структура:
 
 `механизм → доказательство → экономическое последствие → решение`.
 
@@ -159,101 +116,42 @@ Updated: 2026-08-05
 
 [`22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md`](22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md)
 
-Отделяет:
-
-- cash received;
-- earned margin;
-- working capital absorption;
-- owner financing;
-- normalized operating result.
+Разделяет cash received, earned margin, working capital absorption и owner funding.
 
 ## 3.5. Value Creation Case
 
 [`18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md`](18_VALUE_CREATION_CASE_AND_BENEFIT_LOGIC.md)
 
-Определяет механизмы будущего эффекта и правила его подтверждения.
+Определяет механизмы экономического эффекта и правила его подтверждения.
 
-## 3.6. Scenario Stress Test and Business Resilience
+## 3.6. Scenario Stress Test
 
 [`26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md`](26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md)
 
-Показывает влияние:
-
-- снижения поступлений;
-- задержки оплат;
-- роста стоимости материалов и FX;
-- перегрузки мощности;
-- накопления товарного остатка;
-- прекращения owner funding;
-- роста налоговой нагрузки;
-- потери key person.
+Оценивает устойчивость к снижению поступлений, задержке оплат, росту стоимости материалов, перегрузке мощности, накоплению stock, прекращению owner funding и росту налоговой нагрузки.
 
 ---
 
-# 4. Тематические приложения к основному отчёту
+# 4. Тематические приложения
 
-## Финансовая модель и затраты
-
-[`10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md`](10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md)
-
-## Денежный поток и ликвидность
-
-[`06_CASH_FLOW_AND_LIQUIDITY.md`](06_CASH_FLOW_AND_LIQUIDITY.md)
-
-## Запасы и оборотный капитал
-
-[`05_WORKING_CAPITAL_AND_INVENTORY.md`](05_WORKING_CAPITAL_AND_INVENTORY.md)
-
-## Процессы и управленческая отчётность
-
-[`08_PROCESSES_MANAGEMENT_REPORTING.md`](08_PROCESSES_MANAGEMENT_REPORTING.md)
-
-## Налоговая диагностика
-
-[`07_TAX_DIAGNOSTIC.md`](07_TAX_DIAGNOSTIC.md)
-
-## Актуализация налоговой рамки
-
-[`07A_TAX_LEGISLATION_UPDATE_2026-07.md`](07A_TAX_LEGISLATION_UPDATE_2026-07.md)
-
-## Риски и резервы
-
-[`11_RISK_AND_RESERVE_MATRIX.md`](11_RISK_AND_RESERVE_MATRIX.md)
-
-## Корневые причины
-
-[`04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md`](04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md)
+- [`10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md`](10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md) — финансовая модель и затраты.
+- [`06_CASH_FLOW_AND_LIQUIDITY.md`](06_CASH_FLOW_AND_LIQUIDITY.md) — денежный поток и ликвидность.
+- [`05_WORKING_CAPITAL_AND_INVENTORY.md`](05_WORKING_CAPITAL_AND_INVENTORY.md) — запасы и оборотный капитал.
+- [`08_PROCESSES_MANAGEMENT_REPORTING.md`](08_PROCESSES_MANAGEMENT_REPORTING.md) — процессы и отчётность.
+- [`07_TAX_DIAGNOSTIC.md`](07_TAX_DIAGNOSTIC.md) — налоговая диагностика.
+- [`07A_TAX_LEGISLATION_UPDATE_2026-07.md`](07A_TAX_LEGISLATION_UPDATE_2026-07.md) — актуализация налоговой рамки.
+- [`11_RISK_AND_RESERVE_MATRIX.md`](11_RISK_AND_RESERVE_MATRIX.md) — риски и резервы.
+- [`04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md`](04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md) — финансовые ограничения и причины.
 
 ---
 
 # 5. Evidence Pack
 
-## Evidence Register
-
-[`03_EVIDENCE_REGISTER.md`](03_EVIDENCE_REGISTER.md)
-
-Для каждого значимого вывода:
-
-- статус;
-- источник;
-- ограничение;
-- управленческое значение.
-
-## Methodology and Limitations
-
-[`12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md`](12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md)
-
-## Content QA
-
-[`15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md`](15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md)
-
-## Open Items Before Freeze
-
-[`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md)
-
-## Final Metrics Register
-
-[`appendices/01_FINAL_METRICS_REGISTER.csv`](appendices/01_FINAL_METRICS_REGISTER.csv)
+- [`03_EVIDENCE_REGISTER.md`](03_EVIDENCE_REGISTER.md) — реестр доказательств.
+- [`12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md`](12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md) — методология и ограничения.
+- [`15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md`](15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md) — QA.
+- [`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md) — P0/P1/P2.
+- [`appendices/01_FINAL_METRICS_REGISTER.csv`](appendices/01_FINAL_METRICS_REGISTER.csv) — единый metrics register.
 
 ---
 
@@ -261,92 +159,41 @@ Updated: 2026-08-05
 
 ## Блок 1. Executive diagnosis — 10 минут
 
-Документы:
-
-- Executive Summary;
-- Board-level Strategic Synthesis.
-
-Цель:
-
-- согласовать основную интерпретацию бизнеса;
-- зафиксировать, что проблема не сводится к одному расходу или одному подразделению.
+- Executive Summary.
+- Final Consulting Conclusions.
 
 ## Блок 2. Root causes and value leakage — 15 минут
 
-Документы:
-
-- Problem Tree;
+- Board-level Strategic Synthesis.
+- Problem Tree.
 - Integrated Consulting Diagnosis.
-
-Цель:
-
-- отделить симптомы от причин;
-- показать взаимозависимость ликвидности, unit-economics, запасов и governance.
 
 ## Блок 3. Strategic options and resilience — 15 минут
 
-Документы:
-
-- Strategic Options and Growth Readiness;
+- Strategic Options and Growth Readiness.
 - Scenario Stress Test.
-
-Цель:
-
-- определить допустимый тип роста;
-- согласовать риск-аппетит;
-- установить growth gates и stop conditions.
 
 ## Блок 4. Board decisions — 20 минут
 
-Документ:
-
 - Board Decision Memo.
-
-Цель:
-
-- принять решения по capital policy, unit-economics, owner flows, inventory и owners.
 
 ## Блок 5. Target state and Stage 2 — 15 минут
 
-Документы:
-
-- Target Operating Model;
-- Stage 2 Priority Map;
-- Value Creation Case;
+- Target Operating Model.
+- Value Creation Case.
 - Early Warning System.
-
-Цель:
-
-- согласовать программу дальнейшей работы;
-- определить ожидаемые управленческие результаты и систему контроля.
+- Stage 2 Priority Map.
 
 ---
 
-# 7. Что не рекомендуется включать в основной клиентский маршрут
-
-Не следует начинать встречу с:
-
-- технических reconciliation-файлов;
-- внутренних gate statuses;
-- H64–H88 документов;
-- таблиц с person-level payroll;
-- сырых банковских выгрузок;
-- неутверждённых сценариев экономии;
-- автоматических классификаций без пояснения.
-
-Эти материалы используются только как доказательная база при углублении в конкретный вопрос.
-
----
-
-# 8. Рекомендуемый итоговый формат передачи
+# 7. Рекомендуемый формат передачи
 
 ## Документ 1. Board Report
 
-Состав:
-
 - Executive Summary;
+- Final Consulting Conclusions;
 - Board-level Strategic Synthesis;
-- Strategic Options and Growth Readiness;
+- Strategic Options;
 - Board Decision Memo;
 - Target Operating Model;
 - Problem Tree;
@@ -354,18 +201,14 @@ Updated: 2026-08-05
 
 ## Документ 2. Full Diagnostic Report
 
-Состав:
-
 - основной отчёт;
 - domain conclusions;
 - Quality of Earnings;
 - Value Creation Case;
-- Scenario Stress Test;
+- Stress Test;
 - тематические приложения.
 
 ## Документ 3. Evidence Appendix
-
-Состав:
 
 - evidence register;
 - methodology;
@@ -376,10 +219,11 @@ Updated: 2026-08-05
 
 ---
 
-# 9. Статус готовности
+# 8. Статус готовности
 
 | Компонент | Статус |
 |---|---|
+| Final consulting conclusion | READY |
 | Board-level content | READY |
 | Integrated full report | READY |
 | Strategic options and growth readiness | READY |
@@ -396,6 +240,6 @@ Updated: 2026-08-05
 
 ---
 
-# 10. Итоговый принцип
+# 9. Итоговый принцип
 
-> Заказчик должен получить не доказательство того, что консультант обработал много файлов, а ясную картину того, **какие решения определяют экономическое будущее бизнеса, почему они необходимы, какие риски имеет каждый вариант и как будет измеряться результат**.
+> Заказчик должен получить ясную картину того, **какие решения определяют экономическое будущее бизнеса, почему они необходимы, какие риски имеет каждый вариант и как будет измеряться результат**.
