@@ -3,278 +3,201 @@
 ## Рекомендуемый комплект передачи заказчику по итогам Этапа 1
 
 Updated: 2026-08-05  
-Статус: **клиентская навигационная редакция после QA-2**
+Статус: **клиентская навигационная редакция после консолидации Board Report и Master Report**
 
 ---
 
-# 1. Принцип комплектации
+# 1. Принцип передачи
 
-Заказчику не следует передавать весь рабочий репозиторий как единый архив.
+Заказчику не следует передавать весь рабочий репозиторий как единый массив.
 
-Финальный пакет состоит из четырёх управляемых частей:
+Финальный пакет состоит из четырёх частей:
 
-1. **Board Report** — диагноз, зрелость, решения и последствия для собственника;
+1. **Board Report** — диагноз и решения собственника;
 2. **Full Diagnostic Report** — полный профессиональный анализ;
 3. **Stage 2 Proposal** — программа внедрения и критерии приёмки;
 4. **Evidence Appendix** — доказательства, методология, ограничения и QA.
 
-Логика клиентского маршрута:
+Логика чтения:
 
-`диагноз → maturity heatmap → системные причины → налоговая и экономическая структура → стратегические варианты → решения → target state → программа Этапа 2 → доказательство эффекта`.
+`диагноз → maturity gap → экономика сложности → финансовая архитектура → системные причины → решения → Этап 2 → доказательство эффекта`.
 
 ---
 
-# 2. Основной комплект передачи
+# 2. Основные документы
 
 ## 2.1. Board Report
 
 [`29_CLIENT_BOARD_REPORT.md`](29_CLIENT_BOARD_REPORT.md)
 
-Основной документ для собственника:
+Главный документ для собственника.
+
+Содержит:
 
 - итоговый диагноз;
-- объяснение дефицита cash при существенных поступлениях;
-- ключевые ограничения;
-- риски бездействия;
-- зоны резервов;
+- карту зрелости;
+- десять ключевых выводов;
+- объяснение дефицита cash;
+- реальные резервы;
 - решения собственника;
 - приоритеты 30/90/180 дней.
 
-## 2.2. Integrated Diagnostic Heatmap
-
-[`35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md`](35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md)
-
-Показывает:
-
-- уровень зрелости каждого блока;
-- главный разрыв;
-- экономическое последствие;
-- управленческий приоритет;
-- конкретное направление работы.
-
-## 2.3. Full Diagnostic Master Report
+## 2.2. Full Diagnostic Master Report
 
 [`28_CLIENT_DELIVERABLE_MASTER_REPORT.md`](28_CLIENT_DELIVERABLE_MASTER_REPORT.md)
 
-Содержит полный анализ финансовой модели, качества прибыли, cash, затрат, запасов, WIP, закупок, производства, каналов, управления, кадрового и налогового контура.
+Полный клиентский отчёт по всем блокам Этапа 1.
 
-## 2.4. Stage 2 Scope
+## 2.3. Stage 2 Scope
 
 [`30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md`](30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md)
 
-Определяет workstreams, deliverables, input data, acceptance criteria, KPI, owners и зависимости.
+Определяет workstreams, deliverables, KPI, owners, input data и acceptance criteria.
 
-## 2.5. Findings-to-Actions Matrix
+## 2.4. Findings-to-Actions Matrix
 
 [`31_FINDINGS_TO_ACTIONS_AND_STAGE2_TRACEABILITY_MATRIX.md`](31_FINDINGS_TO_ACTIONS_AND_STAGE2_TRACEABILITY_MATRIX.md)
 
 Связывает:
 
-`вывод Этапа 1 → доказательство → root cause → решение → deliverable Этапа 2 → KPI`.
+`вывод → доказательство → причина → решение → deliverable → KPI`.
 
 ---
 
-# 3. Board-level приложения
+# 3. Ключевые аналитические приложения
 
-## Финальное консалтинговое заключение
+## 3.1. Integrated Diagnostic Heatmap
 
-[`27_FINAL_CONSULTING_CONCLUSIONS_AND_RECOMMENDATIONS.md`](27_FINAL_CONSULTING_CONCLUSIONS_AND_RECOMMENDATIONS.md)
+[`35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md`](35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md)
 
-Формализует итоговую позицию консультанта.
+Показывает зрелость каждого контура, экономическое последствие и приоритет.
 
-## Strategic Synthesis
+## 3.2. Economics of Complexity
 
-[`20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md`](20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md)
+[`37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md`](37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md)
 
-Содержит неочевидные выводы о decision gap, качестве роста, собственнике как части operating model, запасах как капитале, failure cost и management latency.
+Показывает:
 
-## Cross-Functional Causal Synthesis
+- почему высокий чек не равен высокой прибыли;
+- как теряется маржа сложного заказа;
+- как должны работать complexity pricing, design freeze, rush premium и change orders;
+- почему необходимо учитывать bottleneck capacity и cash curve.
+
+## 3.3. Target Financial Architecture
+
+[`38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md`](38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md)
+
+Связывает:
+
+- transactions;
+- master data;
+- orders;
+- channels;
+- inventory;
+- WIP;
+- AR/AP;
+- two-contour P&L;
+- management balance;
+- cash flow;
+- tax and controls.
+
+## 3.4. Cross-Functional Causal Synthesis
 
 [`32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md`](32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md)
 
-Показывает семь циклов, воспроизводящих финансовое давление:
+Показывает семь циклов, воспроизводящих финансовое давление.
 
-1. сложность без монетизации;
-2. аванс как иллюзия свободного cash;
-3. повторное финансирование запаса;
-4. собственник как ручное казначейство;
-5. запаздывающая отчётность;
-6. formalization догоняет деятельность;
-7. смешение контуров и искажение прибыльности.
-
-## Strategic Options and Growth Readiness
-
-[`24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md`](24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md)
-
-Сравнивает Stabilization First, Controlled Couture Growth, Product/Channel Scaling и Portfolio Simplification.
-
-## Problem Tree
-
-[`21_PROBLEM_TREE_AND_TRANSFORMATION_PRIORITIZATION.md`](21_PROBLEM_TREE_AND_TRANSFORMATION_PRIORITIZATION.md)
-
-Показывает симптомы, механизмы, root causes и critical path.
-
-## Board Decision Memo
-
-[`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md)
-
-Используется для фиксации решений, trade-offs, owners и сроков.
-
-## Target Operating Model
-
-[`19_TARGET_OPERATING_MODEL.md`](19_TARGET_OPERATING_MODEL.md)
-
-Показывает целевую систему управления.
-
----
-
-# 4. Налоговый пакет
-
-## Налоговая диагностика
-
-[`07_TAX_DIAGNOSTIC.md`](07_TAX_DIAGNOSTIC.md)
-
-Фиксирует текущую структуру, полноту документов, банковскую сверку, зоны риска и ограничения.
-
-## Актуализация законодательства
-
-[`07A_TAX_LEGISLATION_UPDATE_2026-07.md`](07A_TAX_LEGISLATION_UPDATE_2026-07.md)
-
-Обновляет нормативную рамку 2026 года.
-
-## Tax Economics and Structural Assessment
+## 3.5. Tax Economics Assessment
 
 [`36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md`](36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md)
 
-Рассматривает влияние налоговой модели на:
+Оценивает влияние налоговой модели на цену, маржу, импорт, запас, cash timing и юридические контуры.
 
-- B2C/B2B цену;
-- contribution margin;
-- входной и ввозной НДС;
-- импортную landed cost;
-- авансы и cash timing;
-- оборотный капитал;
-- юридические контуры;
-- кадровые выплаты;
-- административную стоимость.
-
-Главный принцип:
-
-> оптимальная налоговая модель — не минимальная номинальная ставка, а минимальная полная экономическая стоимость при приемлемом риске и юридической защищённости.
-
----
-
-# 5. Приложения по устойчивости и эффекту
-
-## Quality of Earnings
+## 3.6. Quality of Earnings
 
 [`22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md`](22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md)
 
-Отделяет cash received, earned margin, working capital absorption и owner funding.
+Отделяет cash received, earned margin, working-capital absorption и owner funding.
 
-## Scenario Stress Test
-
-[`26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md`](26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md)
-
-Проверяет устойчивость при снижении поступлений, задержке оплат, росте стоимости материалов, перегрузке мощности, росте stock, прекращении owner funding и росте налоговой нагрузки.
-
-## Early Warning System
-
-[`25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md`](25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md)
-
-Определяет leading indicators, thresholds, владельцев и escalation.
-
-## Value Realization Roadmap
+## 3.7. Value Realization Roadmap
 
 [`33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md`](33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md)
 
-Разделяет diagnostic exposure, cash release, P&L improvement, cost avoidance, risk avoidance и capacity release. Фиксирует baseline, evidence, finance validation и no-double-count rules.
+Определяет baseline, evidence, finance validation и no-double-count rules.
 
 ---
 
-# 6. Тематические приложения
+# 4. Board-level документы
 
-- [`10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md`](10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md) — финансовая модель и затраты;
-- [`06_CASH_FLOW_AND_LIQUIDITY.md`](06_CASH_FLOW_AND_LIQUIDITY.md) — денежный поток и ликвидность;
-- [`05_WORKING_CAPITAL_AND_INVENTORY.md`](05_WORKING_CAPITAL_AND_INVENTORY.md) — запасы и оборотный капитал;
-- [`08_PROCESSES_MANAGEMENT_REPORTING.md`](08_PROCESSES_MANAGEMENT_REPORTING.md) — процессы и отчётность;
-- [`11_RISK_AND_RESERVE_MATRIX.md`](11_RISK_AND_RESERVE_MATRIX.md) — риски и резервы;
-- [`04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md`](04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md) — финансовые ограничения и причины.
-
----
-
-# 7. Evidence Appendix
-
-- [`03_EVIDENCE_REGISTER.md`](03_EVIDENCE_REGISTER.md) — реестр доказательств;
-- [`12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md`](12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md) — методология и ограничения;
-- [`15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md`](15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md) — QA-2;
-- [`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md) — P0/P1/P2;
-- [`34_FINAL_FREEZE_AND_CLIENT_RELEASE_PROTOCOL.md`](34_FINAL_FREEZE_AND_CLIENT_RELEASE_PROTOCOL.md) — release protocol;
-- [`appendices/01_FINAL_METRICS_REGISTER.csv`](appendices/01_FINAL_METRICS_REGISTER.csv) — metrics register.
+- [`27_FINAL_CONSULTING_CONCLUSIONS_AND_RECOMMENDATIONS.md`](27_FINAL_CONSULTING_CONCLUSIONS_AND_RECOMMENDATIONS.md)
+- [`20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md`](20_BOARD_LEVEL_STRATEGIC_SYNTHESIS.md)
+- [`24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md`](24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md)
+- [`21_PROBLEM_TREE_AND_TRANSFORMATION_PRIORITIZATION.md`](21_PROBLEM_TREE_AND_TRANSFORMATION_PRIORITIZATION.md)
+- [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md)
+- [`19_TARGET_OPERATING_MODEL.md`](19_TARGET_OPERATING_MODEL.md)
+- [`25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md`](25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md)
+- [`26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md`](26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md)
 
 ---
 
-# 8. Рекомендуемый порядок итоговой встречи
+# 5. Тематические приложения
+
+- [`10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md`](10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md)
+- [`06_CASH_FLOW_AND_LIQUIDITY.md`](06_CASH_FLOW_AND_LIQUIDITY.md)
+- [`05_WORKING_CAPITAL_AND_INVENTORY.md`](05_WORKING_CAPITAL_AND_INVENTORY.md)
+- [`08_PROCESSES_MANAGEMENT_REPORTING.md`](08_PROCESSES_MANAGEMENT_REPORTING.md)
+- [`07_TAX_DIAGNOSTIC.md`](07_TAX_DIAGNOSTIC.md)
+- [`07A_TAX_LEGISLATION_UPDATE_2026-07.md`](07A_TAX_LEGISLATION_UPDATE_2026-07.md)
+- [`11_RISK_AND_RESERVE_MATRIX.md`](11_RISK_AND_RESERVE_MATRIX.md)
+- [`04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md`](04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md)
+
+---
+
+# 6. Evidence Appendix
+
+- [`03_EVIDENCE_REGISTER.md`](03_EVIDENCE_REGISTER.md)
+- [`12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md`](12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md)
+- [`15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md`](15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md)
+- [`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md)
+- [`34_FINAL_FREEZE_AND_CLIENT_RELEASE_PROTOCOL.md`](34_FINAL_FREEZE_AND_CLIENT_RELEASE_PROTOCOL.md)
+- [`appendices/01_FINAL_METRICS_REGISTER.csv`](appendices/01_FINAL_METRICS_REGISTER.csv)
+
+---
+
+# 7. Рекомендуемый порядок итоговой встречи
 
 ## Блок 1. Executive diagnosis — 10 минут
 
-Документы:
+- Board Report.
 
-- Board Report;
-- Diagnostic Heatmap.
+## Блок 2. Maturity gap and economics of complexity — 20 минут
 
-Цель: согласовать реальное состояние бизнеса и отделить продуктовую силу от зрелости экономического управления.
+- Integrated Diagnostic Heatmap;
+- Economics of Complexity.
 
-## Блок 2. Причины воспроизводства проблемы — 15 минут
+## Блок 3. Финансовая причинная модель — 20 минут
 
-Документы:
-
+- Target Financial Architecture;
 - Cross-Functional Causal Synthesis;
-- Problem Tree.
+- Quality of Earnings.
 
-Цель: показать, почему разовые меры не дают устойчивого результата.
-
-## Блок 3. Финансовая и налоговая экономика — 15 минут
-
-Документы:
-
-- Quality of Earnings;
-- Tax Economics and Structural Assessment.
-
-Цель: показать разницу между поступлением, прибылью, свободным cash и полной стоимостью налоговой модели.
-
-## Блок 4. Стратегические варианты — 15 минут
-
-Документы:
+## Блок 4. Strategic options and decisions — 20 минут
 
 - Strategic Options;
-- Stress Test.
+- Board Decision Memo;
+- Target Operating Model.
 
-Цель: определить допустимый тип роста и risk appetite.
-
-## Блок 5. Board decisions — 20 минут
-
-Документ:
-
-- Board Decision Memo.
-
-Цель: утвердить capital policy, unit economics, inventory governance, owner flows, tax scenario review и owners.
-
-## Блок 6. Этап 2 и эффект — 20 минут
-
-Документы:
+## Блок 5. Stage 2 and benefits — 20 минут
 
 - Stage 2 Scope;
-- Traceability Matrix;
+- Findings-to-Actions Matrix;
 - Value Realization Roadmap.
-
-Цель: согласовать deliverables, acceptance criteria и правила доказательства эффекта.
 
 ---
 
-# 9. Что не следует включать в основной клиентский архив
+# 8. Что не включать в основной клиентский архив
 
-Без отдельного согласования не включать:
+Без отдельного согласования не передавать:
 
 - сырые банковские выписки;
 - person-level payroll;
@@ -282,24 +205,22 @@ Updated: 2026-08-05
 - личные операции собственника;
 - налоговые идентификаторы;
 - forensic working files;
-- технические H-серии без клиентского пояснения;
-- автоматические классификации без проверки;
+- технические H-серии без пояснения;
 - неподтверждённые сценарии экономии.
 
 ---
 
-# 10. Статус готовности
+# 9. Статус готовности
 
 | Компонент | Статус |
 |---|---|
 | Board Report | CLIENT CONTENT READY |
-| Diagnostic Heatmap | READY |
 | Full Master Report | CLIENT CONTENT READY |
+| Order Economics Assessment | READY |
+| Target Financial Architecture | READY |
 | Tax Economics Assessment | READY |
 | Stage 2 Scope | CLIENT CONTENT READY |
 | Traceability Matrix | READY |
-| Strategic and causal synthesis | READY |
-| Value Realization Roadmap | READY |
 | QA-2 | COMPLETE |
 | Numerical freeze | P0 OPEN |
 | Privacy review | OPEN |
@@ -309,6 +230,6 @@ Updated: 2026-08-05
 
 ---
 
-# 11. Итоговый принцип
+# 10. Итоговый принцип
 
-> Заказчик должен получить ясную позицию: **какая система создаёт финансовое давление, на каком уровне зрелости находится каждый контур, как налоговая структура влияет на экономику, какие решения разрывают причинные циклы и какой результат должен быть построен на Этапе 2.**
+> Заказчик должен получить не список недостатков, а ясный ответ: **какая система создаёт финансовое давление, почему высокий оборот не гарантирует прибыль, где находится капитал, какие решения должен принять собственник и как будет доказан результат Этапа 2.**
