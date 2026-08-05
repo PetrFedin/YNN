@@ -1,7 +1,7 @@
 # Финальный пакет Этапа 1 — комплексная диагностика бизнеса YANINA
 
 Updated: 2026-08-05  
-Статус: **Board Report и Master Report консолидированы; numerical freeze, privacy review и copyedit остаются P0**
+Статус: **Board Report, Master Report и клиентская decision architecture сформированы; numerical freeze, privacy review и copyedit остаются P0**
 
 > Пакет является комплексной управленческой диагностикой. Он не является аудиторским заключением, бухгалтерским P&L, юридическим налоговым аудитом или подтверждением гарантированной суммы экономии.
 
@@ -35,7 +35,7 @@ Updated: 2026-08-05
 
 - итоговый диагноз;
 - maturity gap;
-- десять ключевых выводов;
+- ключевые выводы;
 - причины дефицита cash;
 - реальные резервы;
 - решения собственника;
@@ -86,15 +86,17 @@ Updated: 2026-08-05
 
 1. [`29_CLIENT_BOARD_REPORT.md`](29_CLIENT_BOARD_REPORT.md) — основной управленческий вывод.
 2. [`35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md`](35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md) — карта зрелости и приоритетов.
-3. [`37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md`](37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md) — почему высокий чек не гарантирует маржу.
-4. [`38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md`](38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md) — целевая финансовая модель.
-5. [`32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md`](32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md) — системные причинные циклы.
-6. [`36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md`](36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md) — налоговая экономика.
-7. [`24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md`](24_STRATEGIC_OPTIONS_AND_GROWTH_READINESS.md) — варианты развития.
-8. [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md) — решения собственника.
-9. [`19_TARGET_OPERATING_MODEL.md`](19_TARGET_OPERATING_MODEL.md) — target operating model.
-10. [`30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md`](30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md) — Этап 2.
-11. [`33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md`](33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md) — подтверждение эффекта.
+3. [`17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md`](17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md) — профессиональные выводы по каждому блоку: факт, интерпретация, последствие, риск и работа Этапа 2.
+4. [`37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md`](37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md) — почему высокий чек не гарантирует маржу.
+5. [`38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md`](38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md) — целевая финансовая модель.
+6. [`32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md`](32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md) — системные причинные циклы.
+7. [`36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md`](36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md) — налоговая экономика.
+8. [`39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md`](39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md) — решения now/pilot/later/avoid и decision gates.
+9. [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md) — управленческие развилки и trade-offs.
+10. [`19_TARGET_OPERATING_MODEL.md`](19_TARGET_OPERATING_MODEL.md) — target operating model.
+11. [`30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md`](30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md) — Этап 2.
+12. [`33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md`](33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md) — подтверждение эффекта.
+13. [`40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md`](40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md) — протокол итоговой встречи и принятия решений.
 
 ---
 
@@ -102,12 +104,15 @@ Updated: 2026-08-05
 
 | Документ | Предмет |
 |---|---|
+| `17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md` | единая клиентская матрица по всем блокам диагностики |
 | `35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md` | уровень зрелости каждого управленческого контура |
 | `37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md` | экономика сложности и индивидуального заказа |
 | `38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md` | связь P&L, balance, cash, WIP, orders and tax |
 | `36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md` | полная налогово-экономическая стоимость модели |
 | `32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md` | циклы, воспроизводящие финансовое давление |
 | `22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md` | качество прибыли и cash conversion |
+| `39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md` | срочность, доказательность и обратимость решений |
+| `40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md` | итоговая встреча, decision log и условия открытия Этапа 2 |
 | `26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md` | устойчивость к стресс-сценариям |
 | `25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md` | leading indicators and escalation |
 | `33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md` | benefit governance and no-double-count |
@@ -177,6 +182,7 @@ Updated: 2026-08-05
 12. Tax scenario assessment.
 13. Methodology freeze before automation.
 14. Growth readiness gate before scaling.
+15. Evidence-based benefit recognition.
 
 ---
 
@@ -199,4 +205,4 @@ Updated: 2026-08-05
 
 # 10. Итоговый принцип
 
-> Финальный пакет должен показать не объём обработанных файлов, а качество управленческого ответа: **где бизнес теряет стоимость, почему проблема воспроизводится, какие решения разрывают причинный цикл и как будет доказан результат Этапа 2.**
+> Финальный пакет должен показать не объём обработанных файлов, а качество управленческого ответа: **где бизнес теряет стоимость, почему проблема воспроизводится, какие решения можно принять сейчас, какие требуют пилота и как будет доказан результат Этапа 2.**
