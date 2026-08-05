@@ -3,7 +3,7 @@
 ## Рекомендуемый комплект передачи заказчику по итогам Этапа 1
 
 Updated: 2026-08-05  
-Статус: **клиентская навигационная редакция после консолидации Board Report и Master Report**
+Статус: **клиентская навигационная редакция после консолидации выводов и decision architecture**
 
 ---
 
@@ -20,7 +20,7 @@ Updated: 2026-08-05
 
 Логика чтения:
 
-`диагноз → maturity gap → экономика сложности → финансовая архитектура → системные причины → решения → Этап 2 → доказательство эффекта`.
+`диагноз → maturity gap → профессиональные выводы по блокам → экономика сложности → финансовая архитектура → системные причины → решения → Этап 2 → доказательство эффекта`.
 
 ---
 
@@ -36,7 +36,7 @@ Updated: 2026-08-05
 
 - итоговый диагноз;
 - карту зрелости;
-- десять ключевых выводов;
+- ключевые выводы;
 - объяснение дефицита cash;
 - реальные резервы;
 - решения собственника;
@@ -66,13 +66,25 @@ Updated: 2026-08-05
 
 # 3. Ключевые аналитические приложения
 
-## 3.1. Integrated Diagnostic Heatmap
+## 3.1. Domain-Level Consulting Conclusions
+
+[`17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md`](17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md)
+
+Единая клиентская матрица по каждому блоку:
+
+- что подтверждено;
+- что это означает;
+- экономическое последствие;
+- риск бездействия;
+- с чем работать на Этапе 2.
+
+## 3.2. Integrated Diagnostic Heatmap
 
 [`35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md`](35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md)
 
 Показывает зрелость каждого контура, экономическое последствие и приоритет.
 
-## 3.2. Economics of Complexity
+## 3.3. Economics of Complexity
 
 [`37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md`](37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md)
 
@@ -83,7 +95,7 @@ Updated: 2026-08-05
 - как должны работать complexity pricing, design freeze, rush premium и change orders;
 - почему необходимо учитывать bottleneck capacity и cash curve.
 
-## 3.3. Target Financial Architecture
+## 3.4. Target Financial Architecture
 
 [`38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md`](38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md)
 
@@ -101,25 +113,38 @@ Updated: 2026-08-05
 - cash flow;
 - tax and controls.
 
-## 3.4. Cross-Functional Causal Synthesis
+## 3.5. Cross-Functional Causal Synthesis
 
 [`32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md`](32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md)
 
 Показывает семь циклов, воспроизводящих финансовое давление.
 
-## 3.5. Tax Economics Assessment
+## 3.6. Tax Economics Assessment
 
 [`36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md`](36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md)
 
 Оценивает влияние налоговой модели на цену, маржу, импорт, запас, cash timing и юридические контуры.
 
-## 3.6. Quality of Earnings
+## 3.7. Executive Priority Matrix
+
+[`39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md`](39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md)
+
+Отделяет:
+
+- решения, которые можно утвердить немедленно;
+- направления для ограниченного пилота;
+- необратимые решения, требующие дополнительного доказательства;
+- действия, которые не следует предпринимать в текущем виде.
+
+Также определяет Data, Economic, Operational и Benefit Gates.
+
+## 3.8. Quality of Earnings
 
 [`22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md`](22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md)
 
 Отделяет cash received, earned margin, working-capital absorption и owner funding.
 
-## 3.7. Value Realization Roadmap
+## 3.9. Value Realization Roadmap
 
 [`33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md`](33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md)
 
@@ -166,32 +191,42 @@ Updated: 2026-08-05
 
 # 7. Рекомендуемый порядок итоговой встречи
 
-## Блок 1. Executive diagnosis — 10 минут
+Основной протокол:
+
+[`40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md`](40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md)
+
+## Блок 1. Executive diagnosis — 15 минут
 
 - Board Report.
 
-## Блок 2. Maturity gap and economics of complexity — 20 минут
+## Блок 2. Maturity gap and domain conclusions — 20 минут
 
 - Integrated Diagnostic Heatmap;
-- Economics of Complexity.
+- Domain-Level Consulting Conclusions.
 
-## Блок 3. Финансовая причинная модель — 20 минут
+## Блок 3. Economics of complexity and financial architecture — 25 минут
 
+- Economics of Complexity;
 - Target Financial Architecture;
-- Cross-Functional Causal Synthesis;
 - Quality of Earnings.
 
-## Блок 4. Strategic options and decisions — 20 минут
+## Блок 4. Systemic causes and priorities — 20 минут
 
-- Strategic Options;
+- Cross-Functional Causal Synthesis;
+- Executive Priority Matrix;
+- Strategic Options.
+
+## Блок 5. Decisions and Stage 2 — 25 минут
+
 - Board Decision Memo;
-- Target Operating Model.
-
-## Блок 5. Stage 2 and benefits — 20 минут
-
 - Stage 2 Scope;
 - Findings-to-Actions Matrix;
 - Value Realization Roadmap.
+
+## Блок 6. Decision log and acceptance — 15 минут
+
+- Workshop Protocol;
+- Final Freeze Protocol.
 
 ---
 
@@ -216,8 +251,11 @@ Updated: 2026-08-05
 |---|---|
 | Board Report | CLIENT CONTENT READY |
 | Full Master Report | CLIENT CONTENT READY |
+| Domain-Level Conclusions | FINAL CONTENT READY |
 | Order Economics Assessment | READY |
 | Target Financial Architecture | READY |
+| Executive Priority Matrix | READY |
+| Final Workshop Protocol | READY |
 | Tax Economics Assessment | READY |
 | Stage 2 Scope | CLIENT CONTENT READY |
 | Traceability Matrix | READY |
@@ -232,4 +270,4 @@ Updated: 2026-08-05
 
 # 10. Итоговый принцип
 
-> Заказчик должен получить не список недостатков, а ясный ответ: **какая система создаёт финансовое давление, почему высокий оборот не гарантирует прибыль, где находится капитал, какие решения должен принять собственник и как будет доказан результат Этапа 2.**
+> Заказчик должен получить не список недостатков, а ясный ответ: **какая система создаёт финансовое давление, почему высокий оборот не гарантирует прибыль, где находится капитал, какие решения можно принять уже сейчас, какие требуют пилота и как будет доказан результат Этапа 2.**
