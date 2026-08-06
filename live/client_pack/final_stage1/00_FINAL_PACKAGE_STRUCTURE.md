@@ -1,7 +1,7 @@
 # Финальный пакет Этапа 1 — комплексная диагностика бизнеса YANINA
 
-Updated: 2026-08-05  
-Статус: **Board Report, Master Report и клиентская decision architecture сформированы; numerical freeze, privacy review и copyedit остаются P0**
+Updated: 2026-08-06  
+Статус: **Board Report, Master Report, financial impact bridge и client decision architecture сформированы; numerical freeze, privacy review и copyedit остаются P0**
 
 > Пакет является комплексной управленческой диагностикой. Он не является аудиторским заключением, бухгалтерским P&L, юридическим налоговым аудитом или подтверждением гарантированной суммы экономии.
 
@@ -14,7 +14,7 @@ Updated: 2026-08-05
 Ключевой разрыв находится между высокой продуктовой и коммерческой зрелостью и недостаточной зрелостью:
 
 - unit-экономики заказа;
-- monetization of complexity;
+- монетизации сложности;
 - управления мощностью и WIP;
 - закупок и оборотного капитала;
 - cash architecture и owner flows;
@@ -35,7 +35,6 @@ Updated: 2026-08-05
 
 - итоговый диагноз;
 - maturity gap;
-- ключевые выводы;
 - причины дефицита cash;
 - реальные резервы;
 - решения собственника;
@@ -47,20 +46,7 @@ Updated: 2026-08-05
 
 [`28_CLIENT_DELIVERABLE_MASTER_REPORT.md`](28_CLIENT_DELIVERABLE_MASTER_REPORT.md)
 
-Полный клиентский отчёт:
-
-- финансовая модель;
-- экономика сложности;
-- качество прибыли;
-- cash and liquidity;
-- затраты;
-- запасы и WIP;
-- закупки и производство;
-- каналы;
-- отчётность и governance;
-- people and payments;
-- tax economics;
-- risks, reserves and Stage 2.
+Полный клиентский отчёт по всем блокам диагностики.
 
 Статус: **CLIENT CONTENT READY**.
 
@@ -71,7 +57,7 @@ Updated: 2026-08-05
 
 Статус: **CLIENT CONTENT READY**.
 
-## D. Evidence Appendix
+## D. Evidence and Release Appendix
 
 - [`03_EVIDENCE_REGISTER.md`](03_EVIDENCE_REGISTER.md)
 - [`12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md`](12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md)
@@ -86,17 +72,19 @@ Updated: 2026-08-05
 
 1. [`29_CLIENT_BOARD_REPORT.md`](29_CLIENT_BOARD_REPORT.md) — основной управленческий вывод.
 2. [`35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md`](35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md) — карта зрелости и приоритетов.
-3. [`17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md`](17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md) — профессиональные выводы по каждому блоку: факт, интерпретация, последствие, риск и работа Этапа 2.
-4. [`37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md`](37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md) — почему высокий чек не гарантирует маржу.
-5. [`38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md`](38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md) — целевая финансовая модель.
-6. [`32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md`](32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md) — системные причинные циклы.
-7. [`36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md`](36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md) — налоговая экономика.
-8. [`39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md`](39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md) — решения now/pilot/later/avoid и decision gates.
-9. [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md) — управленческие развилки и trade-offs.
-10. [`19_TARGET_OPERATING_MODEL.md`](19_TARGET_OPERATING_MODEL.md) — target operating model.
-11. [`30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md`](30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md) — Этап 2.
-12. [`33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md`](33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md) — подтверждение эффекта.
-13. [`40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md`](40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md) — протокол итоговой встречи и принятия решений.
+3. [`17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md`](17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md) — профессиональные выводы по каждому блоку.
+4. [`41_FINANCIAL_IMPACT_BRIDGE_AND_VALUE_LEAKAGE_MAP.md`](41_FINANCIAL_IMPACT_BRIDGE_AND_VALUE_LEAKAGE_MAP.md) — как операционные дефекты переходят в P&L, баланс, cash и налоговую нагрузку.
+5. [`37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md`](37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md) — почему высокий чек не гарантирует маржу.
+6. [`38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md`](38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md) — целевая финансовая архитектура.
+7. [`32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md`](32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md) — системные причинные циклы.
+8. [`36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md`](36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md) — налоговая экономика.
+9. [`11_RISK_AND_RESERVE_MATRIX.md`](11_RISK_AND_RESERVE_MATRIX.md) — risk-adjusted portfolio рисков и резервов.
+10. [`39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md`](39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md) — решения now/pilot/later/avoid.
+11. [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md) — управленческие развилки и trade-offs.
+12. [`30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md`](30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md) — Этап 2.
+13. [`33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md`](33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md) — подтверждение эффекта.
+14. [`40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md`](40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md) — итоговая встреча.
+15. [`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md) — P0 Closure Board перед release.
 
 ---
 
@@ -104,35 +92,22 @@ Updated: 2026-08-05
 
 | Документ | Предмет |
 |---|---|
-| `17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md` | единая клиентская матрица по всем блокам диагностики |
+| `17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md` | факт → интерпретация → последствие → риск → Stage 2 |
 | `35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md` | уровень зрелости каждого управленческого контура |
+| `41_FINANCIAL_IMPACT_BRIDGE_AND_VALUE_LEAKAGE_MAP.md` | маршрут value leakage через P&L, balance, cash and tax |
 | `37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md` | экономика сложности и индивидуального заказа |
 | `38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md` | связь P&L, balance, cash, WIP, orders and tax |
 | `36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md` | полная налогово-экономическая стоимость модели |
+| `11_RISK_AND_RESERVE_MATRIX.md` | risk-adjusted portfolio эффектов и рисков неправильного решения |
 | `32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md` | циклы, воспроизводящие финансовое давление |
 | `22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md` | качество прибыли и cash conversion |
 | `39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md` | срочность, доказательность и обратимость решений |
-| `40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md` | итоговая встреча, decision log и условия открытия Этапа 2 |
-| `26_SCENARIO_STRESS_TEST_AND_BUSINESS_RESILIENCE.md` | устойчивость к стресс-сценариям |
-| `25_EARLY_WARNING_AND_MANAGEMENT_CONTROL_SYSTEM.md` | leading indicators and escalation |
+| `13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md` | формальный P0 Closure Board и fallback wording |
 | `33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md` | benefit governance and no-double-count |
 
 ---
 
-# 5. Тематические диагностические разделы
-
-- [`10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md`](10_FINANCIAL_MODEL_AND_COST_STRUCTURE.md)
-- [`06_CASH_FLOW_AND_LIQUIDITY.md`](06_CASH_FLOW_AND_LIQUIDITY.md)
-- [`05_WORKING_CAPITAL_AND_INVENTORY.md`](05_WORKING_CAPITAL_AND_INVENTORY.md)
-- [`08_PROCESSES_MANAGEMENT_REPORTING.md`](08_PROCESSES_MANAGEMENT_REPORTING.md)
-- [`07_TAX_DIAGNOSTIC.md`](07_TAX_DIAGNOSTIC.md)
-- [`07A_TAX_LEGISLATION_UPDATE_2026-07.md`](07A_TAX_LEGISLATION_UPDATE_2026-07.md)
-- [`11_RISK_AND_RESERVE_MATRIX.md`](11_RISK_AND_RESERVE_MATRIX.md)
-- [`04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md`](04_FINANCIAL_CONSTRAINTS_AND_ROOT_CAUSES.md)
-
----
-
-# 6. Подтверждённые headline facts
+# 5. Подтверждённые headline facts
 
 - индивидуальный пошив — главный доходный контур, около 83–84% используемого доходного периметра;
 - полного P&L компании пока нет;
@@ -148,7 +123,7 @@ Updated: 2026-08-05
 
 ---
 
-# 7. Что пакет не утверждает
+# 6. Что пакет не утверждает
 
 Без дополнительного подтверждения нельзя заявлять:
 
@@ -166,7 +141,7 @@ Updated: 2026-08-05
 
 ---
 
-# 8. Главные решения собственника
+# 7. Главные решения собственника
 
 1. Заказ — единица прибыли bespoke-контура.
 2. Complexity pricing, design freeze and change-order policy.
@@ -186,23 +161,27 @@ Updated: 2026-08-05
 
 ---
 
-# 9. P0 перед FINAL CONTENT
+# 8. P0 перед FINAL CONTENT
 
-1. Интеграция и дедупликация банковского intake.
-2. Transaction-level net owner cash flow.
-3. Единая дата среза и periods freeze.
-4. Подтверждение denominator доли 83–84%.
-5. Подтверждение единиц исторической модели.
-6. НДС Q2 2026, РСВ Q2 2026 и ЕНС — получить либо раскрыть limitation.
-7. Document-level closure B2B open.
-8. Проверка оснований HR/payments.
-9. Обновление Final Metrics Register.
-10. Privacy review.
-11. Copyedit.
-12. Cross-document number scan.
+Единственным контрольным источником является:
+
+[`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md)
+
+Критические направления:
+
+- bank deduplication;
+- transaction-level net owner cash flow;
+- единый cut-off и Final Metrics Register;
+- подтверждение bespoke denominator и model units;
+- НДС/RСВ Q2 2026 и ЕНС либо disclosed limitation;
+- B2B document closure;
+- HR/payment basis;
+- privacy review;
+- copyedit;
+- cross-document numerical scan.
 
 ---
 
-# 10. Итоговый принцип
+# 9. Итоговый принцип
 
-> Финальный пакет должен показать не объём обработанных файлов, а качество управленческого ответа: **где бизнес теряет стоимость, почему проблема воспроизводится, какие решения можно принять сейчас, какие требуют пилота и как будет доказан результат Этапа 2.**
+> Финальный пакет должен показать не объём обработанных файлов, а качество управленческого ответа: **где бизнес теряет стоимость, через какую финансовую строку возникает ущерб, какие решения можно принять сейчас, какие требуют пилота и как будет доказан результат Этапа 2.**
