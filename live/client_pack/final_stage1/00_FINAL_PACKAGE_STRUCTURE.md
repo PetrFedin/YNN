@@ -1,187 +1,160 @@
-# Финальный пакет Этапа 1 — комплексная диагностика бизнеса YANINA
+# Финальный пакет Этапа 1 — комплексная диагностика YANINA
 
-Updated: 2026-08-06  
-Статус: **Board Report, Master Report, financial impact bridge и client decision architecture сформированы; numerical freeze, privacy review и copyedit остаются P0**
+Updated: 2026-08-07  
+Статус: **FINAL CLIENT RELEASE CONTROL CLOSED — 12 из 12 P0 закрыты**
 
-> Пакет является комплексной управленческой диагностикой. Он не является аудиторским заключением, бухгалтерским P&L, юридическим налоговым аудитом или подтверждением гарантированной суммы экономии.
+> Этап 1 — комплексная диагностика и проектирование целевой модели. Пакет является управленческой диагностикой и не является аудиторским заключением, бухгалтерским P&L или юридическим налоговым аудитом.
 
 ---
 
 # 1. Главный диагноз
 
-> **YANINA создаёт сильную клиентскую и продуктовую ценность, но действующая система управления не обеспечивает её устойчивого преобразования в подтверждённую маржу, возврат капитала и свободный денежный поток.**
+> **YANINA создаёт сильную клиентскую и продуктовую ценность, но экономическая и управленческая инфраструктура не обеспечивает её устойчивого преобразования в подтверждённую маржу, возврат капитала и свободный денежный поток.**
 
-Ключевой разрыв находится между высокой продуктовой и коммерческой зрелостью и недостаточной зрелостью:
+Ключевой разрыв находится не в отсутствии спроса, а между сложностью фактического бизнеса и зрелостью системы, которая должна связывать:
 
-- unit-экономики заказа;
-- монетизации сложности;
-- управления мощностью и WIP;
-- закупок и оборотного капитала;
-- cash architecture и owner flows;
-- двухконтурной финансовой модели;
-- end-to-end accountability;
-- управленческой отчётности;
-- кадрового и налогового formalization.
+`заказ → цену → сложность → материал → мощность → незавершённое производство → налог → ОПУ → оборотный капитал → денежный поток`.
 
 ---
 
-# 2. Официальные client deliverables
+# 2. Официальные клиентские документы
 
-## A. Board Report
+## 1. Отчёт для собственника
 
 [`29_CLIENT_BOARD_REPORT.md`](29_CLIENT_BOARD_REPORT.md)
 
-Документ для собственника и руководства:
+Содержит:
 
-- итоговый диагноз;
-- maturity gap;
-- причины дефицита cash;
-- реальные резервы;
+- главный диагноз;
+- доказательную опору ключевых цифр;
+- объяснение, почему оборот не равен прибыли;
+- механизм кассового давления;
+- анализ сложности, затрат, запасов, WIP, закупок, каналов, HR и налогов;
 - решения собственника;
-- приоритеты 30/90/180 дней.
+- приоритеты 0–30 / 31–90 / 90–180 дней.
 
-Статус: **CLIENT CONTENT READY**.
+Статус: **CLIENT CONTENT FROZEN WITH DISCLOSED LIMITATIONS**.
 
-## B. Full Diagnostic Master Report
+## 2. Полный диагностический отчёт
 
 [`28_CLIENT_DELIVERABLE_MASTER_REPORT.md`](28_CLIENT_DELIVERABLE_MASTER_REPORT.md)
 
-Полный клиентский отчёт по всем блокам диагностики.
+Полный доказательный отчёт по всем блокам диагностики с логикой:
 
-Статус: **CLIENT CONTENT READY**.
+`факт → доказательство → интерпретация → первопричина → финансовое следствие → риск бездействия → решение → критерий результата`.
 
-## C. Stage 2 Proposal
+Статус: **CLIENT CONTENT FROZEN WITH DISCLOSED LIMITATIONS**.
 
-- [`30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md`](30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md)
-- [`31_FINDINGS_TO_ACTIONS_AND_STAGE2_TRACEABILITY_MATRIX.md`](31_FINDINGS_TO_ACTIONS_AND_STAGE2_TRACEABILITY_MATRIX.md)
+## 3. Доказательная база и контроль P0
 
-Статус: **CLIENT CONTENT READY**.
-
-## D. Evidence and Release Appendix
-
+- [`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md)
+- [`appendices/01_FINAL_METRICS_REGISTER.csv`](appendices/01_FINAL_METRICS_REGISTER.csv)
 - [`03_EVIDENCE_REGISTER.md`](03_EVIDENCE_REGISTER.md)
 - [`12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md`](12_METHODOLOGY_DATA_QUALITY_AND_LIMITATIONS.md)
-- [`15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md`](15_CONTENT_QA_AND_CONSISTENCY_REVIEW.md)
-- [`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md)
-- [`34_FINAL_FREEZE_AND_CLIENT_RELEASE_PROTOCOL.md`](34_FINAL_FREEZE_AND_CLIENT_RELEASE_PROTOCOL.md)
-- [`appendices/01_FINAL_METRICS_REGISTER.csv`](appendices/01_FINAL_METRICS_REGISTER.csv)
+
+Статус: **12/12 P0 CLOSED FOR CLIENT RELEASE**.
+
+## 4. Программа Этапа 2
+
+[`30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md`](30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md)
+
+Этап 2 определяется как:
+
+**внедрение, пилотирование и подтверждение эффекта**.
+
+Он включает:
+
+- казначейство и 13-недельный прогноз;
+- двухконтурный ОПУ и управленческий баланс;
+- пилот экономики 20–30 индивидуальных заказов;
+- WIP и мощность;
+- запасы и оборотный капитал;
+- закупки;
+- канальную экономику;
+- D+10 и data governance;
+- кадрово-платёжный реестр;
+- налоговые сценарии;
+- benefit tracking.
 
 ---
 
-# 3. Рекомендуемый маршрут собственника
+# 3. Единая терминология
 
-1. [`29_CLIENT_BOARD_REPORT.md`](29_CLIENT_BOARD_REPORT.md) — основной управленческий вывод.
-2. [`35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md`](35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md) — карта зрелости и приоритетов.
-3. [`17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md`](17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md) — профессиональные выводы по каждому блоку.
-4. [`41_FINANCIAL_IMPACT_BRIDGE_AND_VALUE_LEAKAGE_MAP.md`](41_FINANCIAL_IMPACT_BRIDGE_AND_VALUE_LEAKAGE_MAP.md) — как операционные дефекты переходят в P&L, баланс, cash и налоговую нагрузку.
-5. [`37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md`](37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md) — почему высокий чек не гарантирует маржу.
-6. [`38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md`](38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md) — целевая финансовая архитектура.
-7. [`32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md`](32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md) — системные причинные циклы.
-8. [`36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md`](36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md) — налоговая экономика.
-9. [`11_RISK_AND_RESERVE_MATRIX.md`](11_RISK_AND_RESERVE_MATRIX.md) — risk-adjusted portfolio рисков и резервов.
-10. [`39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md`](39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md) — решения now/pilot/later/avoid.
-11. [`14_MANAGEMENT_DECISION_AGENDA.md`](14_MANAGEMENT_DECISION_AGENDA.md) — управленческие развилки и trade-offs.
-12. [`30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md`](30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md) — Этап 2.
-13. [`33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md`](33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md) — подтверждение эффекта.
-14. [`40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md`](40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md) — итоговая встреча.
-15. [`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md) — P0 Closure Board перед release.
+Контрольный документ:
+
+[`43_CONTRACT_SCOPE_ALIGNMENT_AND_DELIVERABLE_COVERAGE.md`](43_CONTRACT_SCOPE_ALIGNMENT_AND_DELIVERABLE_COVERAGE.md)
+
+Во всех клиентских материалах используются только определения:
+
+- **Этап 1 — комплексная диагностика и проектирование целевой модели**;
+- **Этап 2 — внедрение, пилотирование и подтверждение эффекта**.
+
+Такой подход согласует финальный пакет с фактически выполненным диагностическим периметром и исходным коммерческим предложением.
 
 ---
 
-# 4. Ключевые профессиональные приложения
+# 4. Ключевые диагностические факты
 
-| Документ | Предмет |
-|---|---|
-| `17_DOMAIN_LEVEL_CONSULTING_CONCLUSIONS.md` | факт → интерпретация → последствие → риск → Stage 2 |
-| `35_INTEGRATED_DIAGNOSTIC_HEATMAP_AND_MANAGEMENT_PRIORITIES.md` | уровень зрелости каждого управленческого контура |
-| `41_FINANCIAL_IMPACT_BRIDGE_AND_VALUE_LEAKAGE_MAP.md` | маршрут value leakage через P&L, balance, cash and tax |
-| `37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md` | экономика сложности и индивидуального заказа |
-| `38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md` | связь P&L, balance, cash, WIP, orders and tax |
-| `36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md` | полная налогово-экономическая стоимость модели |
-| `11_RISK_AND_RESERVE_MATRIX.md` | risk-adjusted portfolio эффектов и рисков неправильного решения |
-| `32_CROSS_FUNCTIONAL_CAUSAL_SYNTHESIS.md` | циклы, воспроизводящие финансовое давление |
-| `22_QUALITY_OF_EARNINGS_AND_CASH_CONVERSION.md` | качество прибыли и cash conversion |
-| `39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md` | срочность, доказательность и обратимость решений |
-| `13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md` | формальный P0 Closure Board и fallback wording |
-| `33_VALUE_REALIZATION_ROADMAP_AND_BENEFIT_GOVERNANCE.md` | benefit governance and no-double-count |
+Клиентская интерпретация всех цифр регулируется Финальным реестром метрик.
 
----
+В частности:
 
-# 5. Подтверждённые headline facts
+- индивидуальный пошив — около 84% доступного управленческого доходного периметра;
+- модельный объём bespoke/salon 2025 — около 232,6 млн ₽ при техническом EUR/RUB 100;
+- товарная выручка с подтверждённой себестоимостью 2025 — около 72,9 млн ₽;
+- базовый банковский регистр — 4 933 операции;
+- matched fabric inventory — около 29,9 млн ₽;
+- около 12,87 млн ₽ / 668 SKU не показывают подтверждённого документного движения более 365 дней;
+- B2B settlement exposure — около 2,51 млн ₽ / 15 документов;
+- ФОТ — около 79,6 млн ₽ в 30-месячном диагностическом периметре;
+- аренда — около 23,9 млн ₽;
+- основные операционные расходы — около 168,9 млн ₽;
+- налоговые денежные выплаты — около 45,4 млн ₽;
+- tax cash ↔ bank — около 96,7%;
+- bank ↔ DDS core — около 83,3%;
+- TSUM net reconciliation — около 93,3%.
 
-- индивидуальный пошив — главный доходный контур, около 83–84% используемого доходного периметра;
-- полного P&L компании пока нет;
-- полной unit-экономики индивидуального заказа нет;
-- товарная выручка с подтверждённой себестоимостью за 2025 год — около 72,9 млн ₽;
-- 1 339 SKU сопоставлены со складским остатком около 29,9 млн ₽;
-- 668 положительных остатков на сумму около 12,87 млн ₽ не показывают движения более 365 дней;
-- около 2,51 млн ₽ находится в открытом B2B-контуре;
-- базовый bank register включает около 4 933 операций;
-- owner flows являются встречными;
-- roster, договорные основания и выплаты расходятся;
-- налоговый cash виден лучше, чем начисленная налоговая нагрузка.
+Эти показатели не используются для более сильного вывода, чем позволяет источник.
 
 ---
 
-# 6. Что пакет не утверждает
+# 5. Что пакет сознательно не утверждает
 
-Без дополнительного подтверждения нельзя заявлять:
+Без построения целевой управленческой системы нельзя достоверно заявлять:
 
-- точную чистую прибыль;
+- точную чистую прибыль компании;
 - нормализованную EBITDA;
-- точный free cash flow;
-- гарантированную сумму экономии;
-- что весь долгий запас является неликвидом;
-- что ФОТ или численность завышены;
-- что все переводы собственнику являются дивидендами;
-- что кадровые gaps автоматически являются нарушением;
-- что канал убыточен по одной версии gross margin;
-- что налоговая модель неправомерна;
-- что потенциальный benefit уже реализован.
+- точный свободный денежный поток;
+- точную фактическую маржу индивидуального пошива;
+- что весь долгий остаток является неликвидом;
+- что вся сумма открытых B2B-расчётов будет взыскана;
+- что ФОТ завышен;
+- что все денежные переводы собственнику являются распределением прибыли;
+- что кадровые расхождения автоматически являются нарушением;
+- что выбранная налоговая модель гарантированно оптимальна;
+- что потенциальный резерв уже реализован.
 
 ---
 
-# 7. Главные решения собственника
+# 6. Рекомендуемый маршрут собственника
 
-1. Заказ — единица прибыли bespoke-контура.
-2. Complexity pricing, design freeze and change-order policy.
-3. Two-contour P&L, shared costs and management balance.
-4. 13-week forecast and cash waterfall.
-5. Owner-flow policy.
-6. WIP and working-capital owners.
-7. Free-stock check before purchase.
-8. Margin/material/capacity/cash gates.
-9. D+10 close.
-10. End-to-end RACI.
-11. Unified HR/payment roster.
-12. Tax scenario assessment.
-13. Methodology freeze before automation.
-14. Growth readiness gate before scaling.
-15. Evidence-based benefit recognition.
+1. `29_CLIENT_BOARD_REPORT.md` — итоговый управленческий диагноз.
+2. `28_CLIENT_DELIVERABLE_MASTER_REPORT.md` — полный доказательный отчёт.
+3. `41_FINANCIAL_IMPACT_BRIDGE_AND_VALUE_LEAKAGE_MAP.md` — как операционная проблема превращается в P&L, баланс и cash.
+4. `37_ECONOMICS_OF_COMPLEXITY_AND_BESPOKE_ORDER_PROFITABILITY.md` — экономика сложности.
+5. `38_TARGET_FINANCIAL_ARCHITECTURE_AND_MANAGEMENT_MODEL.md` — целевая финансовая система.
+6. `36_TAX_ECONOMICS_AND_STRUCTURAL_ASSESSMENT.md` — налоговая экономика.
+7. `11_RISK_AND_RESERVE_MATRIX.md` — risk-adjusted portfolio.
+8. `39_EXECUTIVE_PRIORITY_MATRIX_AND_DECISION_GATES.md` — управленческие решения.
+9. `30_STAGE2_SCOPE_DELIVERABLES_AND_ACCEPTANCE.md` — программа внедрения.
+10. `40_FINAL_CLIENT_REVIEW_AND_DECISION_WORKSHOP_PROTOCOL.md` — итоговая сессия решений.
 
 ---
 
-# 8. P0 перед FINAL CONTENT
+# 7. Финальный принцип
 
-Единственным контрольным источником является:
+> **Этап 1 должен доказать, почему возникает финансовое давление и какие изменения необходимы. Этап 2 должен доказать, что новая модель действительно работает и создаёт экономический эффект.**
 
-[`13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md`](13_OPEN_ITEMS_BEFORE_FINAL_FREEZE.md)
+Главный критерий дальнейшего роста YANINA:
 
-Критические направления:
-
-- bank deduplication;
-- transaction-level net owner cash flow;
-- единый cut-off и Final Metrics Register;
-- подтверждение bespoke denominator и model units;
-- НДС/RСВ Q2 2026 и ЕНС либо disclosed limitation;
-- B2B document closure;
-- HR/payment basis;
-- privacy review;
-- copyedit;
-- cross-document numerical scan.
-
----
-
-# 9. Итоговый принцип
-
-> Финальный пакет должен показать не объём обработанных файлов, а качество управленческого ответа: **где бизнес теряет стоимость, через какую финансовую строку возникает ущерб, какие решения можно принять сейчас, какие требуют пилота и как будет доказан результат Этапа 2.**
+> **каждый дополнительный рубль выручки должен иметь понятную маржу, потребность в капитале, срок возврата денег и одного владельца результата.**
