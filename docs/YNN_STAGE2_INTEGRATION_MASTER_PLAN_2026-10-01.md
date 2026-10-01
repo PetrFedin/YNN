@@ -311,3 +311,78 @@ Do not:
 11. YNN-INT-10 Quality/orchestration scale gate.
 
 **Implementation instruction:** Stage 2 is implementation and proof, not another diagnostic report.
+
+## Additional wave — management-data lineage and reproducible close snapshots
+
+### OpenLineage event model — ADOPT/CONDITIONAL
+
+Reference: https://github.com/OpenLineage/OpenLineage
+
+When Stage 2 pipelines move from a handful of manually managed files to recurring ingestion/transformation jobs, emit lineage events for:
+
+`source extract -> immutable landing -> validated staging -> management table -> close snapshot -> dashboard/report`
+
+Each lineage event should identify:
+
+- source dataset/version/hash;
+- job/run;
+- output dataset;
+- period/as-of date;
+- code/config version;
+- success/failure.
+
+OpenLineage is metadata about the pipeline, not the financial source of truth.
+
+### Marquez lineage UI — DEFER/ADAPT
+
+Reference: https://github.com/MarquezProject/marquez
+
+Use only when visual lineage becomes operationally useful to finance/analytics engineering.
+
+Marquez can display OpenLineage runs/datasets, but it must not become the place where business users edit classifications, order economics or cash commitments.
+
+For the first Stage 2 pilot, a simpler lineage ledger may be enough.
+
+### Apache Arrow / Parquet close snapshots — ADOPT
+
+Reference: https://github.com/apache/arrow
+
+Create immutable columnar snapshot packs for major management-close datasets:
+
+- classified cash transactions;
+- AR/AP aging;
+- open WIP;
+- inventory/working capital;
+- order economics;
+- dual P&L bridge;
+- benefit register.
+
+Each snapshot pack includes:
+
+- period/as-of;
+- schema version;
+- source hashes;
+- row counts/totals;
+- code/version;
+- generated_at;
+- manifest checksum.
+
+This makes D+10 close and later re-performance reproducible without depending on a mutable BI dashboard.
+
+### Management evidence pack
+
+For every completed close, produce a manifest linking:
+
+`input source hashes -> validated snapshot IDs -> reconciliation results -> management outputs -> sign-off status`
+
+The manifest is evidence and reproducibility metadata. It must not replace the underlying source tables/files.
+
+### Acceptance extension
+
+- a prior close can be reproduced from retained inputs + code/schema version;
+- lineage explains exactly which source contributed to each management dataset;
+- changing a source after close creates a new version rather than silently altering history;
+- Arrow/Parquet exports reconcile to authoritative management totals.
+
+**Sequencing:** snapshot packs can start with the first stable close; OpenLineage is added once recurring jobs exist; Marquez only when the lineage graph is large enough to justify a dedicated UI.
+
