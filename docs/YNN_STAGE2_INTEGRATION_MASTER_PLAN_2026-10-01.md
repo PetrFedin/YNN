@@ -386,3 +386,108 @@ The manifest is evidence and reproducibility metadata. It must not replace the u
 
 **Sequencing:** snapshot packs can start with the first stable close; OpenLineage is added once recurring jobs exist; Marquez only when the lineage graph is large enough to justify a dedicated UI.
 
+## Additional wave — receivables control, variance bridge and management action register
+
+This wave turns the Stage 2 management model into a weekly decision cadence around cash collection, forecast variance and accountable actions.
+
+### Receivables Collection Authority — ADOPT
+
+Create an operational AR collection register linked to invoices/orders/customers:
+
+- debtor/customer;
+- invoice/order;
+- original amount;
+- outstanding amount;
+- contractual due date;
+- expected receipt date;
+- collection status;
+- dispute/hold reason;
+- owner;
+- last contact;
+- next action/date;
+- promise-to-pay amount/date;
+- evidence/reference.
+
+The 13-week Cash Authority consumes the approved expected receipt, not a generic accounting due date.
+
+A promise-to-pay is a forecast input with its own confidence/status; it is not cash until received.
+
+### Payables Commitment Queue — ADOPT
+
+Strengthen purchase/AP control by separating:
+
+- unavoidable/contractual;
+- production-critical;
+- tax/payroll;
+- supplier relationship;
+- discretionary/postponable.
+
+Each commitment stores due date, amount, vendor, linked purchase/WIP/order, criticality, deferability, consequence and approval.
+
+13-week cash scenarios can then answer which payments are movable and which are not.
+
+### Forecast-vs-Actual Variance Bridge — ADOPT
+
+For each closed week/month, produce a deterministic bridge:
+
+forecast closing cash -> timing variance -> volume/revenue variance -> margin/cost variance -> unplanned purchase -> collection slippage -> owner/tax/financing flows -> actual closing cash
+
+Each material variance gets:
+
+- amount;
+- driver taxonomy;
+- source rows;
+- owner;
+- controllable/uncontrollable flag;
+- corrective action link.
+
+Do not use a catch-all other bucket beyond a defined materiality threshold without review.
+
+### Management Action Register — ADOPT
+
+Create one owner-facing action register linked to diagnostics and management outputs:
+
+- action;
+- problem/opportunity;
+- owner;
+- due date;
+- expected cash/P&L/WC effect;
+- dependencies;
+- status;
+- evidence;
+- realised effect link;
+- decision/close note.
+
+Flow:
+
+variance/working-capital/order-economics insight -> management decision -> action -> evidence -> Benefit Realisation Register
+
+This closes the current loop from analytics to execution.
+
+### Stress / Downside Scenario Pack — ADOPT
+
+Maintain explicit scenario assumptions rather than editing the base forecast:
+
+- delayed receipts;
+- lower sales;
+- margin erosion;
+- production delay/rework;
+- FX/supplier-cost shock;
+- tax/one-off payments;
+- inventory liquidation/recovery.
+
+Each scenario derives from the same authoritative base snapshot and stores assumption deltas + resulting liquidity runway/lowest cash point.
+
+Do not blend downside assumptions into the base case without an approved scenario change.
+
+### Additional acceptance
+
+- AR expected receipts reconcile to open receivables and actual receipts;
+- payment queue identifies source commitment and deferability;
+- every material cash/P&L variance resolves to source rows and a driver;
+- management actions have one owner and evidence of closure;
+- realised benefits cannot be claimed without an action/evidence link;
+- base/downside/upside scenarios remain separately versioned.
+
+**Sequencing:** stable 13-week cash + AR/AP ingestion -> collection/payables registers -> variance bridge -> action register -> stress pack -> Benefit Realisation feedback loop.
+
