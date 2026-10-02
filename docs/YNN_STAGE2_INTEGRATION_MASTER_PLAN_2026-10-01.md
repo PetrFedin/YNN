@@ -585,3 +585,109 @@ Do not allow automatic model adjustment to rewrite historical plans or approved 
 
 **Dependency note:** OR-Tools is a solver component; it must remain replaceable and cannot write YNN authoritative schedules directly.
 
+## Additional wave — process mining of couture flow and delay causes
+
+This wave uses the Stage 2 event history to diagnose where real orders spend time, wait or rework rather than relying on anecdotal impressions.
+
+### Process Event Log Authority — ADOPT
+
+Create a normalized event-log projection from existing operational facts.
+
+Event examples:
+
+- order created;
+- design/spec approved;
+- material ordered/received;
+- work stage started/completed;
+- fitting scheduled/held;
+- rework opened/closed;
+- external work sent/returned;
+- customer change;
+- final acceptance;
+- payment milestone;
+- order completed.
+
+Every event stores:
+
+- order/case ID;
+- activity;
+- timestamp;
+- actor/resource where appropriate;
+- source table/record;
+- stage/version;
+- event provenance.
+
+The projection is derived from authoritative Stage 2 tables; it is not a second operational workflow database.
+
+### PM4Py offline analysis — CONDITIONAL / ANALYTICAL SIDECAR
+
+Reference:
+
+https://github.com/process-intelligence-solutions/pm4py
+
+Use PM4Py for bounded analytical studies such as:
+
+- discovered process variants;
+- throughput time;
+- waiting time;
+- rework loops;
+- bottleneck transitions;
+- conformance against the agreed couture process;
+- comparison by complexity/urgency/order type.
+
+Because the verified upstream repository is AGPL-3.0, treat PM4Py as a separate analysis environment/tool unless licensing review approves another mode.
+
+### Planned-vs-Actual Process Conformance — ADOPT
+
+Compare actual event sequences with the intended operating model.
+
+Flag examples:
+
+- stage skipped;
+- fitting added unexpectedly;
+- material ordered after work should have started;
+- repeated rework loop;
+- long waiting state;
+- customer change after design freeze.
+
+A conformance deviation is a diagnostic signal, not automatically an employee/process failure.
+
+### Delay Cause Taxonomy — ADOPT
+
+Link waiting/rework segments to explicit causes:
+
+- material;
+- customer;
+- internal capacity;
+- quality/rework;
+- external contractor;
+- approval;
+- unclear specification;
+- scheduling;
+- other reviewed reason.
+
+This allows the process-mining output to feed the existing Management Action Register.
+
+### Process Improvement Evidence — ADOPT
+
+For a change initiative, compare before/after cohorts using:
+
+- median/percentile throughput;
+- waiting share;
+- rework count;
+- schedule adherence;
+- contribution per bottleneck hour.
+
+Do not claim causal effect without considering mix/season/complexity changes.
+
+### Additional acceptance
+
+- every process event resolves to an authoritative source row;
+- process mining can be reproduced from an exact event-log snapshot;
+- AGPL tool remains operationally isolated unless explicitly approved;
+- discovered variants never overwrite process/status authority;
+- improvement claims link to period/cohort/methodology;
+- findings can create Management Actions but not silently reconfigure operations.
+
+**Sequencing:** stable order/WIP event capture -> normalized process log -> descriptive throughput analysis -> conformance/rework studies -> management actions.
+
