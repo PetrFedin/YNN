@@ -491,3 +491,97 @@ Do not blend downside assumptions into the base case without an approved scenari
 
 **Sequencing:** stable 13-week cash + AR/AP ingestion -> collection/payables registers -> variance bridge -> action register -> stress pack -> Benefit Realisation feedback loop.
 
+## Additional wave — finite-capacity production planning and promise-date simulation
+
+This wave turns the WIP Digital Twin into a decision tool for couture/atelier delivery commitments.
+
+### Finite-capacity scheduling engine — ADAPT
+
+Reference: https://github.com/google/or-tools
+
+Use OR-Tools as a **scenario solver**, not the production authority.
+
+Inputs come from YNN authoritative tables:
+
+- open orders;
+- operation/stage sequence;
+- estimated remaining effort;
+- required skill/resource;
+- staff/resource calendars;
+- fitting/customer dependencies;
+- material readiness;
+- fixed deadlines;
+- urgency/priority;
+- rework;
+- external-work lead times.
+
+Output proposals:
+
+- feasible start/finish per operation;
+- bottleneck load;
+- lateness risk;
+- idle/waiting time;
+- alternative resource assignment;
+- impact of a rush order/new order;
+- next feasible promise date.
+
+Planner/production manager approves the selected scenario before it becomes the operating plan.
+
+### Capacity Calendar Authority — ADOPT
+
+Build a native weekly capacity table:
+
+- resource/person/team;
+- skill;
+- available hours;
+- leave/absence;
+- non-order work;
+- fitting/sample time;
+- committed production time;
+- remaining capacity.
+
+Do not infer 100% productive capacity from payroll hours.
+
+### Promise-date Simulator — ADOPT
+
+When a new couture order or deadline change is considered:
+
+current committed plan + new demand -> solver scenario -> earliest feasible completion + affected orders + bottleneck/cash impact
+
+Display at least:
+
+- feasible/at-risk;
+- earliest realistic date;
+- orders displaced;
+- incremental overtime/external-work assumption;
+- WIP/cash-to-complete consequence.
+
+The simulator proposes a commercial promise; the final customer commitment remains a human decision.
+
+### Schedule-vs-Actual Learning Loop — ADOPT
+
+After each week/order:
+
+- planned operation duration;
+- actual duration;
+- waiting/material delay;
+- rework;
+- fitting/customer delay;
+- external supplier delay.
+
+Use this history to update planning assumptions deliberately.
+
+Do not allow automatic model adjustment to rewrite historical plans or approved customer commitments.
+
+### Additional acceptance
+
+- solver inputs reconcile to WIP/capacity authoritative records;
+- every proposed schedule stores input snapshot + solver config/version;
+- manual override is explicit and reasoned;
+- promise-date output shows displaced work/bottleneck consequences;
+- actual-vs-plan feedback updates future assumptions without rewriting history.
+
+**Sequencing:** WIP Digital Twin + capacity data first -> OR-Tools scenario engine -> promise-date simulator -> weekly actual-learning loop.
+
+**Dependency note:** OR-Tools is a solver component; it must remain replaceable and cannot write YNN authoritative schedules directly.
+
